@@ -214,7 +214,7 @@
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
       render();
-      scheduleReload(data.updated_at);
+      scheduleReload(data.updated_at_iso);
     } catch (e) {
       document.getElementById("table-wrap").innerHTML =
         `<div class="state-msg">Could not load inventory.json. Make sure the scraper has run and the file is in the same folder.</div>`;
