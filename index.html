@@ -141,6 +141,20 @@
 
     .dash { color: var(--gray-300); }
 
+    .badge-new {
+      display: inline-block;
+      font-size: 0.65rem;
+      font-weight: 500;
+      background: #fff3cd;
+      color: #856404;
+      border: 1px solid #ffc107;
+      border-radius: 4px;
+      padding: 2px 6px;
+      margin-left: 6px;
+      vertical-align: middle;
+      letter-spacing: 0.03em;
+    }
+
     .state-msg { padding: 4rem 2rem; text-align: center; color: var(--gray-500); font-size: 0.95rem; }
 
     .spinner {
@@ -165,7 +179,7 @@
   <h1>Available Inventory</h1>
   <div class="refresh-info">
     <div id="updated-at">Loading...</div>
-    <div id="time-ago"></div>
+    <div id="countdown-display" style="font-size: 0.8rem; opacity: 0.7; margin-top: 2px;"></div>
   </div>
 </header>
 
@@ -177,7 +191,6 @@
     <input type="search" id="search" placeholder="Search items..." aria-label="Search inventory" />
   </div>
   <span class="count-badge" id="count-badge"></span>
-  <button id="refresh-btn" onclick="loadData()" style="margin-left:auto; padding: 0.4rem 0.9rem; font-family: inherit; font-size: 0.8rem; background: transparent; border: 1px solid #c5c2b8; border-radius: 6px; color: #7a7769; cursor: pointer;">↻ Refresh now</button>
 </div>
 
 <div class="table-wrap" id="table-wrap">
@@ -192,18 +205,14 @@
   let sortCol  = "Description";
   let sortDir  = 1;
   let searchVal = "";
-  let lastScrapedStr = null;
   let reloadInterval;
-  let timeAgoInterval;
 
   async function loadData() {
     try {
       const res  = await fetch(DATA_FILE + "?t=" + Date.now());
       const data = await res.json();
       allItems   = data.items || [];
-      lastScrapedStr = data.updated_at || null;
-      document.getElementById("updated-at").textContent = "Last updated: " + (lastScrapedStr || "unknown");
-      updateTimeAgo();
+      document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
       render();
       scheduleReload();
     } catch (e) {
@@ -260,10 +269,12 @@
       const qtyClass = qty <= 3 ? "qty-num qty-low" : "qty-num";
       const feat     = (item["Feature Type"] || "").trim();
       const featHtml = feat ? `<span class="badge-free">${feat}</span>` : `<span class="dash">—</span>`;
+      const isNew = item["new_since"] && ((Date.now() - new Date(item["new_since"]).getTime()) < 24 * 60 * 60 * 1000);
+      const newBadge = isNew ? `<span class="badge-new">New</span>` : "";
       return `<tr>
         <td class="col-qty"><span class="${qtyClass}">${qty}</span></td>
         <td class="col-item"><span class="item-no">${item["Item No."] || ""}</span></td>
-        <td class="col-desc">${item["Description"] || ""}</td>
+        <td class="col-desc">${item["Description"] || ""}${newBadge}</td>
         <td class="col-uom">${item["UOM"] || ""}</td>
         <td class="col-pack">${item["Pack Size"] || ""}</td>
         <td class="col-feat">${featHtml}</td>
@@ -283,20 +294,22 @@
     });
   }
 
-  function updateTimeAgo() {
-    if (!lastScrapedStr) return;
-    const scraped = new Date(lastScrapedStr);
-    if (isNaN(scraped)) return;
-    const mins = Math.floor((Date.now() - scraped) / 60000);
-    const txt = mins < 1 ? "just now" : mins === 1 ? "1 minute ago" : mins + " minutes ago";
-    document.getElementById("time-ago").textContent = "Data updated " + txt;
-  }
-
   function scheduleReload() {
     clearInterval(reloadInterval);
-    clearInterval(timeAgoInterval);
     reloadInterval = setInterval(loadData, REFRESH_MS);
-    timeAgoInterval = setInterval(updateTimeAgo, 60000);
+    startCountdown();
+  }
+
+  function startCountdown() {
+    clearInterval(window._countdownInterval);
+    let remaining = REFRESH_MS;
+    window._countdownInterval = setInterval(() => {
+      remaining -= 1000;
+      if (remaining <= 0) { remaining = REFRESH_MS; }
+      const m = Math.floor(remaining / 60000);
+      const s = Math.floor((remaining % 60000) / 1000).toString().padStart(2, "0");
+      document.getElementById("countdown-display").textContent = "Next update in " + m + ":" + s;
+    }, 1000);
   }
 
   document.getElementById("search").addEventListener("input", e => {
