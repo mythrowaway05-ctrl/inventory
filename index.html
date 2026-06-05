@@ -24,7 +24,7 @@
       --sans:      'DM Sans', sans-serif;
     }
 
-    body { font-family: var(--sans); background: var(--gray-50); color: var(--gray-800); min-height: 100vh; }
+    body { font-family: var(--sans); background: var(--gray-50); color: var(--gray-800); min-height: 100vh; display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
 
     header {
       background: var(--green);
@@ -73,7 +73,7 @@
 
     .count-badge { font-size: 0.8rem; font-family: var(--mono); color: var(--gray-500); white-space: nowrap; }
 
-    .table-wrap { padding: 1.5rem 2rem 3rem; overflow-x: auto; }
+    .table-wrap { padding: 1.5rem 2rem 3rem; overflow-x: auto; overflow-y: auto; flex: 1; }
 
     table {
       width: 100%;
@@ -87,6 +87,7 @@
 
     thead { background: var(--gray-50); border-bottom: 2px solid var(--gray-300); }
 
+    th { position: sticky; top: 0; z-index: 10; }
     th {
       padding: 0.75rem 0.875rem;
       text-align: left;
