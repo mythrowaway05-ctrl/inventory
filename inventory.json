@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 05, 2026 at 12:37 PM",
-  "updated_at_iso": "2026-06-05T12:37:47.700882",
-  "item_count": 129,
+  "updated_at": "June 05, 2026 at 12:52 PM",
+  "updated_at_iso": "2026-06-05T12:52:47.729937",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "182",
@@ -254,7 +254,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "221",
+      "Available Qty.": "220",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -354,16 +354,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "1142",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D15-421P",
       "Description": "Chicken Wings",
@@ -371,6 +361,16 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "21",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "1141",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -394,16 +394,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "458",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "121",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -411,6 +401,16 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "458",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -424,7 +424,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "549",
+      "Available Qty.": "547",
       "Item No.": "D25-1850P",
       "Description": "Cookies, Otis Spunkmeyer Thaw and Serve",
       "UOM": "CS",
@@ -474,22 +474,22 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "1725",
-      "Item No.": "D29-099P",
-      "Description": "Dough, Cinnamon Roll",
-      "UOM": "CS",
-      "Pack Size": "100/3.0 oz",
-      "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "44",
       "Item No.": "D29-097P",
       "Description": "Dough, Cinnamon Roll",
       "UOM": "CS",
       "Pack Size": "200/1.5 oz",
       "Feature Type": "Free Item",
+      "Gross Weight": "23",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "1723",
+      "Item No.": "D29-099P",
+      "Description": "Dough, Cinnamon Roll",
+      "UOM": "CS",
+      "Pack Size": "100/3.0 oz",
+      "Feature Type": "",
       "Gross Weight": "23",
       "new_since": "2026-06-05T09:38:49.632938"
     },
@@ -554,7 +554,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "277",
+      "Available Qty.": "276",
       "Item No.": "D25-349P",
       "Description": "Fries, Steak Cut",
       "UOM": "CS",
@@ -754,6 +754,16 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
+      "Available Qty.": "32",
+      "Item No.": "D07-323P",
+      "Description": "Milk, 2% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-06-05T12:52:47.728610"
+    },
+    {
       "Available Qty.": "111",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
@@ -764,7 +774,7 @@
       "new_since": "2026-06-05T10:22:47.261811"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "19",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -874,7 +884,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "44",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -894,7 +904,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "79",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -974,7 +984,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "219",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1194,7 +1204,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "280",
+      "Available Qty.": "279",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -1234,7 +1244,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "14",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
@@ -1254,7 +1264,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "370",
+      "Available Qty.": "369",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -1264,7 +1274,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "365",
+      "Available Qty.": "364",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
