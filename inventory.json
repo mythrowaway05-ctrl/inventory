@@ -1,6 +1,6 @@
 {
-  "updated_at": "June 05, 2026 at 10:07 AM",
-  "updated_at_iso": "2026-06-05T10:07:47.341396",
+  "updated_at": "June 05, 2026 at 10:22 AM",
+  "updated_at_iso": "2026-06-05T10:22:47.262977",
   "item_count": 128,
   "items": [
     {
@@ -274,7 +274,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -324,7 +324,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "5",
       "Item No.": "D15-428P",
       "Description": "Chicken Thighs w/ Back and Drumstick 1/40-50 lb",
       "UOM": "CS",
@@ -344,7 +344,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-775P",
       "Description": "Chicken Wing Sections",
       "UOM": "CS",
@@ -354,7 +354,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D15-421P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -604,16 +604,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "128",
-      "Item No.": "D07-984P",
-      "Description": "Half and Half 348/.375 oz",
-      "UOM": "CS",
-      "Pack Size": "348/.375 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "1631",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
@@ -664,7 +654,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D14-022P",
       "Description": "Juice, Cherry Apple",
       "UOM": "CS",
@@ -714,7 +704,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D03-541P",
       "Description": "Lemonade 12/11 oz",
       "UOM": "CS",
@@ -762,6 +752,16 @@
       "Feature Type": "",
       "Gross Weight": "28",
       "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "116",
+      "Item No.": "D07-607P",
+      "Description": "Milk, 2% Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-06-05T10:22:47.261811"
     },
     {
       "Available Qty.": "388",
@@ -864,7 +864,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -1194,7 +1194,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "94",
       "Item No.": "D28-1213P",
       "Description": "Squash, Yellow",
       "UOM": "CS",
@@ -1274,7 +1274,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "26",
       "Item No.": "D28-984P",
       "Description": "Zucchini",
       "UOM": "CS",
