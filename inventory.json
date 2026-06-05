@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 05, 2026 at 04:22 PM",
-  "updated_at_iso": "2026-06-05T16:22:48.769080",
-  "item_count": 131,
+  "updated_at": "June 05, 2026 at 04:37 PM",
+  "updated_at_iso": "2026-06-05T16:37:48.804990",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "182",
@@ -104,7 +104,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "823",
+      "Available Qty.": "820",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -134,7 +134,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "468",
+      "Available Qty.": "465",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -194,7 +194,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "233",
+      "Available Qty.": "228",
       "Item No.": "P15-088P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -244,7 +244,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "13",
       "Item No.": "D22-119P",
       "Description": "Cat Treats 5/6.35 oz",
       "UOM": "CS",
@@ -264,7 +264,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "36",
       "Item No.": "P15-085P",
       "Description": "Chicken Breast Fillets, Breaded",
       "UOM": "CS",
@@ -294,7 +294,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "423",
+      "Available Qty.": "413",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -354,16 +354,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "1141",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D15-421P",
       "Description": "Chicken Wings",
@@ -371,6 +361,16 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "21",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "1141",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -394,16 +394,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "458",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "121",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -411,6 +401,16 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "458",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -424,7 +424,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "545",
+      "Available Qty.": "540",
       "Item No.": "D25-1850P",
       "Description": "Cookies, Otis Spunkmeyer Thaw and Serve",
       "UOM": "CS",
@@ -464,7 +464,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "147",
       "Item No.": "D29-026P",
       "Description": "Dough, Biscuit",
       "UOM": "CS",
@@ -474,22 +474,22 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
+      "Available Qty.": "33",
+      "Item No.": "D29-097P",
+      "Description": "Dough, Cinnamon Roll",
+      "UOM": "CS",
+      "Pack Size": "200/1.5 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "23",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
       "Available Qty.": "1722",
       "Item No.": "D29-099P",
       "Description": "Dough, Cinnamon Roll",
       "UOM": "CS",
       "Pack Size": "100/3.0 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
-      "Available Qty.": "43",
-      "Item No.": "D29-097P",
-      "Description": "Dough, Cinnamon Roll",
-      "UOM": "CS",
-      "Pack Size": "200/1.5 oz",
-      "Feature Type": "Free Item",
       "Gross Weight": "23",
       "new_since": "2026-06-05T09:38:49.632938"
     },
@@ -519,7 +519,7 @@
       "Description": "Empty 16oz Plastic Bottle No Lid",
       "UOM": "CS",
       "Pack Size": "1/84 ct",
-      "Feature Type": "",
+      "Feature Type": "Free Item",
       "Gross Weight": "15",
       "new_since": "2026-06-05T09:38:49.632938"
     },
@@ -704,16 +704,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D03-541P",
-      "Description": "Lemonade 12/11 oz",
-      "UOM": "CS",
-      "Pack Size": "12/11 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "346",
       "Item No.": "P06-226P",
       "Description": "Mac and Cheese Pouch",
@@ -774,7 +764,7 @@
       "new_since": "2026-06-05T10:22:47.261811"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "86",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -984,7 +974,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "1138",
+      "Available Qty.": "1136",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1024,7 +1014,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "837",
+      "Available Qty.": "827",
       "Item No.": "D25-2003P",
       "Description": "Protein Chips",
       "UOM": "CS",
@@ -1034,7 +1024,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "2060",
+      "Available Qty.": "2055",
       "Item No.": "D25-2004P",
       "Description": "Protein Popcorn, White Cheddar",
       "UOM": "CS",
@@ -1049,7 +1039,7 @@
       "Description": "Pump Top Goes with D01-362P Bottle",
       "UOM": "CS",
       "Pack Size": "1/140 ct",
-      "Feature Type": "",
+      "Feature Type": "Free Item",
       "Gross Weight": "30",
       "new_since": "2026-06-05T09:38:49.632938"
     },
@@ -1144,7 +1134,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "727",
+      "Available Qty.": "725",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -1224,7 +1214,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "73",
       "Item No.": "D28-1213P",
       "Description": "Squash, Yellow",
       "UOM": "CS",
@@ -1304,7 +1294,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D28-984P",
       "Description": "Zucchini",
       "UOM": "CS",
