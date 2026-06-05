@@ -1,5 +1,5 @@
 {
-  "updated_at": "June 05, 2026 at 02:52 AM",
+  "updated_at": "June 05, 2026 at 03:07 AM",
   "item_count": 129,
   "items": [
     {
@@ -327,15 +327,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D15-421P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
       "Available Qty.": "1144",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -343,6 +334,15 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D15-421P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "394",
@@ -363,15 +363,6 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "121",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "458",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -379,6 +370,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "121",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "725",
@@ -633,15 +633,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "255",
-      "Item No.": "P26-023P",
-      "Description": "Ketchup",
-      "UOM": "CS",
-      "Pack Size": "16/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "28"
-    },
-    {
       "Available Qty.": "63",
       "Item No.": "D26-905P",
       "Description": "Ketchup",
@@ -649,6 +640,15 @@
       "Pack Size": "1500/9 g",
       "Feature Type": "Free Item",
       "Gross Weight": "32"
+    },
+    {
+      "Available Qty.": "255",
+      "Item No.": "P26-023P",
+      "Description": "Ketchup",
+      "UOM": "CS",
+      "Pack Size": "16/24 oz",
+      "Feature Type": "",
+      "Gross Weight": "28"
     },
     {
       "Available Qty.": "41",
