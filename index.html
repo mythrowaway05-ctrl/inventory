@@ -300,12 +300,12 @@
     startCountdown(updatedAt);
   }
 
-  function startCountdown() {
+  function startCountdown(isoTimestamp) {
     clearInterval(window._countdownInterval);
-    let remaining = REFRESH_MS;
+    const lastRun = isoTimestamp ? new Date(isoTimestamp) : new Date();
     window._countdownInterval = setInterval(() => {
-      remaining -= 1000;
-      if (remaining <= 0) { remaining = REFRESH_MS; }
+      const elapsed = Date.now() - lastRun.getTime();
+      const remaining = Math.max(REFRESH_MS - (elapsed % REFRESH_MS), 0);
       const m = Math.floor(remaining / 60000);
       const s = Math.floor((remaining % 60000) / 1000).toString().padStart(2, "0");
       document.getElementById("countdown-display").textContent = "Next update in " + m + ":" + s;
