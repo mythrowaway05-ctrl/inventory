@@ -214,7 +214,7 @@
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
       render();
-      scheduleReload();
+      scheduleReload(data.updated_at);
     } catch (e) {
       document.getElementById("table-wrap").innerHTML =
         `<div class="state-msg">Could not load inventory.json. Make sure the scraper has run and the file is in the same folder.</div>`;
@@ -294,10 +294,10 @@
     });
   }
 
-  function scheduleReload() {
+  function scheduleReload(updatedAt) {
     clearInterval(reloadInterval);
     reloadInterval = setInterval(loadData, REFRESH_MS);
-    startCountdown();
+    startCountdown(updatedAt);
   }
 
   function startCountdown() {
