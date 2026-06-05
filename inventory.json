@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 05, 2026 at 02:52 PM",
-  "updated_at_iso": "2026-06-05T14:52:50.269446",
-  "item_count": 130,
+  "updated_at": "June 05, 2026 at 03:07 PM",
+  "updated_at_iso": "2026-06-05T15:07:51.031768",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "182",
@@ -274,7 +274,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -354,16 +354,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D15-421P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "1141",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -371,6 +361,16 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D15-421P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "21",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -414,7 +414,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "725",
+      "Available Qty.": "723",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -444,7 +444,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "396",
+      "Available Qty.": "393",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -574,7 +574,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "720",
+      "Available Qty.": "718",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -774,6 +774,16 @@
       "new_since": "2026-06-05T10:22:47.261811"
     },
     {
+      "Available Qty.": "96",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-06-05T15:07:51.029262"
+    },
+    {
       "Available Qty.": "19",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
@@ -924,7 +934,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "804",
+      "Available Qty.": "801",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -934,7 +944,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "4267",
+      "Available Qty.": "4261",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -944,7 +954,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "219",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -1094,7 +1104,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "641",
+      "Available Qty.": "638",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1134,7 +1144,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "735",
+      "Available Qty.": "727",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
