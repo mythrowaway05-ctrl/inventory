@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 06, 2026 at 11:07 AM",
-  "updated_at_iso": "2026-06-06T11:07:50.220332",
-  "item_count": 139,
+  "updated_at": "June 06, 2026 at 12:07 PM",
+  "updated_at_iso": "2026-06-06T12:07:49.770774",
+  "item_count": 135,
   "items": [
     {
       "Available Qty.": "178",
@@ -304,15 +304,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-421P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
       "Available Qty.": "1139",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -320,6 +311,15 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-421P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "379",
@@ -715,26 +715,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1001P",
-      "Description": "Milk, 2% 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-06-06T03:07:51.775518"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-323P",
-      "Description": "Milk, 2% 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-06-05T12:52:47.728610"
     },
     {
       "Available Qty.": "104",
@@ -1133,24 +1113,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "79",
-      "Item No.": "P06-142P",
-      "Description": "Soup, Cream of Chicken",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "173",
-      "Item No.": "P06-009P",
-      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "21"
     },
     {
       "Available Qty.": "227",
