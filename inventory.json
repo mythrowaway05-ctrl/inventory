@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 05, 2026 at 08:52 PM",
-  "updated_at_iso": "2026-06-05T20:52:47.601864",
-  "item_count": 129,
+  "updated_at": "June 05, 2026 at 09:07 PM",
+  "updated_at_iso": "2026-06-05T21:07:47.622581",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "182",
@@ -354,16 +354,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-421P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "1139",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -371,6 +361,16 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-421P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "21",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -394,16 +394,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "121",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
       "Available Qty.": "458",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -411,6 +401,16 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15",
+      "new_since": "2026-06-05T09:38:49.632938"
+    },
+    {
+      "Available Qty.": "121",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -451,16 +451,6 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26",
-      "new_since": "2026-06-05T09:38:49.632938"
-    },
-    {
-      "Available Qty.": "18",
-      "Item No.": "D25-1912P",
-      "Description": "Crackers 4/2 lb",
-      "UOM": "CS",
-      "Pack Size": "4/2 lb",
-      "Feature Type": "",
-      "Gross Weight": "10",
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
@@ -1134,7 +1124,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "725",
+      "Available Qty.": "705",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
