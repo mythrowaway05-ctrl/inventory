@@ -1,6 +1,6 @@
 {
-  "updated_at": "June 06, 2026 at 04:07 AM",
-  "updated_at_iso": "2026-06-06T04:07:54.433679",
+  "updated_at": "June 06, 2026 at 04:17 AM",
+  "updated_at_iso": "2026-06-06T04:17:29.365924",
   "item_count": 167,
   "items": [
     {
@@ -74,7 +74,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "842",
+      "Available Qty.": "838",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -134,7 +134,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "461",
+      "Available Qty.": "459",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -414,7 +414,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -464,7 +464,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "21",
       "Item No.": "D03-017P",
       "Description": "Coffee, Ground",
       "UOM": "CS",
@@ -504,7 +504,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "540",
+      "Available Qty.": "538",
       "Item No.": "D25-1850P",
       "Description": "Cookies, Otis Spunkmeyer Thaw and Serve",
       "UOM": "CS",
@@ -554,7 +554,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "141",
       "Item No.": "D29-026P",
       "Description": "Dough, Biscuit",
       "UOM": "CS",
@@ -564,7 +564,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "28",
       "Item No.": "D29-097P",
       "Description": "Dough, Cinnamon Roll",
       "UOM": "CS",
@@ -654,7 +654,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "273",
+      "Available Qty.": "270",
       "Item No.": "D25-349P",
       "Description": "Fries, Steak Cut",
       "UOM": "CS",
@@ -734,7 +734,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "1631",
+      "Available Qty.": "1626",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -804,6 +804,16 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D14-122P",
+      "Description": "Juice, Fruit Medley 6/46 oz",
+      "UOM": "CS",
+      "Pack Size": "6/46 oz",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-06-06T03:07:51.775518"
+    },
+    {
       "Available Qty.": "97",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
@@ -814,7 +824,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "19",
       "Item No.": "D14-114P",
       "Description": "Juice, Tomato",
       "UOM": "CS",
@@ -884,7 +894,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "1139",
+      "Available Qty.": "1140",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -914,7 +924,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "19",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -924,7 +934,7 @@
       "new_since": "2026-06-05T12:52:47.728610"
     },
     {
-      "Available Qty.": "106",
+      "Available Qty.": "104",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -934,17 +944,7 @@
       "new_since": "2026-06-05T10:22:47.261811"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-06-05T15:07:51.029262"
-    },
-    {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -1134,7 +1134,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "218",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -1154,7 +1154,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "448",
+      "Available Qty.": "445",
       "Item No.": "D10-114P",
       "Description": "Plums, Pitted",
       "UOM": "CS",
@@ -1284,7 +1284,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "827",
+      "Available Qty.": "826",
       "Item No.": "D25-2003P",
       "Description": "Protein Chips",
       "UOM": "CS",
@@ -1344,7 +1344,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "330",
+      "Available Qty.": "329",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1574,7 +1574,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "51",
       "Item No.": "D28-1213P",
       "Description": "Squash, Yellow",
       "UOM": "CS",
