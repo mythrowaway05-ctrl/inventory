@@ -168,6 +168,34 @@
     }
     @keyframes spin { to { transform: rotate(360deg); } }
 
+    .new-section { margin: 1.25rem 2rem 0; }
+    .new-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem; }
+    .new-title { font-size: 0.95rem; font-weight: 500; color: var(--gray-800); display: flex; align-items: center; gap: 8px; }
+    .new-count { font-size: 0.75rem; background: #E6F1FB; color: #185FA5; border: 1px solid #85B7EB; border-radius: 20px; padding: 2px 10px; font-weight: 500; }
+    .collapse-btn { font-size: 0.75rem; color: var(--gray-500); background: none; border: 1px solid var(--gray-300); border-radius: 6px; padding: 3px 10px; cursor: pointer; font-family: var(--sans); }
+    .new-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
+    .new-card { border-radius: 8px; padding: 0.75rem 1rem; }
+    .age-0 { background: #E6F1FB; border: 1px solid #378ADD; }
+    .age-1 { background: #EDF5FC; border: 1px solid #85B7EB; }
+    .age-2 { background: #F4F9FE; border: 1px solid #B5D4F4; }
+    .age-3 { background: #F9FCFE; border: 1px solid #d0e6f7; }
+    .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px; }
+    .card-desc { font-size: 0.875rem; font-weight: 500; color: var(--gray-800); }
+    .card-time { font-size: 0.7rem; color: var(--gray-500); font-family: var(--mono); white-space: nowrap; margin-left: 8px; }
+    .card-detail { font-size: 0.75rem; color: var(--gray-500); display: flex; gap: 12px; margin-top: 4px; flex-wrap: wrap; }
+    .card-qty { font-family: var(--mono); font-weight: 500; color: var(--green); }
+    .age-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 6px; flex-shrink: 0; margin-top: 5px; }
+    .dot-0 { background: #378ADD; }
+    .dot-1 { background: #85B7EB; }
+    .dot-2 { background: #B5D4F4; }
+    .dot-3 { background: #d0e6f7; }
+    .legend { display: flex; gap: 16px; margin-bottom: 0.75rem; flex-wrap: wrap; }
+    .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.72rem; color: var(--gray-500); }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+    .new-empty { font-size: 0.875rem; color: var(--gray-500); padding: 1rem 0; }
+    .new-divider { border: none; border-top: 1px solid var(--gray-300); margin: 1.25rem 2rem 0; }
+    .all-label { padding: 0.75rem 2rem 0.25rem; font-size: 0.72rem; color: var(--gray-500); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; }
+
     @media (max-width: 768px) {
       header {
         flex-direction: column;
@@ -213,12 +241,15 @@
   <span class="count-badge" id="count-badge"></span>
 </div>
 
+<div class="new-section" id="new-section"></div>
+<hr class="new-divider" id="new-divider" style="display:none;">
+<div class="all-label" id="all-label" style="display:none;"></div>
 <div class="table-wrap" id="table-wrap">
   <div class="state-msg"><div class="spinner"></div><br>Loading inventory...</div>
 </div>
 
 <script>
-  const REFRESH_MS = 15 * 60 * 1000;
+  const REFRESH_MS = 60 * 60 * 1000;
   const DATA_FILE  = "inventory.json";
 
   let allItems = [];
@@ -228,12 +259,86 @@
   let reloadInterval;
   let lastScrapedIso = null;
 
+  function renderNewItems(items) {
+    const newItems = items.filter(item => item.new_since);
+    const section = document.getElementById("new-section");
+    const divider = document.getElementById("new-divider");
+    const allLabel = document.getElementById("all-label");
+
+    if (newItems.length === 0) {
+      section.innerHTML = `<div class="new-header"><div class="new-title">New items <span class="new-count">0 in last 24 hrs</span></div></div><div class="new-empty">Nothing new yet — check back later!</div>`;
+      divider.style.display = "block";
+      allLabel.style.display = "block";
+      allLabel.textContent = "All items (" + items.length + ")";
+      return;
+    }
+
+    const now = Date.now();
+    function getAge(iso) {
+      const hrs = (now - new Date(iso).getTime()) / 3600000;
+      if (hrs < 2) return { cls: "age-0", dot: "dot-0", label: Math.round(hrs * 60) + " min ago" };
+      if (hrs < 6) return { cls: "age-1", dot: "dot-1", label: Math.round(hrs) + " hrs ago" };
+      if (hrs < 12) return { cls: "age-2", dot: "dot-2", label: Math.round(hrs) + " hrs ago" };
+      return { cls: "age-3", dot: "dot-3", label: Math.round(hrs) + " hrs ago" };
+    }
+
+    let collapsed = false;
+
+    function render() {
+      const cards = newItems.map(item => {
+        const age = getAge(item.new_since);
+        return `<div class="new-card ${age.cls}">
+          <div class="card-top">
+            <div style="display:flex;align-items:flex-start;gap:6px">
+              <span class="age-dot ${age.dot}"></span>
+              <span class="card-desc">${item["Description"] || ""}</span>
+            </div>
+            <span class="card-time">${age.label}</span>
+          </div>
+          <div class="card-detail">
+            <span>${item["Item No."] || ""}</span>
+            <span>${item["Pack Size"] || ""}</span>
+            <span class="card-qty">${item["Available Qty."] || "0"} avail.</span>
+          </div>
+        </div>`;
+      }).join("");
+
+      section.innerHTML = `
+        <div class="new-header">
+          <div class="new-title">
+            ✦ New items
+            <span class="new-count">${newItems.length} added in the last 24 hrs</span>
+          </div>
+          <button class="collapse-btn" id="collapse-btn">${collapsed ? "Expand" : "Collapse"}</button>
+        </div>
+        <div class="legend">
+          <span class="legend-item"><span class="legend-dot" style="background:#378ADD"></span>Under 2 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#85B7EB"></span>2–6 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#B5D4F4"></span>6–12 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#d0e6f7"></span>12–24 hours</span>
+        </div>
+        ${collapsed ? "" : `<div class="new-grid">${cards}</div>`}
+      `;
+
+      document.getElementById("collapse-btn").addEventListener("click", () => {
+        collapsed = !collapsed;
+        render();
+      });
+    }
+
+    render();
+    divider.style.display = "block";
+    allLabel.style.display = "block";
+    allLabel.textContent = "All items (" + items.length + ")";
+  }
+
   async function loadData() {
     try {
       const res  = await fetch(DATA_FILE + "?t=" + Date.now());
       const data = await res.json();
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
+      renderNewItems(allItems);
       render();
       scheduleReload(data.updated_at_iso);
     } catch (e) {
