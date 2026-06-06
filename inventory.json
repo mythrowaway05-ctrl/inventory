@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 06, 2026 at 03:52 AM",
-  "updated_at_iso": "2026-06-06T03:52:53.936904",
-  "item_count": 168,
+  "updated_at": "June 06, 2026 at 04:07 AM",
+  "updated_at_iso": "2026-06-06T04:07:54.433679",
+  "item_count": 167,
   "items": [
     {
       "Available Qty.": "182",
@@ -804,16 +804,6 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D14-122P",
-      "Description": "Juice, Fruit Medley 6/46 oz",
-      "UOM": "CS",
-      "Pack Size": "6/46 oz",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-06-06T03:07:51.775518"
-    },
-    {
       "Available Qty.": "97",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
@@ -874,7 +864,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D06-332P",
       "Description": "Mac and cheese 12/6 oz",
       "UOM": "CS",
@@ -1304,7 +1294,7 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "2045",
+      "Available Qty.": "2040",
       "Item No.": "D25-2004P",
       "Description": "Protein Popcorn, White Cheddar",
       "UOM": "CS",
@@ -1424,16 +1414,6 @@
       "new_since": "2026-06-05T09:38:49.632938"
     },
     {
-      "Available Qty.": "71",
-      "Item No.": "D03-069P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "32",
-      "new_since": "2026-06-06T03:07:51.775518"
-    },
-    {
       "Available Qty.": "164",
       "Item No.": "D03-590P",
       "Description": "Soda",
@@ -1441,6 +1421,16 @@
       "Pack Size": "24/16.9 oz",
       "Feature Type": "Discounted Item",
       "Gross Weight": "31",
+      "new_since": "2026-06-06T03:07:51.775518"
+    },
+    {
+      "Available Qty.": "71",
+      "Item No.": "D03-069P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
