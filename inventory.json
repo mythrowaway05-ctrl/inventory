@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 06, 2026 at 12:07 PM",
-  "updated_at_iso": "2026-06-06T12:07:49.770774",
-  "item_count": 135,
+  "updated_at": "June 06, 2026 at 01:07 PM",
+  "updated_at_iso": "2026-06-06T13:07:50.290370",
+  "item_count": 134,
   "items": [
     {
       "Available Qty.": "178",
@@ -304,15 +304,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1139",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "0",
       "Item No.": "D15-421P",
       "Description": "Chicken Wings",
@@ -320,6 +311,15 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "1139",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "379",
@@ -404,7 +404,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "9",
       "Item No.": "D25-1915P",
       "Description": "Crackers 4/12 oz",
       "UOM": "CS",
@@ -496,7 +496,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "270",
+      "Available Qty.": "265",
       "Item No.": "D25-349P",
       "Description": "Fries, Steak Cut",
       "UOM": "CS",
@@ -936,7 +936,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "466",
+      "Available Qty.": "456",
       "Item No.": "D25-662P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -946,7 +946,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "59",
       "Item No.": "D25-1734P",
       "Description": "Popcorn 12/4.75 oz",
       "UOM": "CS",
@@ -956,7 +956,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "106",
       "Item No.": "D25-2029P",
       "Description": "Popcorn, Caramel 12/8 oz",
       "UOM": "CS",
@@ -976,7 +976,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "140",
       "Item No.": "D25-1913P",
       "Description": "Popcorn, Kettle Corn 6/8 oz",
       "UOM": "CS",
@@ -1113,15 +1113,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "227",
-      "Item No.": "P06-028P",
-      "Description": "Soup, Tomato, RS Reduced Sodium",
-      "UOM": "CS",
-      "Pack Size": "24/10.7 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21"
     },
     {
       "Available Qty.": "199",
