@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 06, 2026 at 03:07 PM",
-  "updated_at_iso": "2026-06-06T15:07:51.411333",
-  "item_count": 134,
+  "updated_at": "June 06, 2026 at 06:07 PM",
+  "updated_at_iso": "2026-06-06T18:07:51.733021",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "173",
@@ -22,7 +22,7 @@
       "Gross Weight": "1700"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "3",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -223,15 +223,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "P15-085P",
-      "Description": "Chicken Breast Fillets, Breaded",
-      "UOM": "CS",
-      "Pack Size": "4/2.5 lb",
-      "Feature Type": "",
-      "Gross Weight": "10"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
@@ -331,13 +322,13 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
+      "Available Qty.": "458",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "1/50 lb",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "50"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "121",
@@ -347,15 +338,6 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "458",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
     },
     {
       "Available Qty.": "721",
@@ -377,7 +359,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "538",
+      "Available Qty.": "532",
       "Item No.": "D25-1850P",
       "Description": "Cookies, Otis Spunkmeyer Thaw and Serve",
       "UOM": "CS",
@@ -414,7 +396,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "85",
       "Item No.": "D29-026P",
       "Description": "Dough, Biscuit",
       "UOM": "CS",
@@ -496,7 +478,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "265",
+      "Available Qty.": "238",
       "Item No.": "D25-349P",
       "Description": "Fries, Steak Cut",
       "UOM": "CS",
@@ -541,16 +523,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "14",
-      "Item No.": "D25-1914P",
-      "Description": "Gummy Candy 8/10 ct",
-      "UOM": "CS",
-      "Pack Size": "8/10 ct",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-06-06T03:07:51.775518"
-    },
-    {
       "Available Qty.": "262",
       "Item No.": "D05-821P",
       "Description": "Hash Brown Rounds",
@@ -571,7 +543,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "1626",
+      "Available Qty.": "1606",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -580,7 +552,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "283",
       "Item No.": "P15-016P",
       "Description": "Hot Dogs",
       "UOM": "CS",
@@ -717,7 +689,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "82",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -753,7 +725,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "3",
       "Item No.": "D11-134P",
       "Description": "Mix, Cake 8/8.6 oz",
       "UOM": "CS",
@@ -763,7 +735,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "2589",
+      "Available Qty.": "2565",
       "Item No.": "D11-133P",
       "Description": "Mix, Cookie 7/16.8 oz",
       "UOM": "CS",
@@ -926,7 +898,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "440",
+      "Available Qty.": "434",
       "Item No.": "D10-114P",
       "Description": "Plums, Pitted",
       "UOM": "CS",
@@ -975,7 +947,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "112",
       "Item No.": "D25-1913P",
       "Description": "Popcorn, Kettle Corn 6/8 oz",
       "UOM": "CS",
@@ -995,7 +967,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "45",
       "Item No.": "D25-2028P",
       "Description": "Popcorn, White Fudge Drizzle 6/6 oz",
       "UOM": "CS",
@@ -1033,7 +1005,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "504",
+      "Available Qty.": "339",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1114,33 +1086,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "199",
-      "Item No.": "P06-029P",
-      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
-      "UOM": "CS",
-      "Pack Size": "24/10.6 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "279",
-      "Item No.": "P27-089P",
-      "Description": "Spinach, Chopped, LS Low Sodium",
-      "UOM": "CS",
-      "Pack Size": "12/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "51",
-      "Item No.": "D28-1213P",
-      "Description": "Squash, Yellow",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "126",
       "Item No.": "D25-956P",
       "Description": "Tater Tots",
@@ -1214,7 +1159,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "17",
       "Item No.": "D27-160P",
       "Description": "Whole Kernel Sweet Corn 10 Cans",
       "UOM": "CS",
