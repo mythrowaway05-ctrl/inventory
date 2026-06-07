@@ -1,6 +1,6 @@
 {
-  "updated_at": "June 07, 2026 at 01:07 AM",
-  "updated_at_iso": "2026-06-07T01:07:49.924304",
+  "updated_at": "June 07, 2026 at 02:07 AM",
+  "updated_at_iso": "2026-06-07T02:07:49.686559",
   "item_count": 127,
   "items": [
     {
@@ -177,7 +177,7 @@
       "new_since": "2026-06-06T03:07:51.775518"
     },
     {
-      "Available Qty.": "207",
+      "Available Qty.": "153",
       "Item No.": "D25-1917P",
       "Description": "Candy, Variety Pack 10/5 oz",
       "UOM": "CS",
@@ -322,15 +322,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "458",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "121",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -338,6 +329,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "458",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "721",
@@ -615,15 +615,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "255",
-      "Item No.": "P26-023P",
-      "Description": "Ketchup",
-      "UOM": "CS",
-      "Pack Size": "16/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "28"
-    },
-    {
       "Available Qty.": "62",
       "Item No.": "D26-905P",
       "Description": "Ketchup",
@@ -631,6 +622,15 @@
       "Pack Size": "1500/9 g",
       "Feature Type": "Free Item",
       "Gross Weight": "32"
+    },
+    {
+      "Available Qty.": "255",
+      "Item No.": "P26-023P",
+      "Description": "Ketchup",
+      "UOM": "CS",
+      "Pack Size": "16/24 oz",
+      "Feature Type": "",
+      "Gross Weight": "28"
     },
     {
       "Available Qty.": "5",
