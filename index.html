@@ -193,6 +193,18 @@
     .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.72rem; color: var(--gray-500); }
     .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
     .new-empty { font-size: 0.875rem; color: var(--gray-500); padding: 1rem 0; }
+    tr.is-new-0 td:first-child { border-left: 3px solid #378ADD; }
+    tr.is-new-0 td { background: #E6F1FB; }
+    tr.is-new-0:hover td { background: #dceefa; }
+    tr.is-new-1 td:first-child { border-left: 3px solid #85B7EB; }
+    tr.is-new-1 td { background: #EDF5FC; }
+    tr.is-new-1:hover td { background: #e3f0fb; }
+    tr.is-new-2 td:first-child { border-left: 3px solid #B5D4F4; }
+    tr.is-new-2 td { background: #F4F9FE; }
+    tr.is-new-2:hover td { background: #ebf4fd; }
+    tr.is-new-3 td:first-child { border-left: 3px solid #d0e6f7; }
+    tr.is-new-3 td { background: #F9FCFE; }
+    tr.is-new-3:hover td { background: #f0f8fe; }
     .new-divider { border: none; border-top: 1px solid var(--gray-300); margin: 1.25rem 2rem 0; }
     .all-label { padding: 0.75rem 2rem 0.25rem; font-size: 0.72rem; color: var(--gray-500); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; }
 
@@ -397,7 +409,15 @@
       const featHtml = feat ? `<span class="badge-free">${feat}</span>` : `<span class="dash">—</span>`;
       const isNew = item["new_since"] && ((Date.now() - new Date(item["new_since"]).getTime()) < 24 * 60 * 60 * 1000);
       const newBadge = isNew ? `<span class="badge-new">New</span>` : "";
-      return `<tr>
+      let newRowClass = "";
+      if (isNew) {
+        const hrs = (Date.now() - new Date(item["new_since"]).getTime()) / 3600000;
+        if (hrs < 2) newRowClass = "is-new-0";
+        else if (hrs < 6) newRowClass = "is-new-1";
+        else if (hrs < 12) newRowClass = "is-new-2";
+        else newRowClass = "is-new-3";
+      }
+      return `<tr class="${newRowClass}">
         <td class="col-qty"><span class="${qtyClass}">${qty}</span></td>
         <td class="col-item"><span class="item-no">${item["Item No."] || ""}</span></td>
         <td class="col-desc">${item["Description"] || ""}${newBadge}</td>
