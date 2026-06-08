@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 08, 2026 at 04:07 PM",
-  "updated_at_iso": "2026-06-08T16:07:55.327002",
-  "item_count": 132,
+  "updated_at": "June 08, 2026 at 05:07 PM",
+  "updated_at_iso": "2026-06-08T17:07:52.937912",
+  "item_count": 135,
   "items": [
     {
       "Available Qty.": "164",
@@ -220,7 +220,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "413",
+      "Available Qty.": "361",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -274,7 +274,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D15-421P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -301,15 +301,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "447",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "118",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -317,6 +308,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "447",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "696",
@@ -364,7 +364,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "1686",
+      "Available Qty.": "1685",
       "Item No.": "D29-099P",
       "Description": "Dough, Cinnamon Roll",
       "UOM": "CS",
@@ -382,7 +382,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "733",
+      "Available Qty.": "732",
       "Item No.": "P15-084P",
       "Description": "Drumstick Fritters, Crunchy Coated",
       "UOM": "CS",
@@ -400,7 +400,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "261",
+      "Available Qty.": "251",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -418,7 +418,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3471",
+      "Available Qty.": "3465",
       "Item No.": "D18-216P",
       "Description": "Fiber Supplement Powder, Orange Mango 4/7.05 oz",
       "UOM": "CS",
@@ -427,7 +427,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "628",
+      "Available Qty.": "627",
       "Item No.": "D25-586P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -436,7 +436,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "176",
       "Item No.": "D25-349P",
       "Description": "Fries, Steak Cut",
       "UOM": "CS",
@@ -481,7 +481,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "262",
+      "Available Qty.": "261",
       "Item No.": "D05-821P",
       "Description": "Hash Brown Rounds",
       "UOM": "CS",
@@ -544,6 +544,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "378",
+      "Item No.": "D14-011P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "75/4 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "24",
+      "new_since": "2026-06-08T17:07:52.936928"
+    },
+    {
       "Available Qty.": "4",
       "Item No.": "D14-022P",
       "Description": "Juice, Cherry Apple",
@@ -553,13 +563,23 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "95",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
       "Pack Size": "40/6.75 oz",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "216",
+      "Item No.": "D14-007P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "75/4 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "24",
+      "new_since": "2026-06-08T17:07:52.936928"
     },
     {
       "Available Qty.": "16",
@@ -571,7 +591,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "57",
       "Item No.": "D26-905P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -650,6 +670,16 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "28",
+      "Item No.": "D07-613P",
+      "Description": "Milk, Whole, Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-06-08T17:07:52.936928"
     },
     {
       "Available Qty.": "387",
@@ -832,7 +862,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "329",
+      "Available Qty.": "327",
       "Item No.": "D25-662P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -841,7 +871,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "36",
       "Item No.": "D25-1734P",
       "Description": "Popcorn 12/4.75 oz",
       "UOM": "CS",
@@ -850,7 +880,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "61",
       "Item No.": "D25-2029P",
       "Description": "Popcorn, Caramel 12/8 oz",
       "UOM": "CS",
@@ -877,7 +907,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "24",
       "Item No.": "D25-2027P",
       "Description": "Popcorn, White Fudge Drizzle - DISPLAY 36/6 oz",
       "UOM": "CS",
@@ -922,7 +952,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "803",
+      "Available Qty.": "800",
       "Item No.": "D25-2003P",
       "Description": "Protein Chips",
       "UOM": "CS",
@@ -931,7 +961,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1828",
+      "Available Qty.": "1822",
       "Item No.": "D25-2004P",
       "Description": "Protein Popcorn, White Cheddar",
       "UOM": "CS",
@@ -940,7 +970,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "91",
       "Item No.": "D01-363P",
       "Description": "Pump Top Goes with D01-362P Bottle",
       "UOM": "CS",
@@ -1075,7 +1105,7 @@
       "new_since": "2026-06-08T09:23:54.957891"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D03-930P",
       "Description": "Soda, Zero Sugar 24/16.9 oz",
       "UOM": "CS",
@@ -1164,7 +1194,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "50",
       "Item No.": "D03-1078P",
       "Description": "Tea, Extra Sweet 4/1 gal",
       "UOM": "CS",
