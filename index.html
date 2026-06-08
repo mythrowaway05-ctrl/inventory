@@ -553,7 +553,7 @@
 
     let collapsed = false;
 
-    function render() {
+    function renderNewCards() {
       const cards = newItems.map(item => {
         const age = getAge(item.new_since);
         return `<div class="new-card ${age.cls}">
@@ -591,11 +591,11 @@
 
       document.getElementById("collapse-btn").addEventListener("click", () => {
         collapsed = !collapsed;
-        render();
+        renderNewCards();
       });
     }
 
-    render();
+    renderNewCards();
     divider.style.display = "block";
     allLabel.style.display = "block";
     allLabel.textContent = "All items (" + items.length + ")";
@@ -726,6 +726,8 @@
     render();
   });
 
+  loadData();
+</script>
 
 <!-- ── Overlay ── -->
 <div id="overlay"></div>
