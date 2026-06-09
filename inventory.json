@@ -1,7 +1,7 @@
 {
-  "updated_at": "June 08, 2026 at 10:07 PM",
-  "updated_at_iso": "2026-06-08T22:07:55.535482",
-  "item_count": 133,
+  "updated_at": "June 09, 2026 at 02:07 AM",
+  "updated_at_iso": "2026-06-09T02:07:55.087103",
+  "item_count": 141,
   "items": [
     {
       "Available Qty.": "156",
@@ -148,7 +148,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "105",
       "Item No.": "D25-1917P",
       "Description": "Candy, Variety Pack 10/5 oz",
       "UOM": "CS",
@@ -202,7 +202,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1419",
+      "Available Qty.": "1414",
       "Item No.": "P15-060P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -265,15 +265,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D15-421P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
       "Available Qty.": "1133",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -281,6 +272,15 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D15-421P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "359",
@@ -292,15 +292,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "118",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "447",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -308,6 +299,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "118",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "688",
@@ -563,7 +563,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "180",
+      "Available Qty.": "120",
       "Item No.": "D14-007P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -652,6 +652,46 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
+    },
+    {
+      "Available Qty.": "56",
+      "Item No.": "D07-154P",
+      "Description": "Milk, Chocolate 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-06-09T02:07:55.086199"
+    },
+    {
+      "Available Qty.": "13",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-06-09T02:07:55.086199"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D07-871P",
+      "Description": "Milk, Skim 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/0.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "42",
+      "new_since": "2026-06-09T02:07:55.086199"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D07-328P",
+      "Description": "Milk, Whole 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-06-09T02:07:55.086199"
     },
     {
       "Available Qty.": "28",
@@ -979,6 +1019,16 @@
       "Gross Weight": "6"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D24-003P",
+      "Description": "Rice",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb bag",
+      "Feature Type": "",
+      "Gross Weight": "50",
+      "new_since": "2026-06-09T02:07:55.086199"
+    },
+    {
       "Available Qty.": "350",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
@@ -1057,16 +1107,6 @@
       "new_since": "2026-06-08T09:23:54.957891"
     },
     {
-      "Available Qty.": "47",
-      "Item No.": "D03-590P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/16.9 oz",
-      "Feature Type": "Discounted Item",
-      "Gross Weight": "31",
-      "new_since": "2026-06-08T09:23:54.957891"
-    },
-    {
       "Available Qty.": "64",
       "Item No.": "D03-069P",
       "Description": "Soda",
@@ -1074,6 +1114,16 @@
       "Pack Size": "24/20 oz",
       "Feature Type": "",
       "Gross Weight": "32",
+      "new_since": "2026-06-08T09:23:54.957891"
+    },
+    {
+      "Available Qty.": "41",
+      "Item No.": "D03-590P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "24/16.9 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "31",
       "new_since": "2026-06-08T09:23:54.957891"
     },
     {
@@ -1176,13 +1226,23 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "41",
       "Item No.": "D03-1078P",
       "Description": "Tea, Extra Sweet 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "",
       "Gross Weight": "38"
+    },
+    {
+      "Available Qty.": "193",
+      "Item No.": "D03-553P",
+      "Description": "Tea, Sweet",
+      "UOM": "CS",
+      "Pack Size": "12/16 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-06-09T02:07:55.086199"
     },
     {
       "Available Qty.": "76",
@@ -1219,6 +1279,26 @@
       "Pack Size": "108/0.9 oz",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "100",
+      "Item No.": "D01-235P",
+      "Description": "Weather Strips",
+      "UOM": "CS",
+      "Pack Size": "1/36 ct",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-06-09T02:07:55.086199"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D28-984P",
+      "Description": "Zucchini",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-06-09T02:07:55.086199"
     }
   ]
 }
