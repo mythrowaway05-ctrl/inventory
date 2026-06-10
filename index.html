@@ -209,8 +209,8 @@
     .all-label { padding: 0.75rem 2rem 0.25rem; font-size: 0.72rem; color: var(--gray-500); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; }
 
 
-    /* ── Cart button ── */
-    #cart-btn {
+    /* ── Cart + Refresh buttons ── */
+    #cart-btn, #refresh-btn {
       position: relative;
       background: rgba(255,255,255,0.15);
       border: 1px solid rgba(255,255,255,0.3);
@@ -223,7 +223,10 @@
       transition: background 0.15s;
       flex-shrink: 0;
     }
-    #cart-btn:hover { background: rgba(255,255,255,0.25); }
+    #cart-btn:hover, #refresh-btn:hover { background: rgba(255,255,255,0.25); }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+    #refresh-icon.spinning { animation: spin 0.7s linear infinite; }
 
     .cart-count {
       position: absolute;
@@ -490,6 +493,12 @@
       <div id="updated-at">Loading...</div>
       <div id="countdown-display" style="font-size: 0.8rem; opacity: 0.7; margin-top: 2px;"></div>
     </div>
+    <button id="refresh-btn" title="Refresh inventory" aria-label="Refresh inventory">
+      <svg id="refresh-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M23 4v6h-6"/><path d="M1 20v-6h6"/>
+        <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+      </svg>
+    </button>
     <button id="cart-btn" title="View current order" aria-label="View current order">
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/>
@@ -518,15 +527,12 @@
 </div>
 
 <script>
-  const REFRESH_MS = 60 * 60 * 1000;
   const DATA_FILE  = "inventory.json";
 
   let allItems = [];
   let sortCol  = "Description";
   let sortDir  = 1;
   let searchVal = "";
-  let reloadInterval;
-  let lastScrapedIso = null;
 
   function renderNewItems(items) {
     const newItems = items.filter(item => item.new_since);
@@ -607,9 +613,9 @@
       const data = await res.json();
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
+      document.getElementById("countdown-display").textContent = "";
       renderNewItems(allItems);
       render();
-      scheduleReload(data.updated_at_iso);
     } catch (e) {
       document.getElementById("table-wrap").innerHTML =
         `<div class="state-msg">Could not load inventory.json. Make sure the scraper has run and the file is in the same folder.</div>`;
@@ -703,27 +709,15 @@
     });
   }
 
-  function scheduleReload(updatedAt) {
-    clearInterval(reloadInterval);
-    reloadInterval = setInterval(loadData, REFRESH_MS);
-    startCountdown(updatedAt);
-  }
-
-  function startCountdown(isoTimestamp) {
-    clearInterval(window._countdownInterval);
-    const lastRun = isoTimestamp ? new Date(isoTimestamp) : new Date();
-    window._countdownInterval = setInterval(() => {
-      const elapsed = Date.now() - lastRun.getTime();
-      const remaining = Math.max(REFRESH_MS - (elapsed % REFRESH_MS), 0);
-      const m = Math.floor(remaining / 60000);
-      const s = Math.floor((remaining % 60000) / 1000).toString().padStart(2, "0");
-      document.getElementById("countdown-display").textContent = "Next update in " + m + ":" + s;
-    }, 1000);
-  }
-
   document.getElementById("search").addEventListener("input", e => {
     searchVal = e.target.value;
     render();
+  });
+
+  document.getElementById("refresh-btn").addEventListener("click", () => {
+    const icon = document.getElementById("refresh-icon");
+    icon.classList.add("spinning");
+    loadData().finally(() => icon.classList.remove("spinning"));
   });
 
   loadData();

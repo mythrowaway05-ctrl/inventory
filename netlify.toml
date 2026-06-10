@@ -1,11 +1,27 @@
-# Netlify cache configuration
-# JSON files update hourly — cache for 1 hour, allow stale for 30 min while revalidating
+# Netlify cache + compression configuration
+
+[build]
+  publish = "."
+
+# Enable gzip/brotli compression for all text assets
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = false
+  minify = false
+[build.processing.js]
+  bundle = false
+  minify = false
+[build.processing.html]
+  pretty_urls = false
+
+# JSON files — cache 6 hours (scraper runs at most hourly, data doesn't change faster)
 [[headers]]
   for = "/*.json"
   [headers.values]
-    Cache-Control = "public, max-age=3600, stale-while-revalidate=1800"
+    Cache-Control = "public, max-age=21600, stale-while-revalidate=3600"
 
-# HTML files — cache for 5 minutes so updates show up quickly after a push
+# HTML files — cache 5 minutes so updates show up quickly after a push
 [[headers]]
   for = "/*.html"
   [headers.values]
