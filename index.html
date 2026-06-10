@@ -607,9 +607,10 @@
     allLabel.textContent = "All items (" + items.length + ")";
   }
 
-  async function loadData() {
+  async function loadData(bustCache = false) {
     try {
-      const res  = await fetch(DATA_FILE);
+      const url  = bustCache ? DATA_FILE + "?t=" + Date.now() : DATA_FILE;
+      const res  = await fetch(url, bustCache ? { cache: "no-store" } : {});
       const data = await res.json();
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
@@ -717,7 +718,7 @@
   document.getElementById("refresh-btn").addEventListener("click", () => {
     const icon = document.getElementById("refresh-icon");
     icon.classList.add("spinning");
-    loadData().finally(() => icon.classList.remove("spinning"));
+    loadData(true).finally(() => icon.classList.remove("spinning"));
   });
 
   loadData();
