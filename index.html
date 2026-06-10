@@ -603,7 +603,7 @@
 
   async function loadData() {
     try {
-      const res  = await fetch(DATA_FILE + "?t=" + Date.now());
+      const res  = await fetch(DATA_FILE);
       const data = await res.json();
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
@@ -796,11 +796,11 @@
   function getOrderDeadline() {
     const now = new Date();
     const day = now.getDay(); // 0=Sun, 6=Sat
-    const daysUntilSat = (6 - day + 7) % 7 || 7; // always go to next/current Sat
-    const sat = new Date(now);
-    sat.setDate(now.getDate() + (day === 6 ? 0 : daysUntilSat));
-    sat.setHours(23, 59, 0, 0);
-    return sat;
+    const daysUntilSun = day === 0 ? 7 : (7 - day); // always next Sunday
+    const sun = new Date(now);
+    sun.setDate(now.getDate() + daysUntilSun);
+    sun.setHours(23, 59, 0, 0);
+    return sun;
   }
 
   function formatDeadline(dt) {
@@ -816,7 +816,7 @@
   async function loadOrder() {
     if (orderLoaded) return;
     try {
-      const res = await fetch(ORDER_FILE + "?t=" + Date.now());
+      const res = await fetch(ORDER_FILE);
       orderData = await res.json();
       orderLoaded = true;
       // Update cart badge
