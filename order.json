@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-06-10T07:33:21.214694",
+  "scraped_at": "2026-06-11T00:07:52.530314",
   "po_number": "PO6229457",
   "appointment": {
     "reference_number": "PO6229457",
     "pickup_date": "06/17/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n22",
-    "Total Line Items": "Gross Weight\n1359 lbs",
+    "Total Due": "Total Line Items\n21",
+    "Total Line Items": "Gross Weight\n1256 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-576P\tChicken Sandwich\t10\t10\tCS\t60\t1.14\t\u00a0\t8/12 oz\tFROZEN\t0.00\t\u00a0\nD15-254P\tSausage Patties\t10\t10\tCS\t48\t0.91\t\u00a0\t8/9.6 oz\tFROZEN\t0.00\t\u00a0\nD06-337P\tSausage, Egg and Cheese Croissant\t12\t12\tCS\t44\t0.70\t\u00a0\t12/4.9 oz\tFROZEN\t0.00\t\u00a0\nD15-265P\tBeef Franks\t5\t5\tCS\t50\t1.90\t\u00a0\t2/5 lb\tFROZEN\t0.00\t\u00a0\nD06-336P\tGrilled Chicken Ciabatta\t10\t10\tCS\t37\t0.69\t\u00a0\t5/11.7 oz\tFROZEN\t0.00\t\u00a0\nD06-338P\tSpicy chicken Sandwich\t5\t5\tCS\t21\t0.80\t\u00a0\t12/5.6 oz\tFROZEN\t0.00\t\u00a0\nD14-011P\tJuice, Apple\t15\t0\tCS\t0\t0.00\t\u00a0\t75/4 oz\tREF\t0.00\t\u00a0\nD06-976P\tLunchables, Pizza\t5\t5\tCS\t30\t0.00\t\u00a0\t16/4.3 oz\tREF\t0.00\t\u00a0\nD03-017P\tCoffee, Ground\t12\t12\tCS\t39\t0.58\t\u00a0\t6/7 oz\tDRY\t0.00\t\u00a0\nD03-541P\tLemonade\t5\t5\tCS\t49\t1.76\t\u00a0\t12/11 oz\tREF\t0.00\t\u00a0\nD15-775P\tChicken Wing Sections\t5\t5\tCS\t200\t7.60\t\u00a0\t1/40 lb\tFROZEN\t0.00\t\u00a0\nD15-421P\tChicken Wings\t4\t4\tCS\t82\t3.90\t\u00a0\t4/5 lb\tFROZEN\t0.00\t\u00a0\nD19-015P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t180\t32.40\t\u00a0\t1/180 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD19-047P\tAssorted Paper Goods - BULK\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 lb\tDRY\t0.00\t\u00a0\nD25-1917P\tCandy, Variety Pack\t2\t2\tCS\t8\t0.80\t\u00a0\t10/5 oz\tDRY\t0.00\t\u00a0\nD03-314P\tClub Soda\t1\t1\tCS\t37\t3.29\t\u00a0\t15/1 L\tDRY\t0.00\t\u00a0\nD25-1919P\tCookies\t2\t2\tCS\t7\t0.68\t\u00a0\t6/7.25 oz\tDRY\t0.00\t\u00a0\nD01-362P\tEmpty 16oz Plastic Bottle\t1\t1\tCS\t15\t0.00\t\u00a0\t1/84 ct\tDRY\t0.00\t\u00a0\nD14-121P\tJuice, Cranberry\t2\t2\tCS\t70\t6.61\t\u00a0\t8/64 oz\tDRY\t0.00\t\u00a0\nD03-005P\tSoda, Zero Sugar\t2\t2\tCS\t32\t1.44\t\u00a0\t30/7.5 oz\tDRY\t0.00\t\u00a0\nD24-003P\tRice\t1\t1\tBAG\t50\t0.00\t\u00a0\t1/50 lb bag\tDRY\t0.00\t\u00a0\nD06-574P\tCheeseburger\t10\t10\tCS\t50\t0.95\t\u00a0\t12/6.77 oz\tFROZEN\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-576P\tChicken Sandwich\t10\t10\tCS\t60\t1.14\t\u00a0\t8/12 oz\tFROZEN\t0.00\t\u00a0\nD15-254P\tSausage Patties\t10\t10\tCS\t48\t0.91\t\u00a0\t8/9.6 oz\tFROZEN\t0.00\t\u00a0\nD06-337P\tSausage, Egg and Cheese Croissant\t12\t12\tCS\t44\t0.70\t\u00a0\t12/4.9 oz\tFROZEN\t0.00\t\u00a0\nD15-265P\tBeef Franks\t5\t5\tCS\t50\t1.90\t\u00a0\t2/5 lb\tFROZEN\t0.00\t\u00a0\nD06-336P\tGrilled Chicken Ciabatta\t10\t10\tCS\t37\t0.69\t\u00a0\t5/11.7 oz\tFROZEN\t0.00\t\u00a0\nD06-338P\tSpicy chicken Sandwich\t5\t5\tCS\t21\t0.80\t\u00a0\t12/5.6 oz\tFROZEN\t0.00\t\u00a0\nD06-976P\tLunchables, Pizza\t5\t5\tCS\t30\t0.00\t\u00a0\t16/4.3 oz\tREF\t0.00\t\u00a0\nD03-017P\tCoffee, Ground\t12\t12\tCS\t39\t0.58\t\u00a0\t6/7 oz\tDRY\t0.00\t\u00a0\nD03-541P\tLemonade\t5\t5\tCS\t49\t1.76\t\u00a0\t12/11 oz\tREF\t0.00\t\u00a0\nD15-775P\tChicken Wing Sections\t2\t2\tCS\t80\t7.60\t\u00a0\t1/40 lb\tFROZEN\t0.00\t\u00a0\nD15-421P\tChicken Wings\t4\t4\tCS\t82\t3.90\t\u00a0\t4/5 lb\tFROZEN\t0.00\t\u00a0\nD19-015P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t180\t32.40\t\u00a0\t1/180 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD19-047P\tAssorted Paper Goods - BULK\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 lb\tDRY\t0.00\t\u00a0\nD25-1917P\tCandy, Variety Pack\t2\t2\tCS\t8\t0.80\t\u00a0\t10/5 oz\tDRY\t0.00\t\u00a0\nD03-314P\tClub Soda\t1\t1\tCS\t37\t3.29\t\u00a0\t15/1 L\tDRY\t0.00\t\u00a0\nD25-1919P\tCookies\t2\t2\tCS\t7\t0.68\t\u00a0\t6/7.25 oz\tDRY\t0.00\t\u00a0\nD14-121P\tJuice, Cranberry\t2\t2\tCS\t70\t6.61\t\u00a0\t8/64 oz\tDRY\t0.00\t\u00a0\nD03-005P\tSoda, Zero Sugar\t2\t2\tCS\t32\t1.44\t\u00a0\t30/7.5 oz\tDRY\t0.00\t\u00a0\nD24-003P\tRice\t1\t1\tBAG\t50\t0.00\t\u00a0\t1/50 lb bag\tDRY\t0.00\t\u00a0\nD06-574P\tCheeseburger\t10\t10\tCS\t50\t0.95\t\u00a0\t12/6.77 oz\tFROZEN\t0.00\t\u00a0\nD25-2026P\tPopcorn, Hot Honey\t8\t8\tCS\t32\t0.76\t\u00a0\t6/7 oz\tDRY\t0.00"
   },
   "items": [
     {
@@ -92,19 +92,6 @@
       "Nutritional Information": ""
     },
     {
-      "Item No.": "D14-011P",
-      "Description": "Juice, Apple",
-      "Order Qty.": "15",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "75/4 oz",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
       "Item No.": "D06-976P",
       "Description": "Lunchables, Pizza",
       "Order Qty.": "5",
@@ -146,10 +133,10 @@
     {
       "Item No.": "D15-775P",
       "Description": "Chicken Wing Sections",
-      "Order Qty.": "5",
-      "Accepted Qty.": "5",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
       "UOM": "CS",
-      "Gross Weight": "200",
+      "Gross Weight": "80",
       "Packaging Type": "",
       "Pack Size": "1/40 lb",
       "Handling Requirements": "FROZEN",
@@ -235,19 +222,6 @@
       "Nutritional Information": ""
     },
     {
-      "Item No.": "D01-362P",
-      "Description": "Empty 16oz Plastic Bottle",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
-      "UOM": "CS",
-      "Gross Weight": "15",
-      "Packaging Type": "",
-      "Pack Size": "1/84 ct",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
       "Item No.": "D14-121P",
       "Description": "Juice, Cranberry",
       "Order Qty.": "2",
@@ -296,6 +270,19 @@
       "Packaging Type": "",
       "Pack Size": "12/6.77 oz",
       "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D25-2026P",
+      "Description": "Popcorn, Hot Honey",
+      "Order Qty.": "8",
+      "Accepted Qty.": "8",
+      "UOM": "CS",
+      "Gross Weight": "32",
+      "Packaging Type": "",
+      "Pack Size": "6/7 oz",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     }

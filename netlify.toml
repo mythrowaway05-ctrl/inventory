@@ -1,5 +1,3 @@
-# Netlify cache + compression configuration
-
 [build]
   publish = "."
 
@@ -14,14 +12,14 @@
 [build.processing.html]
   pretty_urls = false
 
-# JSON files — cache 5 minutes
+# JSON — cache 5 minutes, must revalidate after expiry
 [[headers]]
   for = "/*.json"
   [headers.values]
-    Cache-Control = "public, max-age=300, stale-while-revalidate=60"
+    Cache-Control = "public, max-age=300, must-revalidate"
 
-# HTML files — cache 5 minutes
+# HTML — cache 5 minutes
 [[headers]]
   for = "/*.html"
   [headers.values]
-    Cache-Control = "public, max-age=300, stale-while-revalidate=60"
+    Cache-Control = "public, max-age=300, must-revalidate"
