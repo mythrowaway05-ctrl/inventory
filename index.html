@@ -615,6 +615,7 @@
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
       document.getElementById("countdown-display").textContent = "";
+      lastUpdatedAt = data.updated_at;
       renderNewItems(allItems);
       render();
     } catch (e) {
@@ -726,8 +727,25 @@
     }).catch(() => icon.classList.remove("spinning"));
   });
 
-  // Auto-refresh every hour silently in the background
-  setInterval(() => loadData(), 60 * 60 * 1000);
+  // Poll every 2 minutes — only re-render if data actually changed
+  let lastUpdatedAt = null;
+
+  setInterval(async () => {
+    try {
+      const res  = await fetch(DATA_FILE + "?t=" + Date.now(), { cache: "no-store" });
+      const data = await res.json();
+      if (data.updated_at !== lastUpdatedAt) {
+        lastUpdatedAt = data.updated_at;
+        allItems = data.items || [];
+        document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
+        document.getElementById("countdown-display").textContent = "";
+        renderNewItems(allItems);
+        render();
+      }
+    } catch (e) {
+      // Silent fail — don't disrupt the user if a background poll fails
+    }
+  }, 2 * 60 * 1000);
 
   loadData();
 </script>
