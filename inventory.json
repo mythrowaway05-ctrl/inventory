@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 27, 2026 at 01:07 PM",
-  "updated_at_iso": "2026-07-27T13:07:55.356312",
-  "item_count": 165,
+  "updated_at": "July 27, 2026 at 02:07 PM",
+  "updated_at_iso": "2026-07-27T14:07:59.357462",
+  "item_count": 163,
   "items": [
     {
       "Available Qty.": "24",
@@ -29,16 +29,6 @@
       "Pack Size": "1/1385 lb",
       "Feature Type": "",
       "Gross Weight": "1385"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-07-27T12:08:10.032794"
     },
     {
       "Available Qty.": "24",
@@ -185,16 +175,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-07-27T12:08:10.032794"
-    },
-    {
       "Available Qty.": "1545",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -213,7 +193,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "254",
+      "Available Qty.": "248",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -286,7 +266,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "99",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -305,7 +285,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "202",
+      "Available Qty.": "191",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -386,7 +366,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "23",
       "Item No.": "D15-902P",
       "Description": "Chicken Salad",
       "UOM": "CS",
@@ -458,15 +438,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "190",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "957",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -474,6 +445,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "190",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "513",
@@ -496,7 +476,7 @@
     {
       "Available Qty.": "971",
       "Item No.": "P15-068P",
-      "Description": "Chicken, Whole",
+      "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
       "Pack Size": "4/4 lb",
       "Feature Type": "",
@@ -539,7 +519,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1080",
+      "Available Qty.": "1076",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -557,7 +537,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "829",
+      "Available Qty.": "825",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -665,7 +645,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1896",
+      "Available Qty.": "1891",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -890,7 +870,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "145",
+      "Available Qty.": "124",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -1144,7 +1124,7 @@
       "new_since": "2026-07-26T14:08:02.916666"
     },
     {
-      "Available Qty.": "699",
+      "Available Qty.": "690",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1171,7 +1151,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "250",
+      "Available Qty.": "246",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1225,7 +1205,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "144",
+      "Available Qty.": "138",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
