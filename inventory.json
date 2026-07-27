@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 27, 2026 at 10:08 AM",
-  "updated_at_iso": "2026-07-27T10:08:12.314854",
-  "item_count": 172,
+  "updated_at": "July 27, 2026 at 11:08 AM",
+  "updated_at_iso": "2026-07-27T11:08:02.734490",
+  "item_count": 169,
   "items": [
     {
       "Available Qty.": "24",
@@ -49,14 +49,31 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "100",
-      "Item No.": "D16-997P",
-      "Description": "Assorted Frozen Food",
-      "UOM": "LB",
-      "Pack Size": "To Be Weighed",
+      "Available Qty.": "1",
+      "Item No.": "D16-018P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/1000 lb",
       "Feature Type": "",
-      "Gross Weight": "1",
-      "new_since": "2026-07-27T09:08:12.429897"
+      "Gross Weight": "1000"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D16-010P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/950 lbs",
+      "Feature Type": "",
+      "Gross Weight": "950"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D16-045P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/1250 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1250"
     },
     {
       "Available Qty.": "2",
@@ -84,33 +101,6 @@
       "Pack Size": "1/1400 lbs",
       "Feature Type": "",
       "Gross Weight": "1400"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-045P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1250 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1250"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-018P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 lb",
-      "Feature Type": "",
-      "Gross Weight": "1000"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D16-010P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/950 lbs",
-      "Feature Type": "",
-      "Gross Weight": "950"
     },
     {
       "Available Qty.": "2",
@@ -149,7 +139,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "925",
+      "Available Qty.": "920",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -248,6 +238,16 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "320",
+      "Item No.": "D28-015P",
+      "Description": "Cabbage",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-07-27T11:08:02.732982"
+    },
+    {
       "Available Qty.": "492",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
@@ -311,6 +311,16 @@
       "Gross Weight": "17"
     },
     {
+      "Available Qty.": "100",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-07-27T11:08:02.732982"
+    },
+    {
       "Available Qty.": "13",
       "Item No.": "P27-045P",
       "Description": "Carrots, Sliced",
@@ -329,15 +339,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -345,6 +346,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "959",
@@ -383,7 +393,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "56",
       "Item No.": "D15-936P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -500,7 +510,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "352",
+      "Available Qty.": "353",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -572,22 +582,13 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "838",
+      "Available Qty.": "836",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D29-026P",
-      "Description": "Dough, Biscuit",
-      "UOM": "CS",
-      "Pack Size": "216/2.51oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "1",
@@ -662,7 +663,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "4147",
+      "Available Qty.": "4137",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -734,7 +735,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "18",
       "Item No.": "D03-654P",
       "Description": "Hot Chocolate w/ Marshmallows",
       "UOM": "CS",
@@ -833,7 +834,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "92",
       "Item No.": "D14-124P",
       "Description": "Juice, Naked Green Machine",
       "UOM": "CS",
@@ -905,15 +906,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "D07-1050P",
-      "Description": "Milk, 1% 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 quart",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "485",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -928,15 +920,6 @@
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D07-1047P",
-      "Description": "Milk, Skim 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
     },
@@ -1176,7 +1159,7 @@
       "new_since": "2026-07-26T14:08:02.916666"
     },
     {
-      "Available Qty.": "701",
+      "Available Qty.": "699",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1203,7 +1186,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "250",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1221,7 +1204,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "532",
+      "Available Qty.": "531",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1248,7 +1231,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1565",
+      "Available Qty.": "1555",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1266,7 +1249,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "211",
+      "Available Qty.": "201",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1285,7 +1268,7 @@
       "new_since": "2026-07-27T07:55:50.643597"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "66",
       "Item No.": "D12-378P",
       "Description": "Sanitary Disposal Bags 1/500 ct",
       "UOM": "CS",
@@ -1355,23 +1338,13 @@
       "new_since": "2026-07-27T07:55:50.643597"
     },
     {
-      "Available Qty.": "935",
+      "Available Qty.": "915",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
       "Pack Size": "12/14 oz",
       "Feature Type": "",
       "Gross Weight": "11",
-      "new_since": "2026-07-27T07:55:50.643597"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D03-069P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "32",
       "new_since": "2026-07-27T07:55:50.643597"
     },
     {
@@ -1482,7 +1455,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "85",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
@@ -1527,7 +1500,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "8",
       "Item No.": "P25-003P",
       "Description": "Veggie Chips",
       "UOM": "CS",
@@ -1536,7 +1509,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "611",
+      "Available Qty.": "595",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1554,7 +1527,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "23",
       "Item No.": "P28-062P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
