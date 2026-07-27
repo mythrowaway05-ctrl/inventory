@@ -609,8 +609,8 @@
 
   async function loadData(bustCache = false) {
     try {
-      const url  = bustCache ? DATA_FILE + "?t=" + Date.now() : DATA_FILE;
-      const res  = await fetch(url, bustCache ? { cache: "no-store" } : {});
+      const url  = DATA_FILE + "?t=" + Date.now();
+      const res  = await fetch(url, { cache: "no-store" });
       const data = await res.json();
       allItems   = data.items || [];
       document.getElementById("updated-at").textContent = "Last updated: " + (data.updated_at || "unknown");
@@ -718,7 +718,12 @@
   document.getElementById("refresh-btn").addEventListener("click", () => {
     const icon = document.getElementById("refresh-icon");
     icon.classList.add("spinning");
-    loadData(true).finally(() => icon.classList.remove("spinning"));
+    loadData(true).then(() => {
+      icon.classList.remove("spinning");
+      const btn = document.getElementById("refresh-btn");
+      btn.style.background = "rgba(82,183,136,0.4)";
+      setTimeout(() => btn.style.background = "", 1000);
+    }).catch(() => icon.classList.remove("spinning"));
   });
 
   loadData();
