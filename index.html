@@ -726,6 +726,9 @@
     }).catch(() => icon.classList.remove("spinning"));
   });
 
+  // Auto-refresh every hour silently in the background
+  setInterval(() => loadData(), 60 * 60 * 1000);
+
   loadData();
 </script>
 
