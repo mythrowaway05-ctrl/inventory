@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 28, 2026 at 12:07 AM",
-  "updated_at_iso": "2026-07-28T00:07:54.643199",
-  "item_count": 165,
+  "updated_at": "July 28, 2026 at 01:07 AM",
+  "updated_at_iso": "2026-07-28T01:07:56.381420",
+  "item_count": 163,
   "items": [
     {
       "Available Qty.": "24",
@@ -193,7 +193,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "119",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -312,15 +312,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "55",
-      "Item No.": "P15-060P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/2.5 lb",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "953",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -328,6 +319,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "55",
+      "Item No.": "P15-060P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/2.5 lb",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "21",
@@ -373,16 +373,6 @@
       "Pack Size": "2/5lb",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D06-576P",
-      "Description": "Chicken Sandwich 8/12 oz",
-      "UOM": "CS",
-      "Pack Size": "8/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-07-27T17:07:55.246363"
     },
     {
       "Available Qty.": "159",
@@ -439,6 +429,15 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "264",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "953",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -453,15 +452,6 @@
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "264",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -692,7 +682,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "49",
       "Item No.": "D12-377P",
       "Description": "Hand Sanitizer Foam, Refills 2/40.5 oz",
       "UOM": "CS",
@@ -963,7 +953,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "203",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -1017,7 +1007,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "282",
+      "Available Qty.": "272",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -1080,7 +1070,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "215",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -1402,7 +1392,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "30",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -1457,17 +1447,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D04-253P",
-      "Description": "Tortillas 10/20.8 oz",
-      "UOM": "CS",
-      "Pack Size": "10/20.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-07-27T17:07:55.246363"
-    },
-    {
-      "Available Qty.": "154",
+      "Available Qty.": "146",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
