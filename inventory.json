@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 28, 2026 at 02:22 AM",
-  "updated_at_iso": "2026-07-28T02:22:35.199023-05:00",
-  "item_count": 157,
+  "updated_at": "July 28, 2026 at 08:15 AM",
+  "updated_at_iso": "2026-07-28T08:15:14.791930-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "24",
@@ -94,7 +94,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "880",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -175,15 +175,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "83",
-      "Item No.": "D15-377P",
-      "Description": "Boneless Pork Riblets 12/5.25 oz",
-      "UOM": "CS",
-      "Pack Size": "12/5.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "6"
-    },
-    {
       "Available Qty.": "1545",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -202,7 +193,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "119",
+      "Available Qty.": "87",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -211,7 +202,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "492",
+      "Available Qty.": "477",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
       "UOM": "CS",
@@ -220,7 +211,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "334",
+      "Available Qty.": "335",
       "Item No.": "D08-548P",
       "Description": "Cake, Chocolate Layer",
       "UOM": "CS",
@@ -247,7 +238,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "105",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -265,7 +256,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "2107",
+      "Available Qty.": "2117",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -463,7 +454,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "455",
+      "Available Qty.": "440",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
       "UOM": "CS",
@@ -535,7 +526,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "852",
+      "Available Qty.": "845",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -571,7 +562,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "24",
       "Item No.": "D29-099P",
       "Description": "Dough, Cinnamon Roll",
       "UOM": "CS",
@@ -652,7 +643,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "154",
+      "Available Qty.": "148",
       "Item No.": "D25-1961P",
       "Description": "Fries, Seasoned Waffle Style 6/4.5 lb",
       "UOM": "CS",
@@ -715,7 +706,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "288",
+      "Available Qty.": "263",
       "Item No.": "D05-935P",
       "Description": "Hash Browns, Ovals",
       "UOM": "CS",
@@ -742,7 +733,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1793",
+      "Available Qty.": "1685",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
       "UOM": "CS",
@@ -832,7 +823,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "22",
       "Item No.": "D14-090P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -886,13 +877,23 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "11",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D07-878P",
+      "Description": "Milk, 1% 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-07-28T08:15:14.791493-05:00"
     },
     {
       "Available Qty.": "472",
@@ -904,16 +905,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D07-405P",
-      "Description": "Milk, 2% 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44"
-    },
-    {
-      "Available Qty.": "80",
+      "Available Qty.": "75",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -931,7 +923,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "3",
       "Item No.": "D07-346P",
       "Description": "Milk, Buttermilk 12/.5 gal",
       "UOM": "CS",
@@ -940,16 +932,7 @@
       "Gross Weight": "56"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D07-168P",
-      "Description": "Milk, Chocolate 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "89",
+      "Available Qty.": "62",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -985,7 +968,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -1093,7 +1076,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "355",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -1109,6 +1092,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P19-006P",
+      "Description": "Paper Towels",
+      "UOM": "CS",
+      "Pack Size": "30/1 roll",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-07-28T08:15:14.791493-05:00"
     },
     {
       "Available Qty.": "383",
@@ -1192,7 +1185,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "230",
+      "Available Qty.": "179",
       "Item No.": "D23-817P",
       "Description": "Peanut Butter, Extra Crunchy 12/28 oz",
       "UOM": "CS",
@@ -1264,7 +1257,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "250",
+      "Available Qty.": "243",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1327,15 +1320,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "85",
-      "Item No.": "D27-078P",
-      "Description": "Tomatoes, Crushed",
-      "UOM": "CS",
-      "Pack Size": "6/10 cans",
-      "Feature Type": "",
-      "Gross Weight": "43"
-    },
-    {
       "Available Qty.": "56",
       "Item No.": "D27-019P",
       "Description": "Tomatoes, Diced",
@@ -1372,7 +1356,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "577",
+      "Available Qty.": "542",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1390,22 +1374,13 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "12",
       "Item No.": "P28-062P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/750 lbs",
       "Feature Type": "",
       "Gross Weight": "750"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-784P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/800 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "800"
     },
     {
       "Available Qty.": "320",
