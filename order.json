@@ -1,22 +1,22 @@
 {
-  "scraped_at": "2026-07-28T13:55:41.198697-05:00",
+  "scraped_at": "2026-07-28T17:40:39.502586-05:00",
   "po_number": "PO6294968",
   "appointment": {
     "reference_number": "PO6294968",
     "pickup_date": "08/05/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n16",
-    "Total Line Items": "Gross Weight\n1526 lbs",
+    "Total Due": "Total Line Items\n15",
+    "Total Line Items": "Gross Weight\n955 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-358P\tSpicy Chicken Sandwich\t36\t16\tCS\t90\t1.06\t\u00a0\t12/7.52 oz\tFROZEN\t0.00\t\u00a0\nD03-593P\tLemonade\t2\t0\tCS\t0\t2.64\t\u00a0\t9/.5 gal\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nD12-377P\tHand Sanitizer Foam, Refills\t2\t2\tCS\t10\t0.95\t\u00a0\t2/40.5 oz\tDRY\t0.00\t\u00a0\nD20-001P\tPersonal Hygiene, Assorted - BULK TOTE\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t4\t4\tCS\t27\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD15-902P\tChicken Salad\t2\t0\tCS\t0\t1.80\t\u00a0\t2/5lb\tREF\t0.00\t\u00a0\nD08-550P\tCake, White Half Sheet\t1\t1\tCS\t22\t2.20\t\u00a0\t6/59.2 oz\tFROZEN\t0.00\t\u00a0\nP03-007P\tPrime Hydration, Blue Raspberry\t1\t1\tCS\t13\t1.71\t\u00a0\t12/16.9 oz\tDRY\t0.00\t\u00a0\nD01-388P\tSpoons\t1\t1\tCS\t8\t1.60\t\u00a0\t1/1000 ct\tDRY\t0.00\t\u00a0\nD03-668P\tWater\t2\t2\tCS\t79\t2.77\t\u00a0\t35/16.9 oz\tDRY\t0.00\t\u00a0\nD19-005P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t100\t19.00\t\u00a0\t1/100 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t15\t15\tCS\t630\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD25-1961P\tFries, Seasoned Waffle Style\t1\t1\tCS\t17\t3.21\t\u00a0\t6/4.5 lb\tFROZEN\t0.00\t\u00a0\nD15-377P\tBoneless Pork Riblets\t41\t0\tCS\t0\t1.14\t\u00a0\t12/5.25 oz\tFROZEN\t0.00\t\u00a0\nD28-015P\tCabbage\t5\t5\tCS\t250\t0.00\t\u00a0\t1/50 lb\tREF\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-358P\tSpicy Chicken Sandwich\t16\t16\tCS\t90\t1.06\t\u00a0\t12/7.52 oz\tFROZEN\t0.00\t\u00a0\nD03-593P\tLemonade\t4\t0\tCS\t0\t2.64\t\u00a0\t9/.5 gal\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nD12-377P\tHand Sanitizer Foam, Refills\t1\t1\tCS\t5\t0.95\t\u00a0\t2/40.5 oz\tDRY\t0.00\t\u00a0\nD20-001P\tPersonal Hygiene, Assorted - BULK TOTE\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t1\t1\tCS\t7\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD15-902P\tChicken Salad\t2\t0\tCS\t0\t1.80\t\u00a0\t2/5lb\tREF\t0.00\t\u00a0\nD08-550P\tCake, White Half Sheet\t1\t1\tCS\t22\t2.20\t\u00a0\t6/59.2 oz\tFROZEN\t0.00\t\u00a0\nP03-007P\tPrime Hydration, Blue Raspberry\t1\t1\tCS\t13\t1.71\t\u00a0\t12/16.9 oz\tDRY\t0.00\t\u00a0\nD01-388P\tSpoons\t1\t1\tCS\t8\t1.60\t\u00a0\t1/1000 ct\tDRY\t0.00\t\u00a0\nD03-668P\tWater\t2\t2\tCS\t79\t2.77\t\u00a0\t35/16.9 oz\tDRY\t0.00\t\u00a0\nD19-005P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t100\t19.00\t\u00a0\t1/100 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t2\t2\tCS\t84\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD25-1961P\tFries, Seasoned Waffle Style\t1\t1\tCS\t17\t3.21\t\u00a0\t6/4.5 lb\tFROZEN\t0.00\t\u00a0\nD28-015P\tCabbage\t5\t5\tCS\t250\t0.00\t\u00a0\t1/50 lb\tREF\t0.00"
   },
   "items": [
     {
       "Item No.": "D06-358P",
       "Description": "Spicy Chicken Sandwich",
-      "Order Qty.": "36",
+      "Order Qty.": "16",
       "Accepted Qty.": "16",
       "UOM": "CS",
       "Gross Weight": "90",
@@ -29,7 +29,7 @@
     {
       "Item No.": "D03-593P",
       "Description": "Lemonade",
-      "Order Qty.": "2",
+      "Order Qty.": "4",
       "Accepted Qty.": "0",
       "UOM": "CS",
       "Gross Weight": "0",
@@ -55,10 +55,10 @@
     {
       "Item No.": "D12-377P",
       "Description": "Hand Sanitizer Foam, Refills",
-      "Order Qty.": "2",
-      "Accepted Qty.": "2",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
       "UOM": "CS",
-      "Gross Weight": "10",
+      "Gross Weight": "5",
       "Packaging Type": "",
       "Pack Size": "2/40.5 oz",
       "Handling Requirements": "DRY",
@@ -81,10 +81,10 @@
     {
       "Item No.": "D12-378P",
       "Description": "Sanitary Disposal Bags",
-      "Order Qty.": "4",
-      "Accepted Qty.": "4",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
       "UOM": "CS",
-      "Gross Weight": "27",
+      "Gross Weight": "7",
       "Packaging Type": "",
       "Pack Size": "1/500 ct",
       "Handling Requirements": "DRY",
@@ -172,10 +172,10 @@
     {
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
-      "Order Qty.": "15",
-      "Accepted Qty.": "15",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
       "UOM": "CS",
-      "Gross Weight": "630",
+      "Gross Weight": "84",
       "Packaging Type": "",
       "Pack Size": "1/42 lb",
       "Handling Requirements": "FROZEN",
@@ -191,19 +191,6 @@
       "Gross Weight": "17",
       "Packaging Type": "",
       "Pack Size": "6/4.5 lb",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D15-377P",
-      "Description": "Boneless Pork Riblets",
-      "Order Qty.": "41",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "12/5.25 oz",
       "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
