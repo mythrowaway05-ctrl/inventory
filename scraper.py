@@ -8,8 +8,20 @@ import json
 import time
 import re
 import os
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from playwright.sync_api import sync_playwright
+
+# Central Time (UTC-5 standard, UTC-6 daylight — use fixed offset or detect)
+def now_central():
+    """Return current datetime in US Central time."""
+    import time as _time
+    # Use UTC and offset by -5 or -6 depending on DST
+    utc_now = datetime.now(timezone.utc)
+    # Simple DST approximation: CDT (UTC-5) Mar-Nov, CST (UTC-6) Nov-Mar
+    month = utc_now.month
+    is_dst = 3 <= month <= 11
+    offset = timedelta(hours=-5 if is_dst else -6)
+    return utc_now.astimezone(timezone(offset))
 
 # ── Credentials (set as environment variables or GitHub Actions secrets) ─────
 USERNAME     = os.environ.get("AE_USERNAME", "")
@@ -39,7 +51,7 @@ item_code_re = re.compile(r'^[A-Z]\d{2}-\d{3,4}[A-Z]?$')
 
 
 def scrape():
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Starting scrape...")
+    print(f"[{now_central().strftime('%Y-%m-%d %H:%M:%S')}] Starting scrape...")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -104,7 +116,7 @@ def scrape():
     # ── 7. Compare with previous run to tag new items ────────
     script_dir   = os.path.dirname(os.path.abspath(__file__))
     prev_path    = os.path.join(script_dir, "previous_items.json")
-    now_iso      = datetime.now().isoformat()
+    now_iso      = now_central().isoformat()
     cutoff_hours = 24
 
     # Load previous new-item timestamps if they exist
@@ -122,7 +134,7 @@ def scrape():
 
     # Carry forward new tags that are less than 24 hours old
     from datetime import timezone
-    now_dt = datetime.now()
+    now_dt = now_central()
     active_new_tags = {}
     for code, ts in prev_new_tags.items():
         try:
@@ -151,7 +163,7 @@ def scrape():
         json.dump({"item_codes": list(current_codes), "new_tags": active_new_tags}, f, indent=2)
 
     # ── 8. Save results ───────────────────────────────────────
-    now = datetime.now()
+    now = now_central()
     output = {
         "updated_at": now.strftime("%B %d, %Y at %I:%M %p"),
         "updated_at_iso": now.isoformat(),
@@ -242,7 +254,7 @@ def scrape_order(page, script_dir):
 
     if not po_number:
         output = {
-            "scraped_at": datetime.now().isoformat(),
+            "scraped_at": now_central().isoformat(),
             "po_number": None,
             "appointment": {},
             "summary": {},
@@ -296,7 +308,7 @@ def scrape_order(page, script_dir):
     print(f"  Order has {len(items)} line items.")
 
     output = {
-        "scraped_at":   datetime.now().isoformat(),
+        "scraped_at":   now_central().isoformat(),
         "po_number":    po_number,
         "appointment":  appointment,
         "summary":      summary,
