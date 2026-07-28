@@ -176,9 +176,9 @@
     .new-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 10px; }
     .new-card { border-radius: 8px; padding: 0.75rem 1rem; }
     .age-0 { background: #E6F1FB; border: 1px solid #378ADD; }
-    .age-1 { background: #EDF5FC; border: 1px solid #85B7EB; }
-    .age-2 { background: #F4F9FE; border: 1px solid #B5D4F4; }
-    .age-3 { background: #F9FCFE; border: 1px solid #d0e6f7; }
+    .age-1 { background: #EEEDFE; border: 1px solid #7F77DD; }
+    .age-2 { background: #FAEEDA; border: 1px solid #BA7517; }
+    .age-3 { background: #FCEBEB; border: 1px solid #E24B4A; }
     .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px; }
     .card-desc { font-size: 0.875rem; font-weight: 500; color: var(--gray-800); }
     .card-time { font-size: 0.7rem; color: var(--gray-500); font-family: var(--mono); white-space: nowrap; margin-left: 8px; }
@@ -186,9 +186,9 @@
     .card-qty { font-family: var(--mono); font-weight: 500; color: var(--green); }
     .age-dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 6px; flex-shrink: 0; margin-top: 5px; }
     .dot-0 { background: #378ADD; }
-    .dot-1 { background: #85B7EB; }
-    .dot-2 { background: #B5D4F4; }
-    .dot-3 { background: #d0e6f7; }
+    .dot-1 { background: #7F77DD; }
+    .dot-2 { background: #BA7517; }
+    .dot-3 { background: #E24B4A; }
     .legend { display: flex; gap: 16px; margin-bottom: 0.75rem; flex-wrap: wrap; }
     .legend-item { display: flex; align-items: center; gap: 5px; font-size: 0.72rem; color: var(--gray-500); }
     .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
@@ -196,15 +196,15 @@
     tr.is-new-0 td:first-child { border-left: 3px solid #378ADD; }
     tr.is-new-0 td { background: #E6F1FB; }
     tr.is-new-0:hover td { background: #dceefa; }
-    tr.is-new-1 td:first-child { border-left: 3px solid #85B7EB; }
-    tr.is-new-1 td { background: #EDF5FC; }
-    tr.is-new-1:hover td { background: #e3f0fb; }
-    tr.is-new-2 td:first-child { border-left: 3px solid #B5D4F4; }
-    tr.is-new-2 td { background: #F4F9FE; }
-    tr.is-new-2:hover td { background: #ebf4fd; }
-    tr.is-new-3 td:first-child { border-left: 3px solid #d0e6f7; }
-    tr.is-new-3 td { background: #F9FCFE; }
-    tr.is-new-3:hover td { background: #f0f8fe; }
+    tr.is-new-1 td:first-child { border-left: 3px solid #7F77DD; }
+    tr.is-new-1 td { background: #EEEDFE; }
+    tr.is-new-1:hover td { background: #e4e2fd; }
+    tr.is-new-2 td:first-child { border-left: 3px solid #BA7517; }
+    tr.is-new-2 td { background: #FAEEDA; }
+    tr.is-new-2:hover td { background: #f5e4c4; }
+    tr.is-new-3 td:first-child { border-left: 3px solid #E24B4A; }
+    tr.is-new-3 td { background: #FCEBEB; }
+    tr.is-new-3:hover td { background: #f8d9d9; }
     .new-divider { border: none; border-top: 1px solid var(--gray-300); margin: 1.25rem 2rem 0; }
     .all-label { padding: 0.75rem 2rem 0.25rem; font-size: 0.72rem; color: var(--gray-500); font-family: var(--mono); letter-spacing: 0.06em; text-transform: uppercase; }
 
@@ -588,9 +588,9 @@
         </div>
         <div class="legend">
           <span class="legend-item"><span class="legend-dot" style="background:#378ADD"></span>Under 2 hours</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#85B7EB"></span>2–6 hours</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#B5D4F4"></span>6–12 hours</span>
-          <span class="legend-item"><span class="legend-dot" style="background:#d0e6f7"></span>12–24 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#7F77DD"></span>2–6 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#BA7517"></span>6–12 hours</span>
+          <span class="legend-item"><span class="legend-dot" style="background:#E24B4A"></span>12–24 hours</span>
         </div>
         ${collapsed ? "" : `<div class="new-grid">${cards}</div>`}
       `;
