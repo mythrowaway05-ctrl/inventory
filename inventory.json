@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 29, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-07-29T11:01:19.616817-05:00",
-  "item_count": 212,
+  "updated_at": "July 29, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-07-29T12:01:34.675264-05:00",
+  "item_count": 213,
   "items": [
     {
       "Available Qty.": "24",
@@ -117,7 +117,7 @@
       "Gross Weight": "350"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "5",
       "Item No.": "D07-792P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
@@ -698,7 +698,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "119",
       "Item No.": "D27-319P",
       "Description": "Cream Style Corn",
       "UOM": "CS",
@@ -965,7 +965,7 @@
       "new_since": "2026-07-28T13:55:41.254222-05:00"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "58",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -1134,7 +1134,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "48",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -1168,6 +1168,16 @@
       "Pack Size": "25/8 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "31",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-07-29T12:01:34.674571-05:00"
     },
     {
       "Available Qty.": "69",
@@ -1494,7 +1504,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "363",
+      "Available Qty.": "341",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1643,7 +1653,7 @@
       "new_since": "2026-07-29T10:01:31.562106-05:00"
     },
     {
-      "Available Qty.": "692",
+      "Available Qty.": "688",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
       "UOM": "CS",
@@ -1653,7 +1663,7 @@
       "new_since": "2026-07-28T21:01:07.299142-05:00"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "68",
       "Item No.": "D12-378P",
       "Description": "Sanitary Disposal Bags 1/500 ct",
       "UOM": "CS",
