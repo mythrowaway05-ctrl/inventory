@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 30, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-07-30T12:01:22.484940-05:00",
-  "item_count": 200,
+  "updated_at": "July 30, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-07-30T13:01:32.900724-05:00",
+  "item_count": 196,
   "items": [
     {
       "Available Qty.": "24",
@@ -194,7 +194,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "32",
       "Item No.": "D28-456P",
       "Description": "Blackberries",
       "UOM": "CS",
@@ -203,7 +203,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "50",
       "Item No.": "D28-1181P",
       "Description": "Blueberries",
       "UOM": "CS",
@@ -565,7 +565,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "72",
       "Item No.": "D28-680P",
       "Description": "Chopped Caesar Salad Kit 6/11.35 oz",
       "UOM": "CS",
@@ -619,7 +619,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "132",
+      "Available Qty.": "129",
       "Item No.": "D27-826P",
       "Description": "Creamed Spinach",
       "UOM": "CS",
@@ -800,7 +800,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "43",
       "Item No.": "D28-679P",
       "Description": "Iceburg Salad 12/12 oz",
       "UOM": "CS",
@@ -926,15 +926,6 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-826P",
-      "Description": "Lettuce, Green Leaf",
-      "UOM": "CS",
-      "Pack Size": "1/18 ct",
-      "Feature Type": "Free Item",
-      "Gross Weight": "22"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D28-726P",
       "Description": "Lettuce, Romaine 1/24 lb",
@@ -949,15 +940,6 @@
       "Description": "Lettuce, Romaine Hearts 6/10 oz",
       "UOM": "CS",
       "Pack Size": "6/10 oz",
-      "Feature Type": "",
-      "Gross Weight": "4"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D28-024P",
-      "Description": "Lettuce, Romaine, Chopped Mix",
-      "UOM": "CS",
-      "Pack Size": "6/9 oz bags",
       "Feature Type": "",
       "Gross Weight": "4"
     },
@@ -1056,7 +1038,7 @@
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "34",
       "Item No.": "D07-619P",
       "Description": "Milk, Salted Caramel 12/14 oz",
       "UOM": "CS",
@@ -1081,8 +1063,7 @@
       "UOM": "CS",
       "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-07-29T12:01:34.674571-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "43",
@@ -1429,22 +1410,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "21",
       "Item No.": "D28-725P",
       "Description": "Romaine Hearts 15/8 oz",
       "UOM": "CS",
       "Pack Size": "15/8 oz",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D28-457P",
-      "Description": "Romaine Hearts, Organic 1/15 ct",
-      "UOM": "CS",
-      "Pack Size": "1/15 ct",
-      "Feature Type": "",
-      "Gross Weight": "24"
     },
     {
       "Available Qty.": "29",
@@ -1672,7 +1644,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "7",
       "Item No.": "D28-690P",
       "Description": "Spring Mix 6/11 oz",
       "UOM": "CS",
@@ -1681,7 +1653,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "3",
       "Item No.": "D28-682P",
       "Description": "Spring Mix, Organic 6/1 lb",
       "UOM": "CS",
@@ -1690,7 +1662,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "11",
       "Item No.": "D28-686P",
       "Description": "Spring Mix, Organic Spinach 6/5.5 oz",
       "UOM": "CS",
@@ -1735,15 +1707,6 @@
       "Feature Type": "",
       "Gross Weight": "38",
       "new_since": "2026-07-30T02:01:21.823816-05:00"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D28-643P",
-      "Description": "Tomatoes 12/2 ct",
-      "UOM": "CS",
-      "Pack Size": "12/2 ct",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "73",
@@ -1791,7 +1754,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "533",
+      "Available Qty.": "530",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
