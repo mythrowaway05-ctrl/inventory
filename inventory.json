@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 30, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-07-30T15:01:19.595288-05:00",
-  "item_count": 197,
+  "updated_at": "July 30, 2026 at 03:47 PM",
+  "updated_at_iso": "2026-07-30T15:47:46.011578-05:00",
+  "item_count": 196,
   "items": [
     {
       "Available Qty.": "24",
@@ -113,7 +113,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "674",
+      "Available Qty.": "639",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -122,7 +122,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "11",
       "Item No.": "D28-145P",
       "Description": "Bananas",
       "UOM": "CS",
@@ -194,7 +194,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "17",
       "Item No.": "D28-456P",
       "Description": "Blackberries",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "1",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "1786",
+      "Available Qty.": "1776",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -311,7 +311,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "51",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -556,7 +556,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "363",
+      "Available Qty.": "359",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -628,7 +628,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "63",
       "Item No.": "D27-083P",
       "Description": "Cut Green Beans",
       "UOM": "CS",
@@ -683,7 +683,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1405",
+      "Available Qty.": "1400",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -756,7 +756,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -774,7 +774,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "38",
       "Item No.": "D12-377P",
       "Description": "Hand Sanitizer Foam, Refills 2/40.5 oz",
       "UOM": "CS",
@@ -792,7 +792,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "262",
+      "Available Qty.": "252",
       "Item No.": "D05-935P",
       "Description": "Hash Browns, Ovals",
       "UOM": "CS",
@@ -819,7 +819,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "775",
+      "Available Qty.": "575",
       "Item No.": "D15-1161P",
       "Description": "Italian Pizza Topping",
       "UOM": "CS",
@@ -999,17 +999,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-152P",
-      "Description": "Milk, Almond 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/.5 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "26",
-      "new_since": "2026-07-30T02:01:21.823816-05:00"
-    },
-    {
-      "Available Qty.": "23",
+      "Available Qty.": "13",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -1019,7 +1009,7 @@
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "4",
       "Item No.": "D07-118P",
       "Description": "Milk, Buttermilk 9/.5 gal",
       "UOM": "CS",
@@ -1029,7 +1019,7 @@
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "15",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -1113,7 +1103,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "390",
+      "Available Qty.": "380",
       "Item No.": "D11-133P",
       "Description": "Mix, Cookie 7/16.8 oz",
       "UOM": "CS",
@@ -1194,7 +1184,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "339",
+      "Available Qty.": "329",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -1276,7 +1266,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "3",
       "Item No.": "D23-759P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -1348,7 +1338,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "242",
+      "Available Qty.": "250",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1764,7 +1754,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "530",
+      "Available Qty.": "520",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
