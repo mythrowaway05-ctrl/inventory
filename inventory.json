@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 30, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-07-30T04:01:13.112586-05:00",
-  "item_count": 209,
+  "updated_at": "July 30, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-07-30T05:01:18.150788-05:00",
+  "item_count": 208,
   "items": [
     {
       "Available Qty.": "24",
@@ -20,16 +20,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-07-29T21:01:18.047803-05:00"
     },
     {
       "Available Qty.": "392",
@@ -312,7 +302,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "52",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -593,7 +583,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "277",
+      "Available Qty.": "302",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -1063,7 +1053,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -1073,7 +1063,7 @@
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "68",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -1093,7 +1083,7 @@
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "25",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
