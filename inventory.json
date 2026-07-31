@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 30, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-07-30T20:01:14.703900-05:00",
-  "item_count": 195,
+  "updated_at": "July 30, 2026 at 09:02 PM",
+  "updated_at_iso": "2026-07-30T21:02:06.542799-05:00",
+  "item_count": 191,
   "items": [
     {
       "Available Qty.": "19",
@@ -41,22 +41,13 @@
       "new_since": "2026-07-30T10:01:23.538540-05:00"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D16-060P",
+      "Available Qty.": "2",
+      "Item No.": "D16-044P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/1150 lbs",
+      "Pack Size": "1/450 lbs",
       "Feature Type": "",
-      "Gross Weight": "1150"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-078P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1440 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1440"
+      "Gross Weight": "450"
     },
     {
       "Available Qty.": "1",
@@ -77,13 +68,22 @@
       "Gross Weight": "275"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D16-044P",
+      "Available Qty.": "4",
+      "Item No.": "D16-060P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/450 lbs",
+      "Pack Size": "1/1150 lbs",
       "Feature Type": "",
-      "Gross Weight": "450"
+      "Gross Weight": "1150"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400"
     },
     {
       "Available Qty.": "1",
@@ -104,15 +104,6 @@
       "Gross Weight": "320"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400"
-    },
-    {
       "Available Qty.": "650",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
@@ -122,7 +113,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "6",
       "Item No.": "D28-145P",
       "Description": "Bananas",
       "UOM": "CS",
@@ -194,7 +185,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "8",
       "Item No.": "D28-456P",
       "Description": "Blackberries",
       "UOM": "CS",
@@ -203,7 +194,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "40",
       "Item No.": "D28-1181P",
       "Description": "Blueberries",
       "UOM": "CS",
@@ -284,7 +275,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1776",
+      "Available Qty.": "1775",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -448,7 +439,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "252",
+      "Available Qty.": "246",
       "Item No.": "D15-588P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -457,7 +448,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "946",
+      "Available Qty.": "942",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -475,7 +466,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "406",
+      "Available Qty.": "401",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
       "UOM": "CS",
@@ -502,7 +493,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "964",
+      "Available Qty.": "960",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -592,7 +583,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "31",
       "Item No.": "D27-319P",
       "Description": "Cream Style Corn",
       "UOM": "CS",
@@ -702,7 +693,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "37",
       "Item No.": "D25-1961P",
       "Description": "Fries, Seasoned Waffle Style 6/4.5 lb",
       "UOM": "CS",
@@ -748,7 +739,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "2210",
+      "Available Qty.": "2206",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -766,7 +757,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "56",
       "Item No.": "D05-821P",
       "Description": "Hash Brown Rounds",
       "UOM": "CS",
@@ -793,7 +784,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "40",
       "Item No.": "D28-679P",
       "Description": "Iceburg Salad 12/12 oz",
       "UOM": "CS",
@@ -937,7 +928,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "12",
       "Item No.": "D28-1223P",
       "Description": "Lettuce, Shredded",
       "UOM": "CS",
@@ -982,23 +973,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "10",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "28",
-      "new_since": "2026-07-30T02:01:21.823816-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D07-118P",
-      "Description": "Milk, Buttermilk 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42",
       "new_since": "2026-07-30T02:01:21.823816-05:00"
     },
     {
@@ -1058,7 +1039,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "35",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1303,7 +1284,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "672",
+      "Available Qty.": "668",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1376,7 +1357,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "467",
+      "Available Qty.": "463",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1412,7 +1393,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "3",
       "Item No.": "D28-956P",
       "Description": "Salad Kit, Apple Feta",
       "UOM": "CS",
@@ -1421,7 +1402,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D28-737P",
       "Description": "Salad Kit, Meditteranean Crunch",
       "UOM": "CS",
@@ -1430,7 +1411,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "10",
       "Item No.": "D28-458P",
       "Description": "Salad Kit, Nashville Hot 8/4.3 oz",
       "UOM": "CS",
@@ -1439,7 +1420,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "61",
       "Item No.": "D28-733P",
       "Description": "Salad Kit, Sunflower Bacon Crunch",
       "UOM": "CS",
@@ -1448,16 +1429,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-347P",
-      "Description": "Salad, Asian Style",
-      "UOM": "CS",
-      "Pack Size": "6/13.4 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "20",
+      "Available Qty.": "19",
       "Item No.": "D28-692P",
       "Description": "Salad, Chopped Sweet Kale",
       "UOM": "CS",
@@ -1466,7 +1438,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "24",
       "Item No.": "D28-697P",
       "Description": "Salad, Eveything Chopped",
       "UOM": "CS",
@@ -1475,7 +1447,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "16",
       "Item No.": "D28-019P",
       "Description": "Salad, Kit, Maple Bourbon Bacon",
       "UOM": "CS",
@@ -1720,16 +1692,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-735P",
-      "Description": "Turnips 12/1 lb",
-      "UOM": "CS",
-      "Pack Size": "12/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-07-30T18:01:23.629129-05:00"
-    },
-    {
       "Available Qty.": "108",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
@@ -1748,7 +1710,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "517",
+      "Available Qty.": "507",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1757,7 +1719,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "666",
+      "Available Qty.": "656",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
