@@ -1,7 +1,7 @@
 {
-  "updated_at": "July 31, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-07-31T17:01:18.395185-05:00",
-  "item_count": 157,
+  "updated_at": "July 31, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-07-31T18:01:15.737182-05:00",
+  "item_count": 159,
   "items": [
     {
       "Available Qty.": "18",
@@ -694,7 +694,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -875,7 +875,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D28-684P",
       "Description": "Lettuce, Romaine Hearts 6/10 oz",
       "UOM": "CS",
@@ -939,7 +939,17 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "45",
+      "Item No.": "D07-1038P",
+      "Description": "Milk, Chocolate 50/8 oz",
+      "UOM": "CS",
+      "Pack Size": "50/8 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "32",
+      "new_since": "2026-07-31T18:01:15.736411-05:00"
+    },
+    {
+      "Available Qty.": "9",
       "Item No.": "D07-815P",
       "Description": "Milk, Chocolate and PB",
       "UOM": "CS",
@@ -1271,7 +1281,7 @@
       "new_since": "2026-07-31T15:01:12.422252-05:00"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "35",
       "Item No.": "D04-254P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -1351,6 +1361,16 @@
       "new_since": "2026-07-31T15:01:12.422252-05:00"
     },
     {
+      "Available Qty.": "20",
+      "Item No.": "P27-089P",
+      "Description": "Spinach, Chopped, LS Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "12/13.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-07-31T18:01:15.736411-05:00"
+    },
+    {
       "Available Qty.": "7",
       "Item No.": "D28-690P",
       "Description": "Spring Mix 6/11 oz",
@@ -1360,7 +1380,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D27-009P",
       "Description": "Sweet Peas",
       "UOM": "CS",
