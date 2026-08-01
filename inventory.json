@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 01, 2026 at 09:03 AM",
-  "updated_at_iso": "2026-08-01T09:03:09.905489-05:00",
-  "item_count": 195,
+  "updated_at": "August 01, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-08-01T10:01:12.626066-05:00",
+  "item_count": 194,
   "items": [
     {
       "Available Qty.": "18",
@@ -104,7 +104,7 @@
       "Gross Weight": "1150"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "19",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
       "UOM": "BULK",
@@ -205,7 +205,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "328",
+      "Available Qty.": "326",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -331,16 +331,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "17",
-      "Item No.": "D07-555P",
-      "Description": "Cheese Wheels 2/5 lb",
-      "UOM": "CS",
-      "Pack Size": "2/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-08-01T02:01:26.862196-05:00"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "D07-514P",
       "Description": "Cheese, Slices",
@@ -351,15 +341,6 @@
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -367,6 +348,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "917",
@@ -459,15 +449,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "216",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "934",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -475,6 +456,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "216",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "187",
@@ -531,7 +521,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "500",
+      "Available Qty.": "498",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -695,7 +685,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "274",
+      "Available Qty.": "272",
       "Item No.": "P06-018P",
       "Description": "Entree, Red Beans and Rice",
       "UOM": "CS",
@@ -777,7 +767,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "23",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -887,7 +877,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "187",
+      "Available Qty.": "185",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -924,7 +914,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "53",
       "Item No.": "D14-121P",
       "Description": "Juice, Cranberry 8/64 oz",
       "UOM": "CS",
@@ -1014,7 +1004,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "23",
       "Item No.": "D25-486P",
       "Description": "Marshmallows",
       "UOM": "CS",
@@ -1032,7 +1022,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "60",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -1042,7 +1032,7 @@
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "28",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -1205,7 +1195,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "224",
+      "Available Qty.": "222",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -1629,7 +1619,7 @@
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "63",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
       "UOM": "CS",
