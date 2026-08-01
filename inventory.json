@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 01, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-01T10:01:12.626066-05:00",
-  "item_count": 194,
+  "updated_at": "August 01, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-01T11:01:28.045223-05:00",
+  "item_count": 193,
   "items": [
     {
       "Available Qty.": "18",
@@ -767,16 +767,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "23",
-      "Item No.": "D07-1072P",
-      "Description": "Half and Half 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-01T02:01:26.862196-05:00"
-    },
-    {
       "Available Qty.": "41",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
@@ -1022,7 +1012,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "12",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -1032,7 +1022,7 @@
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "24",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
