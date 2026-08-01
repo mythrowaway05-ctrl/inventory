@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 01, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-08-01T02:01:26.862865-05:00",
-  "item_count": 197,
+  "updated_at": "August 01, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-01T03:01:14.214162-05:00",
+  "item_count": 196,
   "items": [
     {
       "Available Qty.": "18",
@@ -68,24 +68,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D16-044P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/450 lbs",
-      "Feature Type": "",
-      "Gross Weight": "450"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D16-060P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1150 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1150"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D16-075P",
       "Description": "Assorted Frozen Food - BULK",
@@ -104,6 +86,24 @@
       "Gross Weight": "275"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D16-044P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/450 lbs",
+      "Feature Type": "",
+      "Gross Weight": "450"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D16-060P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/1150 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1150"
+    },
+    {
       "Available Qty.": "20",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
@@ -112,6 +112,15 @@
       "Feature Type": "",
       "Gross Weight": "850",
       "new_since": "2026-08-01T02:01:26.862196-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-795P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/320 lbs",
+      "Feature Type": "",
+      "Gross Weight": "320"
     },
     {
       "Available Qty.": "1",
@@ -131,15 +140,6 @@
       "Pack Size": "1/400 lbs",
       "Feature Type": "",
       "Gross Weight": "400"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-795P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/320 lbs",
-      "Feature Type": "",
-      "Gross Weight": "320"
     },
     {
       "Available Qty.": "566",
@@ -469,11 +469,11 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D15-775P",
-      "Description": "Chicken Wing Sections",
+      "Available Qty.": "224",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/40 lb",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -487,16 +487,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "224",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "192",
+      "Available Qty.": "187",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -907,6 +898,15 @@
       "Gross Weight": "16"
     },
     {
+      "Available Qty.": "187",
+      "Item No.": "D14-117P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "8/64 oz",
+      "Feature Type": "",
+      "Gross Weight": "36"
+    },
+    {
       "Available Qty.": "147",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
@@ -915,15 +915,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "24",
       "new_since": "2026-08-01T02:01:26.862196-05:00"
-    },
-    {
-      "Available Qty.": "187",
-      "Item No.": "D14-117P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "8/64 oz",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "49",
@@ -1303,16 +1294,6 @@
       "new_since": "2026-07-31T15:01:12.422252-05:00"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D23-204P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz jar",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-07-31T15:01:12.422252-05:00"
-    },
-    {
       "Available Qty.": "2717",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
@@ -1320,6 +1301,16 @@
       "Pack Size": "12/18 oz",
       "Feature Type": "",
       "Gross Weight": "15",
+      "new_since": "2026-07-31T15:01:12.422252-05:00"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D23-204P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz jar",
+      "Feature Type": "",
+      "Gross Weight": "14",
       "new_since": "2026-07-31T15:01:12.422252-05:00"
     },
     {
@@ -1815,7 +1806,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "467",
+      "Available Qty.": "457",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
