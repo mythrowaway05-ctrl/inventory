@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 02, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-08-02T08:01:18.738848-05:00",
+  "updated_at": "August 02, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-08-02T09:01:09.895451-05:00",
   "item_count": 193,
   "items": [
     {
@@ -40,7 +40,7 @@
       "Gross Weight": "1160"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D16-013P",
       "Description": "Assorted Canned Foods 10",
       "UOM": "CS",
@@ -59,7 +59,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "57",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "1150"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "15",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
       "UOM": "BULK",
@@ -239,7 +239,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -258,7 +258,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "290",
       "Item No.": "D08-548P",
       "Description": "Cake, Chocolate Layer",
       "UOM": "CS",
@@ -267,7 +267,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "93",
       "Item No.": "D08-550P",
       "Description": "Cake, White Half Sheet",
       "UOM": "CS",
@@ -276,7 +276,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "45",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -285,7 +285,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "92",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -402,7 +402,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D15-378P",
       "Description": "Chicken Liver Fritters",
       "UOM": "CS",
@@ -501,7 +501,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "218",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -564,7 +564,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "245",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -726,7 +726,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "12",
       "Item No.": "D10-103P",
       "Description": "Fruit Cocktail 6/10 can",
       "UOM": "CS",
@@ -771,7 +771,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "39",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -834,7 +834,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "568",
+      "Available Qty.": "548",
       "Item No.": "D15-1161P",
       "Description": "Italian Pizza Topping",
       "UOM": "CS",
@@ -879,7 +879,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "147",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -1311,7 +1311,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "231",
+      "Available Qty.": "233",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1365,7 +1365,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "65",
       "Item No.": "D01-390P",
       "Description": "Resuable Plastic Cups 90/34 oz",
       "UOM": "CS",
@@ -1536,7 +1536,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "870",
+      "Available Qty.": "865",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -1680,7 +1680,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "58",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
