@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 01, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-08-01T21:01:19.067731-05:00",
-  "item_count": 193,
+  "updated_at": "August 01, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-08-01T22:01:21.096263-05:00",
+  "item_count": 194,
   "items": [
     {
       "Available Qty.": "18",
@@ -142,7 +142,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "516",
+      "Available Qty.": "515",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -239,6 +239,16 @@
       "Pack Size": "48/1.3 oz",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D28-015P",
+      "Description": "Cabbage",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-08-01T22:01:21.095672-05:00"
     },
     {
       "Available Qty.": "419",
@@ -867,15 +877,6 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "180",
-      "Item No.": "D14-117P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "8/64 oz",
-      "Feature Type": "",
-      "Gross Weight": "36"
-    },
-    {
       "Available Qty.": "147",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
@@ -884,6 +885,15 @@
       "Feature Type": "Free Item",
       "Gross Weight": "24",
       "new_since": "2026-08-01T02:01:26.862196-05:00"
+    },
+    {
+      "Available Qty.": "180",
+      "Item No.": "D14-117P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "8/64 oz",
+      "Feature Type": "",
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "49",
@@ -1022,7 +1032,7 @@
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "12",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -1103,7 +1113,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D03-1086P",
       "Description": "Mix, Kool-ade Drink 4/48 ct",
       "UOM": "CS",
@@ -1473,7 +1483,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-019P",
       "Description": "Salad, Kit, Maple Bourbon Bacon",
       "UOM": "CS",
