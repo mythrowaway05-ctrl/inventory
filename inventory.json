@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 02, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-02T09:01:09.895451-05:00",
-  "item_count": 193,
+  "updated_at": "August 02, 2026 at 09:48 AM",
+  "updated_at_iso": "2026-08-02T09:48:32.263036-05:00",
+  "item_count": 192,
   "items": [
     {
       "Available Qty.": "18",
@@ -40,16 +40,6 @@
       "Gross Weight": "1160"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D16-013P",
-      "Description": "Assorted Canned Foods 10",
-      "UOM": "CS",
-      "Pack Size": "6/10 Cans",
-      "Feature Type": "",
-      "Gross Weight": "47",
-      "new_since": "2026-08-02T02:01:23.687756-05:00"
-    },
-    {
       "Available Qty.": "334",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -69,30 +59,12 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D16-075P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1340 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1340"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D16-061P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
       "Pack Size": "1/275 lbs",
       "Feature Type": "",
       "Gross Weight": "275"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-044P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/450 lbs",
-      "Feature Type": "",
-      "Gross Weight": "450"
     },
     {
       "Available Qty.": "2",
@@ -104,6 +76,24 @@
       "Gross Weight": "1150"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D16-044P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/450 lbs",
+      "Feature Type": "",
+      "Gross Weight": "450"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D16-075P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/1340 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1340"
+    },
+    {
       "Available Qty.": "15",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
@@ -113,13 +103,13 @@
       "Gross Weight": "850"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-795P",
+      "Available Qty.": "5",
+      "Item No.": "D07-792P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/320 lbs",
+      "Pack Size": "1/400 lbs",
       "Feature Type": "",
-      "Gross Weight": "320"
+      "Gross Weight": "400"
     },
     {
       "Available Qty.": "1",
@@ -131,13 +121,13 @@
       "Gross Weight": "350"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D07-792P",
+      "Available Qty.": "1",
+      "Item No.": "D07-795P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
+      "Pack Size": "1/320 lbs",
       "Feature Type": "",
-      "Gross Weight": "400"
+      "Gross Weight": "320"
     },
     {
       "Available Qty.": "515",
@@ -348,15 +338,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -364,6 +345,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "886",
@@ -456,15 +446,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "216",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "934",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -472,6 +453,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "216",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "187",
@@ -519,15 +509,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "498",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "49",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -535,6 +516,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "498",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "344",
@@ -771,7 +761,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "41",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
