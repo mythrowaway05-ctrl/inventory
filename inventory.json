@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 02, 2026 at 01:15 PM",
-  "updated_at_iso": "2026-08-02T13:15:07.360266-05:00",
-  "item_count": 192,
+  "updated_at": "August 02, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-02T14:01:11.053839-05:00",
+  "item_count": 194,
   "items": [
     {
       "Available Qty.": "18",
@@ -209,6 +209,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D28-614P",
+      "Description": "Blueberries",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt Case",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-08-02T14:01:11.053319-05:00"
     },
     {
       "Available Qty.": "1531",
@@ -455,7 +465,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "216",
+      "Available Qty.": "213",
       "Item No.": "D15-588P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -1436,7 +1446,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "9",
       "Item No.": "D28-692P",
       "Description": "Salad, Chopped Sweet Kale",
       "UOM": "CS",
@@ -1643,6 +1653,16 @@
       "Gross Weight": "4"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D28-682P",
+      "Description": "Spring Mix, Organic 6/1 lb",
+      "UOM": "CS",
+      "Pack Size": "6/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-02T14:01:11.053319-05:00"
+    },
+    {
       "Available Qty.": "61",
       "Item No.": "D04-142P",
       "Description": "Taco Shells, Fried 6",
@@ -1706,7 +1726,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "401",
+      "Available Qty.": "402",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
