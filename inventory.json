@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 02, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-08-02T01:01:17.178444-05:00",
-  "item_count": 194,
+  "updated_at": "August 02, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-02T02:01:23.688349-05:00",
+  "item_count": 196,
   "items": [
     {
       "Available Qty.": "18",
@@ -41,6 +41,16 @@
       "Gross Weight": "1160"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "D16-013P",
+      "Description": "Assorted Canned Foods 10",
+      "UOM": "CS",
+      "Pack Size": "6/10 Cans",
+      "Feature Type": "",
+      "Gross Weight": "47",
+      "new_since": "2026-08-02T02:01:23.687756-05:00"
+    },
+    {
       "Available Qty.": "9",
       "Item No.": "D03-1087P",
       "Description": "Assorted Drink Mix 1/156 ct",
@@ -77,13 +87,13 @@
       "Gross Weight": "1340"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D16-061P",
+      "Available Qty.": "4",
+      "Item No.": "D16-060P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/275 lbs",
+      "Pack Size": "1/1150 lbs",
       "Feature Type": "",
-      "Gross Weight": "275"
+      "Gross Weight": "1150"
     },
     {
       "Available Qty.": "1",
@@ -95,13 +105,13 @@
       "Gross Weight": "450"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D16-060P",
+      "Available Qty.": "1",
+      "Item No.": "D16-061P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/1150 lbs",
+      "Pack Size": "1/275 lbs",
       "Feature Type": "",
-      "Gross Weight": "1150"
+      "Gross Weight": "275"
     },
     {
       "Available Qty.": "16",
@@ -111,6 +121,25 @@
       "Pack Size": "1/850 lbs",
       "Feature Type": "",
       "Gross Weight": "850",
+      "new_since": "2026-08-01T02:01:26.862196-05:00"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-793P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lbs",
+      "Feature Type": "",
+      "Gross Weight": "350",
       "new_since": "2026-08-01T02:01:26.862196-05:00"
     },
     {
@@ -124,22 +153,13 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-793P",
-      "Description": "Assorted Ice Cream - BULK",
+      "Item No.": "D22-042P",
+      "Description": "Assorted Pet Food - BULK 1/980 lb",
       "UOM": "BULK",
-      "Pack Size": "1/350 lbs",
+      "Pack Size": "1/980 lb",
       "Feature Type": "",
-      "Gross Weight": "350",
-      "new_since": "2026-08-01T02:01:26.862196-05:00"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400"
+      "Gross Weight": "980",
+      "new_since": "2026-08-02T02:01:23.687756-05:00"
     },
     {
       "Available Qty.": "515",
@@ -486,7 +506,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "340",
+      "Available Qty.": "342",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
       "UOM": "CS",
@@ -723,7 +743,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "38",
       "Item No.": "D25-1961P",
       "Description": "Fries, Seasoned Waffle Style 6/4.5 lb",
       "UOM": "CS",
@@ -877,6 +897,15 @@
       "Gross Weight": "16"
     },
     {
+      "Available Qty.": "49",
+      "Item No.": "P14-005P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "20"
+    },
+    {
       "Available Qty.": "147",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
@@ -894,15 +923,6 @@
       "Pack Size": "8/64 oz",
       "Feature Type": "",
       "Gross Weight": "36"
-    },
-    {
-      "Available Qty.": "49",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "4",
