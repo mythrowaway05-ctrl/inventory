@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-08-03T15:01:16.897618-05:00",
-  "item_count": 162,
+  "updated_at": "August 03, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-08-03T16:01:21.245288-05:00",
+  "item_count": 160,
   "items": [
     {
       "Available Qty.": "14",
@@ -31,7 +31,7 @@
       "Gross Weight": "1340"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D03-535P",
       "Description": "Assorted Beverages - BULKTOTE 1/1160 lb",
       "UOM": "BULK",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "60",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -274,7 +274,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -283,7 +283,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "174",
+      "Available Qty.": "167",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -301,15 +301,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "20",
-      "Item No.": "D15-774P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
@@ -317,6 +308,15 @@
       "Pack Size": "1/20 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D15-774P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "886",
@@ -353,15 +353,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-378P",
-      "Description": "Chicken Liver Fritters",
-      "UOM": "CS",
-      "Pack Size": "2/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "10"
     },
     {
       "Available Qty.": "127",
@@ -409,15 +400,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "177",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "931",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -432,6 +414,15 @@
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "4/10 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "177",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -454,7 +445,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "252",
+      "Available Qty.": "244",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -508,7 +499,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "79",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -535,7 +526,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "50",
       "Item No.": "D27-826P",
       "Description": "Creamed Spinach",
       "UOM": "CS",
@@ -706,15 +697,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-012P",
-      "Description": "Half and Half 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "28",
       "Item No.": "D12-377P",
       "Description": "Hand Sanitizer Foam, Refills 2/40.5 oz",
@@ -859,6 +841,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "219",
+      "Item No.": "D28-179P",
+      "Description": "Mangos",
+      "UOM": "CS",
+      "Pack Size": "1/8 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-08-03T13:27:15.023660-05:00"
+    },
+    {
       "Available Qty.": "11",
       "Item No.": "D25-486P",
       "Description": "Marshmallows",
@@ -897,15 +889,6 @@
       "new_since": "2026-08-03T15:01:16.897142-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-619P",
-      "Description": "Milk, Salted Caramel 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
-    },
-    {
       "Available Qty.": "19",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -924,7 +907,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "31",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1131,7 +1114,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "620",
+      "Available Qty.": "622",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1149,7 +1132,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "250",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1167,7 +1150,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "477",
+      "Available Qty.": "457",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1311,7 +1294,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "871",
+      "Available Qty.": "866",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -1428,7 +1411,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "353",
+      "Available Qty.": "343",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1437,7 +1420,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "603",
+      "Available Qty.": "583",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
