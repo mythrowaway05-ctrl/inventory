@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 01:27 PM",
-  "updated_at_iso": "2026-08-03T13:27:15.024106-05:00",
-  "item_count": 162,
+  "updated_at": "August 03, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-03T14:01:10.775356-05:00",
+  "item_count": 163,
   "items": [
     {
       "Available Qty.": "14",
@@ -859,7 +859,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "4458",
+      "Available Qty.": "675",
       "Item No.": "D28-179P",
       "Description": "Mangos",
       "UOM": "CS",
@@ -951,7 +951,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1018",
+      "Available Qty.": "1016",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -978,7 +978,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1155",
+      "Available Qty.": "1154",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -1167,7 +1167,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "487",
+      "Available Qty.": "477",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1185,7 +1185,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1006",
+      "Available Qty.": "996",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -1347,7 +1347,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "476",
+      "Available Qty.": "475",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -1374,7 +1374,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "35",
       "Item No.": "D04-142P",
       "Description": "Taco Shells, Fried 6",
       "UOM": "CS",
@@ -1428,7 +1428,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "357",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1454,6 +1454,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "1000",
       "new_since": "2026-08-03T12:01:23.803423-05:00"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D28-160P",
+      "Description": "Watermelon - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/700 Lb. Bulk Tote",
+      "Feature Type": "Free Item",
+      "Gross Weight": "700",
+      "new_since": "2026-08-03T14:01:10.774848-05:00"
     },
     {
       "Available Qty.": "274",
