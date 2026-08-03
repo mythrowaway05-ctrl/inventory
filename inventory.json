@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 02, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-08-02T21:01:15.374875-05:00",
+  "updated_at": "August 02, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-08-02T22:01:15.937402-05:00",
   "item_count": 193,
   "items": [
     {
@@ -209,6 +209,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D28-1181P",
+      "Description": "Blueberries",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-08-02T22:01:15.936820-05:00"
     },
     {
       "Available Qty.": "2",
@@ -860,24 +870,6 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "49",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "147",
-      "Item No.": "D14-011P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "75/4 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "180",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
@@ -885,6 +877,15 @@
       "Pack Size": "8/64 oz",
       "Feature Type": "",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "49",
+      "Item No.": "P14-005P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "4",
