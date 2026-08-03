@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 01:02 PM",
-  "updated_at_iso": "2026-08-03T13:02:12.139743-05:00",
-  "item_count": 161,
+  "updated_at": "August 03, 2026 at 01:27 PM",
+  "updated_at_iso": "2026-08-03T13:27:15.024106-05:00",
+  "item_count": 162,
   "items": [
     {
       "Available Qty.": "14",
@@ -121,7 +121,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "442",
+      "Available Qty.": "432",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -454,7 +454,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "210",
+      "Available Qty.": "252",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -481,7 +481,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "498",
+      "Available Qty.": "488",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -499,7 +499,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "786",
+      "Available Qty.": "783",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -526,7 +526,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "755",
+      "Available Qty.": "750",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -859,6 +859,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "4458",
+      "Item No.": "D28-179P",
+      "Description": "Mangos",
+      "UOM": "CS",
+      "Pack Size": "1/8 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-08-03T13:27:15.023660-05:00"
+    },
+    {
       "Available Qty.": "17",
       "Item No.": "D25-486P",
       "Description": "Marshmallows",
@@ -868,7 +878,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "444",
+      "Available Qty.": "442",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -1148,7 +1158,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "105",
+      "Available Qty.": "100",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1247,7 +1257,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "564",
+      "Available Qty.": "559",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1265,7 +1275,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "187",
+      "Available Qty.": "182",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1328,7 +1338,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "284",
+      "Available Qty.": "282",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1400,7 +1410,7 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "72",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -1409,7 +1419,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "220",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
