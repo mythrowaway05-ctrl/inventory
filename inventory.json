@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-03T16:01:21.245288-05:00",
-  "item_count": 160,
+  "updated_at": "August 03, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-03T17:01:16.675826-05:00",
+  "item_count": 159,
   "items": [
     {
       "Available Qty.": "14",
@@ -29,15 +29,6 @@
       "Pack Size": "1/1340 lb",
       "Feature Type": "",
       "Gross Weight": "1340"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-535P",
-      "Description": "Assorted Beverages - BULKTOTE 1/1160 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1160 lb",
-      "Feature Type": "",
-      "Gross Weight": "1160"
     },
     {
       "Available Qty.": "320",
@@ -86,15 +77,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-795P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/320 lbs",
-      "Feature Type": "",
-      "Gross Weight": "320"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-793P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
@@ -110,6 +92,15 @@
       "Pack Size": "1/400 lbs",
       "Feature Type": "",
       "Gross Weight": "400"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-795P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/320 lbs",
+      "Feature Type": "",
+      "Gross Weight": "320"
     },
     {
       "Available Qty.": "386",
@@ -229,15 +220,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "42",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "92",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -245,6 +227,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "42",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "38",
@@ -274,15 +265,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "167",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -301,15 +283,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -317,6 +290,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "886",
@@ -409,20 +391,20 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "213",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "177",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "213",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -463,15 +445,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "49",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "488",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -479,6 +452,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "49",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "338",
@@ -598,7 +580,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "11",
       "Item No.": "D01-362P",
       "Description": "Empty 16oz Plastic Bottle No Lid",
       "UOM": "CS",
@@ -805,6 +787,16 @@
       "Gross Weight": "21"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D14-090P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "8/64 oz",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-08-03T17:01:16.675326-05:00"
+    },
+    {
       "Available Qty.": "207",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -869,7 +861,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "72",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
