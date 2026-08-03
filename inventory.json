@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-03T14:01:10.775356-05:00",
-  "item_count": 163,
+  "updated_at": "August 03, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-03T15:01:16.897618-05:00",
+  "item_count": 162,
   "items": [
     {
       "Available Qty.": "14",
@@ -40,7 +40,7 @@
       "Gross Weight": "1160"
     },
     {
-      "Available Qty.": "323",
+      "Available Qty.": "320",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "50",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -112,7 +112,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "386",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "803",
+      "Available Qty.": "802",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -292,7 +292,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "18",
       "Item No.": "D07-514P",
       "Description": "Cheese, Slices",
       "UOM": "CS",
@@ -355,7 +355,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D15-378P",
       "Description": "Chicken Liver Fritters",
       "UOM": "CS",
@@ -409,7 +409,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "177",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -643,7 +643,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "991",
+      "Available Qty.": "990",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -652,7 +652,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "24",
       "Item No.": "D25-1961P",
       "Description": "Fries, Seasoned Waffle Style 6/4.5 lb",
       "UOM": "CS",
@@ -859,17 +859,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "675",
-      "Item No.": "D28-179P",
-      "Description": "Mangos",
-      "UOM": "CS",
-      "Pack Size": "1/8 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "8",
-      "new_since": "2026-08-03T13:27:15.023660-05:00"
-    },
-    {
-      "Available Qty.": "17",
+      "Available Qty.": "11",
       "Item No.": "D25-486P",
       "Description": "Marshmallows",
       "UOM": "CS",
@@ -887,7 +877,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "71",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -897,7 +887,17 @@
       "new_since": "2026-08-03T12:01:23.803423-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "8",
+      "Item No.": "D07-118P",
+      "Description": "Milk, Buttermilk 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 Gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "42",
+      "new_since": "2026-08-03T15:01:16.897142-05:00"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D07-619P",
       "Description": "Milk, Salted Caramel 12/14 oz",
       "UOM": "CS",
@@ -906,7 +906,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "19",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -924,7 +924,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "30",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1140,7 +1140,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "662",
+      "Available Qty.": "657",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1302,7 +1302,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "53",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
       "UOM": "CS",
@@ -1428,7 +1428,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "357",
+      "Available Qty.": "353",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1446,17 +1446,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-777P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "1000",
-      "new_since": "2026-08-03T12:01:23.803423-05:00"
-    },
-    {
-      "Available Qty.": "18",
+      "Available Qty.": "15",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
