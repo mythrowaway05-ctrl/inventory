@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 03, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-03T07:01:10.354415-05:00",
-  "item_count": 170,
+  "updated_at": "August 03, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-03T08:01:10.494290-05:00",
+  "item_count": 162,
   "items": [
     {
       "Available Qty.": "18",
@@ -49,31 +49,13 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "60",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
       "Pack Size": "1/17 lb",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D16-060P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/1150 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1150"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-044P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/450 lbs",
-      "Feature Type": "",
-      "Gross Weight": "450"
     },
     {
       "Available Qty.": "1",
@@ -85,6 +67,24 @@
       "Gross Weight": "1340"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D16-044P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/450 lbs",
+      "Feature Type": "",
+      "Gross Weight": "450"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D16-060P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/1150 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1150"
+    },
+    {
       "Available Qty.": "15",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
@@ -92,15 +92,6 @@
       "Pack Size": "1/850 lbs",
       "Feature Type": "",
       "Gross Weight": "850"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400"
     },
     {
       "Available Qty.": "1",
@@ -121,6 +112,15 @@
       "Gross Weight": "320"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400"
+    },
+    {
       "Available Qty.": "500",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
@@ -128,15 +128,6 @@
       "Pack Size": "1/15 lb",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-1070P",
-      "Description": "Assorted beverages - BULK 1/1320 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1320 lb",
-      "Feature Type": "",
-      "Gross Weight": "1320"
     },
     {
       "Available Qty.": "442",
@@ -157,7 +148,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "801",
+      "Available Qty.": "803",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -283,7 +274,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1637",
+      "Available Qty.": "1641",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -292,7 +283,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -526,7 +517,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "281",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -634,7 +625,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "4049",
+      "Available Qty.": "4050",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -697,7 +688,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1807",
+      "Available Qty.": "1812",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -715,7 +706,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "2129",
+      "Available Qty.": "2131",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -724,7 +715,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "29",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -760,15 +751,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-541P",
-      "Description": "Ice Cream 6/1.5 qt",
-      "UOM": "CS",
-      "Pack Size": "6/1.5 qt",
-      "Feature Type": "",
-      "Gross Weight": "10"
-    },
-    {
       "Available Qty.": "1562",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
@@ -776,15 +758,6 @@
       "Pack Size": "6/8 ct",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "37",
-      "Item No.": "D28-679P",
-      "Description": "Iceburg Salad 12/12 oz",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "9"
     },
     {
       "Available Qty.": "548",
@@ -814,15 +787,6 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "49",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "182",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
@@ -830,6 +794,15 @@
       "Pack Size": "8/64 oz",
       "Feature Type": "",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "49",
+      "Item No.": "P14-005P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "4",
@@ -913,7 +886,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "1",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -932,15 +905,6 @@
     },
     {
       "Available Qty.": "5",
-      "Item No.": "D07-815P",
-      "Description": "Milk, Chocolate and PB",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "5",
       "Item No.": "D07-619P",
       "Description": "Milk, Salted Caramel 12/14 oz",
       "UOM": "CS",
@@ -949,16 +913,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "53",
-      "Item No.": "D07-875P",
-      "Description": "Milk, Skim 25/8 oz",
-      "UOM": "CS",
-      "Pack Size": "25/8 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "16"
-    },
-    {
-      "Available Qty.": "27",
+      "Available Qty.": "24",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -967,7 +922,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "28",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -976,7 +931,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "27",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1001,15 +956,6 @@
       "Pack Size": "7/16.8 oz",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-1086P",
-      "Description": "Mix, Kool-ade Drink 4/48 ct",
-      "UOM": "CS",
-      "Pack Size": "4/48 ct",
-      "Feature Type": "",
-      "Gross Weight": "9"
     },
     {
       "Available Qty.": "1022",
@@ -1039,7 +985,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1153",
+      "Available Qty.": "1155",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -1120,7 +1066,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "426",
+      "Available Qty.": "416",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1156,7 +1102,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2691",
+      "Available Qty.": "2693",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -1210,7 +1156,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "233",
+      "Available Qty.": "250",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1237,7 +1183,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "35",
       "Item No.": "D04-254P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -1289,15 +1235,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "14",
-      "Item No.": "D28-1141P",
-      "Description": "Romaine Salad 12/18 oz",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "16"
     },
     {
       "Available Qty.": "687",
@@ -1462,15 +1399,6 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "P19-005P",
-      "Description": "Toilet Tissue",
-      "UOM": "CS",
-      "Pack Size": "24/4 roll",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "58",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
@@ -1507,7 +1435,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "387",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
