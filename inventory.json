@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 04, 2026 at 11:28 AM",
-  "updated_at_iso": "2026-08-04T11:28:11.446139-05:00",
-  "item_count": 161,
+  "updated_at": "August 04, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-04T12:01:27.981133-05:00",
+  "item_count": 159,
   "items": [
     {
       "Available Qty.": "7",
@@ -40,7 +40,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "15",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D16-044P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -85,7 +85,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "260",
+      "Available Qty.": "225",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -436,7 +436,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "334",
+      "Available Qty.": "309",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -482,7 +482,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "20",
       "Item No.": "D27-826P",
       "Description": "Creamed Spinach",
       "UOM": "CS",
@@ -581,7 +581,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "989",
+      "Available Qty.": "985",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -590,7 +590,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "0",
       "Item No.": "D25-1961P",
       "Description": "Fries, Seasoned Waffle Style 6/4.5 lb",
       "UOM": "CS",
@@ -627,7 +627,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -799,15 +799,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-486P",
-      "Description": "Marshmallows",
-      "UOM": "CS",
-      "Pack Size": "12/10 oz",
-      "Feature Type": "",
-      "Gross Weight": "8"
-    },
-    {
       "Available Qty.": "442",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -817,24 +808,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-04T03:01:07.220697-05:00"
-    },
-    {
-      "Available Qty.": "30",
+      "Available Qty.": "27",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
       "Pack Size": "9/.5 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-03T12:01:23.803423-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "18",
@@ -918,7 +898,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "337",
+      "Available Qty.": "291",
       "Item No.": "D28-850P",
       "Description": "Onions",
       "UOM": "CS",
@@ -946,7 +926,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "280",
+      "Available Qty.": "270",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -1081,7 +1061,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "391",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1108,7 +1088,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "35",
       "Item No.": "D04-254P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
