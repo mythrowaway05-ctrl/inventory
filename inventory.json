@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 04, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-08-04T01:01:10.184294-05:00",
-  "item_count": 157,
+  "updated_at": "August 04, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-04T03:01:07.221205-05:00",
+  "item_count": 167,
   "items": [
     {
       "Available Qty.": "14",
@@ -256,22 +256,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "11",
       "Item No.": "D07-514P",
       "Description": "Cheese, Slices",
       "UOM": "CS",
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "20",
@@ -281,6 +272,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "863",
@@ -364,13 +364,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "883",
-      "Item No.": "P15-104P",
+      "Available Qty.": "210",
+      "Item No.": "D15-588P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "177",
@@ -382,13 +382,13 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "210",
-      "Item No.": "D15-588P",
+      "Available Qty.": "883",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "40"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "332",
@@ -427,15 +427,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "488",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "49",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -443,6 +434,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "488",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "336",
@@ -625,6 +625,16 @@
       "Gross Weight": "44"
     },
     {
+      "Available Qty.": "63",
+      "Item No.": "D03-977P",
+      "Description": "Gatorade 28/12 oz",
+      "UOM": "CS",
+      "Pack Size": "28/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
       "Available Qty.": "631",
       "Item No.": "P25-005P",
       "Description": "Graham Crackers",
@@ -769,6 +779,16 @@
       "Gross Weight": "21"
     },
     {
+      "Available Qty.": "28",
+      "Item No.": "D14-010P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D14-090P",
       "Description": "Juice, Orange",
@@ -843,6 +863,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "31",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
       "Available Qty.": "37",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
@@ -888,6 +918,26 @@
       "Pack Size": "9/0.5 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "42"
+    },
+    {
+      "Available Qty.": "52",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D07-131P",
+      "Description": "Milk, Whole 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 Gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "291",
@@ -951,6 +1001,16 @@
       "Pack Size": "220/1.23 oz",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "622",
+      "Item No.": "D28-850P",
+      "Description": "Onions",
+      "UOM": "CS",
+      "Pack Size": "1/25 lb",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "32",
@@ -1259,6 +1319,26 @@
       "Gross Weight": "11"
     },
     {
+      "Available Qty.": "420",
+      "Item No.": "D03-069P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
+      "Available Qty.": "180",
+      "Item No.": "D03-175P",
+      "Description": "Soda 24/16 oz",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "28",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
+    },
+    {
       "Available Qty.": "53",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
@@ -1320,6 +1400,16 @@
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "2299",
+      "Item No.": "D03-1084P",
+      "Description": "Sparkling Water, Flavored 8/12 oz",
+      "UOM": "CS",
+      "Pack Size": "8/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "20",
@@ -1401,6 +1491,16 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D03-1088P",
+      "Description": "Water, Sparkling, Falvored - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/2200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "2200",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "5",
