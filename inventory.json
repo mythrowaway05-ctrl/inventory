@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 04, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-04T10:01:08.953532-05:00",
-  "item_count": 164,
+  "updated_at": "August 04, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-04T11:01:27.405688-05:00",
+  "item_count": 161,
   "items": [
     {
       "Available Qty.": "7",
@@ -40,7 +40,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "60",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -67,7 +67,7 @@
       "Gross Weight": "1150"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "13",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
       "UOM": "BULK",
@@ -85,7 +85,7 @@
       "Gross Weight": "400"
     },
     {
-      "Available Qty.": "292",
+      "Available Qty.": "272",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -220,7 +220,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "18",
       "Item No.": "D25-004P",
       "Description": "Candy",
       "UOM": "CS",
@@ -454,7 +454,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "51",
       "Item No.": "D03-1077P",
       "Description": "Coffee, Iced, Flavored 12/14 oz",
       "UOM": "CS",
@@ -516,15 +516,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D29-156P",
-      "Description": "Dough, Tortilla 1/36 lb",
-      "UOM": "CS",
-      "Pack Size": "1/36 lb",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "821",
@@ -636,7 +627,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -826,7 +817,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "1",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -862,26 +853,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-08-04T03:01:07.220697-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-131P",
-      "Description": "Milk, Whole 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "291",
@@ -947,7 +918,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "440",
+      "Available Qty.": "430",
       "Item No.": "D28-850P",
       "Description": "Onions",
       "UOM": "CS",
@@ -1011,7 +982,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "279",
+      "Available Qty.": "278",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -1137,7 +1108,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "35",
       "Item No.": "D04-254P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -1182,7 +1153,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "449",
+      "Available Qty.": "517",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1477,7 +1448,7 @@
       "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
