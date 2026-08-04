@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-08-04T12:01:27.925047-05:00",
+  "scraped_at": "2026-08-04T13:01:18.937566-05:00",
   "po_number": "PO6303229",
   "appointment": {
     "reference_number": "PO6303229",
     "pickup_date": "08/12/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n18",
-    "Total Line Items": "Gross Weight\n1939 lbs",
+    "Total Due": "Total Line Items\n17",
+    "Total Line Items": "Gross Weight\n2040 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-1077P\tCoffee, Iced, Flavored\t2\t2\tCS\t24\t2.28\t\u00a0\t12/14 oz\tREF\t0.00\t\u00a0\nD03-977P\tGatorade\t25\t25\tCS\t633\t4.55\t\u00a0\t28/12 oz\tDRY\t0.00\t\u00a0\nD08-551P\tCake, White Layer\t1\t1\tCS\t19\t2.81\t\u00a0\t24/12.5 oz\tFROZEN\t0.00\t\u00a0\nD28-179P\tMangos\t6\t0\tCS\t0\t0.00\t\u00a0\t1/8 lb\tREF\t0.00\t\u00a0\nD28-850P\tOnions\t10\t10\tCS\t250\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t2\t2\tCS\t14\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD22-053P\tAssorted Pet Food -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD15-588P\tChicken Wings\t6\t6\tCS\t240\t7.60\t\u00a0\t4/10 lb bags\tFROZEN\t0.00\t\u00a0\nD27-826P\tCreamed Spinach\t5\t5\tCS\t24\t0.89\t\u00a0\t7/10.8 oz\tFROZEN\t0.00\t\u00a0\nD25-1842P\tTwinkies\t4\t4\tCS\t25\t1.18\t\u00a0\t6/10 ct\tDRY\t0.00\t\u00a0\nD25-1502P\tGolden Oreos\t2\t2\tCS\t16\t1.40\t\u00a0\t6/18.12 oz\tDRY\t0.00\t\u00a0\nD14-022P\tJuice, Cherry Apple\t2\t2\tCS\t76\t3.80\t\u00a0\t8/64 oz\tDRY\t0.00\t\u00a0\nD25-1416P\tCheese Danish\t8\t8\tCS\t88\t1.98\t\u00a0\t6/6 ct\tDRY\t0.00\t\u00a0\nD08-549P\tCake, White Layer\t1\t1\tCS\t18\t3.42\t\u00a0\t12/24.1 oz\tFROZEN\t0.00\t\u00a0\nD03-478P\tCapri Sun\t6\t6\tCS\t103\t3.27\t\u00a0\t4-10/6 oz\tDRY\t0.00\t\u00a0\nD11-133P\tMix, Cookie\t2\t2\tCS\t16\t1.52\t\u00a0\t7/16.8 oz\tDRY\t0.00\t\u00a0\nD03-1086P\tMix, Kool-ade Drink\t4\t4\tCS\t37\t1.75\t\u00a0\t4/48 ct\tDRY\t0.00\t\u00a0\nD01-390P\tResuable Plastic Cups\t3\t3\tCS\t56\t3.52\t\u00a0\t90/34 oz\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-1077P\tCoffee, Iced, Flavored\t2\t2\tCS\t24\t2.28\t\u00a0\t12/14 oz\tREF\t0.00\t\u00a0\nD03-977P\tGatorade\t29\t29\tCS\t734\t4.55\t\u00a0\t28/12 oz\tDRY\t0.00\t\u00a0\nD08-551P\tCake, White Layer\t1\t1\tCS\t19\t2.81\t\u00a0\t24/12.5 oz\tFROZEN\t0.00\t\u00a0\nD28-850P\tOnions\t10\t10\tCS\t250\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t2\t2\tCS\t14\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD22-053P\tAssorted Pet Food -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD15-588P\tChicken Wings\t6\t6\tCS\t240\t7.60\t\u00a0\t4/10 lb bags\tFROZEN\t0.00\t\u00a0\nD27-826P\tCreamed Spinach\t5\t5\tCS\t24\t0.89\t\u00a0\t7/10.8 oz\tFROZEN\t0.00\t\u00a0\nD25-1842P\tTwinkies\t4\t4\tCS\t25\t1.18\t\u00a0\t6/10 ct\tDRY\t0.00\t\u00a0\nD25-1502P\tGolden Oreos\t2\t2\tCS\t16\t1.40\t\u00a0\t6/18.12 oz\tDRY\t0.00\t\u00a0\nD08-549P\tCake, White Layer\t1\t1\tCS\t18\t3.42\t\u00a0\t12/24.1 oz\tFROZEN\t0.00\t\u00a0\nD03-478P\tCapri Sun\t6\t6\tCS\t103\t3.27\t\u00a0\t4-10/6 oz\tDRY\t0.00\t\u00a0\nD25-1416P\tCheese Danish\t8\t8\tCS\t88\t1.98\t\u00a0\t6/6 ct\tDRY\t0.00\t\u00a0\nD11-133P\tMix, Cookie\t2\t2\tCS\t16\t1.52\t\u00a0\t7/16.8 oz\tDRY\t0.00\t\u00a0\nD03-1086P\tMix, Kool-ade Drink\t4\t4\tCS\t37\t1.75\t\u00a0\t4/48 ct\tDRY\t0.00\t\u00a0\nD01-390P\tResuable Plastic Cups\t3\t3\tCS\t56\t3.52\t\u00a0\t90/34 oz\tDRY\t0.00\t\u00a0\nD14-022P\tJuice, Cherry Apple\t2\t2\tCS\t76\t3.80\t\u00a0\t8/64 oz\tDRY\t0.00"
   },
   "items": [
     {
@@ -29,10 +29,10 @@
     {
       "Item No.": "D03-977P",
       "Description": "Gatorade",
-      "Order Qty.": "25",
-      "Accepted Qty.": "25",
+      "Order Qty.": "29",
+      "Accepted Qty.": "29",
       "UOM": "CS",
-      "Gross Weight": "633",
+      "Gross Weight": "734",
       "Packaging Type": "",
       "Pack Size": "28/12 oz",
       "Handling Requirements": "DRY",
@@ -49,19 +49,6 @@
       "Packaging Type": "",
       "Pack Size": "24/12.5 oz",
       "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D28-179P",
-      "Description": "Mangos",
-      "Order Qty.": "6",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "1/8 lb",
-      "Handling Requirements": "REF",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -157,32 +144,6 @@
       "Nutritional Information": ""
     },
     {
-      "Item No.": "D14-022P",
-      "Description": "Juice, Cherry Apple",
-      "Order Qty.": "2",
-      "Accepted Qty.": "2",
-      "UOM": "CS",
-      "Gross Weight": "76",
-      "Packaging Type": "",
-      "Pack Size": "8/64 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D25-1416P",
-      "Description": "Cheese Danish",
-      "Order Qty.": "8",
-      "Accepted Qty.": "8",
-      "UOM": "CS",
-      "Gross Weight": "88",
-      "Packaging Type": "",
-      "Pack Size": "6/6 ct",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
       "Order Qty.": "1",
@@ -204,6 +165,19 @@
       "Gross Weight": "103",
       "Packaging Type": "",
       "Pack Size": "4-10/6 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D25-1416P",
+      "Description": "Cheese Danish",
+      "Order Qty.": "8",
+      "Accepted Qty.": "8",
+      "UOM": "CS",
+      "Gross Weight": "88",
+      "Packaging Type": "",
+      "Pack Size": "6/6 ct",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
@@ -243,6 +217,19 @@
       "Gross Weight": "56",
       "Packaging Type": "",
       "Pack Size": "90/34 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D14-022P",
+      "Description": "Juice, Cherry Apple",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "76",
+      "Packaging Type": "",
+      "Pack Size": "8/64 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
