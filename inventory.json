@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 04, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-04T06:01:16.620831-05:00",
-  "item_count": 167,
+  "updated_at": "August 04, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-04T07:01:20.095245-05:00",
+  "item_count": 170,
   "items": [
     {
       "Available Qty.": "14",
@@ -76,7 +76,7 @@
       "Gross Weight": "850"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D07-792P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
@@ -256,13 +256,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D07-514P",
-      "Description": "Cheese, Slices",
+      "Available Qty.": "0",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
-      "Pack Size": "4/5 lb",
+      "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "21"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "20",
@@ -272,15 +272,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "863",
@@ -364,20 +355,20 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "210",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "177",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "210",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -463,13 +454,23 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "111",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
       "Pack Size": "6/48 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "D03-1077P",
+      "Description": "Coffee, Iced, Flavored 12/14 oz",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-08-04T07:01:20.094909-05:00"
     },
     {
       "Available Qty.": "65",
@@ -589,7 +590,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "112",
       "Item No.": "D03-672P",
       "Description": "Frappuccino, No Added Sugar Glass Bottle",
       "UOM": "CS",
@@ -779,14 +780,14 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "27",
-      "Item No.": "D14-010P",
-      "Description": "Juice, Orange",
+      "Available Qty.": "48",
+      "Item No.": "D14-124P",
+      "Description": "Juice, Naked Green Machine",
       "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-04T03:01:07.220697-05:00"
+      "Pack Size": "8/10 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-04T07:01:20.094909-05:00"
     },
     {
       "Available Qty.": "0",
@@ -797,6 +798,16 @@
       "Feature Type": "",
       "Gross Weight": "36",
       "new_since": "2026-08-03T17:01:16.675326-05:00"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D14-010P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "207",
@@ -835,7 +846,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "450",
       "Item No.": "D28-179P",
       "Description": "Mangos",
       "UOM": "CS",
@@ -902,22 +913,13 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "23",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "31",
-      "Item No.": "D07-871P",
-      "Description": "Milk, Skim 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/0.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42"
     },
     {
       "Available Qty.": "50",
@@ -1339,6 +1341,36 @@
       "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
+      "Available Qty.": "40",
+      "Item No.": "D03-925P",
+      "Description": "Soda, Diet",
+      "UOM": "CS",
+      "Pack Size": "3-8/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-08-04T07:01:20.094909-05:00"
+    },
+    {
+      "Available Qty.": "83",
+      "Item No.": "D03-005P",
+      "Description": "Soda, Zero Sugar",
+      "UOM": "CS",
+      "Pack Size": "30/7.5 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "16",
+      "new_since": "2026-08-04T07:01:20.094909-05:00"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D03-930P",
+      "Description": "Soda, Zero Sugar 24/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "24/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "34",
+      "new_since": "2026-08-04T07:01:20.094909-05:00"
+    },
+    {
       "Available Qty.": "53",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
@@ -1503,7 +1535,7 @@
       "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "1",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
