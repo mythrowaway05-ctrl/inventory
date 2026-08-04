@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 04, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-04T14:01:12.707675-05:00",
-  "item_count": 136,
+  "updated_at": "August 04, 2026 at 03:03 PM",
+  "updated_at_iso": "2026-08-04T15:03:42.238904-05:00",
+  "item_count": 134,
   "items": [
     {
       "Available Qty.": "7",
@@ -40,7 +40,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "60",
       "Item No.": "P16-001P",
       "Description": "Assorted Food Box",
       "UOM": "CS",
@@ -193,15 +193,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "87",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -211,13 +202,13 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-004P",
-      "Description": "Candy",
+      "Available Qty.": "31",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
       "UOM": "CS",
-      "Pack Size": "2/12 ct",
+      "Pack Size": "24/12.5 oz",
       "Feature Type": "",
-      "Gross Weight": "4"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "4",
@@ -247,15 +238,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -263,6 +245,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "863",
@@ -346,20 +337,20 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "190",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "171",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "190",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -609,7 +600,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -880,7 +871,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "249",
+      "Available Qty.": "248",
       "Item No.": "D28-850P",
       "Description": "Onions",
       "UOM": "CS",
@@ -1070,7 +1061,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "35",
       "Item No.": "D04-254P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -1122,16 +1113,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "1942",
-      "Item No.": "D03-1084P",
-      "Description": "Sparkling Water, Flavored 8/12 oz",
-      "UOM": "CS",
-      "Pack Size": "8/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "20",
