@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 05, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-05T10:01:09.362488-05:00",
-  "item_count": 149,
+  "updated_at": "August 05, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-05T11:01:08.987036-05:00",
+  "item_count": 150,
   "items": [
     {
       "Available Qty.": "7",
@@ -364,7 +364,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "296",
+      "Available Qty.": "310",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
       "UOM": "CS",
@@ -661,7 +661,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "31",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -976,7 +976,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "534",
+      "Available Qty.": "374",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1357,6 +1357,16 @@
       "Pack Size": "1/2200 lbs",
       "Feature Type": "",
       "Gross Weight": "2200"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-160P",
+      "Description": "Watermelon - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/700 Lb. Bulk Tote",
+      "Feature Type": "Free Item",
+      "Gross Weight": "700",
+      "new_since": "2026-08-05T08:01:10.082013-05:00"
     },
     {
       "Available Qty.": "189",
