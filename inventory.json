@@ -1,8 +1,18 @@
 {
-  "updated_at": "August 05, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-05T16:01:14.937567-05:00",
-  "item_count": 144,
+  "updated_at": "August 05, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-05T17:01:05.517376-05:00",
+  "item_count": 146,
   "items": [
+    {
+      "Available Qty.": "19",
+      "Item No.": "D15-819P",
+      "Description": "8 Piece Cut Chicken",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50",
+      "new_since": "2026-08-05T17:01:05.516799-05:00"
+    },
     {
       "Available Qty.": "7",
       "Item No.": "P10-014P",
@@ -175,15 +185,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "27",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "81",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -191,6 +192,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "27",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "2",
@@ -220,15 +230,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -236,6 +237,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "827",
@@ -319,6 +329,15 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "878",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
+    },
+    {
       "Available Qty.": "142",
       "Item No.": "D15-588P",
       "Description": "Chicken Wings",
@@ -335,15 +354,6 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "878",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "290",
@@ -364,7 +374,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "161",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -382,15 +392,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "39",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "458",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -398,6 +399,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "39",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "305",
@@ -434,6 +444,16 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D27-826P",
+      "Description": "Creamed Spinach",
+      "UOM": "CS",
+      "Pack Size": "7/10.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-05T17:01:05.516799-05:00"
     },
     {
       "Available Qty.": "1",
@@ -931,7 +951,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "1194",
+      "Available Qty.": "1193",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1268,7 +1288,7 @@
       "new_since": "2026-08-05T02:01:17.591073-05:00"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "104",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1295,16 +1315,6 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "32",
-      "Item No.": "D28-772P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/780 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "780",
-      "new_since": "2026-08-05T12:01:35.934622-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
@@ -1315,7 +1325,17 @@
       "new_since": "2026-08-05T08:01:10.082013-05:00"
     },
     {
-      "Available Qty.": "189",
+      "Available Qty.": "32",
+      "Item No.": "D28-772P",
+      "Description": "Watermelon - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/780 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "780",
+      "new_since": "2026-08-05T12:01:35.934622-05:00"
+    },
+    {
+      "Available Qty.": "232",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
