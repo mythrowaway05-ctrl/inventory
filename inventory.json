@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 05, 2026 at 01:15 AM",
-  "updated_at_iso": "2026-08-05T01:15:26.165641-05:00",
-  "item_count": 134,
+  "updated_at": "August 05, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-05T02:01:17.591399-05:00",
+  "item_count": 139,
   "items": [
     {
       "Available Qty.": "7",
@@ -518,7 +518,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "90",
       "Item No.": "P15-084P",
       "Description": "Drumstick Fritters, Crunchy Coated",
       "UOM": "CS",
@@ -726,7 +726,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D14-124P",
       "Description": "Juice, Naked Green Machine",
       "UOM": "CS",
@@ -734,6 +734,16 @@
       "Feature Type": "",
       "Gross Weight": "6",
       "new_since": "2026-08-04T07:01:20.094909-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D14-090P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "8/64 oz",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-08-05T02:01:17.591073-05:00"
     },
     {
       "Available Qty.": "195",
@@ -1106,13 +1116,43 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "557",
+      "Available Qty.": "625",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
+    },
+    {
+      "Available Qty.": "475",
+      "Item No.": "P06-028P",
+      "Description": "Soup, Tomato, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.7 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-08-05T02:01:17.591073-05:00"
+    },
+    {
+      "Available Qty.": "475",
+      "Item No.": "P06-029P",
+      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.6 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-08-05T02:01:17.591073-05:00"
+    },
+    {
+      "Available Qty.": "1942",
+      "Item No.": "D03-1084P",
+      "Description": "Sparkling Water, Flavored 8/12 oz",
+      "UOM": "CS",
+      "Pack Size": "8/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-04T03:01:07.220697-05:00"
     },
     {
       "Available Qty.": "5",
@@ -1133,7 +1173,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "59",
       "Item No.": "D25-956P",
       "Description": "Tater Tots",
       "UOM": "CS",
@@ -1176,6 +1216,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D03-741P",
+      "Description": "Water - Bulk Tote",
+      "UOM": "BULK",
+      "Pack Size": "1/1100 LB",
+      "Feature Type": "",
+      "Gross Weight": "1100",
+      "new_since": "2026-08-05T02:01:17.591073-05:00"
     },
     {
       "Available Qty.": "273",
