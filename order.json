@@ -1,18 +1,57 @@
 {
-  "scraped_at": "2026-08-06T10:01:14.038581-05:00",
+  "scraped_at": "2026-08-06T18:04:11.077979-05:00",
   "po_number": "PO6303229",
   "appointment": {
     "reference_number": "PO6303229",
     "pickup_date": "08/12/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n23",
-    "Total Line Items": "Gross Weight\n4998 lbs",
+    "Total Due": "Total Line Items\n26",
+    "Total Line Items": "Gross Weight\n5073 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-741P\tWater - Bulk Tote\t1\t1\tBULK\t1100\t66.00\t\u00a0\t1/1100 LB\tDRY\t0.00\t\u00a0\nD14-011P\tJuice, Apple\t4\t4\tCS\t98\t0.00\t\u00a0\t75/4 oz\tREF\t0.00\t\u00a0\nD03-1077P\tCoffee, Iced, Flavored\t2\t2\tCS\t24\t2.28\t\u00a0\t12/14 oz\tREF\t0.00\t\u00a0\nD03-977P\tGatorade\t29\t29\tCS\t734\t4.55\t\u00a0\t28/12 oz\tDRY\t0.00\t\u00a0\nD08-551P\tCake, White Layer\t1\t1\tCS\t19\t2.81\t\u00a0\t24/12.5 oz\tFROZEN\t0.00\t\u00a0\nD28-850P\tOnions\t6\t6\tCS\t150\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t2\t2\tCS\t14\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD22-053P\tAssorted Pet Food -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD15-588P\tChicken Wings\t6\t6\tCS\t240\t7.60\t\u00a0\t4/10 lb bags\tFROZEN\t0.00\t\u00a0\nD25-1842P\tTwinkies\t4\t4\tCS\t25\t1.18\t\u00a0\t6/10 ct\tDRY\t0.00\t\u00a0\nD25-1502P\tGolden Oreos\t2\t2\tCS\t16\t1.40\t\u00a0\t6/18.12 oz\tDRY\t0.00\t\u00a0\nD03-478P\tCapri Sun\t6\t6\tCS\t103\t3.27\t\u00a0\t4-10/6 oz\tDRY\t0.00\t\u00a0\nD25-1416P\tCheese Danish\t8\t8\tCS\t88\t1.98\t\u00a0\t6/6 ct\tDRY\t0.00\t\u00a0\nD27-826P\tCreamed Spinach\t2\t2\tCS\t9\t0.89\t\u00a0\t7/10.8 oz\tFROZEN\t0.00\t\u00a0\nD03-1086P\tMix, Kool-ade Drink\t4\t4\tCS\t37\t1.75\t\u00a0\t4/48 ct\tDRY\t0.00\t\u00a0\nD03-668P\tWater\t8\t8\tCS\t317\t2.77\t\u00a0\t35/16.9 oz\tDRY\t0.00\t\u00a0\nD25-418P\tFries, Crinkle Cut\t7\t7\tCS\t224\t3.84\t\u00a0\t5/6 lb\tFROZEN\t0.00\t\u00a0\nD15-776P\tChicken Breast Tenderloins\t5\t5\tCS\t100\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t19\t19\tCS\t798\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD01-390P\tResuable Plastic Cups\t3\t3\tCS\t56\t3.52\t\u00a0\t90/34 oz\tDRY\t0.00\t\u00a0\nD14-022P\tJuice, Cherry Apple\t1\t1\tCS\t38\t3.80\t\u00a0\t8/64 oz\tDRY\t0.00\t\u00a0\nD28-767P\tPotatoes, Sweet\t11\t11\tCS\t440\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\t\u00a0\nD01-389P\tPaper Food Bucket\t2\t2\tCS\t68\t6.46\t\u00a0\t1/450 ct\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nPSC05-022P\tSC - Cereal, Fruit Rings Family Size\t1\t0\tCS\t11\t0.00\tCase\t10/17.63oz\tDry\t0.00\t\u00a0\nPSC05-012P\tSC - Cereal, Frosted Flakes\t1\t0\tCS\t12\t0.00\tCase\t10/17.63 oz box\tDry\t0.00\t\u00a0\nD27-017P\tGreen Beans\t2\t0\tCS\t52\t4.94\tCase\t24/15 oz\tDry\t0.00\t\u00a0\nD03-741P\tWater - Bulk Tote\t1\t1\tBULK\t1100\t66.00\t\u00a0\t1/1100 LB\tDRY\t0.00\t\u00a0\nD14-011P\tJuice, Apple\t4\t4\tCS\t98\t0.00\t\u00a0\t75/4 oz\tREF\t0.00\t\u00a0\nD03-1077P\tCoffee, Iced, Flavored\t2\t2\tCS\t24\t2.28\t\u00a0\t12/14 oz\tREF\t0.00\t\u00a0\nD03-977P\tGatorade\t29\t29\tCS\t734\t4.55\t\u00a0\t28/12 oz\tDRY\t0.00\t\u00a0\nD08-551P\tCake, White Layer\t1\t1\tCS\t19\t2.81\t\u00a0\t24/12.5 oz\tFROZEN\t0.00\t\u00a0\nD28-850P\tOnions\t6\t6\tCS\t150\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t2\t2\tCS\t14\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD22-053P\tAssorted Pet Food -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD15-588P\tChicken Wings\t6\t6\tCS\t240\t7.60\t\u00a0\t4/10 lb bags\tFROZEN\t0.00\t\u00a0\nD25-1842P\tTwinkies\t4\t4\tCS\t25\t1.18\t\u00a0\t6/10 ct\tDRY\t0.00\t\u00a0\nD25-1502P\tGolden Oreos\t2\t2\tCS\t16\t1.40\t\u00a0\t6/18.12 oz\tDRY\t0.00\t\u00a0\nD03-478P\tCapri Sun\t6\t6\tCS\t103\t3.27\t\u00a0\t4-10/6 oz\tDRY\t0.00\t\u00a0\nD25-1416P\tCheese Danish\t8\t8\tCS\t88\t1.98\t\u00a0\t6/6 ct\tDRY\t0.00\t\u00a0\nD27-826P\tCreamed Spinach\t2\t2\tCS\t9\t0.89\t\u00a0\t7/10.8 oz\tFROZEN\t0.00\t\u00a0\nD03-1086P\tMix, Kool-ade Drink\t4\t4\tCS\t37\t1.75\t\u00a0\t4/48 ct\tDRY\t0.00\t\u00a0\nD03-668P\tWater\t8\t8\tCS\t317\t2.77\t\u00a0\t35/16.9 oz\tDRY\t0.00\t\u00a0\nD25-418P\tFries, Crinkle Cut\t7\t7\tCS\t224\t3.84\t\u00a0\t5/6 lb\tFROZEN\t0.00\t\u00a0\nD15-776P\tChicken Breast Tenderloins\t5\t5\tCS\t100\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t19\t19\tCS\t798\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD01-390P\tResuable Plastic Cups\t3\t3\tCS\t56\t3.52\t\u00a0\t90/34 oz\tDRY\t0.00\t\u00a0\nD14-022P\tJuice, Cherry Apple\t1\t1\tCS\t38\t3.80\t\u00a0\t8/64 oz\tDRY\t0.00\t\u00a0\nD28-767P\tPotatoes, Sweet\t11\t11\tCS\t440\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\t\u00a0\nD01-389P\tPaper Food Bucket\t2\t2\tCS\t68\t6.46\t\u00a0\t1/450 ct\tDRY\t0.00"
   },
   "items": [
+    {
+      "Item No.": "PSC05-022P",
+      "Description": "SC - Cereal, Fruit Rings Family Size",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "11",
+      "Packaging Type": "Case",
+      "Pack Size": "10/17.63oz",
+      "Handling Requirements": "Dry",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "PSC05-012P",
+      "Description": "SC - Cereal, Frosted Flakes",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "12",
+      "Packaging Type": "Case",
+      "Pack Size": "10/17.63 oz box",
+      "Handling Requirements": "Dry",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D27-017P",
+      "Description": "Green Beans",
+      "Order Qty.": "2",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "52",
+      "Packaging Type": "Case",
+      "Pack Size": "24/15 oz",
+      "Handling Requirements": "Dry",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
     {
       "Item No.": "D03-741P",
       "Description": "Water - Bulk Tote",
