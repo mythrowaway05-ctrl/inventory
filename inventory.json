@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 06, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-06T07:01:06.961796-05:00",
-  "item_count": 151,
+  "updated_at": "August 06, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-06T08:01:19.044571-05:00",
+  "item_count": 150,
   "items": [
     {
       "Available Qty.": "116",
@@ -203,7 +203,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1503",
+      "Available Qty.": "1502",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -546,7 +546,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1711",
+      "Available Qty.": "1712",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -564,7 +564,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "2040",
+      "Available Qty.": "2042",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -747,16 +747,6 @@
       "new_since": "2026-08-06T02:01:09.389836-05:00"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D07-1056P",
-      "Description": "Milk, 2% 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
-    },
-    {
       "Available Qty.": "67",
       "Item No.": "D07-875P",
       "Description": "Milk, Skim 25/8 oz",
@@ -903,7 +893,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "273",
+      "Available Qty.": "270",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -1002,7 +992,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "879",
+      "Available Qty.": "874",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1020,7 +1010,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "398",
+      "Available Qty.": "400",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1048,7 +1038,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "949",
+      "Available Qty.": "952",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -1057,7 +1047,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1334",
+      "Available Qty.": "1337",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1084,7 +1074,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "649",
+      "Available Qty.": "650",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1223,7 +1213,7 @@
       "new_since": "2026-08-05T10:01:09.362076-05:00"
     },
     {
-      "Available Qty.": "865",
+      "Available Qty.": "866",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -1350,7 +1340,7 @@
       "Gross Weight": "1100"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "64",
       "Item No.": "D03-668P",
       "Description": "Water 35/16.9 oz",
       "UOM": "CS",
@@ -1377,14 +1367,13 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/700 Lb. Bulk Tote",
       "Feature Type": "Free Item",
-      "Gross Weight": "700",
-      "new_since": "2026-08-05T08:01:10.082013-05:00"
+      "Gross Weight": "700"
     },
     {
       "Available Qty.": "741",
