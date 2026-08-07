@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 06, 2026 at 06:04 PM",
-  "updated_at_iso": "2026-08-06T18:04:11.125621-05:00",
-  "item_count": 147,
+  "updated_at": "August 06, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-08-06T19:01:36.830539-05:00",
+  "item_count": 146,
   "items": [
     {
       "Available Qty.": "111",
@@ -185,15 +185,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "82",
-      "Item No.": "D08-549P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "12/24.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "22",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
@@ -201,6 +192,15 @@
       "Pack Size": "24/12.5 oz",
       "Feature Type": "",
       "Gross Weight": "19"
+    },
+    {
+      "Available Qty.": "82",
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "12/24.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "1485",
@@ -221,15 +221,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -237,6 +228,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "826",
@@ -320,15 +320,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "132",
-      "Item No.": "D15-588P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "874",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -343,6 +334,15 @@
       "Description": "Chicken Wings",
       "UOM": "CS",
       "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "132",
+      "Item No.": "D15-588P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
     },
@@ -383,15 +383,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "39",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "446",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -399,6 +390,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "39",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "305",
@@ -719,7 +719,7 @@
       "new_since": "2026-08-06T02:01:09.389836-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -799,16 +799,6 @@
       "Pack Size": "220/1.23 oz",
       "Feature Type": "",
       "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "P05-042P",
-      "Description": "Oatmeal, Instant, Maple and Brown Sugar",
-      "UOM": "CS",
-      "Pack Size": "220/1.23 oz",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
     },
     {
       "Available Qty.": "30",
@@ -1330,7 +1320,7 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "6",
       "Item No.": "D28-772P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
