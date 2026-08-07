@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 07, 2026 at 01:13 AM",
-  "updated_at_iso": "2026-08-07T01:13:15.916529-05:00",
+  "updated_at": "August 07, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-07T02:01:17.678052-05:00",
   "item_count": 146,
   "items": [
     {
@@ -185,15 +185,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "18",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "76",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -201,6 +192,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "1485",
@@ -320,15 +320,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "874",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "161",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -336,6 +327,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "874",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "132",
@@ -614,8 +614,7 @@
       "UOM": "CS",
       "Pack Size": "75/4 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "24",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "171",
@@ -660,8 +659,7 @@
       "UOM": "CS",
       "Pack Size": "75/4 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "24",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "184",
@@ -715,8 +713,7 @@
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "0",
@@ -734,8 +731,7 @@
       "UOM": "CS",
       "Pack Size": "25/8 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "16",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "269",
@@ -978,8 +974,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb Case",
       "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-08-06T02:01:09.389836-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "397",
