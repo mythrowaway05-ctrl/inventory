@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 07, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-07T14:01:12.122330-05:00",
+  "updated_at": "August 07, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-07T15:01:20.504315-05:00",
   "item_count": 154,
   "items": [
     {
@@ -340,7 +340,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "0",
       "Item No.": "D15-588P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -670,7 +670,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "0",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -716,7 +716,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "0",
       "Item No.": "D14-007P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -780,7 +780,7 @@
       "new_since": "2026-08-07T09:35:10.685003-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -917,7 +917,7 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "317",
+      "Available Qty.": "300",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -1035,7 +1035,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "684",
+      "Available Qty.": "469",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1053,7 +1053,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "191",
+      "Available Qty.": "187",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
