@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 07, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-07T13:01:20.464324-05:00",
-  "item_count": 157,
+  "updated_at": "August 07, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-07T14:01:12.122330-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "111",
@@ -159,7 +159,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "295",
+      "Available Qty.": "247",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
       "UOM": "CS",
@@ -386,7 +386,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "153",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -422,7 +422,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "295",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -551,7 +551,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "886",
+      "Available Qty.": "832",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -606,7 +606,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "27",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -634,7 +634,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1320",
+      "Available Qty.": "1212",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
       "UOM": "CS",
@@ -670,7 +670,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "42",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -716,7 +716,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "52",
       "Item No.": "D14-007P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -761,7 +761,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "369",
+      "Available Qty.": "360",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -770,7 +770,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "8",
       "Item No.": "D07-1073P",
       "Description": "Milk, 2% 50/8 oz",
       "UOM": "CS",
@@ -780,7 +780,7 @@
       "new_since": "2026-08-07T09:35:10.685003-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -962,7 +962,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "979",
+      "Available Qty.": "975",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -1053,7 +1053,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "271",
+      "Available Qty.": "191",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1205,16 +1205,6 @@
       "new_since": "2026-08-06T18:04:11.125101-05:00"
     },
     {
-      "Available Qty.": "50",
-      "Item No.": "D03-069P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "32",
-      "new_since": "2026-08-06T18:04:11.125101-05:00"
-    },
-    {
       "Available Qty.": "33",
       "Item No.": "D03-175P",
       "Description": "Soda 24/16 oz",
@@ -1235,7 +1225,7 @@
       "new_since": "2026-08-06T18:04:11.125101-05:00"
     },
     {
-      "Available Qty.": "1210",
+      "Available Qty.": "826",
       "Item No.": "D03-292P",
       "Description": "Soda, Zero Sugar",
       "UOM": "CS",
@@ -1265,7 +1255,7 @@
       "new_since": "2026-08-07T03:01:23.490196-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
       "UOM": "CS",
@@ -1411,7 +1401,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "560",
+      "Available Qty.": "512",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
@@ -1429,27 +1419,7 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-160P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/700 Lb. Bulk Tote",
-      "Feature Type": "Free Item",
-      "Gross Weight": "700",
-      "new_since": "2026-08-06T18:04:11.125101-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-772P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/780 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "780",
-      "new_since": "2026-08-06T18:04:11.125101-05:00"
-    },
-    {
-      "Available Qty.": "741",
+      "Available Qty.": "671",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
