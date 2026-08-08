@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 08, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-08T14:01:08.308876-05:00",
-  "item_count": 154,
+  "updated_at": "August 08, 2026 at 02:59 PM",
+  "updated_at_iso": "2026-08-08T14:59:12.224940-05:00",
+  "item_count": 155,
   "items": [
     {
       "Available Qty.": "111",
@@ -483,7 +483,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "D27-083P",
       "Description": "Cut Green Beans",
       "UOM": "CS",
@@ -1047,7 +1047,7 @@
       "new_since": "2026-08-07T19:01:07.072026-05:00"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "132",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1351,6 +1351,16 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "6",
+      "Item No.": "D27-009P",
+      "Description": "Sweet Peas",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-08-08T14:59:12.224435-05:00"
+    },
+    {
       "Available Qty.": "21",
       "Item No.": "D03-1090P",
       "Description": "Tea, Iced Flavored 15/1 L",
@@ -1415,7 +1425,7 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D28-798P",
       "Description": "Watermelon - BULKTOTE",
       "UOM": "BULK",
