@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 08, 2026 at 09:06 AM",
-  "updated_at_iso": "2026-08-08T09:06:22.780402-05:00",
-  "item_count": 151,
+  "updated_at": "August 08, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-08-08T10:01:09.905024-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "111",
@@ -40,6 +40,16 @@
       "Gross Weight": "30"
     },
     {
+      "Available Qty.": "10",
+      "Item No.": "P16-001P",
+      "Description": "Assorted Food Box",
+      "UOM": "CS",
+      "Pack Size": "1/17 lb",
+      "Feature Type": "",
+      "Gross Weight": "18",
+      "new_since": "2026-08-08T10:01:09.904435-05:00"
+    },
+    {
       "Available Qty.": "4",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
@@ -59,21 +69,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-793P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/350 lbs",
-      "Feature Type": "",
-      "Gross Weight": "350"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-792P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
       "Pack Size": "1/400 lbs",
       "Feature Type": "",
       "Gross Weight": "400"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-793P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lbs",
+      "Feature Type": "",
+      "Gross Weight": "350"
     },
     {
       "Available Qty.": "371",
@@ -356,7 +366,7 @@
       "Gross Weight": "280"
     },
     {
-      "Available Qty.": "275",
+      "Available Qty.": "282",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut",
       "UOM": "CS",
@@ -392,15 +402,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "446",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "39",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -408,6 +409,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "446",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "295",
@@ -436,6 +446,16 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D03-1077P",
+      "Description": "Coffee, Iced, Flavored 12/14 oz",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-08-08T10:01:09.904435-05:00"
     },
     {
       "Available Qty.": "64",
@@ -557,7 +577,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "184",
+      "Available Qty.": "183",
       "Item No.": "D27-161P",
       "Description": "Green Beans 10 Cans",
       "UOM": "CS",
@@ -591,6 +611,16 @@
       "Pack Size": "10/1 lb",
       "Feature Type": "",
       "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-431P",
+      "Description": "Ham, Peppered",
+      "UOM": "CS",
+      "Pack Size": "3/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-08T10:01:09.904435-05:00"
     },
     {
       "Available Qty.": "40",
@@ -762,8 +792,7 @@
       "UOM": "CS",
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-08-07T09:35:10.685003-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "267",
@@ -1114,7 +1143,7 @@
       "new_since": "2026-08-08T02:01:09.769758-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "27",
       "Item No.": "D12-378P",
       "Description": "Sanitary Disposal Bags 1/500 ct",
       "UOM": "CS",
@@ -1134,7 +1163,7 @@
       "new_since": "2026-08-08T02:01:09.769758-05:00"
     },
     {
-      "Available Qty.": "444",
+      "Available Qty.": "446",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
