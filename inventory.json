@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 08, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-08-08T11:01:09.970487-05:00",
-  "item_count": 154,
+  "updated_at": "August 08, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-08T12:01:12.545095-05:00",
+  "item_count": 155,
   "items": [
     {
       "Available Qty.": "111",
@@ -60,15 +60,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-795P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/320 lbs",
-      "Feature Type": "",
-      "Gross Weight": "320"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-792P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
@@ -84,6 +75,15 @@
       "Pack Size": "1/350 lbs",
       "Feature Type": "",
       "Gross Weight": "350"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-795P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/320 lbs",
+      "Feature Type": "",
+      "Gross Weight": "320"
     },
     {
       "Available Qty.": "371",
@@ -194,15 +194,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "76",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -210,6 +201,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "51",
@@ -419,15 +419,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "295",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "94",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -435,6 +426,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "295",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "757",
@@ -454,6 +454,16 @@
       "Feature Type": "",
       "Gross Weight": "12",
       "new_since": "2026-08-08T10:01:09.904435-05:00"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D27-104P",
+      "Description": "Corn",
+      "UOM": "CS",
+      "Pack Size": "24/15.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-08-08T12:01:12.466596-05:00"
     },
     {
       "Available Qty.": "64",
@@ -481,6 +491,16 @@
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D27-083P",
+      "Description": "Cut Green Beans",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-08-08T12:01:12.466596-05:00"
     },
     {
       "Available Qty.": "70",
@@ -607,16 +627,6 @@
       "Pack Size": "10/1 lb",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D15-431P",
-      "Description": "Ham, Peppered",
-      "UOM": "CS",
-      "Pack Size": "3/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-08-08T10:01:09.904435-05:00"
     },
     {
       "Available Qty.": "40",
@@ -1028,7 +1038,7 @@
       "new_since": "2026-08-07T19:01:07.072026-05:00"
     },
     {
-      "Available Qty.": "382",
+      "Available Qty.": "412",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
