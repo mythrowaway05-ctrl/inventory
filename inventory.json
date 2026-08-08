@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 08, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-08-08T12:01:12.545095-05:00",
-  "item_count": 155,
+  "updated_at": "August 08, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-08-08T13:01:18.092378-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "111",
@@ -40,16 +40,6 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "P16-001P",
-      "Description": "Assorted Food Box",
-      "UOM": "CS",
-      "Pack Size": "1/17 lb",
-      "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-08-08T10:01:09.904435-05:00"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D06-587P",
       "Description": "Assorted Frozen Microwavable Meals",
@@ -60,21 +50,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-793P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
       "Pack Size": "1/350 lbs",
       "Feature Type": "",
       "Gross Weight": "350"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400"
     },
     {
       "Available Qty.": "1",
@@ -239,15 +229,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "10",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -255,6 +236,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "813",
@@ -338,15 +328,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "874",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "154",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -354,6 +335,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "874",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "1",
@@ -401,15 +391,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "39",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "446",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -419,7 +400,16 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "39",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "84",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -456,7 +446,7 @@
       "new_since": "2026-08-08T10:01:09.904435-05:00"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "54",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -698,8 +688,7 @@
       "UOM": "CS",
       "Pack Size": "75/4 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "24",
-      "new_since": "2026-08-07T12:36:51.111428-05:00"
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "4",
