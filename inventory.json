@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 08, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-08-08T21:01:06.914286-05:00",
-  "item_count": 154,
+  "updated_at": "August 08, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-08-08T22:01:15.307898-05:00",
+  "item_count": 152,
   "items": [
     {
       "Available Qty.": "111",
@@ -121,7 +121,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "292",
+      "Available Qty.": "289",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1461",
+      "Available Qty.": "1459",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -148,7 +148,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1575",
+      "Available Qty.": "1574",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -364,7 +364,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "455",
+      "Available Qty.": "453",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -391,15 +391,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "446",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "39",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -409,13 +400,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "84",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "446",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "295",
@@ -425,6 +416,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "84",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "757",
@@ -444,16 +444,6 @@
       "Feature Type": "",
       "Gross Weight": "12",
       "new_since": "2026-08-08T10:01:09.904435-05:00"
-    },
-    {
-      "Available Qty.": "54",
-      "Item No.": "D27-104P",
-      "Description": "Corn",
-      "UOM": "CS",
-      "Pack Size": "24/15.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-08T12:01:12.466596-05:00"
     },
     {
       "Available Qty.": "64",
@@ -481,16 +471,6 @@
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
       "Gross Weight": "16"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D27-083P",
-      "Description": "Cut Green Beans",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-08T12:01:12.466596-05:00"
     },
     {
       "Available Qty.": "70",
@@ -547,7 +527,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "3822",
+      "Available Qty.": "3792",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -556,7 +536,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "267",
+      "Available Qty.": "265",
       "Item No.": "P06-018P",
       "Description": "Entree, Red Beans and Rice",
       "UOM": "CS",
@@ -583,7 +563,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "183",
+      "Available Qty.": "182",
       "Item No.": "D27-161P",
       "Description": "Green Beans 10 Cans",
       "UOM": "CS",
@@ -655,7 +635,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "151",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -745,7 +725,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "10",
       "Item No.": "P06-148P",
       "Description": "Macaroni Os w/Beef",
       "UOM": "CS",
@@ -790,7 +770,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "267",
+      "Available Qty.": "264",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -808,7 +788,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "950",
+      "Available Qty.": "948",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -817,7 +797,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "186",
+      "Available Qty.": "185",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -880,7 +860,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "151",
+      "Available Qty.": "148",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -1015,7 +995,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "412",
+      "Available Qty.": "408",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1024,7 +1004,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "59",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1033,7 +1013,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "124",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1096,7 +1076,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "563",
+      "Available Qty.": "562",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1145,7 +1125,7 @@
       "new_since": "2026-08-08T02:01:09.769758-05:00"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "70",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
