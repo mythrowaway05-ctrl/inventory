@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 09, 2026 at 01:04 PM",
-  "updated_at_iso": "2026-08-09T13:04:42.675767-05:00",
-  "item_count": 152,
+  "updated_at": "August 09, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-09T14:01:08.502648-05:00",
+  "item_count": 151,
   "items": [
     {
       "Available Qty.": "111",
@@ -499,15 +499,6 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "16",
-      "Item No.": "P15-084P",
-      "Description": "Drumstick Fritters, Crunchy Coated",
-      "UOM": "CS",
-      "Pack Size": "4/2.5 lb",
-      "Feature Type": "",
-      "Gross Weight": "10"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D01-362P",
       "Description": "Empty 16oz Plastic Bottle No Lid",
@@ -743,7 +734,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "0",
       "Item No.": "D27-827P",
       "Description": "Mexican Style Street Corn 24/14.75 oz",
       "UOM": "CS",
@@ -960,15 +951,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1128",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "27",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -976,6 +958,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1128",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "203",
