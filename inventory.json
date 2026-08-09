@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 09, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-08-09T02:01:11.771524-05:00",
+  "updated_at": "August 09, 2026 at 02:58 AM",
+  "updated_at_iso": "2026-08-09T02:58:23.057899-05:00",
   "item_count": 155,
   "items": [
     {
@@ -59,21 +59,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-793P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/350 lbs",
-      "Feature Type": "",
-      "Gross Weight": "350"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-795P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
       "Pack Size": "1/320 lbs",
       "Feature Type": "",
       "Gross Weight": "320"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-793P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lbs",
+      "Feature Type": "",
+      "Gross Weight": "350"
     },
     {
       "Available Qty.": "371",
@@ -229,15 +229,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "10",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -245,6 +236,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "813",
@@ -328,15 +328,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "154",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "874",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -344,6 +335,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "154",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "1",
@@ -391,15 +391,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "39",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "456",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -407,6 +398,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "39",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "84",
@@ -653,15 +653,6 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "19",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "34",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
@@ -669,6 +660,15 @@
       "Pack Size": "75/4 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "19",
+      "Item No.": "P14-005P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "4",
