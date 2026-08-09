@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 09, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-09T13:01:09.652296-05:00",
-  "item_count": 153,
+  "updated_at": "August 09, 2026 at 01:04 PM",
+  "updated_at_iso": "2026-08-09T13:04:42.675767-05:00",
+  "item_count": 152,
   "items": [
     {
       "Available Qty.": "111",
@@ -184,15 +184,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "74",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -200,6 +191,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "51",
@@ -229,15 +229,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
@@ -245,6 +236,15 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "813",
@@ -436,15 +436,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D03-1077P",
-      "Description": "Coffee, Iced, Flavored 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
-    },
-    {
       "Available Qty.": "64",
       "Item No.": "P04-001P",
       "Description": "Corn Tortillas",
@@ -580,7 +571,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -652,7 +643,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "29",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -697,7 +688,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "47",
       "Item No.": "D14-007P",
       "Description": "Juice, Orange",
       "UOM": "CS",
