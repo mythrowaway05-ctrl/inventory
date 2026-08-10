@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 10, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-08-10T08:01:17.842803-05:00",
-  "item_count": 144,
+  "updated_at": "August 10, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-08-10T09:01:16.792915-05:00",
+  "item_count": 143,
   "items": [
     {
       "Available Qty.": "111",
@@ -31,7 +31,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "145",
+      "Available Qty.": "139",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "29",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -175,7 +175,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "57",
       "Item No.": "D08-550P",
       "Description": "Cake, White Half Sheet",
       "UOM": "CS",
@@ -184,7 +184,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "8",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -229,7 +229,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D15-774P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -616,7 +616,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "23",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -697,7 +697,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-1073P",
       "Description": "Milk, 2% 50/8 oz",
       "UOM": "CS",
@@ -734,7 +734,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "155",
       "Item No.": "D11-133P",
       "Description": "Mix, Cookie 7/16.8 oz",
       "UOM": "CS",
@@ -761,7 +761,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1208",
+      "Available Qty.": "1204",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
       "UOM": "CS",
@@ -770,7 +770,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1145",
+      "Available Qty.": "1141",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -806,7 +806,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "114",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -950,7 +950,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "406",
+      "Available Qty.": "400",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -968,7 +968,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "108",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1022,7 +1022,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "561",
+      "Available Qty.": "559",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1112,6 +1112,15 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "801",
+      "Item No.": "D03-292P",
+      "Description": "Soda, Zero Sugar",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
+    },
+    {
       "Available Qty.": "21",
       "Item No.": "D03-005P",
       "Description": "Soda, Zero Sugar",
@@ -1119,15 +1128,6 @@
       "Pack Size": "30/7.5 oz",
       "Feature Type": "Discounted Item",
       "Gross Weight": "16"
-    },
-    {
-      "Available Qty.": "806",
-      "Item No.": "D03-292P",
-      "Description": "Soda, Zero Sugar",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
     },
     {
       "Available Qty.": "22",
@@ -1211,7 +1211,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "1522",
+      "Available Qty.": "1517",
       "Item No.": "D03-1084P",
       "Description": "Sparkling Water, Flavored 8/12 oz",
       "UOM": "CS",
@@ -1281,16 +1281,6 @@
       "Pack Size": "1/2200 lbs",
       "Feature Type": "",
       "Gross Weight": "2200"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D28-772P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/780 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "780",
-      "new_since": "2026-08-10T08:01:17.842359-05:00"
     },
     {
       "Available Qty.": "671",
