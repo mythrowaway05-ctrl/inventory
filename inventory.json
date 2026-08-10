@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 10, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-08-10T01:01:01.760926-05:00",
-  "item_count": 151,
+  "updated_at": "August 10, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-10T02:01:19.822396-05:00",
+  "item_count": 150,
   "items": [
     {
       "Available Qty.": "111",
@@ -59,21 +59,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-793P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
       "Pack Size": "1/350 lbs",
       "Feature Type": "",
       "Gross Weight": "350"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400"
     },
     {
       "Available Qty.": "359",
@@ -184,15 +184,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "74",
-      "Item No.": "D08-549P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "12/24.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
@@ -200,6 +191,15 @@
       "Pack Size": "24/12.5 oz",
       "Feature Type": "",
       "Gross Weight": "19"
+    },
+    {
+      "Available Qty.": "74",
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "12/24.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "50",
@@ -328,15 +328,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "141",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "874",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -344,6 +335,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "141",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "0",
@@ -625,13 +625,13 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "173",
-      "Item No.": "D14-117P",
+      "Available Qty.": "19",
+      "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
-      "Pack Size": "8/64 oz",
+      "Pack Size": "40/6.75 oz",
       "Feature Type": "",
-      "Gross Weight": "36"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "23",
@@ -643,13 +643,13 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "19",
-      "Item No.": "P14-005P",
+      "Available Qty.": "173",
+      "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
+      "Pack Size": "8/64 oz",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "4",
@@ -703,8 +703,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-08-09T02:01:11.770994-05:00"
+      "Gross Weight": "25"
     },
     {
       "Available Qty.": "161",
@@ -740,8 +739,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.75 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-09T02:01:11.770994-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "348",
@@ -1113,7 +1111,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "446",
+      "Available Qty.": "448",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1131,7 +1129,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "133",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1327,15 +1325,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-668P",
-      "Description": "Water 35/16.9 oz",
-      "UOM": "CS",
-      "Pack Size": "35/16.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "511",
