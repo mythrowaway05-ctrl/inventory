@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 10, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-08-10T17:01:11.929137-05:00",
-  "item_count": 126,
+  "updated_at": "August 10, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-08-10T18:01:13.253921-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "111",
@@ -50,21 +50,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-795P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/320 lbs",
-      "Feature Type": "",
-      "Gross Weight": "320"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-793P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
       "Pack Size": "1/350 lbs",
       "Feature Type": "",
       "Gross Weight": "350"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-795P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/320 lbs",
+      "Feature Type": "",
+      "Gross Weight": "320"
     },
     {
       "Available Qty.": "1",
@@ -167,7 +167,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "635",
+      "Available Qty.": "622",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -204,15 +204,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "73",
-      "Item No.": "D08-549P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "12/24.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
@@ -220,6 +211,15 @@
       "Pack Size": "24/12.5 oz",
       "Feature Type": "",
       "Gross Weight": "19"
+    },
+    {
+      "Available Qty.": "73",
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "12/24.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "50",
@@ -240,7 +240,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "294",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -340,15 +340,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "874",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "139",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -356,6 +347,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "874",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "259",
@@ -394,15 +394,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "456",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "39",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -410,6 +401,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "456",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "84",
@@ -673,7 +673,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "420",
+      "Available Qty.": "410",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -808,16 +808,6 @@
       "Pack Size": "220/1.23 oz",
       "Feature Type": "",
       "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D28-850P",
-      "Description": "Onions",
-      "UOM": "CS",
-      "Pack Size": "1/25 lb",
-      "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-08-10T17:01:11.928675-05:00"
     },
     {
       "Available Qty.": "25",
@@ -982,7 +972,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "39",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1064,16 +1054,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "P27-089P",
-      "Description": "Spinach, Chopped, LS Low Sodium",
-      "UOM": "CS",
-      "Pack Size": "12/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-10T15:01:28.191187-05:00"
-    },
-    {
       "Available Qty.": "17",
       "Item No.": "D03-1090P",
       "Description": "Tea, Iced Flavored 15/1 L",
@@ -1129,7 +1109,7 @@
       "Gross Weight": "2200"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D28-772P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
