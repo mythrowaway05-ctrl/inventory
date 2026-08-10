@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 10, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-10T13:01:19.318155-05:00",
-  "item_count": 122,
+  "updated_at": "August 10, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-10T14:01:07.925650-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "111",
@@ -113,7 +113,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "25",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -167,7 +167,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "762",
+      "Available Qty.": "740",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -195,7 +195,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "54",
       "Item No.": "D08-550P",
       "Description": "Cake, White Half Sheet",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "45"
     },
     {
-      "Available Qty.": "516",
+      "Available Qty.": "514",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -411,7 +411,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "287",
+      "Available Qty.": "257",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -555,7 +555,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "18",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -600,7 +600,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "511",
+      "Available Qty.": "510",
       "Item No.": "D15-1161P",
       "Description": "Italian Pizza Topping",
       "UOM": "CS",
@@ -636,7 +636,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "16",
       "Item No.": "D14-011P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -681,7 +681,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "422",
+      "Available Qty.": "415",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -727,7 +727,17 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "0",
+      "Item No.": "D07-1073P",
+      "Description": "Milk, 2% 50/8 oz",
+      "UOM": "CS",
+      "Pack Size": "50/8 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "32",
+      "new_since": "2026-08-10T08:01:17.842359-05:00"
+    },
+    {
+      "Available Qty.": "16",
       "Item No.": "D07-875P",
       "Description": "Milk, Skim 25/8 oz",
       "UOM": "CS",
@@ -763,7 +773,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "948",
+      "Available Qty.": "946",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -772,7 +782,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "170",
+      "Available Qty.": "162",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -790,7 +800,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1145",
+      "Available Qty.": "1141",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -826,7 +836,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "78",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -853,7 +863,7 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "279",
+      "Available Qty.": "275",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -871,7 +881,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "239",
+      "Available Qty.": "235",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -934,7 +944,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "1191",
+      "Available Qty.": "1190",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -970,7 +980,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "127",
+      "Available Qty.": "111",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -979,7 +989,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "53",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -988,7 +998,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "18",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -997,7 +1007,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "346",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1033,7 +1043,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "554",
+      "Available Qty.": "551",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1042,7 +1052,17 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "17",
+      "Item No.": "D03-1090P",
+      "Description": "Tea, Iced Flavored 15/1 L",
+      "UOM": "CS",
+      "Pack Size": "15/1 L",
+      "Feature Type": "",
+      "Gross Weight": "35",
+      "new_since": "2026-08-10T11:01:09.218249-05:00"
+    },
+    {
+      "Available Qty.": "76",
       "Item No.": "D26-668P",
       "Description": "Turkey Dip",
       "UOM": "CS",
