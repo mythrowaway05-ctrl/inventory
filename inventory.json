@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 11, 2026 at 06:33 AM",
-  "updated_at_iso": "2026-08-11T06:33:14.455602-05:00",
-  "item_count": 184,
+  "updated_at": "August 11, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-11T07:01:12.405182-05:00",
+  "item_count": 181,
   "items": [
     {
       "Available Qty.": "101",
@@ -300,7 +300,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "25",
       "Item No.": "D05-947P",
       "Description": "Cereal 96/0.75 oz",
       "UOM": "CS",
@@ -472,15 +472,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "247",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "84",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -490,6 +481,15 @@
       "Gross Weight": "11"
     },
     {
+      "Available Qty.": "247",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
+    },
+    {
       "Available Qty.": "34",
       "Item No.": "D25-1246P",
       "Description": "Chips",
@@ -497,16 +497,6 @@
       "Pack Size": "104/.75 oz",
       "Feature Type": "",
       "Gross Weight": "6",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-1982P",
-      "Description": "Chips 104/1 oz",
-      "UOM": "CS",
-      "Pack Size": "104/1 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
@@ -530,7 +520,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "155",
+      "Available Qty.": "125",
       "Item No.": "D25-1975P",
       "Description": "Chips 18/4.25 oz",
       "UOM": "CS",
@@ -540,7 +530,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "130",
       "Item No.": "D25-1972P",
       "Description": "Chips 24/2.5 oz",
       "UOM": "CS",
@@ -550,7 +540,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "44",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -579,7 +569,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "48",
       "Item No.": "D25-155P",
       "Description": "Cookies",
       "UOM": "CS",
@@ -589,7 +579,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "55",
       "Item No.": "D25-1981P",
       "Description": "Cookies 12/11.8 oz",
       "UOM": "CS",
@@ -599,7 +589,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "366",
+      "Available Qty.": "356",
       "Item No.": "D25-1971P",
       "Description": "Cookies, Chocolate Chip 12/5 oz",
       "UOM": "CS",
@@ -844,7 +834,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "2",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -919,7 +909,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "71",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -937,15 +927,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
-      "Available Qty.": "16",
-      "Item No.": "D07-875P",
-      "Description": "Milk, Skim 25/8 oz",
-      "UOM": "CS",
-      "Pack Size": "25/8 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "16"
     },
     {
       "Available Qty.": "34",
@@ -1214,7 +1195,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "204",
+      "Available Qty.": "198",
       "Item No.": "D25-1977P",
       "Description": "Popcorn 48/3.5 oz",
       "UOM": "CS",
@@ -1224,7 +1205,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "39",
       "Item No.": "D25-1979P",
       "Description": "Pork Skins, Hot 24/1.8 oz",
       "UOM": "CS",
@@ -1234,7 +1215,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "16",
       "Item No.": "D25-1978P",
       "Description": "Pork Skins, Hot 60/0.875 oz",
       "UOM": "CS",
@@ -1299,7 +1280,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "11",
       "Item No.": "D25-1980P",
       "Description": "Pretzels 12/12 oz",
       "UOM": "CS",
@@ -1328,7 +1309,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "107",
       "Item No.": "D05-841P",
       "Description": "Quick Oats",
       "UOM": "CS",
@@ -1356,7 +1337,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "152",
+      "Available Qty.": "128",
       "Item No.": "D06-442P",
       "Description": "Ramen Noodles, Soy Sauce",
       "UOM": "CS",
@@ -1404,7 +1385,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D26-349P",
       "Description": "Salsa 12/11.5 oz",
       "UOM": "CS",
@@ -1654,7 +1635,7 @@
       "new_since": "2026-08-10T11:01:09.218249-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D03-553P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1708,16 +1689,6 @@
       "Pack Size": "1/2200 lbs",
       "Feature Type": "",
       "Gross Weight": "2200"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-772P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/780 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "780",
-      "new_since": "2026-08-10T08:01:17.842359-05:00"
     },
     {
       "Available Qty.": "700",
