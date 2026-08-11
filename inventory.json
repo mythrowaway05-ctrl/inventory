@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 11, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-11T14:01:20.369233-05:00",
+  "updated_at": "August 11, 2026 at 02:46 PM",
+  "updated_at_iso": "2026-08-11T14:46:18.371970-05:00",
   "item_count": 157,
   "items": [
     {
-      "Available Qty.": "88",
+      "Available Qty.": "83",
       "Item No.": "D15-819P",
       "Description": "8 Piece Cut Chicken Individually Bagged",
       "UOM": "CS",
@@ -290,7 +290,7 @@
       "new_since": "2026-08-11T09:01:29.680513-05:00"
     },
     {
-      "Available Qty.": "810",
+      "Available Qty.": "805",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -318,7 +318,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-936P",
       "Description": "Chicken Leg Quarters Individually Bagged",
       "UOM": "CS",
@@ -399,7 +399,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "209",
+      "Available Qty.": "207",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut Individually Bagged",
       "UOM": "CS",
@@ -435,16 +435,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "35",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "456",
+      "Available Qty.": "450",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -453,7 +444,16 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "242",
+      "Available Qty.": "30",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "252",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -488,16 +488,6 @@
       "Pack Size": "24/2.5 oz",
       "Feature Type": "",
       "Gross Weight": "6",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-922P",
-      "Description": "Chocolate Milk 24/11 oz",
-      "UOM": "CS",
-      "Pack Size": "24/11 oz",
-      "Feature Type": "",
-      "Gross Weight": "19",
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
@@ -676,7 +666,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "1930",
+      "Available Qty.": "1926",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -748,7 +738,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "4",
       "Item No.": "D14-022P",
       "Description": "Juice, Cherry Apple",
       "UOM": "CS",
@@ -784,7 +774,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "68",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -839,7 +829,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "21",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
@@ -966,7 +956,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "221",
+      "Available Qty.": "219",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -975,7 +965,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "220",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1029,15 +1019,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "23",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1177",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -1045,6 +1026,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "203",
@@ -1114,6 +1104,16 @@
       "Gross Weight": "31"
     },
     {
+      "Available Qty.": "230",
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "8/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "40",
+      "new_since": "2026-08-11T14:46:18.371384-05:00"
+    },
+    {
       "Available Qty.": "48",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
@@ -1170,7 +1170,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D24-388P",
       "Description": "Rice",
       "UOM": "CS",
@@ -1248,7 +1248,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "112",
+      "Available Qty.": "111",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
