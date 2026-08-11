@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 11, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-08-11T12:01:09.088189-05:00",
-  "item_count": 158,
+  "updated_at": "August 11, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-08-11T13:01:15.470197-05:00",
+  "item_count": 157,
   "items": [
     {
       "Available Qty.": "93",
@@ -59,6 +59,16 @@
       "Gross Weight": "320"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D07-792P",
+      "Description": "Assorted Ice Cream - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/400 lbs",
+      "Feature Type": "",
+      "Gross Weight": "400",
+      "new_since": "2026-08-11T13:01:15.469481-05:00"
+    },
+    {
       "Available Qty.": "202",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
@@ -68,7 +78,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D25-1754P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -132,7 +142,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D23-735P",
       "Description": "Black Beans, Dry",
       "UOM": "CS",
@@ -169,7 +179,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "466",
+      "Available Qty.": "455",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -389,7 +399,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "228",
+      "Available Qty.": "224",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut Individually Bagged",
       "UOM": "CS",
@@ -471,7 +481,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "107",
       "Item No.": "D25-1972P",
       "Description": "Chips 24/2.5 oz",
       "UOM": "CS",
@@ -765,16 +775,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D14-1000P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "6/1 gallon",
-      "Feature Type": "",
-      "Gross Weight": "54",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
       "Available Qty.": "179",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -784,7 +784,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "205",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -921,7 +921,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "27",
       "Item No.": "D10-080P",
       "Description": "Orange, Mandarin in Juice",
       "UOM": "CS",
@@ -939,7 +939,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "29",
       "Item No.": "D11-136P",
       "Description": "Oreo Truffle Mix 6/8.6 oz",
       "UOM": "CS",
@@ -975,16 +975,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D21-103P",
-      "Description": "Pasta, Macaroni",
-      "UOM": "CS",
-      "Pack Size": "6/10 Can",
-      "Feature Type": "Free Item",
-      "Gross Weight": "18",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
       "Available Qty.": "222",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
@@ -994,7 +984,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "702",
+      "Available Qty.": "700",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
       "UOM": "CS",
@@ -1003,7 +993,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "147",
+      "Available Qty.": "145",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -1030,7 +1020,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "485",
+      "Available Qty.": "482",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -1066,7 +1056,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "196",
       "Item No.": "D25-1977P",
       "Description": "Popcorn 48/3.5 oz",
       "UOM": "CS",
@@ -1086,7 +1076,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "14",
       "Item No.": "D25-1978P",
       "Description": "Pork Skins, Hot 60/0.875 oz",
       "UOM": "CS",
@@ -1115,7 +1105,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "496",
+      "Available Qty.": "493",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1124,7 +1114,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "49",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1228,7 +1218,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "166",
+      "Available Qty.": "165",
       "Item No.": "D26-659P",
       "Description": "Sauce, Hollandaise",
       "UOM": "CS",
@@ -1318,7 +1308,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "13",
       "Item No.": "D06-866P",
       "Description": "Soup, Chicken Noodle 3/8 lb",
       "UOM": "CS",
@@ -1388,7 +1378,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "431",
+      "Available Qty.": "430",
       "Item No.": "D03-1084P",
       "Description": "Sparkling Water, Flavored 8/12 oz",
       "UOM": "CS",
