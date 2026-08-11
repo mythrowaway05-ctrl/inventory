@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 11, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-11T10:01:12.540956-05:00",
-  "item_count": 146,
+  "updated_at": "August 11, 2026 at 10:30 AM",
+  "updated_at_iso": "2026-08-11T10:30:56.314826-05:00",
+  "item_count": 145,
   "items": [
     {
       "Available Qty.": "93",
@@ -51,15 +51,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D07-793P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/350 lbs",
-      "Feature Type": "",
-      "Gross Weight": "350"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-795P",
       "Description": "Assorted Ice Cream - BULK",
       "UOM": "BULK",
@@ -104,7 +95,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D23-819P",
       "Description": "Beans, Great Northern, Dry",
       "UOM": "CS",
@@ -123,7 +114,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D23-818P",
       "Description": "Beans, Pinto, Dry",
       "UOM": "CS",
@@ -151,7 +142,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D23-735P",
       "Description": "Black Beans, Dry",
       "UOM": "CS",
@@ -188,7 +179,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "465",
+      "Available Qty.": "467",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -271,7 +262,7 @@
       "new_since": "2026-08-10T15:01:28.191187-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "5",
       "Item No.": "D27-079P",
       "Description": "Carrots, Dehydrated",
       "UOM": "CS",
@@ -281,7 +272,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "9",
       "Item No.": "D05-947P",
       "Description": "Cereal 96/0.75 oz",
       "UOM": "CS",
@@ -447,7 +438,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "148",
+      "Available Qty.": "108",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -521,7 +512,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "45",
       "Item No.": "D25-1975P",
       "Description": "Chips 18/4.25 oz",
       "UOM": "CS",
@@ -541,7 +532,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "0",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -690,7 +681,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D11-141P",
       "Description": "Flour, White",
       "UOM": "CS",
@@ -854,7 +845,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "216",
+      "Available Qty.": "218",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -899,7 +890,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D07-640P",
       "Description": "Milk, Instant 12/27 oz Pouches",
       "UOM": "CS",
@@ -981,7 +972,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "4",
       "Item No.": "D05-946P",
       "Description": "Oats, Regular",
       "UOM": "CS",
@@ -1055,7 +1046,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D21-103P",
       "Description": "Pasta, Macaroni",
       "UOM": "CS",
@@ -1075,7 +1066,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "227",
+      "Available Qty.": "222",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1270,7 +1261,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D06-442P",
       "Description": "Ramen Noodles, Soy Sauce",
       "UOM": "CS",
@@ -1280,7 +1271,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D24-388P",
       "Description": "Rice",
       "UOM": "CS",
@@ -1308,16 +1299,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "71",
-      "Item No.": "D26-668P",
-      "Description": "Turkey Dip",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
-    },
-    {
       "Available Qty.": "22",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
@@ -1343,6 +1324,16 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D28-772P",
+      "Description": "Watermelon - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/780 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "780",
+      "new_since": "2026-08-11T10:30:56.314270-05:00"
     },
     {
       "Available Qty.": "700",
