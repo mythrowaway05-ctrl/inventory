@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 11, 2026 at 11:01 PM",
-  "updated_at_iso": "2026-08-11T23:01:09.689644-05:00",
-  "item_count": 151,
+  "updated_at": "August 12, 2026 at 12:01 AM",
+  "updated_at_iso": "2026-08-12T00:01:12.410892-05:00",
+  "item_count": 150,
   "items": [
     {
       "Available Qty.": "83",
@@ -60,7 +60,7 @@
       "new_since": "2026-08-11T13:01:15.469481-05:00"
     },
     {
-      "Available Qty.": "164",
+      "Available Qty.": "159",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
       "UOM": "CS",
@@ -150,7 +150,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "429",
+      "Available Qty.": "419",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -222,7 +222,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "275",
+      "Available Qty.": "268",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -414,15 +414,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "211",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "83",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -432,7 +423,16 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "211",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D25-1983P",
       "Description": "Chips 15/11 oz",
       "UOM": "CS",
@@ -459,16 +459,6 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "18",
-      "Item No.": "D25-155P",
-      "Description": "Cookies",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
       "Available Qty.": "124",
@@ -1045,7 +1035,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "663",
+      "Available Qty.": "643",
       "Item No.": "D28-831P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1318,7 +1308,7 @@
       "new_since": "2026-08-11T02:01:25.543310-05:00"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "60",
       "Item No.": "D06-892P",
       "Description": "Spaghetti with Meat Sauce",
       "UOM": "CS",
