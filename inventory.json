@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 12, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-08-12T17:01:16.261873-05:00",
+  "updated_at": "August 12, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-08-12T18:01:18.991970-05:00",
   "item_count": 150,
   "items": [
     {
@@ -163,7 +163,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "18",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -191,7 +191,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "178",
+      "Available Qty.": "173",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -254,7 +254,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "194",
+      "Available Qty.": "199",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -649,7 +649,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -1058,6 +1058,15 @@
       "Gross Weight": "31"
     },
     {
+      "Available Qty.": "435",
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "8/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "115",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -1066,15 +1075,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "50",
       "new_since": "2026-08-12T16:01:29.062488-05:00"
-    },
-    {
-      "Available Qty.": "435",
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "8/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "282",
