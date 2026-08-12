@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 12, 2026 at 07:35 AM",
-  "updated_at_iso": "2026-08-12T07:35:22.483674-05:00",
-  "item_count": 179,
+  "updated_at": "August 12, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-12T08:01:34.444543-05:00",
+  "item_count": 174,
   "items": [
     {
-      "Available Qty.": "83",
+      "Available Qty.": "75",
       "Item No.": "D15-819P",
       "Description": "8 Piece Cut Chicken Individually Bagged",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "5",
       "Item No.": "D10-119P",
       "Description": "Apple Slices",
       "UOM": "CS",
@@ -129,36 +129,6 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-792P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lbs",
-      "Feature Type": "",
-      "Gross Weight": "400",
-      "new_since": "2026-08-11T13:01:15.469481-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-015P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-014P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/200 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D22-061P",
       "Description": "Assorted Pet Food -BULK 1/850 lb",
@@ -269,7 +239,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "363",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -278,7 +248,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "164",
+      "Available Qty.": "116",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
       "UOM": "CS",
@@ -287,7 +257,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "184",
+      "Available Qty.": "129",
       "Item No.": "D08-548P",
       "Description": "Cake, Chocolate Layer",
       "UOM": "CS",
@@ -305,15 +275,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "65",
-      "Item No.": "D08-549P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "12/24.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
@@ -321,6 +282,15 @@
       "Pack Size": "24/12.5 oz",
       "Feature Type": "",
       "Gross Weight": "19"
+    },
+    {
+      "Available Qty.": "65",
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "12/24.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "43",
@@ -350,7 +320,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D27-079P",
       "Description": "Carrots, Dehydrated",
       "UOM": "CS",
@@ -419,12 +389,12 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D25-1985P",
+      "Item No.": "D25-1987P",
       "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
       "UOM": "BULK",
-      "Pack Size": "1/490 lbs",
+      "Pack Size": "1/280 lbs",
       "Feature Type": "",
-      "Gross Weight": "490",
+      "Gross Weight": "280",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
@@ -439,23 +409,13 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D25-1987P",
+      "Item No.": "D25-1985P",
       "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
       "UOM": "BULK",
-      "Pack Size": "1/280 lbs",
+      "Pack Size": "1/490 lbs",
       "Feature Type": "",
-      "Gross Weight": "280",
+      "Gross Weight": "490",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-11T09:01:29.680513-05:00"
     },
     {
       "Available Qty.": "805",
@@ -483,8 +443,7 @@
       "UOM": "CS",
       "Pack Size": "8/24 oz",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-08-11T08:01:28.618840-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "10",
@@ -552,7 +511,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "321",
+      "Available Qty.": "248",
       "Item No.": "D15-428P",
       "Description": "Chicken Thighs w/ Back and Drumstick 1/40-50 lb",
       "UOM": "CS",
@@ -606,7 +565,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "28",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -668,15 +627,6 @@
       "Feature Type": "",
       "Gross Weight": "7",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1983P",
-      "Description": "Chips 15/11 oz",
-      "UOM": "CS",
-      "Pack Size": "15/11 oz",
-      "Feature Type": "",
-      "Gross Weight": "13"
     },
     {
       "Available Qty.": "20",
@@ -816,7 +766,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D11-141P",
       "Description": "Flour, White",
       "UOM": "CS",
@@ -825,7 +775,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "737",
+      "Available Qty.": "683",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -908,7 +858,7 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "1039",
+      "Available Qty.": "931",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
       "UOM": "CS",
@@ -989,7 +939,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "7",
       "Item No.": "D28-851P",
       "Description": "Kiss Melons (Cantaloupe)",
       "UOM": "CS",
@@ -1034,7 +984,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D07-640P",
       "Description": "Milk, Instant 12/27 oz Pouches",
       "UOM": "CS",
@@ -1115,7 +1065,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D27-829P",
       "Description": "Onion, Dry",
       "UOM": "CS",
@@ -1296,7 +1246,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D27-828P",
       "Description": "Potato Flakes",
       "UOM": "CS",
@@ -1305,7 +1255,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "493",
+      "Available Qty.": "423",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1378,7 +1328,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D24-388P",
       "Description": "Rice",
       "UOM": "CS",
@@ -1587,7 +1537,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D26-667P",
       "Description": "Sugar",
       "UOM": "CS",
@@ -1642,7 +1592,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "663",
+      "Available Qty.": "593",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
