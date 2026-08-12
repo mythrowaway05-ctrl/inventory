@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 12, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-08-12T08:01:34.444543-05:00",
-  "item_count": 174,
+  "updated_at": "August 12, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-08-12T09:01:13.749066-05:00",
+  "item_count": 170,
   "items": [
     {
       "Available Qty.": "75",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D10-119P",
       "Description": "Apple Slices",
       "UOM": "CS",
@@ -97,16 +97,6 @@
       "Pack Size": "1/110 lb",
       "Feature Type": "",
       "Gross Weight": "110",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-167P",
-      "Description": "Assorted Cleaning Supplies - BULKTOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1330 lb",
-      "Feature Type": "",
-      "Gross Weight": "1330",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
@@ -348,7 +338,7 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "50",
       "Item No.": "D25-123P",
       "Description": "Cheez-It 12/12.4 oz",
       "UOM": "CS",
@@ -358,23 +348,13 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "170",
+      "Available Qty.": "168",
       "Item No.": "D25-112P",
       "Description": "Cheez-It 12/7 oz",
       "UOM": "CS",
       "Pack Size": "12/7 oz",
       "Feature Type": "",
       "Gross Weight": "7",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-634P",
-      "Description": "Cheez-It BULK PALLET",
-      "UOM": "BULK",
-      "Pack Size": "1/560 lb",
-      "Feature Type": "",
-      "Gross Weight": "560",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
@@ -389,22 +369,22 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D25-1987P",
-      "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
-      "UOM": "BULK",
-      "Pack Size": "1/280 lbs",
-      "Feature Type": "",
-      "Gross Weight": "280",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D25-1986P",
       "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
       "UOM": "BULK",
       "Pack Size": "1/200 lbs",
       "Feature Type": "",
       "Gross Weight": "200",
+      "new_since": "2026-08-12T02:01:28.813255-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-1987P",
+      "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
+      "UOM": "BULK",
+      "Pack Size": "1/280 lbs",
+      "Feature Type": "",
+      "Gross Weight": "280",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
@@ -418,15 +398,6 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "805",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1422",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -435,6 +406,15 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
+    },
+    {
+      "Available Qty.": "805",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "27",
@@ -474,7 +454,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "39",
       "Item No.": "D25-1988P",
       "Description": "Chicken Sausage Bites 8/4 oz",
       "UOM": "CS",
@@ -538,7 +518,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "871",
+      "Available Qty.": "870",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -583,15 +563,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "448",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -599,6 +570,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "83",
@@ -721,7 +701,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "738",
+      "Available Qty.": "737",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -793,7 +773,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "32",
       "Item No.": "D25-1249P",
       "Description": "Granola Bar 12/7 oz",
       "UOM": "CS",
@@ -821,7 +801,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "1918",
+      "Available Qty.": "1916",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -930,7 +910,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "176",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -1155,7 +1135,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "968",
+      "Available Qty.": "967",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -1182,15 +1162,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1175",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -1198,6 +1169,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1175",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "203",
@@ -1209,7 +1189,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "133",
       "Item No.": "D25-1984P",
       "Description": "Pop Tarts 4/12 ct",
       "UOM": "CS",
@@ -1219,7 +1199,7 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "160",
       "Item No.": "D25-1977P",
       "Description": "Popcorn 48/3.5 oz",
       "UOM": "CS",
@@ -1244,15 +1224,6 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D27-828P",
-      "Description": "Potato Flakes",
-      "UOM": "CS",
-      "Pack Size": "6/10 Can",
-      "Feature Type": "Free Item",
-      "Gross Weight": "11"
     },
     {
       "Available Qty.": "423",
@@ -1292,15 +1263,6 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D05-945P",
-      "Description": "Quick Oats",
-      "UOM": "CS",
-      "Pack Size": "6/10 Can",
-      "Feature Type": "Free Item",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "97",
       "Item No.": "D05-841P",
       "Description": "Quick Oats",
@@ -1337,7 +1299,7 @@
       "Gross Weight": "33"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "47",
       "Item No.": "D25-1968P",
       "Description": "Rice Krispie Treats 1/600 ct",
       "UOM": "CS",
