@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 12, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-08-12T11:01:10.090259-05:00",
+  "updated_at": "August 12, 2026 at 11:12 AM",
+  "updated_at_iso": "2026-08-12T11:12:18.119084-05:00",
   "item_count": 158,
   "items": [
     {
@@ -11,15 +11,6 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D10-119P",
-      "Description": "Apple Slices",
-      "UOM": "CS",
-      "Pack Size": "6/10 Can",
-      "Feature Type": "Free Item",
-      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1",
@@ -97,16 +88,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-587P",
-      "Description": "Assorted Frozen Microwavable Meals",
-      "UOM": "BULK",
-      "Pack Size": "1/850 lbs",
-      "Feature Type": "",
-      "Gross Weight": "850",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
       "Available Qty.": "1",
@@ -388,7 +369,7 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "1402",
+      "Available Qty.": "1408",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -442,16 +423,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1988P",
-      "Description": "Chicken Sausage Bites 8/4 oz",
-      "UOM": "CS",
-      "Pack Size": "8/4 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
       "Available Qty.": "85",
@@ -553,15 +524,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "448",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -571,13 +533,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "211",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "448",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "4/4 lb",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "16"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "83",
@@ -587,6 +549,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "211",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "728",
@@ -707,7 +678,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D11-141P",
       "Description": "Flour, White",
       "UOM": "CS",
@@ -861,15 +832,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-851P",
-      "Description": "Kiss Melons (Cantaloupe)",
-      "UOM": "CS",
-      "Pack Size": "1/11 ct",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36"
-    },
-    {
       "Available Qty.": "71",
       "Item No.": "P06-226P",
       "Description": "Mac and Cheese Pouch",
@@ -906,6 +868,36 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "63",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-12T11:12:18.118491-05:00"
+    },
+    {
+      "Available Qty.": "155",
+      "Item No.": "D07-168P",
+      "Description": "Milk, Chocolate 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-08-12T11:12:18.118491-05:00"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-12T11:12:18.118491-05:00"
+    },
+    {
       "Available Qty.": "2",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
@@ -913,6 +905,16 @@
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "29",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-08-12T11:12:18.118491-05:00"
     },
     {
       "Available Qty.": "258",
@@ -1032,7 +1034,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "207",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1086,15 +1088,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1192",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -1102,6 +1095,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "203",
