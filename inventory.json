@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 13, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-13T13:01:15.346922-05:00",
-  "item_count": 158,
+  "updated_at": "August 13, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-13T14:01:24.667249-05:00",
+  "item_count": 157,
   "items": [
     {
       "Available Qty.": "61",
@@ -122,7 +122,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "14",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -213,7 +213,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "188",
+      "Available Qty.": "185",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -561,7 +561,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "725",
+      "Available Qty.": "719",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -653,7 +653,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -762,7 +762,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "158",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -844,7 +844,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "888",
+      "Available Qty.": "884",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -917,7 +917,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "127",
+      "Available Qty.": "123",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -935,7 +935,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "176",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -998,15 +998,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1168",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -1014,6 +1005,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1168",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "194",
@@ -1054,7 +1054,7 @@
       "new_since": "2026-08-13T02:01:10.240586-05:00"
     },
     {
-      "Available Qty.": "554",
+      "Available Qty.": "548",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1109,7 +1109,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "32",
       "Item No.": "D05-841P",
       "Description": "Quick Oats",
       "UOM": "CS",
@@ -1118,7 +1118,7 @@
       "Gross Weight": "33"
     },
     {
-      "Available Qty.": "817",
+      "Available Qty.": "816",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -1137,7 +1137,7 @@
       "new_since": "2026-08-13T02:01:10.240586-05:00"
     },
     {
-      "Available Qty.": "1107",
+      "Available Qty.": "1106",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1175,7 +1175,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "460",
+      "Available Qty.": "451",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1352,7 +1352,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "203",
+      "Available Qty.": "201",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -1397,16 +1397,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "P19-005P",
-      "Description": "Toilet Tissue",
-      "UOM": "CS",
-      "Pack Size": "24/4 roll",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-13T02:01:10.240586-05:00"
-    },
-    {
       "Available Qty.": "57",
       "Item No.": "D26-668P",
       "Description": "Turkey Dip",
@@ -1416,7 +1406,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "145",
+      "Available Qty.": "143",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
