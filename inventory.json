@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 12, 2026 at 06:22 PM",
-  "updated_at_iso": "2026-08-12T18:22:14.367025-05:00",
-  "item_count": 150,
+  "updated_at": "August 12, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-08-12T19:01:14.038991-05:00",
+  "item_count": 151,
   "items": [
     {
       "Available Qty.": "61",
@@ -71,7 +71,7 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -191,7 +191,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "178",
+      "Available Qty.": "175",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -312,15 +312,6 @@
       "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
-      "Available Qty.": "803",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1347",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -329,6 +320,15 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-12T02:01:28.813255-05:00"
+    },
+    {
+      "Available Qty.": "803",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "25",
@@ -404,15 +404,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "870",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "116",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -420,6 +411,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "870",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "196",
@@ -492,6 +492,16 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "85",
+      "Item No.": "D25-1975P",
+      "Description": "Chips 18/4.25 oz",
+      "UOM": "CS",
+      "Pack Size": "18/4.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-12T02:01:28.813255-05:00"
     },
     {
       "Available Qty.": "103",
@@ -667,7 +677,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "595",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -833,7 +843,7 @@
       "new_since": "2026-08-12T11:12:18.118491-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
@@ -1004,15 +1014,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1178",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -1020,6 +1021,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1178",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "198",
@@ -1058,15 +1068,6 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "435",
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "8/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "115",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -1075,6 +1076,15 @@
       "Feature Type": "Free Item",
       "Gross Weight": "50",
       "new_since": "2026-08-12T16:01:29.062488-05:00"
+    },
+    {
+      "Available Qty.": "435",
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "8/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "282",
