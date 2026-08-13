@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 13, 2026 at 11:12 AM",
-  "updated_at_iso": "2026-08-13T11:12:44.122603-05:00",
-  "item_count": 162,
+  "updated_at": "August 13, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-13T12:01:22.094873-05:00",
+  "item_count": 163,
   "items": [
     {
       "Available Qty.": "61",
@@ -150,7 +150,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "141",
+      "Available Qty.": "164",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -218,7 +218,7 @@
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
       "Pack Size": "25/2 lb",
-      "Feature Type": "",
+      "Feature Type": "Free Item",
       "Gross Weight": "50"
     },
     {
@@ -278,15 +278,6 @@
       "Gross Weight": "490"
     },
     {
-      "Available Qty.": "779",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1331",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -294,6 +285,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "779",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "1",
@@ -368,15 +368,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "860",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "124",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -384,6 +375,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "860",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "171",
@@ -422,15 +422,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "444",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -438,6 +429,15 @@
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "57",
@@ -742,8 +742,7 @@
       "UOM": "CS",
       "Pack Size": "12/19 oz",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-08-12T12:01:15.072210-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "112",
@@ -846,7 +845,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
@@ -1288,6 +1287,16 @@
       "new_since": "2026-08-13T11:12:44.122071-05:00"
     },
     {
+      "Available Qty.": "156",
+      "Item No.": "P06-230P",
+      "Description": "Skillet Dinner, Lasagna",
+      "UOM": "CS",
+      "Pack Size": "12/5.6 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-13T12:01:22.094280-05:00"
+    },
+    {
       "Available Qty.": "713",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
@@ -1303,8 +1312,7 @@
       "UOM": "CS",
       "Pack Size": "24/20 oz",
       "Feature Type": "",
-      "Gross Weight": "32",
-      "new_since": "2026-08-12T12:01:15.072210-05:00"
+      "Gross Weight": "32"
     },
     {
       "Available Qty.": "172",
