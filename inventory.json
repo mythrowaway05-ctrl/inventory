@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 13, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-08-13T04:01:29.444942-05:00",
+  "updated_at": "August 13, 2026 at 04:46 AM",
+  "updated_at_iso": "2026-08-13T04:46:56.276957-05:00",
   "item_count": 172,
   "items": [
     {
@@ -241,7 +241,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1376",
+      "Available Qty.": "1374",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -298,15 +298,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D25-1985P",
-      "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
-      "UOM": "BULK",
-      "Pack Size": "1/490 lbs",
-      "Feature Type": "",
-      "Gross Weight": "490"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D25-1987P",
       "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
       "UOM": "BULK",
@@ -315,13 +306,13 @@
       "Gross Weight": "280"
     },
     {
-      "Available Qty.": "1347",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
+      "Available Qty.": "1",
+      "Item No.": "D25-1985P",
+      "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
+      "UOM": "BULK",
+      "Pack Size": "1/490 lbs",
       "Feature Type": "",
-      "Gross Weight": "18"
+      "Gross Weight": "490"
     },
     {
       "Available Qty.": "782",
@@ -331,6 +322,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1347",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "1",
@@ -477,15 +477,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "57",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
       "Available Qty.": "189",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
@@ -493,6 +484,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "57",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "80",
@@ -514,7 +514,7 @@
       "new_since": "2026-08-12T16:01:29.062488-05:00"
     },
     {
-      "Available Qty.": "105",
+      "Available Qty.": "95",
       "Item No.": "D25-1973P",
       "Description": "Chips, Sour Cream and Onion",
       "UOM": "CS",
@@ -690,7 +690,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "229",
+      "Available Qty.": "214",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -736,7 +736,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "593",
+      "Available Qty.": "578",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -1112,15 +1112,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1178",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -1128,6 +1119,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "198",
@@ -1186,15 +1186,6 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "392",
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "8/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "99",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -1203,6 +1194,15 @@
       "Feature Type": "Free Item",
       "Gross Weight": "50",
       "new_since": "2026-08-12T16:01:29.062488-05:00"
+    },
+    {
+      "Available Qty.": "392",
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "8/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "282",
@@ -1214,7 +1214,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "289",
+      "Available Qty.": "288",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1567,7 +1567,7 @@
       "new_since": "2026-08-13T02:01:10.240586-05:00"
     },
     {
-      "Available Qty.": "352",
+      "Available Qty.": "337",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
