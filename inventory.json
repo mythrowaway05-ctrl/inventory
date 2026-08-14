@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 14, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-14T09:01:14.733330-05:00",
+  "updated_at": "August 14, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-08-14T10:01:13.212123-05:00",
   "item_count": 154,
   "items": [
     {
@@ -31,7 +31,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D03-535P",
       "Description": "Assorted Beverages - BULKTOTE 1/1160 lb",
       "UOM": "BULK",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "98",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
       "UOM": "CS",
@@ -130,16 +130,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-1164P",
-      "Description": "Bratwurst 6/4.275 lb",
-      "UOM": "CS",
-      "Pack Size": "6/4.275 lb",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-14T04:01:07.529269-05:00"
-    },
-    {
       "Available Qty.": "1374",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -158,7 +148,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "152",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -185,7 +175,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "6",
       "Item No.": "D08-550P",
       "Description": "Cake, White Half Sheet",
       "UOM": "CS",
@@ -240,7 +230,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D27-079P",
       "Description": "Carrots, Dehydrated",
       "UOM": "CS",
@@ -593,7 +583,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "3760",
+      "Available Qty.": "3757",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -647,7 +637,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -782,6 +772,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "14",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-13T18:01:10.288481-05:00"
+    },
+    {
       "Available Qty.": "296",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -789,6 +789,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "36",
+      "Item No.": "D07-168P",
+      "Description": "Milk, Chocolate 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-08-14T10:01:13.211773-05:00"
     },
     {
       "Available Qty.": "2",
@@ -890,7 +900,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "215",
+      "Available Qty.": "213",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -962,7 +972,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1164",
+      "Available Qty.": "1162",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -987,15 +997,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1995P",
-      "Description": "Popcorn 12/4 oz",
-      "UOM": "CS",
-      "Pack Size": "12/4 oz",
-      "Feature Type": "",
-      "Gross Weight": "4"
     },
     {
       "Available Qty.": "49",
@@ -1188,7 +1189,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "123",
       "Item No.": "P06-001P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1343,7 +1344,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "238",
       "Item No.": "D03-1084P",
       "Description": "Sparkling Water, Flavored 8/12 oz",
       "UOM": "CS",
@@ -1352,7 +1353,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "37",
       "Item No.": "D26-668P",
       "Description": "Turkey Dip",
       "UOM": "CS",
