@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 13, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-08-13T20:01:14.390847-05:00",
-  "item_count": 155,
+  "updated_at": "August 13, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-08-13T21:01:06.258926-05:00",
+  "item_count": 157,
   "items": [
     {
       "Available Qty.": "41",
@@ -204,6 +204,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D15-436P",
+      "Description": "Cappacuolo Hot Ham",
+      "UOM": "CS",
+      "Pack Size": "1/3 ct",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-13T21:01:06.258365-05:00"
+    },
+    {
       "Available Qty.": "1374",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -213,7 +223,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "156",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -359,15 +369,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "850",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "124",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -375,6 +376,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "850",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "171",
@@ -413,15 +423,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "444",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -431,13 +432,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "57",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "444",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "189",
@@ -447,6 +448,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "57",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "73",
@@ -1169,6 +1179,16 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D26-349P",
+      "Description": "Salsa 12/11.5 oz",
+      "UOM": "CS",
+      "Pack Size": "12/11.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-08-13T21:01:06.258365-05:00"
     },
     {
       "Available Qty.": "6",
