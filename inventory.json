@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-14T14:01:21.040381-05:00",
-  "item_count": 151,
+  "updated_at": "August 14, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-14T15:01:14.888392-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "36",
@@ -410,15 +410,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "187",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "57",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -428,7 +419,26 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "187",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D25-1975P",
+      "Description": "Chips 18/4.25 oz",
+      "UOM": "CS",
+      "Pack Size": "18/4.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-14T15:01:14.887849-05:00"
+    },
+    {
+      "Available Qty.": "60",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -963,15 +973,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1162",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -979,6 +980,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "194",
@@ -999,6 +1009,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D25-1978P",
+      "Description": "Pork Skins, Hot 60/0.875 oz",
+      "UOM": "CS",
+      "Pack Size": "60/0.875 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-08-14T15:01:14.887849-05:00"
+    },
+    {
       "Available Qty.": "543",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -1017,15 +1037,6 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "259",
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "8/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "73",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -1033,6 +1044,15 @@
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "259",
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "8/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "278",
@@ -1087,6 +1107,16 @@
       "Pack Size": "24/3 oz",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "14",
+      "Item No.": "D06-440P",
+      "Description": "Ramen Noodles, Hot and Spicy Beef",
+      "UOM": "CS",
+      "Pack Size": "24/3 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-14T15:01:14.887849-05:00"
     },
     {
       "Available Qty.": "25",
