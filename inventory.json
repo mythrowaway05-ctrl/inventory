@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 07:30 AM",
-  "updated_at_iso": "2026-08-14T07:30:08.725828-05:00",
-  "item_count": 154,
+  "updated_at": "August 14, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-14T08:01:07.790106-05:00",
+  "item_count": 155,
   "items": [
     {
       "Available Qty.": "41",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "108",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
       "UOM": "CS",
@@ -130,7 +130,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "0",
       "Item No.": "D15-1164P",
       "Description": "Bratwurst 6/4.275 lb",
       "UOM": "CS",
@@ -140,7 +140,7 @@
       "new_since": "2026-08-14T04:01:07.529269-05:00"
     },
     {
-      "Available Qty.": "1376",
+      "Available Qty.": "1374",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -212,7 +212,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1374",
+      "Available Qty.": "1370",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -221,7 +221,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "141",
+      "Available Qty.": "140",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-1985P",
       "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
       "UOM": "BULK",
@@ -275,7 +275,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1288",
+      "Available Qty.": "1286",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -447,7 +447,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "61",
+      "Available Qty.": "58",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -456,7 +456,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "711",
+      "Available Qty.": "710",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -474,7 +474,7 @@
       "Gross Weight": "37"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "14",
       "Item No.": "D25-155P",
       "Description": "Cookies 12/16 oz",
       "UOM": "CS",
@@ -636,7 +636,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "15",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -654,7 +654,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "515",
+      "Available Qty.": "500",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -780,7 +780,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -826,7 +826,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "57",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -997,7 +997,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-1995P",
       "Description": "Popcorn 12/4 oz",
       "UOM": "CS",
@@ -1024,7 +1024,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "379",
+      "Available Qty.": "377",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -1042,7 +1042,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "317",
+      "Available Qty.": "312",
       "Item No.": "D28-831P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1051,7 +1051,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "279",
+      "Available Qty.": "278",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1067,6 +1067,16 @@
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
       "Gross Weight": "13"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D04-254P",
+      "Description": "Protein Waffles, Chocolate Chip",
+      "UOM": "CS",
+      "Pack Size": "8/8 ct",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-14T08:01:07.789593-05:00"
     },
     {
       "Available Qty.": "32",
@@ -1087,7 +1097,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "894",
+      "Available Qty.": "892",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
@@ -1105,7 +1115,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "91",
       "Item No.": "D06-440P",
       "Description": "Ramen Noodles, Hot and Spicy Beef",
       "UOM": "CS",
@@ -1186,7 +1196,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "128",
+      "Available Qty.": "126",
       "Item No.": "P06-001P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1196,7 +1206,7 @@
       "new_since": "2026-08-13T11:12:44.122071-05:00"
     },
     {
-      "Available Qty.": "185",
+      "Available Qty.": "183",
       "Item No.": "P06-230P",
       "Description": "Skillet Dinner, Lasagna",
       "UOM": "CS",
@@ -1206,7 +1216,7 @@
       "new_since": "2026-08-13T12:01:22.094280-05:00"
     },
     {
-      "Available Qty.": "703",
+      "Available Qty.": "700",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
