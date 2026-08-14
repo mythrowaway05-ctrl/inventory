@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-14T10:01:13.212123-05:00",
-  "item_count": 154,
+  "updated_at": "August 14, 2026 at 10:38 AM",
+  "updated_at_iso": "2026-08-14T10:38:34.359582-05:00",
+  "item_count": 153,
   "items": [
     {
       "Available Qty.": "41",
@@ -148,7 +148,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "152",
+      "Available Qty.": "105",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -221,23 +221,13 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "90",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
       "Pack Size": "25/2 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D27-079P",
-      "Description": "Carrots, Dehydrated",
-      "UOM": "CS",
-      "Pack Size": "6/10 cans",
-      "Feature Type": "Free Item",
-      "Gross Weight": "13",
-      "new_since": "2026-08-14T09:01:14.732760-05:00"
     },
     {
       "Available Qty.": "64",
@@ -348,15 +338,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "850",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "116",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -364,6 +345,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "850",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "1",
@@ -782,6 +772,16 @@
       "new_since": "2026-08-13T18:01:10.288481-05:00"
     },
     {
+      "Available Qty.": "17",
+      "Item No.": "D07-870P",
+      "Description": "Milk, 1% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-08-14T10:38:34.359002-05:00"
+    },
+    {
       "Available Qty.": "296",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -789,16 +789,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "36",
-      "Item No.": "D07-168P",
-      "Description": "Milk, Chocolate 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-08-14T10:01:13.211773-05:00"
     },
     {
       "Available Qty.": "2",
