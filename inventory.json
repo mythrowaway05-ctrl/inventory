@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-08-14T17:01:19.865551-05:00",
-  "item_count": 153,
+  "updated_at": "August 14, 2026 at 05:54 PM",
+  "updated_at_iso": "2026-08-14T17:54:26.416473-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "31",
@@ -419,7 +419,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D25-1975P",
       "Description": "Chips 18/4.25 oz",
       "UOM": "CS",
@@ -573,7 +573,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "650",
+      "Available Qty.": "649",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -998,6 +998,16 @@
       "Pack Size": "48/3.5 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-1979P",
+      "Description": "Pork Skins, Hot 24/1.8 oz",
+      "UOM": "CS",
+      "Pack Size": "24/1.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-08-14T17:54:26.415993-05:00"
     },
     {
       "Available Qty.": "1",
