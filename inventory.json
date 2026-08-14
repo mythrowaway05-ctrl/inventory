@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-14T06:01:14.221011-05:00",
-  "item_count": 160,
+  "updated_at": "August 14, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-14T07:01:11.236775-05:00",
+  "item_count": 155,
   "items": [
     {
       "Available Qty.": "41",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "118",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
       "UOM": "CS",
@@ -158,7 +158,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "149",
+      "Available Qty.": "161",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -212,16 +212,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-436P",
-      "Description": "Cappacuolo Hot Ham",
-      "UOM": "CS",
-      "Pack Size": "1/3 ct",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-13T21:01:06.258365-05:00"
-    },
-    {
       "Available Qty.": "1374",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -231,7 +221,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "141",
+      "Available Qty.": "142",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -249,7 +239,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "38",
       "Item No.": "D05-193P",
       "Description": "Cereal 9/24.5 oz",
       "UOM": "CS",
@@ -274,15 +264,6 @@
       "Pack Size": "1/490 lbs",
       "Feature Type": "",
       "Gross Weight": "490"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-1987P",
-      "Description": "Cheez-it, Gluten Free - BULK 18 oz Bags",
-      "UOM": "BULK",
-      "Pack Size": "1/280 lbs",
-      "Feature Type": "",
-      "Gross Weight": "280"
     },
     {
       "Available Qty.": "769",
@@ -328,16 +309,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1988P",
-      "Description": "Chicken Sausage Bites 8/4 oz",
-      "UOM": "CS",
-      "Pack Size": "8/4 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-08-14T04:01:07.529269-05:00"
     },
     {
       "Available Qty.": "83",
@@ -665,7 +636,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -746,7 +717,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D14-022P",
       "Description": "Juice, Cherry Apple",
       "UOM": "CS",
@@ -755,7 +726,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D14-121P",
       "Description": "Juice, Cranberry 8/64 oz",
       "UOM": "CS",
@@ -780,16 +751,6 @@
       "Pack Size": "16/24 oz",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-110P",
-      "Description": "Lunchmeat 6/16 oz",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-08-14T04:01:07.529269-05:00"
     },
     {
       "Available Qty.": "71",
@@ -1018,15 +979,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1164",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -1034,6 +986,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "194",
@@ -1090,7 +1051,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "297",
+      "Available Qty.": "317",
       "Item No.": "D28-831P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1196,16 +1157,6 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D26-349P",
-      "Description": "Salsa 12/11.5 oz",
-      "UOM": "CS",
-      "Pack Size": "12/11.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-08-13T21:01:06.258365-05:00"
     },
     {
       "Available Qty.": "5",
@@ -1409,7 +1360,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "47",
       "Item No.": "D26-668P",
       "Description": "Turkey Dip",
       "UOM": "CS",
