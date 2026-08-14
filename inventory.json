@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 14, 2026 at 10:38 AM",
-  "updated_at_iso": "2026-08-14T10:38:34.359582-05:00",
-  "item_count": 153,
+  "updated_at": "August 14, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-14T11:01:12.672203-05:00",
+  "item_count": 154,
   "items": [
     {
-      "Available Qty.": "41",
+      "Available Qty.": "36",
       "Item No.": "D15-819P",
       "Description": "8 Piece Cut Chicken Individually Bagged",
       "UOM": "CS",
@@ -627,7 +627,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "20",
       "Item No.": "D06-336P",
       "Description": "Grilled Chicken Ciabatta 5/11.7 oz",
       "UOM": "CS",
@@ -791,6 +791,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "27",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-14T11:01:12.671669-05:00"
+    },
+    {
       "Available Qty.": "2",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
@@ -854,7 +864,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "215",
+      "Available Qty.": "212",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
