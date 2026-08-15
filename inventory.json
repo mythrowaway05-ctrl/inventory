@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 15, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-15T16:01:12.707517-05:00",
-  "item_count": 152,
+  "updated_at": "August 15, 2026 at 04:42 PM",
+  "updated_at_iso": "2026-08-15T16:42:20.826209-05:00",
+  "item_count": 151,
   "items": [
     {
       "Available Qty.": "31",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "82",
       "Item No.": "D25-1976P",
       "Description": "Assorted Popcorn, DISPLAY 1/48 ct",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "98",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -211,7 +211,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "26",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -229,7 +229,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "0",
       "Item No.": "D05-193P",
       "Description": "Cereal 9/24.5 oz",
       "UOM": "CS",
@@ -346,7 +346,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "143",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut Individually Bagged",
       "UOM": "CS",
@@ -598,7 +598,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1800",
+      "Available Qty.": "1797",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -734,7 +734,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "4",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -798,7 +798,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -833,16 +833,6 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D27-830P",
-      "Description": "Mustard Greens",
-      "UOM": "CS",
-      "Pack Size": "12/27 oz",
-      "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
     },
     {
       "Available Qty.": "1198",
@@ -944,7 +934,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "128",
+      "Available Qty.": "127",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -962,7 +952,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2189",
+      "Available Qty.": "2186",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -1088,7 +1078,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "440",
+      "Available Qty.": "420",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
@@ -1106,7 +1096,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "5",
       "Item No.": "D06-795P",
       "Description": "Ramen Noodles, Hot and Spicy Veggie",
       "UOM": "CS",
