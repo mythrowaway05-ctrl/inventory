@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 15, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-15T07:01:21.775418-05:00",
-  "item_count": 156,
+  "updated_at": "August 15, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-15T08:01:11.613109-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "31",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "95",
+      "Available Qty.": "98",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -175,15 +175,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "64",
-      "Item No.": "D08-549P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "12/24.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
@@ -192,6 +183,15 @@
       "Feature Type": "",
       "Gross Weight": "19",
       "new_since": "2026-08-14T09:01:14.732760-05:00"
+    },
+    {
+      "Available Qty.": "64",
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "12/24.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "31",
@@ -248,15 +248,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1260",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "769",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -264,6 +255,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1260",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "9",
@@ -419,7 +419,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "44",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -489,16 +489,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "30",
-      "Item No.": "D27-083P",
-      "Description": "Cut Green Beans",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
     },
     {
       "Available Qty.": "19",
@@ -782,16 +772,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-323P",
-      "Description": "Milk, 2% 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
@@ -812,7 +792,7 @@
       "new_since": "2026-08-14T11:01:12.671669-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
@@ -1040,7 +1020,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "33",
       "Item No.": "D25-1977P",
       "Description": "Popcorn 48/3.5 oz",
       "UOM": "CS",
@@ -1113,7 +1093,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "26",
       "Item No.": "D05-841P",
       "Description": "Quick Oats",
       "UOM": "CS",
@@ -1131,7 +1111,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "496",
+      "Available Qty.": "476",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
