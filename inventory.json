@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 15, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-15T13:01:08.615296-05:00",
+  "updated_at": "August 15, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-15T14:01:08.930468-05:00",
   "item_count": 153,
   "items": [
     {
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "108",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -409,7 +409,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "187",
+      "Available Qty.": "207",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -804,11 +804,10 @@
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-14T13:01:09.772992-05:00"
+      "Gross Weight": "54"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "10",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1098,7 +1097,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "476",
+      "Available Qty.": "456",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
@@ -1197,7 +1196,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "695",
+      "Available Qty.": "685",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
