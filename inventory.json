@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 15, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-08-15T11:01:11.028976-05:00",
-  "item_count": 155,
+  "updated_at": "August 15, 2026 at 11:54 AM",
+  "updated_at_iso": "2026-08-15T11:54:52.950758-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "31",
@@ -247,15 +247,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "769",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1260",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -263,6 +254,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "769",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "9",
@@ -382,15 +382,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "444",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -398,6 +389,15 @@
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "444",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz. cans",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "57",
@@ -418,7 +418,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "36",
       "Item No.": "D25-1815P",
       "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
@@ -770,7 +770,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "13",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
       "UOM": "CS",
@@ -786,8 +786,7 @@
       "UOM": "CS",
       "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-14T11:01:12.671669-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "2",
@@ -1027,16 +1026,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D25-1978P",
-      "Description": "Pork Skins, Hot 60/0.875 oz",
-      "UOM": "CS",
-      "Pack Size": "60/0.875 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-08-14T15:01:14.887849-05:00"
-    },
-    {
       "Available Qty.": "543",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -1055,7 +1044,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "400",
+      "Available Qty.": "600",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
