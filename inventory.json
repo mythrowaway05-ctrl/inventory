@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 15, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-08-15T12:01:14.889506-05:00",
-  "item_count": 154,
+  "updated_at": "August 15, 2026 at 12:42 PM",
+  "updated_at_iso": "2026-08-15T12:42:38.559695-05:00",
+  "item_count": 153,
   "items": [
     {
       "Available Qty.": "31",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "98",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -1044,14 +1044,13 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "510",
-      "Item No.": "P28-013P",
+      "Available Qty.": "68",
+      "Item No.": "D28-218P",
       "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb Bag",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-08-15T11:01:11.028410-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "209",
@@ -1061,15 +1060,6 @@
       "Pack Size": "8/5 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "68",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "278",
