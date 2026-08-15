@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 15, 2026 at 04:42 PM",
-  "updated_at_iso": "2026-08-15T16:42:20.826209-05:00",
-  "item_count": 151,
+  "updated_at": "August 15, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-15T17:01:22.647120-05:00",
+  "item_count": 149,
   "items": [
     {
       "Available Qty.": "31",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "105",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -202,7 +202,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1359",
+      "Available Qty.": "1354",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -227,15 +227,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D05-193P",
-      "Description": "Cereal 9/24.5 oz",
-      "UOM": "CS",
-      "Pack Size": "9/24.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "16"
     },
     {
       "Available Qty.": "148",
@@ -427,7 +418,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "710",
+      "Available Qty.": "709",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -752,7 +743,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "296",
+      "Available Qty.": "295",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -761,7 +752,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "3",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
       "UOM": "CS",
@@ -780,7 +771,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
@@ -796,16 +787,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-871P",
-      "Description": "Milk, Skim 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/0.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
     },
     {
       "Available Qty.": "242",
@@ -916,7 +897,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "102",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1042,7 +1023,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "273",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1096,7 +1077,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "25",
       "Item No.": "D06-795P",
       "Description": "Ramen Noodles, Hot and Spicy Veggie",
       "UOM": "CS",
