@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 14, 2026 at 11:01 PM",
-  "updated_at_iso": "2026-08-14T23:01:16.292161-05:00",
-  "item_count": 154,
+  "updated_at": "August 15, 2026 at 12:01 AM",
+  "updated_at_iso": "2026-08-15T00:01:09.529357-05:00",
+  "item_count": 151,
   "items": [
     {
       "Available Qty.": "31",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "99",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -212,7 +212,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "31",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -401,15 +401,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "57",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
       "Available Qty.": "187",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
@@ -419,14 +410,13 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-1975P",
-      "Description": "Chips 18/4.25 oz",
+      "Available Qty.": "57",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
       "UOM": "CS",
-      "Pack Size": "18/4.25 oz",
+      "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-08-14T15:01:14.887849-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "49",
@@ -744,7 +734,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "14",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -753,7 +743,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "17",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -999,16 +989,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-1979P",
-      "Description": "Pork Skins, Hot 24/1.8 oz",
-      "UOM": "CS",
-      "Pack Size": "24/1.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-08-14T17:54:26.415993-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D25-1978P",
       "Description": "Pork Skins, Hot 60/0.875 oz",
@@ -1107,16 +1087,6 @@
       "Pack Size": "24/3 oz",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-440P",
-      "Description": "Ramen Noodles, Hot and Spicy Beef",
-      "UOM": "CS",
-      "Pack Size": "24/3 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-14T15:01:14.887849-05:00"
     },
     {
       "Available Qty.": "25",
