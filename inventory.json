@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 16, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-08-16T01:01:19.034409-05:00",
+  "updated_at": "August 16, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-16T02:01:11.159019-05:00",
   "item_count": 149,
   "items": [
     {
@@ -319,15 +319,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "850",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "110",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -335,6 +326,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "850",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "143",
@@ -373,15 +373,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "444",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -391,13 +382,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "57",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "30",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "24/7.5 oz",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "207",
@@ -407,6 +398,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "57",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "28",
@@ -685,8 +685,7 @@
       "UOM": "CS",
       "Pack Size": "6/1 gallon",
       "Feature Type": "",
-      "Gross Weight": "54",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "158",
@@ -758,8 +757,7 @@
       "UOM": "CS",
       "Pack Size": "9/1 qt",
       "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-15T02:01:08.535431-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "27",
