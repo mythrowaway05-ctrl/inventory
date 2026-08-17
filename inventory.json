@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 17, 2026 at 10:53 AM",
-  "updated_at_iso": "2026-08-17T10:53:48.169107-05:00",
-  "item_count": 143,
+  "updated_at": "August 17, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-17T11:01:07.399836-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "12",
@@ -292,7 +292,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "146",
+      "Available Qty.": "162",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -445,7 +445,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "712",
+      "Available Qty.": "710",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -463,7 +463,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "44",
       "Item No.": "D03-409P",
       "Description": "Drink Mix, Fruit Punch",
       "UOM": "CS",
@@ -598,7 +598,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "120",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -743,16 +743,6 @@
       "Pack Size": "9/0.5 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "42",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D07-980P",
-      "Description": "Milk, Whole 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
       "new_since": "2026-08-17T10:53:48.168652-05:00"
     },
     {
@@ -1002,7 +992,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "2590",
+      "Available Qty.": "2890",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
