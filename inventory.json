@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 17, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-08-17T01:01:22.558729-05:00",
-  "item_count": 148,
+  "updated_at": "August 17, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-08-17T02:01:12.923922-05:00",
+  "item_count": 150,
   "items": [
     {
       "Available Qty.": "31",
@@ -175,15 +175,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "64",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -191,6 +182,15 @@
       "Pack Size": "12/24.1 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D08-551P",
+      "Description": "Cake, White Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "31",
@@ -373,15 +373,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "444",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -391,13 +382,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "207",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "444",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "4/4 lb",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "16"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "57",
@@ -407,6 +398,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "207",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "0",
@@ -553,7 +553,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "643",
+      "Available Qty.": "638",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -679,15 +679,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D14-1000P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "6/1 gallon",
-      "Feature Type": "",
-      "Gross Weight": "54"
-    },
-    {
       "Available Qty.": "158",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -749,6 +740,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-1001P",
+      "Description": "Milk, 2% 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-08-17T02:01:12.923482-05:00"
     },
     {
       "Available Qty.": "27",
@@ -868,7 +869,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "233",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -976,6 +977,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D25-1978P",
+      "Description": "Pork Skins, Hot 60/0.875 oz",
+      "UOM": "CS",
+      "Pack Size": "60/0.875 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-08-17T02:01:12.923482-05:00"
+    },
+    {
       "Available Qty.": "543",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -1019,6 +1030,16 @@
       "Pack Size": "24/6 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-1980P",
+      "Description": "Pretzels 12/12 oz",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-08-17T02:01:12.923482-05:00"
     },
     {
       "Available Qty.": "276",
