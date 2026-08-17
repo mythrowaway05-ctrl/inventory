@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 17, 2026 at 03:08 AM",
-  "updated_at_iso": "2026-08-17T03:08:00.075204-05:00",
+  "updated_at": "August 17, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-08-17T04:01:07.971960-05:00",
   "item_count": 150,
   "items": [
     {
@@ -238,15 +238,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1260",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "769",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -254,6 +245,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1260",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "9",
@@ -373,15 +373,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "444",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -391,13 +382,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "57",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "30",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "24/7.5 oz",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "207",
@@ -407,6 +398,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "57",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "0",
@@ -941,15 +941,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1157",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "16",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -957,6 +948,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1157",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "194",
@@ -1005,15 +1005,6 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "56",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "206",
       "Item No.": "D28-831P",
       "Description": "Potatoes",
@@ -1021,6 +1012,15 @@
       "Pack Size": "8/5 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "56",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "273",
