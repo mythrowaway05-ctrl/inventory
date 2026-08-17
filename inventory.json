@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 17, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-08-17T00:01:13.118521-05:00",
-  "item_count": 149,
+  "updated_at": "August 17, 2026 at 12:54 AM",
+  "updated_at_iso": "2026-08-17T00:54:09.349803-05:00",
+  "item_count": 148,
   "items": [
     {
       "Available Qty.": "31",
@@ -139,7 +139,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "108",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -211,7 +211,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "18",
       "Item No.": "D28-540P",
       "Description": "Carrots 25/2 lb",
       "UOM": "CS",
@@ -724,7 +724,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -733,7 +733,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "17",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -751,16 +751,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-338P",
-      "Description": "Milk, Buttermilk 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "23",
+      "Available Qty.": "27",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -769,7 +760,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D07-1052P",
       "Description": "Milk, Skim 50/8 oz",
       "UOM": "CS",
