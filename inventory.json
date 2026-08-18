@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 18, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-18T16:01:59.190791-05:00",
+  "updated_at": "August 18, 2026 at 04:50 PM",
+  "updated_at_iso": "2026-08-18T16:50:04.618342-05:00",
   "item_count": 116,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "64",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -212,15 +212,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "769",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1252",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -228,6 +219,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "769",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "9",
@@ -293,13 +293,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "847",
-      "Item No.": "P15-104P",
+      "Available Qty.": "158",
+      "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/40lb",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "10",
@@ -312,13 +312,13 @@
       "new_since": "2026-08-18T02:01:08.925096-05:00"
     },
     {
-      "Available Qty.": "158",
-      "Item No.": "D15-1135P",
+      "Available Qty.": "847",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/40lb",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "40"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "42",
@@ -395,15 +395,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "160",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "40",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -411,6 +402,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "160",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "685",
@@ -422,7 +422,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1232",
+      "Available Qty.": "1040",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
