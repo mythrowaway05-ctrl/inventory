@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 18, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-08-18T18:01:01.116879-05:00",
-  "item_count": 116,
+  "updated_at": "August 18, 2026 at 06:46 PM",
+  "updated_at_iso": "2026-08-18T18:46:53.679403-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "1",
@@ -112,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "10",
       "Item No.": "D28-459P",
       "Description": "Broccoli",
       "UOM": "CS",
@@ -212,15 +212,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1252",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "769",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -228,6 +219,25 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-080P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-08-18T02:01:08.925096-05:00"
+    },
+    {
+      "Available Qty.": "1252",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "9",
@@ -349,15 +359,6 @@
       "new_since": "2026-08-18T02:01:08.925096-05:00"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
@@ -366,6 +367,15 @@
       "Feature Type": "",
       "Gross Weight": "45",
       "new_since": "2026-08-18T02:01:08.925096-05:00"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "860",
@@ -422,7 +432,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1040",
+      "Available Qty.": "938",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
