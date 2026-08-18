@@ -1,18 +1,83 @@
 {
-  "scraped_at": "2026-08-17T19:01:07.427224-05:00",
+  "scraped_at": "2026-08-17T21:01:04.402935-05:00",
   "po_number": "PO6320936",
   "appointment": {
     "reference_number": "PO6320936",
     "pickup_date": "08/26/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n20",
-    "Total Line Items": "Gross Weight\n3330 lbs",
+    "Total Due": "Total Line Items\n22",
+    "Total Line Items": "Gross Weight\n3566 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00\t\u00a0\nD13-167P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t1330\t239.40\t\u00a0\t1/1330 lb\tDRY\t0.00\t\u00a0\nD19-004P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t160\t28.80\t\u00a0\t1/160 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD28-540P\tCarrots\t2\t0\tCS\t0\t0.00\t\u00a0\t25/2 lb\tREF\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t8\t8\tCS\t320\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1815P\tChips\t12\t12\tCS\t84\t1.26\t\u00a0\t60/1.5 oz\tDRY\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t6\t6\tCS\t102\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD28-831P\tPotatoes\t1\t0\tCS\t0\t0.00\t\u00a0\t8/5 lb\tREF\t0.00\t\u00a0\nD06-441P\tRamen Noodles, Cajun Shrimp\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t1\t1\tCS\t7\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t1\t1\tCS\t7\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD28-461P\tBell Peppers\t6\t6\tCS\t150\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD28-459P\tBroccoli\t1\t0\tCS\t0\t0.00\t\u00a0\t16/1.4 lb\tREF\t0.00\t\u00a0\nD08-549P\tCake, White Layer\t1\t1\tCS\t18\t3.42\t\u00a0\t12/24.1 oz\tFROZEN\t0.00\t\u00a0\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00\t\u00a0\nD13-167P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t1330\t239.40\t\u00a0\t1/1330 lb\tDRY\t0.00\t\u00a0\nD19-004P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t160\t28.80\t\u00a0\t1/160 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t8\t8\tCS\t320\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1815P\tChips\t12\t12\tCS\t84\t1.26\t\u00a0\t60/1.5 oz\tDRY\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t10\t10\tCS\t170\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD28-831P\tPotatoes\t1\t0\tCS\t0\t0.00\t\u00a0\t8/5 lb\tREF\t0.00\t\u00a0\nD06-441P\tRamen Noodles, Cajun Shrimp\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00"
   },
   "items": [
+    {
+      "Item No.": "D06-440P",
+      "Description": "Ramen Noodles, Hot and Spicy Beef",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
+      "UOM": "CS",
+      "Gross Weight": "60",
+      "Packaging Type": "",
+      "Pack Size": "24/3 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D12-378P",
+      "Description": "Sanitary Disposal Bags",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "7",
+      "Packaging Type": "",
+      "Pack Size": "1/500 ct",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D28-461P",
+      "Description": "Bell Peppers",
+      "Order Qty.": "6",
+      "Accepted Qty.": "6",
+      "UOM": "CS",
+      "Gross Weight": "150",
+      "Packaging Type": "",
+      "Pack Size": "1/25 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D28-459P",
+      "Description": "Broccoli",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "16/1.4 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D08-549P",
+      "Description": "Cake, White Layer",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "18",
+      "Packaging Type": "",
+      "Pack Size": "12/24.1 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
     {
       "Item No.": "DS06-020P",
       "Description": "Mini Beef Ravioli in Tomato Sauce",
@@ -105,19 +170,6 @@
       "Nutritional Information": ""
     },
     {
-      "Item No.": "D28-540P",
-      "Description": "Carrots",
-      "Order Qty.": "2",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "25/2 lb",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "Order Qty.": "8",
@@ -172,10 +224,10 @@
     {
       "Item No.": "DS14-002P",
       "Description": "Juice, 100 % Fruit Punch w/ Straw",
-      "Order Qty.": "6",
-      "Accepted Qty.": "6",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
       "UOM": "CS",
-      "Gross Weight": "102",
+      "Gross Weight": "170",
       "Packaging Type": "",
       "Pack Size": "40/6.75 oz",
       "Handling Requirements": "DRY",
@@ -243,32 +295,6 @@
       "Gross Weight": "60",
       "Packaging Type": "",
       "Pack Size": "24/3 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D06-440P",
-      "Description": "Ramen Noodles, Hot and Spicy Beef",
-      "Order Qty.": "10",
-      "Accepted Qty.": "10",
-      "UOM": "CS",
-      "Gross Weight": "60",
-      "Packaging Type": "",
-      "Pack Size": "24/3 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D12-378P",
-      "Description": "Sanitary Disposal Bags",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
-      "UOM": "CS",
-      "Gross Weight": "7",
-      "Packaging Type": "",
-      "Pack Size": "1/500 ct",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
