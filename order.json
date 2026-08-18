@@ -1,18 +1,31 @@
 {
-  "scraped_at": "2026-08-18T10:01:16.582359-05:00",
+  "scraped_at": "2026-08-18T11:02:02.734194-05:00",
   "po_number": "PO6320936",
   "appointment": {
     "reference_number": "PO6320936",
     "pickup_date": "08/26/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n23",
-    "Total Line Items": "Gross Weight\n3826 lbs",
+    "Total Due": "Total Line Items\n25",
+    "Total Line Items": "Gross Weight\n4126 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t1\t1\tCS\t7\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD28-459P\tBroccoli\t1\t0\tCS\t0\t0.00\t\u00a0\t16/1.4 lb\tREF\t0.00\t\u00a0\nD08-549P\tCake, White Layer\t1\t1\tCS\t18\t3.42\t\u00a0\t12/24.1 oz\tFROZEN\t0.00\t\u00a0\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00\t\u00a0\nD13-167P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t1330\t239.40\t\u00a0\t1/1330 lb\tDRY\t0.00\t\u00a0\nD19-004P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t160\t28.80\t\u00a0\t1/160 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t8\t8\tCS\t320\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1815P\tChips\t12\t12\tCS\t84\t1.26\t\u00a0\t60/1.5 oz\tDRY\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t10\t10\tCS\t170\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD28-831P\tPotatoes\t1\t0\tCS\t0\t0.00\t\u00a0\t8/5 lb\tREF\t0.00\t\u00a0\nD06-441P\tRamen Noodles, Cajun Shrimp\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-819P\t8 Piece Cut Chicken\t4\t4\tCS\t200\t9.50\t\u00a0\t1/50 lb\tFROZEN\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD15-301P\t8 Piece Chicken, Mix Cut\t2\t2\tCS\t100\t9.00\t\u00a0\t1/50 lb\tFROZEN\t0.00\t\u00a0\nD12-378P\tSanitary Disposal Bags\t1\t1\tCS\t7\t1.29\t\u00a0\t1/500 ct\tDRY\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD28-459P\tBroccoli\t1\t0\tCS\t0\t0.00\t\u00a0\t16/1.4 lb\tREF\t0.00\t\u00a0\nD08-549P\tCake, White Layer\t1\t1\tCS\t18\t3.42\t\u00a0\t12/24.1 oz\tFROZEN\t0.00\t\u00a0\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00\t\u00a0\nD13-167P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t1330\t239.40\t\u00a0\t1/1330 lb\tDRY\t0.00\t\u00a0\nD28-831P\tPotatoes\t1\t0\tCS\t0\t0.00\t\u00a0\t8/5 lb\tREF\t0.00\t\u00a0\nD06-441P\tRamen Noodles, Cajun Shrimp\t10\t10\tCS\t60\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD19-004P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t160\t28.80\t\u00a0\t1/160 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t8\t8\tCS\t320\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1815P\tChips\t12\t12\tCS\t84\t1.26\t\u00a0\t60/1.5 oz\tDRY\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t10\t10\tCS\t170\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00"
   },
   "items": [
+    {
+      "Item No.": "D15-819P",
+      "Description": "8 Piece Cut Chicken",
+      "Order Qty.": "4",
+      "Accepted Qty.": "4",
+      "UOM": "CS",
+      "Gross Weight": "200",
+      "Packaging Type": "",
+      "Pack Size": "1/50 lb",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
     {
       "Item No.": "D15-104P",
       "Description": "Chicken Wings",
@@ -36,6 +49,19 @@
       "Packaging Type": "",
       "Pack Size": "24/3 oz",
       "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D15-301P",
+      "Description": "8 Piece Chicken, Mix Cut",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "100",
+      "Packaging Type": "",
+      "Pack Size": "1/50 lb",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -139,6 +165,45 @@
       "Gross Weight": "1330",
       "Packaging Type": "",
       "Pack Size": "1/1330 lb",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D28-831P",
+      "Description": "Potatoes",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "8/5 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D06-441P",
+      "Description": "Ramen Noodles, Cajun Shrimp",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
+      "UOM": "CS",
+      "Gross Weight": "60",
+      "Packaging Type": "",
+      "Pack Size": "24/3 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "DS10-002P",
+      "Description": "Peaches in Juice",
+      "Order Qty.": "4",
+      "Accepted Qty.": "4",
+      "UOM": "CS",
+      "Gross Weight": "108",
+      "Packaging Type": "",
+      "Pack Size": "24/15 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
@@ -269,45 +334,6 @@
       "Gross Weight": "100",
       "Packaging Type": "",
       "Pack Size": "24/11 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "DS10-002P",
-      "Description": "Peaches in Juice",
-      "Order Qty.": "4",
-      "Accepted Qty.": "4",
-      "UOM": "CS",
-      "Gross Weight": "108",
-      "Packaging Type": "",
-      "Pack Size": "24/15 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "8/5 lb",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D06-441P",
-      "Description": "Ramen Noodles, Cajun Shrimp",
-      "Order Qty.": "10",
-      "Accepted Qty.": "10",
-      "UOM": "CS",
-      "Gross Weight": "60",
-      "Packaging Type": "",
-      "Pack Size": "24/3 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""

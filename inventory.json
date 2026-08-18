@@ -1,27 +1,8 @@
 {
-  "updated_at": "August 18, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-18T10:01:16.627106-05:00",
-  "item_count": 126,
+  "updated_at": "August 18, 2026 at 11:02 AM",
+  "updated_at_iso": "2026-08-18T11:02:02.788878-05:00",
+  "item_count": 119,
   "items": [
-    {
-      "Available Qty.": "2",
-      "Item No.": "D15-301P",
-      "Description": "8 Piece Chicken, Mix Cut",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-08-18T02:01:08.925096-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D15-819P",
-      "Description": "8 Piece Cut Chicken Individually Bagged",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
     {
       "Available Qty.": "1",
       "Item No.": "P10-014P",
@@ -95,7 +76,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -196,7 +177,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "61",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -325,16 +306,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-18T02:01:08.925096-05:00"
-    },
-    {
       "Available Qty.": "847",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -351,6 +322,16 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-08-18T02:01:08.925096-05:00"
     },
     {
       "Available Qty.": "43",
@@ -381,6 +362,15 @@
       "new_since": "2026-08-18T02:01:08.925096-05:00"
     },
     {
+      "Available Qty.": "21",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
+    },
+    {
       "Available Qty.": "16",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
@@ -389,15 +379,6 @@
       "Feature Type": "",
       "Gross Weight": "45",
       "new_since": "2026-08-18T02:01:08.925096-05:00"
-    },
-    {
-      "Available Qty.": "21",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "860",
@@ -688,7 +669,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-460P",
       "Description": "Lettuce",
       "UOM": "CS",
@@ -752,23 +733,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1001P",
-      "Description": "Milk, 2% 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "74",
@@ -777,8 +748,7 @@
       "UOM": "CS",
       "Pack Size": "25/8 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "16",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "42",
@@ -805,8 +775,7 @@
       "UOM": "CS",
       "Pack Size": "9/0.5 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "42",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
+      "Gross Weight": "42"
     },
     {
       "Available Qty.": "241",
@@ -1106,54 +1075,13 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D28-462P",
-      "Description": "Squash, Spaghetti",
-      "UOM": "CS",
-      "Pack Size": "1/42 lb",
-      "Feature Type": "",
-      "Gross Weight": "42",
-      "new_since": "2026-08-18T02:01:08.925096-05:00"
-    },
-    {
-      "Available Qty.": "139",
-      "Item No.": "P26-046P",
-      "Description": "Vegetable Oil",
-      "UOM": "CS",
-      "Pack Size": "12/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
-    },
-    {
-      "Available Qty.": "125",
-      "Item No.": "P27-101P",
-      "Description": "Vegetables, Mixed, NSA No Salt Added",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
-    },
-    {
-      "Available Qty.": "265",
-      "Item No.": "D03-010P",
-      "Description": "Water 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "51",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-08-17T10:53:48.168652-05:00"
+      "Gross Weight": "50"
     }
   ]
 }
