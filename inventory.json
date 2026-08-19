@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 19, 2026 at 12:54 PM",
-  "updated_at_iso": "2026-08-19T12:54:03.088089-05:00",
+  "updated_at": "August 19, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-08-19T13:01:08.014676-05:00",
   "item_count": 136,
   "items": [
     {
@@ -502,7 +502,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "3662",
+      "Available Qty.": "3637",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -755,7 +755,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "0",
       "Item No.": "D26-660P",
       "Description": "Mix, Chicken Gravy",
       "UOM": "CS",
@@ -765,7 +765,7 @@
       "new_since": "2026-08-19T02:59:04.668595-05:00"
     },
     {
-      "Available Qty.": "332",
+      "Available Qty.": "232",
       "Item No.": "D26-662P",
       "Description": "Mix, Classic Beef Gravy",
       "UOM": "CS",
@@ -1045,7 +1045,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "293",
+      "Available Qty.": "273",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1074,7 +1074,7 @@
       "new_since": "2026-08-18T14:01:39.002192-05:00"
     },
     {
-      "Available Qty.": "183",
+      "Available Qty.": "178",
       "Item No.": "D26-663P",
       "Description": "Sauce, BBQ, Apple Bourbon",
       "UOM": "CS",
@@ -1084,7 +1084,7 @@
       "new_since": "2026-08-19T09:01:12.698364-05:00"
     },
     {
-      "Available Qty.": "981",
+      "Available Qty.": "976",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
@@ -1114,7 +1114,7 @@
       "new_since": "2026-08-18T14:01:39.002192-05:00"
     },
     {
-      "Available Qty.": "2628",
+      "Available Qty.": "2528",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1124,7 +1124,7 @@
       "new_since": "2026-08-19T09:01:12.698364-05:00"
     },
     {
-      "Available Qty.": "3184",
+      "Available Qty.": "3084",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
