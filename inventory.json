@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 19, 2026 at 03:04 PM",
-  "updated_at_iso": "2026-08-19T15:04:39.246765-05:00",
+  "updated_at": "August 19, 2026 at 04:05 PM",
+  "updated_at_iso": "2026-08-19T16:05:19.073629-05:00",
   "item_count": 140,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "803",
+      "Available Qty.": "789",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -291,7 +291,7 @@
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
-      "Available Qty.": "497",
+      "Available Qty.": "496",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -301,13 +301,13 @@
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
-      "Available Qty.": "159",
-      "Item No.": "D15-1135P",
+      "Available Qty.": "845",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/40lb",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "40",
+      "Gross Weight": "20",
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
@@ -320,13 +320,13 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "845",
-      "Item No.": "P15-104P",
+      "Available Qty.": "159",
+      "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/40lb",
       "Feature Type": "",
-      "Gross Weight": "20",
+      "Gross Weight": "40",
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
@@ -399,16 +399,6 @@
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
-      "Available Qty.": "154",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-08-19T01:01:06.562471-05:00"
-    },
-    {
       "Available Qty.": "36",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -416,6 +406,16 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11",
+      "new_since": "2026-08-19T01:01:06.562471-05:00"
+    },
+    {
+      "Available Qty.": "154",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16",
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
@@ -448,7 +448,7 @@
       "new_since": "2026-08-19T01:01:06.562471-05:00"
     },
     {
-      "Available Qty.": "366",
+      "Available Qty.": "352",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -567,7 +567,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1489",
+      "Available Qty.": "1482",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -576,7 +576,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1742",
+      "Available Qty.": "1727",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -658,7 +658,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D14-022P",
       "Description": "Juice, Cherry Apple",
       "UOM": "CS",
@@ -722,7 +722,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "957",
+      "Available Qty.": "955",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -746,8 +746,7 @@
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-08-18T15:54:15.413044-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "72",
@@ -985,7 +984,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "528",
+      "Available Qty.": "514",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1205,7 +1204,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "635",
+      "Available Qty.": "634",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
