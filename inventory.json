@@ -1,8 +1,18 @@
 {
-  "updated_at": "August 20, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-20T09:01:18.875383-05:00",
-  "item_count": 144,
+  "updated_at": "August 20, 2026 at 09:10 AM",
+  "updated_at_iso": "2026-08-20T09:10:37.001450-05:00",
+  "item_count": 145,
   "items": [
+    {
+      "Available Qty.": "147",
+      "Item No.": "D28-738P",
+      "Description": "Apples",
+      "UOM": "CS",
+      "Pack Size": "1/42 lb",
+      "Feature Type": "",
+      "Gross Weight": "42",
+      "new_since": "2026-08-20T09:10:37.000992-05:00"
+    },
     {
       "Available Qty.": "1",
       "Item No.": "P10-014P",
@@ -168,7 +178,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "68",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -340,15 +350,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "21",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
@@ -356,6 +357,15 @@
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "856",
@@ -530,7 +540,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "528",
+      "Available Qty.": "527",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -1123,7 +1133,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "156",
       "Item No.": "D26-663P",
       "Description": "Sauce, BBQ, Apple Bourbon",
       "UOM": "CS",
@@ -1295,7 +1305,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "30",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
