@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 20, 2026 at 11:04 AM",
-  "updated_at_iso": "2026-08-20T11:04:37.824063-05:00",
-  "item_count": 126,
+  "updated_at": "August 20, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-20T12:01:14.900699-05:00",
+  "item_count": 121,
   "items": [
     {
-      "Available Qty.": "914",
+      "Available Qty.": "882",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -106,7 +106,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "36",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -305,13 +305,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "851",
-      "Item No.": "P15-104P",
+      "Available Qty.": "10",
+      "Item No.": "D15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "159",
@@ -323,13 +323,13 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-104P",
+      "Available Qty.": "851",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/20 lb",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "21"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "2",
@@ -405,6 +405,15 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "33",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
+    },
+    {
       "Available Qty.": "103",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
@@ -414,13 +423,14 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "33",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "4",
+      "Item No.": "D25-1815P",
+      "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "60/1.5 oz",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "7",
+      "new_since": "2026-08-20T06:58:22.212295-05:00"
     },
     {
       "Available Qty.": "672",
@@ -549,7 +559,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "144",
+      "Available Qty.": "143",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -603,7 +613,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "4375",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -732,16 +742,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-20T02:01:17.846780-05:00"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D07-875P",
       "Description": "Milk, Skim 25/8 oz",
@@ -780,16 +780,6 @@
       "new_since": "2026-08-20T08:02:05.654842-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-980P",
-      "Description": "Milk, Whole 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-20T09:01:18.874828-05:00"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
@@ -809,7 +799,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "154",
+      "Available Qty.": "152",
       "Item No.": "D26-662P",
       "Description": "Mix, Classic Beef Gravy",
       "UOM": "CS",
@@ -1079,16 +1069,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D06-440P",
-      "Description": "Ramen Noodles, Hot and Spicy Beef",
-      "UOM": "CS",
-      "Pack Size": "24/3 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-20T09:01:18.874828-05:00"
-    },
-    {
       "Available Qty.": "250",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
@@ -1107,34 +1087,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "135",
-      "Item No.": "P26-046P",
-      "Description": "Vegetable Oil",
-      "UOM": "CS",
-      "Pack Size": "12/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "108",
-      "Item No.": "P27-101P",
-      "Description": "Vegetables, Mixed, NSA No Salt Added",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "169",
-      "Item No.": "D03-010P",
-      "Description": "Water 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "51"
-    },
-    {
-      "Available Qty.": "29",
+      "Available Qty.": "28",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
