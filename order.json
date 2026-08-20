@@ -1,31 +1,18 @@
 {
-  "scraped_at": "2026-08-20T10:01:17.364726-05:00",
+  "scraped_at": "2026-08-20T11:01:10.117644-05:00",
   "po_number": "PO6320936",
   "appointment": {
     "reference_number": "PO6320936",
     "pickup_date": "08/26/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n25",
-    "Total Line Items": "Gross Weight\n3264 lbs",
+    "Total Due": "Total Line Items\n23",
+    "Total Line Items": "Gross Weight\n3236 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-831P\tPotatoes\t1\t0\tCS\t0\t0.00\t\u00a0\t8/5 lb\tREF\t0.00\t\u00a0\nD06-441P\tRamen Noodles, Cajun Shrimp\t15\t15\tCS\t90\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t4\t4\tCS\t160\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1815P\tChips\t4\t4\tCS\t28\t1.26\t\u00a0\t60/1.5 oz\tDRY\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD13-163P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t700\t126.00\t\u00a0\t1/700 lbs\tDRY\t0.00\t\u00a0\nD26-661P\tSeasoning, Carmelized Onion\t1\t1\tCS\t1\t0.19\t\u00a0\t15/0.8 oz\tDRY\t0.00\t\u00a0\nD19-016P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t130\t23.40\t\u00a0\t1/130 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD28-715P\tCantaloupe\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\t\u00a0\nD06-443P\tChili Cheese Chimichangas\t5\t5\tCS\t63\t2.38\t\u00a0\t8/30.4 oz\tFROZEN\t0.00\t\u00a0\nD03-903P\tGinger Ale\t6\t6\tCS\t184\t5.81\t\u00a0\t24/16.9 oz\tDRY\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t8\t8\tCS\t48\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t10\t10\tCS\t350\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t10\t10\tCS\t170\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t4\t4\tCS\t168\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-441P\tRamen Noodles, Cajun Shrimp\t15\t15\tCS\t90\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nDS10-002P\tPeaches in Juice\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\t\u00a0\nD15-1164P\tBratwurst\t10\t10\tCS\t260\t4.94\t\u00a0\t6/4.275 lb\tFROZEN\t0.00\t\u00a0\nD15-436P\tCappacuolo Hot Ham\t1\t1\tCS\t20\t3.80\t\u00a0\t1/3 ct\tFROZEN\t0.00\t\u00a0\nD15-1135P\tChicken Wings\t4\t4\tCS\t160\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\t\u00a0\nD25-1994P\tCreme Filled Cakes\t1\t1\tCS\t16\t3.12\t\u00a0\t6/8 ct\tDRY\t0.00\t\u00a0\nD13-163P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t700\t126.00\t\u00a0\t1/700 lbs\tDRY\t0.00\t\u00a0\nD26-661P\tSeasoning, Carmelized Onion\t1\t1\tCS\t1\t0.19\t\u00a0\t15/0.8 oz\tDRY\t0.00\t\u00a0\nD19-016P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t130\t23.40\t\u00a0\t1/130 Lb BULK TOTE\tDRY\t0.00\t\u00a0\nD28-715P\tCantaloupe\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\t\u00a0\nD06-443P\tChili Cheese Chimichangas\t5\t5\tCS\t63\t2.38\t\u00a0\t8/30.4 oz\tFROZEN\t0.00\t\u00a0\nD03-903P\tGinger Ale\t6\t6\tCS\t184\t5.81\t\u00a0\t24/16.9 oz\tDRY\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD06-440P\tRamen Noodles, Hot and Spicy Beef\t8\t8\tCS\t48\t1.14\t\u00a0\t24/3 oz\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t10\t10\tCS\t350\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nDS14-002P\tJuice, 100 % Fruit Punch w/ Straw\t10\t10\tCS\t170\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS14-001P\tJuice, Apple\t2\t2\tCS\t40\t0.00\t\u00a0\t40/6.75 oz\tDRY\t0.00\t\u00a0\nDS10-003P\tOranges, Mandarin\t5\t5\tCS\t100\t0.00\t\u00a0\t24/11 oz\tDRY\t0.00\t\u00a0\nD15-803P\tChicken, 8 Piece Cut\t4\t4\tCS\t168\t7.56\t\u00a0\t1/42 lb\tFROZEN\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nDS06-020P\tMini Beef Ravioli in Tomato Sauce\t10\t10\tCS\t115\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\t\u00a0\nD25-1975P\tChips\t2\t2\tCS\t10\t0.91\t\u00a0\t18/4.25 oz\tDRY\t0.00\t\u00a0\nD27-829P\tOnion, Dry\t1\t1\tCS\t13\t0.00\t\u00a0\t6/10 Can\tDRY\t0.00"
   },
   "items": [
-    {
-      "Item No.": "D28-831P",
-      "Description": "Potatoes",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "8/5 lb",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
     {
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
@@ -88,19 +75,6 @@
       "Packaging Type": "",
       "Pack Size": "1/40lb",
       "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D25-1815P",
-      "Description": "Chips",
-      "Order Qty.": "4",
-      "Accepted Qty.": "4",
-      "UOM": "CS",
-      "Gross Weight": "28",
-      "Packaging Type": "",
-      "Pack Size": "60/1.5 oz",
-      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
