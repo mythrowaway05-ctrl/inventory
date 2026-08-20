@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 20, 2026 at 09:10 AM",
-  "updated_at_iso": "2026-08-20T09:10:37.001450-05:00",
-  "item_count": 145,
+  "updated_at": "August 20, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-08-20T10:01:17.423582-05:00",
+  "item_count": 146,
   "items": [
     {
-      "Available Qty.": "147",
+      "Available Qty.": "914",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -305,13 +305,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-104P",
+      "Available Qty.": "851",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/20 lb",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "21"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "159",
@@ -323,13 +323,13 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "851",
-      "Item No.": "P15-104P",
+      "Available Qty.": "10",
+      "Item No.": "D15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "12",
@@ -405,15 +405,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "36",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
       "Available Qty.": "104",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
@@ -421,6 +412,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "36",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "675",
@@ -601,6 +601,16 @@
       "Pack Size": "6/5 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "160",
+      "Item No.": "D06-901P",
+      "Description": "Hot Cheese Topokki Cup, Microwavable",
+      "UOM": "CS",
+      "Pack Size": "8/4.23 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-08-20T10:01:17.423067-05:00"
     },
     {
       "Available Qty.": "463",
@@ -1142,7 +1152,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "968",
+      "Available Qty.": "959",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
