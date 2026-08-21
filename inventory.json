@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 21, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-08-21T17:01:03.592366-05:00",
-  "item_count": 135,
+  "updated_at": "August 21, 2026 at 05:55 PM",
+  "updated_at_iso": "2026-08-21T17:55:20.338711-05:00",
+  "item_count": 134,
   "items": [
     {
-      "Available Qty.": "744",
+      "Available Qty.": "741",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "25",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -113,7 +113,7 @@
       "new_since": "2026-08-21T12:01:09.519669-05:00"
     },
     {
-      "Available Qty.": "1254",
+      "Available Qty.": "1252",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -122,7 +122,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1403",
+      "Available Qty.": "1401",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -392,7 +392,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "73",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -564,7 +564,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "503",
+      "Available Qty.": "498",
       "Item No.": "D15-1161P",
       "Description": "Italian Pizza Topping",
       "UOM": "CS",
@@ -789,15 +789,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "P21-002P",
-      "Description": "Pasta, Spaghetti DRY",
-      "UOM": "CS",
-      "Pack Size": "20/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
       "Available Qty.": "664",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
@@ -843,7 +834,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1409",
+      "Available Qty.": "1407",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -978,7 +969,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "1",
       "Item No.": "D26-663P",
       "Description": "Sauce, BBQ, Apple Bourbon",
       "UOM": "CS",
@@ -987,7 +978,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "871",
+      "Available Qty.": "861",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
@@ -1073,7 +1064,7 @@
       "new_since": "2026-08-21T02:01:21.639418-05:00"
     },
     {
-      "Available Qty.": "2186",
+      "Available Qty.": "2166",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1082,7 +1073,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2883",
+      "Available Qty.": "2863",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
