@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 21, 2026 at 03:04 AM",
-  "updated_at_iso": "2026-08-21T03:04:45.890728-05:00",
+  "updated_at": "August 21, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-08-21T04:01:12.984583-05:00",
   "item_count": 153,
   "items": [
     {
@@ -282,16 +282,6 @@
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
-      "Available Qty.": "1191",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
-    },
-    {
       "Available Qty.": "739",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -299,6 +289,16 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40",
+      "new_since": "2026-08-20T16:01:08.917569-05:00"
+    },
+    {
+      "Available Qty.": "1191",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18",
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
@@ -382,16 +382,6 @@
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
-      "Available Qty.": "162",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
-    },
-    {
       "Available Qty.": "821",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -399,6 +389,16 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20",
+      "new_since": "2026-08-20T16:01:08.917569-05:00"
+    },
+    {
+      "Available Qty.": "162",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40",
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
@@ -432,16 +432,6 @@
       "new_since": "2026-08-21T02:01:21.639418-05:00"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
@@ -449,6 +439,16 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50",
+      "new_since": "2026-08-20T16:01:08.917569-05:00"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45",
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
@@ -462,16 +462,6 @@
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
-    },
-    {
       "Available Qty.": "437",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -482,13 +472,13 @@
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
-      "Available Qty.": "93",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "5",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "4/4 lb",
+      "Pack Size": "24/7.5 oz",
       "Feature Type": "",
-      "Gross Weight": "16",
+      "Gross Weight": "14",
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
@@ -499,6 +489,16 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11",
+      "new_since": "2026-08-20T16:01:08.917569-05:00"
+    },
+    {
+      "Available Qty.": "93",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16",
       "new_since": "2026-08-20T16:01:08.917569-05:00"
     },
     {
