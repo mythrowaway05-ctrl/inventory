@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 21, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-21T16:01:08.742104-05:00",
-  "item_count": 136,
+  "updated_at": "August 21, 2026 at 04:53 PM",
+  "updated_at_iso": "2026-08-21T16:53:27.753187-05:00",
+  "item_count": 135,
   "items": [
     {
       "Available Qty.": "774",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "11",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -158,16 +158,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "P15-105P",
-      "Description": "Canned Chicken in Water",
-      "UOM": "CS",
-      "Pack Size": "24/4.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
-    },
-    {
-      "Available Qty.": "68",
+      "Available Qty.": "45",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -185,7 +176,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "10",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -209,18 +200,7 @@
       "UOM": "CS",
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
-    },
-    {
-      "Available Qty.": "672",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1133",
@@ -229,8 +209,16 @@
       "UOM": "CS",
       "Pack Size": "6/3 lb",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "672",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -239,8 +227,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb",
       "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "551",
@@ -249,8 +236,7 @@
       "UOM": "CS",
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "5",
@@ -259,8 +245,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb",
       "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "47",
@@ -269,8 +254,7 @@
       "UOM": "CS",
       "Pack Size": "4/5 lb",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "219",
@@ -279,8 +263,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb",
       "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "282",
@@ -289,8 +272,7 @@
       "UOM": "CS",
       "Pack Size": "1/40-50 lb",
       "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "495",
@@ -299,8 +281,7 @@
       "UOM": "CS",
       "Pack Size": "48/5 oz",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -309,8 +290,7 @@
       "UOM": "CS",
       "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "819",
@@ -319,8 +299,7 @@
       "UOM": "CS",
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "159",
@@ -329,8 +308,7 @@
       "UOM": "CS",
       "Pack Size": "1/40lb",
       "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "366",
@@ -339,8 +317,7 @@
       "UOM": "CS",
       "Pack Size": "24/5 oz can",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "13",
@@ -349,8 +326,7 @@
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "16",
@@ -359,8 +335,7 @@
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "808",
@@ -369,8 +344,7 @@
       "UOM": "CS",
       "Pack Size": "4/4 lb",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "3",
@@ -379,8 +353,7 @@
       "UOM": "CS",
       "Pack Size": "24/7.5 oz",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "435",
@@ -389,8 +362,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "29",
@@ -399,8 +371,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "85",
@@ -409,8 +380,7 @@
       "UOM": "CS",
       "Pack Size": "4/4 lb",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "664",
@@ -419,8 +389,7 @@
       "UOM": "CS",
       "Pack Size": "48/5 oz",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "78",
@@ -429,8 +398,7 @@
       "UOM": "CS",
       "Pack Size": "6/48 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "59",
@@ -439,8 +407,7 @@
       "UOM": "CS",
       "Pack Size": "30/18 ct",
       "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "320",
@@ -449,8 +416,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-20T16:01:08.917569-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "43",
@@ -643,7 +609,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "37",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -697,7 +663,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "19",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -769,7 +735,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "175",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -922,7 +888,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "670",
+      "Available Qty.": "700",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -958,7 +924,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "34",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
