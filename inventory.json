@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 22, 2026 at 06:00 AM",
-  "updated_at_iso": "2026-08-22T06:00:59.617856-05:00",
-  "item_count": 141,
+  "updated_at": "August 22, 2026 at 06:42 AM",
+  "updated_at_iso": "2026-08-22T06:42:34.889140-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "686",
@@ -40,7 +40,7 @@
       "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -111,6 +111,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D15-1164P",
+      "Description": "Bratwurst 6/4.275 lb",
+      "UOM": "CS",
+      "Pack Size": "6/4.275 lb",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-08-22T06:42:34.888691-05:00"
     },
     {
       "Available Qty.": "1252",
@@ -440,7 +450,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "28",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -559,7 +569,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1683",
+      "Available Qty.": "1682",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -695,7 +705,7 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "136",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -742,7 +752,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "82",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -905,15 +915,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1407",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -921,6 +922,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1407",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "180",
@@ -996,7 +1006,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "39",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
