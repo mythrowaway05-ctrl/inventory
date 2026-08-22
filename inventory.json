@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 22, 2026 at 02:03 PM",
-  "updated_at_iso": "2026-08-22T14:03:00.175685-05:00",
-  "item_count": 137,
+  "updated_at": "August 22, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-22T15:01:06.658360-05:00",
+  "item_count": 138,
   "items": [
     {
       "Available Qty.": "686",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1252",
+      "Available Qty.": "1245",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -112,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1401",
+      "Available Qty.": "1394",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "367",
+      "Available Qty.": "365",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -394,7 +394,7 @@
       "new_since": "2026-08-22T04:01:22.092704-05:00"
     },
     {
-      "Available Qty.": "659",
+      "Available Qty.": "657",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -439,7 +439,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "P27-155P",
       "Description": "Diced Tomatoes, No Salt Added",
       "UOM": "CS",
@@ -457,7 +457,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "661",
+      "Available Qty.": "659",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -493,7 +493,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "488",
+      "Available Qty.": "483",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -583,7 +583,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "280",
+      "Available Qty.": "279",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -592,7 +592,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "73",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -601,13 +601,23 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "66",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
       "Pack Size": "8/64 oz",
       "Feature Type": "",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D14-022P",
+      "Description": "Juice, Cherry Apple",
+      "UOM": "CS",
+      "Pack Size": "8/64 oz",
+      "Feature Type": "",
+      "Gross Weight": "38",
+      "new_since": "2026-08-22T15:01:06.657784-05:00"
     },
     {
       "Available Qty.": "37",
@@ -619,7 +629,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "145",
+      "Available Qty.": "144",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -885,7 +895,7 @@
       "new_since": "2026-08-22T10:01:04.289888-05:00"
     },
     {
-      "Available Qty.": "451",
+      "Available Qty.": "448",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -966,7 +976,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "603",
+      "Available Qty.": "601",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -975,7 +985,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "36",
       "Item No.": "D06-441P",
       "Description": "Ramen Noodles, Cajun Shrimp",
       "UOM": "CS",
@@ -984,7 +994,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "827",
+      "Available Qty.": "825",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1011,7 +1021,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "644",
+      "Available Qty.": "642",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
       "UOM": "CS",
@@ -1218,7 +1228,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "123",
+      "Available Qty.": "122",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
@@ -1236,7 +1246,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "147",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
