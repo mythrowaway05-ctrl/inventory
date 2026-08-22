@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 22, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-08-22T08:01:05.600381-05:00",
+  "updated_at": "August 22, 2026 at 08:43 AM",
+  "updated_at_iso": "2026-08-22T08:43:47.014253-05:00",
   "item_count": 140,
   "items": [
     {
@@ -101,6 +101,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-08-21T12:01:09.519669-05:00"
     },
     {
       "Available Qty.": "1252",
@@ -430,7 +440,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "24",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -732,7 +742,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "10",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -895,15 +905,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1407",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -911,6 +912,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "180",
@@ -965,16 +975,6 @@
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "16",
-      "Item No.": "D15-1167P",
-      "Description": "Pulled Chicken Breast Pieces 8/4 lb",
-      "UOM": "CS",
-      "Pack Size": "8/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "32",
-      "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
       "Available Qty.": "603",
