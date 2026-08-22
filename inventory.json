@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 22, 2026 at 11:54 AM",
-  "updated_at_iso": "2026-08-22T11:54:59.339110-05:00",
+  "updated_at": "August 22, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-22T12:01:07.285721-05:00",
   "item_count": 138,
   "items": [
     {
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -168,7 +168,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "66",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -186,7 +186,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -665,7 +665,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "13",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -675,7 +675,7 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "114",
+      "Available Qty.": "112",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -725,7 +725,7 @@
       "new_since": "2026-08-22T10:01:04.289888-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "6",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -1255,7 +1255,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "3",
       "Item No.": "D28-160P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
