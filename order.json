@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T17:01:15.664310-05:00",
+  "scraped_at": "2026-08-22T17:51:55.281580-05:00",
   "po_number": "PO6321924",
   "appointment": {
     "reference_number": "PO6321924",
@@ -7,32 +7,19 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n12",
-    "Total Line Items": "Gross Weight\n1684 lbs",
+    "Total Line Items": "Gross Weight\n1859 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD26-673P\tSauce, Sweet Curry\t6\t6\tCS\t48\t1.52\t\u00a0\t4/32 oz\tDRY\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t10\t10\tCS\t350\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nD28-738P\tApples\t1\t1\tCS\t42\t0.00\t\u00a0\t1/42 lb\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nD28-715P\tCantaloupe\t1\t0\tCS\t0\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\t\u00a0\nDS21-001P\tPasta, Spaghetti\t2\t2\tCS\t42\t0.00\t\u00a0\t20/16 oz\tDRY\t0.00\t\u00a0\nD26-662P\tMix, Classic Beef Gravy\t4\t4\tCS\t4\t0.19\t\u00a0\t15/0.9 oz\tDRY\t0.00\t\u00a0\nD26-979P\tSugar\t4\t4\tCS\t100\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\t\u00a0\nD15-050P\tAsst. Canned Meats\t25\t25\tCS\t500\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\t\u00a0\nD07-1116P\tButter\t8\t8\tCS\t288\t0.00\t\u00a0\t12/45 oz\tREF\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD23-821P\tTrail Mix\t8\t8\tCS\t40\t0.95\t\u00a0\t4/18 oz\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nD28-738P\tApples\t1\t1\tCS\t42\t0.00\t\u00a0\t1/42 lb\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nD28-715P\tCantaloupe\t1\t0\tCS\t0\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\t\u00a0\nDS21-001P\tPasta, Spaghetti\t2\t2\tCS\t42\t0.00\t\u00a0\t20/16 oz\tDRY\t0.00\t\u00a0\nD26-662P\tMix, Classic Beef Gravy\t4\t4\tCS\t4\t0.19\t\u00a0\t15/0.9 oz\tDRY\t0.00\t\u00a0\nD26-979P\tSugar\t4\t4\tCS\t100\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\t\u00a0\nD15-050P\tAsst. Canned Meats\t25\t25\tCS\t500\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\t\u00a0\nD07-1116P\tButter\t8\t8\tCS\t288\t0.00\t\u00a0\t12/45 oz\tREF\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD23-821P\tTrail Mix\t8\t8\tCS\t40\t0.95\t\u00a0\t4/18 oz\tDRY\t0.00\t\u00a0\nD26-673P\tSauce, Sweet Curry\t6\t6\tCS\t48\t1.52\t\u00a0\t4/32 oz\tDRY\t0.00"
   },
   "items": [
     {
-      "Item No.": "D26-673P",
-      "Description": "Sauce, Sweet Curry",
-      "Order Qty.": "6",
-      "Accepted Qty.": "6",
-      "UOM": "CS",
-      "Gross Weight": "48",
-      "Packaging Type": "",
-      "Pack Size": "4/32 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar",
-      "Order Qty.": "10",
-      "Accepted Qty.": "10",
+      "Order Qty.": "15",
+      "Accepted Qty.": "15",
       "UOM": "CS",
-      "Gross Weight": "350",
+      "Gross Weight": "525",
       "Packaging Type": "",
       "Pack Size": "4-6/20 oz",
       "Handling Requirements": "DRY",
@@ -165,6 +152,19 @@
       "Gross Weight": "40",
       "Packaging Type": "",
       "Pack Size": "4/18 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D26-673P",
+      "Description": "Sauce, Sweet Curry",
+      "Order Qty.": "6",
+      "Accepted Qty.": "6",
+      "UOM": "CS",
+      "Gross Weight": "48",
+      "Packaging Type": "",
+      "Pack Size": "4/32 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
