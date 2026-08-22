@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 22, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-22T07:01:14.125880-05:00",
-  "item_count": 142,
+  "updated_at": "August 22, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-22T08:01:05.600381-05:00",
+  "item_count": 140,
   "items": [
     {
       "Available Qty.": "686",
@@ -38,16 +38,6 @@
       "Pack Size": "1/1320 lb",
       "Feature Type": "",
       "Gross Weight": "1320"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-21T12:01:09.519669-05:00"
     },
     {
       "Available Qty.": "62",
@@ -113,16 +103,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-1164P",
-      "Description": "Bratwurst 6/4.275 lb",
-      "UOM": "CS",
-      "Pack Size": "6/4.275 lb",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-08-22T06:42:34.888691-05:00"
-    },
-    {
       "Available Qty.": "1252",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -178,7 +158,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "70",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -196,7 +176,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "10",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
