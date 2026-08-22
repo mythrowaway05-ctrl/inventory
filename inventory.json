@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 22, 2026 at 06:42 AM",
-  "updated_at_iso": "2026-08-22T06:42:34.889140-05:00",
+  "updated_at": "August 22, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-22T07:01:14.125880-05:00",
   "item_count": 142,
   "items": [
     {
@@ -40,7 +40,7 @@
       "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -113,7 +113,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D15-1164P",
       "Description": "Bratwurst 6/4.275 lb",
       "UOM": "CS",
@@ -178,7 +178,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "66",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -196,7 +196,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -450,7 +450,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -705,7 +705,7 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "136",
+      "Available Qty.": "134",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -715,7 +715,7 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "61",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -752,7 +752,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "82",
+      "Available Qty.": "60",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -879,7 +879,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "112",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
