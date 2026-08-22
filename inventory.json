@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 22, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-08-22T03:01:13.721538-05:00",
-  "item_count": 140,
+  "updated_at": "August 22, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-08-22T04:01:22.093313-05:00",
+  "item_count": 141,
   "items": [
     {
       "Available Qty.": "686",
@@ -358,6 +358,15 @@
       "Gross Weight": "17"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
+      "UOM": "CS",
+      "Pack Size": "24/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
       "Available Qty.": "435",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -367,13 +376,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
+      "Available Qty.": "85",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
       "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
+      "Pack Size": "4/4 lb",
       "Feature Type": "",
-      "Gross Weight": "14"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "29",
@@ -385,13 +394,14 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "85",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "22",
+      "Item No.": "D25-1815P",
+      "Description": "Chips 60/1.5 oz",
       "UOM": "CS",
-      "Pack Size": "4/4 lb",
+      "Pack Size": "60/1.5 oz",
       "Feature Type": "",
-      "Gross Weight": "16"
+      "Gross Weight": "7",
+      "new_since": "2026-08-22T04:01:22.092704-05:00"
     },
     {
       "Available Qty.": "664",
@@ -675,7 +685,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "40",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -895,15 +905,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1407",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -911,6 +912,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "180",
@@ -967,7 +977,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "16",
       "Item No.": "D15-1167P",
       "Description": "Pulled Chicken Breast Pieces 8/4 lb",
       "UOM": "CS",
