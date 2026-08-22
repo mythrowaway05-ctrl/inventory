@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 22, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-08-22T18:01:09.565710-05:00",
+  "updated_at": "August 22, 2026 at 06:42 PM",
+  "updated_at_iso": "2026-08-22T18:42:14.383745-05:00",
   "item_count": 138,
   "items": [
     {
@@ -139,7 +139,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D08-551P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -149,7 +149,7 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -222,7 +222,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1128",
+      "Available Qty.": "1125",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -240,7 +240,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "551",
+      "Available Qty.": "548",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -339,7 +339,7 @@
       "Gross Weight": "45"
     },
     {
-      "Available Qty.": "808",
+      "Available Qty.": "805",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
