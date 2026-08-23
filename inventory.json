@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 23, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-23T16:01:12.370836-05:00",
-  "item_count": 137,
+  "updated_at": "August 23, 2026 at 04:43 PM",
+  "updated_at_iso": "2026-08-23T16:43:18.807230-05:00",
+  "item_count": 138,
   "items": [
     {
       "Available Qty.": "670",
@@ -103,6 +103,16 @@
       "Gross Weight": "27"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-08-23T16:43:18.806764-05:00"
+    },
+    {
       "Available Qty.": "1245",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -148,7 +158,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "62",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -166,7 +176,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -202,15 +212,6 @@
       "Gross Weight": "380"
     },
     {
-      "Available Qty.": "1120",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "672",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -218,6 +219,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1120",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -310,15 +320,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
       "Available Qty.": "16",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
@@ -326,6 +327,15 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "795",
@@ -904,7 +914,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "317",
+      "Available Qty.": "316",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -913,7 +923,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "610",
+      "Available Qty.": "585",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
