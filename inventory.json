@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 23, 2026 at 04:43 PM",
-  "updated_at_iso": "2026-08-23T16:43:18.807230-05:00",
-  "item_count": 138,
+  "updated_at": "August 23, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-23T17:01:08.032223-05:00",
+  "item_count": 140,
   "items": [
     {
       "Available Qty.": "670",
@@ -311,6 +311,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "D15-803P",
+      "Description": "Chicken, 8 Piece Cut Individually Bagged",
+      "UOM": "CS",
+      "Pack Size": "1/42 lb",
+      "Feature Type": "",
+      "Gross Weight": "42",
+      "new_since": "2026-08-23T17:01:08.031822-05:00"
+    },
+    {
       "Available Qty.": "365",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
@@ -365,15 +375,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "60",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "29",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -381,6 +382,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "3",
@@ -923,7 +933,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "585",
+      "Available Qty.": "610",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1011,6 +1021,16 @@
       "Pack Size": "1/500 ct",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D26-663P",
+      "Description": "Sauce, BBQ, Apple Bourbon",
+      "UOM": "CS",
+      "Pack Size": "6/15.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-23T17:01:08.031822-05:00"
     },
     {
       "Available Qty.": "853",
