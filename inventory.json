@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 23, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-08-23T18:01:09.230079-05:00",
-  "item_count": 140,
+  "updated_at": "August 23, 2026 at 06:42 PM",
+  "updated_at_iso": "2026-08-23T18:42:35.214693-05:00",
+  "item_count": 139,
   "items": [
     {
-      "Available Qty.": "670",
+      "Available Qty.": "662",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "781",
+      "Available Qty.": "776",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -40,7 +40,7 @@
       "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "42",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -103,17 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-08-23T16:43:18.806764-05:00"
-    },
-    {
-      "Available Qty.": "1245",
+      "Available Qty.": "1240",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -122,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1392",
+      "Available Qty.": "1387",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -330,15 +320,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "16",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
@@ -346,6 +327,15 @@
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "16",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "795",
@@ -357,15 +347,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "P06-038P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "24/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "428",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -375,13 +356,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "29",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "3",
+      "Item No.": "P06-038P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "24/7.5 oz",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "60",
@@ -391,6 +372,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "29",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "3",
@@ -411,7 +401,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "28",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -483,7 +473,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3611",
+      "Available Qty.": "3606",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -546,7 +536,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "238",
+      "Available Qty.": "228",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -915,7 +905,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "493",
+      "Available Qty.": "488",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1114,7 +1104,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2140",
+      "Available Qty.": "2120",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1123,7 +1113,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2846",
+      "Available Qty.": "2826",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
