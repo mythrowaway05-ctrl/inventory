@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 22, 2026 at 06:42 PM",
-  "updated_at_iso": "2026-08-22T18:42:14.383745-05:00",
-  "item_count": 138,
+  "updated_at": "August 22, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-08-22T19:01:12.897466-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "684",
@@ -139,16 +139,6 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D08-551P",
-      "Description": "Cake, White Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-08-22T02:01:07.776400-05:00"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
@@ -213,15 +203,6 @@
       "new_since": "2026-08-22T02:01:07.776400-05:00"
     },
     {
-      "Available Qty.": "672",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1125",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -229,6 +210,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "672",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -366,15 +356,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "85",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "29",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -382,6 +363,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "85",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "9",
