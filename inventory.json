@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 24, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-24T10:01:09.703530-05:00",
-  "item_count": 128,
+  "updated_at": "August 24, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-24T11:01:19.461882-05:00",
+  "item_count": 130,
   "items": [
     {
-      "Available Qty.": "489",
+      "Available Qty.": "483",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "767",
+      "Available Qty.": "753",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D03-1070P",
       "Description": "Assorted Beverages - BULK 1/1320 lb",
       "UOM": "BULK",
@@ -49,7 +49,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "434",
+      "Available Qty.": "419",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -67,7 +67,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "128",
+      "Available Qty.": "126",
       "Item No.": "P23-088P",
       "Description": "Beans, Pinto, NSA No Salt Added",
       "UOM": "CS",
@@ -94,7 +94,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1233",
+      "Available Qty.": "1227",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1379",
+      "Available Qty.": "1365",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -112,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
       "UOM": "CS",
@@ -130,7 +130,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D08-549P",
       "Description": "Cake, White Layer",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "61",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -148,7 +148,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1195",
+      "Available Qty.": "1190",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -157,7 +157,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "8",
       "Item No.": "P27-152P",
       "Description": "Carrots, Sliced, NSA",
       "UOM": "CS",
@@ -265,6 +265,15 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "154",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "819",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -272,15 +281,6 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "160",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "361",
@@ -301,7 +301,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "8",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -319,15 +319,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "428",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -337,13 +328,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "29",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "428",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "60",
@@ -355,7 +346,16 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "649",
+      "Available Qty.": "29",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "632",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -373,7 +373,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "292",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -400,7 +400,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "657",
+      "Available Qty.": "654",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -418,7 +418,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3606",
+      "Available Qty.": "3596",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -436,7 +436,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "316",
+      "Available Qty.": "314",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -463,7 +463,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1431",
+      "Available Qty.": "1423",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -481,7 +481,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "223",
+      "Available Qty.": "218",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -490,7 +490,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "4060",
+      "Available Qty.": "4049",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -508,7 +508,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "395",
+      "Available Qty.": "394",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
       "UOM": "CS",
@@ -598,7 +598,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "206",
+      "Available Qty.": "200",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -616,6 +616,16 @@
       "Gross Weight": "38"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D07-323P",
+      "Description": "Milk, 2% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-08-24T11:01:19.461385-05:00"
+    },
+    {
       "Available Qty.": "45",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
@@ -625,7 +635,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "1",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -643,6 +653,16 @@
       "Gross Weight": "16"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-08-24T11:01:19.461385-05:00"
+    },
+    {
       "Available Qty.": "5",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
@@ -652,7 +672,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "207",
+      "Available Qty.": "204",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -679,7 +699,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1192",
+      "Available Qty.": "1190",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
       "UOM": "CS",
@@ -688,7 +708,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1138",
+      "Available Qty.": "1132",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -724,7 +744,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "203",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -760,7 +780,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "661",
+      "Available Qty.": "640",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
       "UOM": "CS",
@@ -832,7 +852,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "487",
+      "Available Qty.": "479",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -850,7 +870,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "43",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -869,7 +889,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "241",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -896,7 +916,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "804",
+      "Available Qty.": "792",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -914,7 +934,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "346",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -932,7 +952,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "850",
+      "Available Qty.": "844",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
@@ -941,7 +961,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "111",
       "Item No.": "D26-669P",
       "Description": "Sauce, Creamy Chimichurri 4/32 oz",
       "UOM": "CS",
@@ -995,7 +1015,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "99",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -1013,7 +1033,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2038",
+      "Available Qty.": "2026",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1022,7 +1042,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2755",
+      "Available Qty.": "2740",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1049,7 +1069,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "617",
+      "Available Qty.": "614",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -1085,7 +1105,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "224",
+      "Available Qty.": "214",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1103,7 +1123,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "417",
+      "Available Qty.": "412",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
       "UOM": "CS",
@@ -1139,7 +1159,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "85",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
