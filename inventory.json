@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 24, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-24T13:01:14.276968-05:00",
+  "updated_at": "August 24, 2026 at 01:03 PM",
+  "updated_at_iso": "2026-08-24T13:03:42.162937-05:00",
   "item_count": 127,
   "items": [
     {
@@ -95,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -123,7 +123,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "11",
       "Item No.": "D08-547P",
       "Description": "Cake, Chocolate Half Sheet",
       "UOM": "CS",
@@ -141,7 +141,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "69",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -845,7 +845,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "42",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -855,7 +855,7 @@
       "new_since": "2026-08-24T03:01:21.610457-05:00"
     },
     {
-      "Available Qty.": "450",
+      "Available Qty.": "447",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1143,7 +1143,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "485",
+      "Available Qty.": "483",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
