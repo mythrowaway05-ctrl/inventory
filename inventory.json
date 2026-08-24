@@ -1,25 +1,16 @@
 {
-  "updated_at": "August 24, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-08-24T02:01:13.670496-05:00",
+  "updated_at": "August 24, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-24T03:01:21.610954-05:00",
   "item_count": 138,
   "items": [
     {
-      "Available Qty.": "657",
+      "Available Qty.": "662",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
       "Pack Size": "1/42 lb",
       "Feature Type": "",
       "Gross Weight": "42"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "P10-014P",
-      "Description": "Applesauce Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "27"
     },
     {
       "Available Qty.": "768",
@@ -38,6 +29,16 @@
       "Pack Size": "1/1320 lb",
       "Feature Type": "",
       "Gross Weight": "1320"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-08-24T03:01:21.610457-05:00"
     },
     {
       "Available Qty.": "36",
@@ -148,7 +149,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "62",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -202,15 +203,6 @@
       "Gross Weight": "380"
     },
     {
-      "Available Qty.": "672",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1120",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -218,6 +210,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "672",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -320,15 +321,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
       "Available Qty.": "16",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
@@ -336,6 +328,15 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "795",
@@ -365,15 +366,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "60",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "29",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -381,6 +373,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "3",
@@ -433,15 +434,6 @@
       "Description": "Crumbs, Graham Cracker",
       "UOM": "CS",
       "Pack Size": "1/25 lb",
-      "Feature Type": "",
-      "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "P27-155P",
-      "Description": "Diced Tomatoes, No Salt Added",
-      "UOM": "CS",
-      "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "25"
     },
@@ -878,15 +870,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1385",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -894,6 +877,15 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "1385",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "176",
@@ -923,7 +915,17 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "605",
+      "Available Qty.": "43",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-08-24T03:01:21.610457-05:00"
+    },
+    {
+      "Available Qty.": "610",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
