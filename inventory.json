@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 24, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-24T09:01:10.527936-05:00",
-  "item_count": 129,
+  "updated_at": "August 24, 2026 at 09:26 AM",
+  "updated_at_iso": "2026-08-24T09:26:36.980273-05:00",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "493",
@@ -139,7 +139,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "70",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -562,7 +562,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "32",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -652,7 +652,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -869,7 +869,7 @@
       "new_since": "2026-08-24T03:01:21.610457-05:00"
     },
     {
-      "Available Qty.": "695",
+      "Available Qty.": "700",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1155,6 +1155,16 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-160P",
+      "Description": "Watermelon - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/700 Lb. Bulk Tote",
+      "Feature Type": "Free Item",
+      "Gross Weight": "700",
+      "new_since": "2026-08-24T09:26:36.979783-05:00"
     },
     {
       "Available Qty.": "485",
