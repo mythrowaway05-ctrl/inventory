@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 24, 2026 at 09:26 AM",
-  "updated_at_iso": "2026-08-24T09:26:36.980273-05:00",
-  "item_count": 130,
+  "updated_at": "August 24, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-08-24T10:01:09.703530-05:00",
+  "item_count": 128,
   "items": [
     {
-      "Available Qty.": "493",
+      "Available Qty.": "489",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -31,7 +31,7 @@
       "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "28",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -94,7 +94,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1234",
+      "Available Qty.": "1233",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1381",
+      "Available Qty.": "1379",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "66",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -148,7 +148,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1198",
+      "Available Qty.": "1195",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -184,15 +184,6 @@
       "Gross Weight": "380"
     },
     {
-      "Available Qty.": "1120",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "672",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -200,6 +191,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1120",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -292,15 +292,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
       "Available Qty.": "16",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
@@ -308,6 +299,15 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "795",
@@ -337,15 +337,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "60",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "29",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -353,6 +344,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "649",
@@ -382,7 +382,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "41",
       "Item No.": "D26-034P",
       "Description": "Crumbs, Graham Cracker",
       "UOM": "CS",
@@ -409,7 +409,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1195",
+      "Available Qty.": "1193",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -445,7 +445,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "79",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -499,7 +499,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "69",
       "Item No.": "D03-1093P",
       "Description": "Hydration Drink Mix 12/3 ct",
       "UOM": "CS",
@@ -598,7 +598,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "206",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -607,7 +607,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "8",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -616,7 +616,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "45",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -652,15 +652,6 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-1055P",
-      "Description": "Milk, Whole 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44"
-    },
-    {
       "Available Qty.": "207",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -679,7 +670,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "87",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -715,7 +706,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "166",
+      "Available Qty.": "164",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -769,7 +760,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "664",
+      "Available Qty.": "661",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
       "UOM": "CS",
@@ -787,7 +778,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "871",
+      "Available Qty.": "868",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -859,7 +850,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "39",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1022,7 +1013,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2040",
+      "Available Qty.": "2038",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1031,7 +1022,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2756",
+      "Available Qty.": "2755",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1058,7 +1049,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "618",
+      "Available Qty.": "617",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -1094,7 +1085,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "224",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1155,16 +1146,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-160P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/700 Lb. Bulk Tote",
-      "Feature Type": "Free Item",
-      "Gross Weight": "700",
-      "new_since": "2026-08-24T09:26:36.979783-05:00"
     },
     {
       "Available Qty.": "485",
