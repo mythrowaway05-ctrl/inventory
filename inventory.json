@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 24, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-08-24T12:01:11.602608-05:00",
+  "updated_at": "August 24, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-08-24T13:01:14.276968-05:00",
   "item_count": 127,
   "items": [
     {
-      "Available Qty.": "469",
+      "Available Qty.": "454",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -76,7 +76,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "38",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -95,7 +95,17 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1222",
+      "Available Qty.": "0",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-08-23T16:43:18.806764-05:00"
+    },
+    {
+      "Available Qty.": "1210",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -104,7 +114,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1365",
+      "Available Qty.": "1353",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -131,7 +141,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "25",
       "Item No.": "D28-715P",
       "Description": "Cantaloupe",
       "UOM": "CS",
@@ -149,7 +159,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "12",
       "Item No.": "P27-152P",
       "Description": "Carrots, Sliced, NSA",
       "UOM": "CS",
@@ -446,7 +456,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1423",
+      "Available Qty.": "1413",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -464,7 +474,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "218",
+      "Available Qty.": "198",
       "Item No.": "D25-1993P",
       "Description": "Gummies, Watermelon Protein 12/12 ct",
       "UOM": "CS",
@@ -590,16 +600,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -646,7 +647,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "204",
+      "Available Qty.": "201",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -745,7 +746,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "133",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -817,7 +818,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "173",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
       "UOM": "CS",
@@ -844,7 +845,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "43",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -854,7 +855,7 @@
       "new_since": "2026-08-24T03:01:21.610457-05:00"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "450",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1025,7 +1026,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "22",
       "Item No.": "P06-001P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1043,7 +1044,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "614",
+      "Available Qty.": "604",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
