@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 24, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-24T06:01:08.142649-05:00",
-  "item_count": 136,
+  "updated_at": "August 24, 2026 at 06:59 AM",
+  "updated_at_iso": "2026-08-24T06:59:29.760130-05:00",
+  "item_count": 132,
   "items": [
     {
-      "Available Qty.": "662",
+      "Available Qty.": "515",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -29,16 +29,6 @@
       "Pack Size": "1/1320 lb",
       "Feature Type": "",
       "Gross Weight": "1320"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-24T03:01:21.610457-05:00"
     },
     {
       "Available Qty.": "36",
@@ -167,16 +157,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "25",
+      "Available Qty.": "21",
       "Item No.": "P27-152P",
       "Description": "Carrots, Sliced, NSA",
       "UOM": "CS",
@@ -203,15 +184,6 @@
       "Gross Weight": "380"
     },
     {
-      "Available Qty.": "1120",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "672",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -219,6 +191,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1120",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -311,15 +292,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "16",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
@@ -327,6 +299,15 @@
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "16",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "795",
@@ -390,15 +371,6 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "24",
-      "Item No.": "D03-1085P",
-      "Description": "Coffee, Cold Brew 6/48 oz",
-      "UOM": "CS",
-      "Pack Size": "6/48 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "59",
@@ -473,7 +445,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "483",
+      "Available Qty.": "429",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -878,7 +850,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "174",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
       "UOM": "CS",
@@ -1176,7 +1148,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "244",
+      "Available Qty.": "67",
       "Item No.": "D03-1084P",
       "Description": "Sparkling Water, Flavored 8/12 oz",
       "UOM": "CS",
@@ -1203,22 +1175,13 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "89",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D28-160P",
-      "Description": "Watermelon - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/700 Lb. Bulk Tote",
-      "Feature Type": "Free Item",
-      "Gross Weight": "700"
     },
     {
       "Available Qty.": "485",
