@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 25, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-08-25T12:01:11.579366-05:00",
-  "item_count": 134,
+  "updated_at": "August 25, 2026 at 12:05 PM",
+  "updated_at_iso": "2026-08-25T12:05:19.154345-05:00",
+  "item_count": 133,
   "items": [
     {
       "Available Qty.": "443",
@@ -32,7 +32,7 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "15",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -40,16 +40,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-08-25T12:01:11.578920-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1406P",
-      "Description": "Assorted Candy",
-      "UOM": "CS",
-      "Pack Size": "1/14 lbs",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
       "Available Qty.": "9",
@@ -122,8 +112,7 @@
       "UOM": "CS",
       "Pack Size": "1/25 lb",
       "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-08-24T12:01:11.602210-05:00"
+      "Gross Weight": "25"
     },
     {
       "Available Qty.": "309",
@@ -135,7 +124,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "25",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -229,15 +218,6 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "672",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1114",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -245,6 +225,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "672",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -265,7 +254,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "5",
       "Item No.": "D15-626P",
       "Description": "Chicken Legs 1/40 lb",
       "UOM": "CS",
@@ -337,15 +326,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
@@ -353,6 +333,15 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "783",
@@ -373,15 +362,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "55",
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "19",
       "Item No.": "P06-228P",
       "Description": "Chili with Beans",
@@ -389,6 +369,15 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "55",
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "4/4 lb",
+      "Feature Type": "",
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "553",
@@ -930,7 +919,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "695",
+      "Available Qty.": "700",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
