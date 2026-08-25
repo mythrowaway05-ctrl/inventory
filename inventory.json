@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 25, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-08-25T00:01:13.312813-05:00",
+  "updated_at": "August 25, 2026 at 12:48 AM",
+  "updated_at_iso": "2026-08-25T00:48:38.508598-05:00",
   "item_count": 128,
   "items": [
     {
@@ -602,7 +602,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -640,7 +640,7 @@
       "new_since": "2026-08-24T11:01:19.461385-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "11",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -813,15 +813,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1378",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -829,6 +820,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "173",
