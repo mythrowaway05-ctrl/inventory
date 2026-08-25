@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 25, 2026 at 04:00 PM",
-  "updated_at_iso": "2026-08-25T16:00:42.220216-05:00",
+  "updated_at": "August 25, 2026 at 04:57 PM",
+  "updated_at_iso": "2026-08-25T16:57:44.017667-05:00",
   "item_count": 130,
   "items": [
     {
-      "Available Qty.": "428",
+      "Available Qty.": "418",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "8",
       "Item No.": "D11-111P",
       "Description": "Assorted Baking Items",
       "UOM": "CS",
@@ -42,7 +42,7 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "7",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -52,7 +52,7 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "30",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -60,6 +60,16 @@
       "Feature Type": "",
       "Gross Weight": "20",
       "new_since": "2026-08-25T14:01:08.821689-05:00"
+    },
+    {
+      "Available Qty.": "118",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
       "Available Qty.": "4",
@@ -146,7 +156,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "38",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -164,7 +174,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -510,7 +520,7 @@
       "Gross Weight": "35"
     },
     {
-      "Available Qty.": "606",
+      "Available Qty.": "605",
       "Item No.": "P25-005P",
       "Description": "Graham Crackers",
       "UOM": "CS",
@@ -573,7 +583,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "234",
+      "Available Qty.": "232",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -582,7 +592,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "52",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -600,7 +610,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "18",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -654,16 +664,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-25T12:01:11.578920-05:00"
-    },
-    {
       "Available Qty.": "16",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
@@ -683,7 +683,7 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "50",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -702,7 +702,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "15",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -792,7 +792,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "41",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -837,7 +837,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "786",
+      "Available Qty.": "785",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -846,7 +846,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1975",
+      "Available Qty.": "1971",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -1071,7 +1071,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2264",
+      "Available Qty.": "2263",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
