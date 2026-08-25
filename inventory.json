@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 25, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-25T07:01:08.034517-05:00",
-  "item_count": 138,
+  "updated_at": "August 25, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-25T08:01:13.374550-05:00",
+  "item_count": 136,
   "items": [
     {
       "Available Qty.": "474",
@@ -29,16 +29,6 @@
       "Pack Size": "1/14 lbs",
       "Feature Type": "",
       "Gross Weight": "14",
-      "new_since": "2026-08-25T02:01:14.503990-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D13-186P",
-      "Description": "Assorted Cleaning Supplies - BULKTOTE 1/1200 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1200 lb",
-      "Feature Type": "",
-      "Gross Weight": "1200",
       "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
@@ -269,15 +259,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "149",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "815",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -285,6 +266,15 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "149",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "334",
@@ -323,15 +313,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "428",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "P06-038P",
       "Description": "Chili w/Beans",
@@ -341,13 +322,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "19",
-      "Item No.": "P06-228P",
-      "Description": "Chili with Beans",
+      "Available Qty.": "428",
+      "Item No.": "P06-061P",
+      "Description": "Chili w/Beans",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "12/15 oz. cans",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "55",
@@ -357,6 +338,15 @@
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "16"
+    },
+    {
+      "Available Qty.": "19",
+      "Item No.": "P06-228P",
+      "Description": "Chili with Beans",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "543",
@@ -377,7 +367,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "205",
+      "Available Qty.": "204",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -485,16 +475,6 @@
       "Pack Size": "150/3 ct",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D28-1188P",
-      "Description": "Grapes",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-25T06:59:43.018363-05:00"
     },
     {
       "Available Qty.": "1411",
@@ -710,7 +690,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "15",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -720,7 +700,7 @@
       "new_since": "2026-08-24T11:01:19.461385-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -849,7 +829,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "131",
+      "Available Qty.": "129",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -1209,7 +1189,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "20",
       "Item No.": "D28-444P",
       "Description": "Squash, Butternut",
       "UOM": "CS",
@@ -1228,7 +1208,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "71",
       "Item No.": "P27-101P",
       "Description": "Vegetables, Mixed, NSA No Salt Added",
       "UOM": "CS",
