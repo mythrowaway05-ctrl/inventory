@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 25, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-25T06:01:06.050884-05:00",
-  "item_count": 142,
+  "updated_at": "August 25, 2026 at 06:59 AM",
+  "updated_at_iso": "2026-08-25T06:59:43.018772-05:00",
+  "item_count": 138,
   "items": [
     {
-      "Available Qty.": "425",
+      "Available Qty.": "474",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -52,42 +52,12 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D16-057P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/475 lbs",
-      "Feature Type": "",
-      "Gross Weight": "475",
-      "new_since": "2026-08-25T02:01:14.503990-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-063P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lbs",
-      "Feature Type": "",
-      "Gross Weight": "250",
-      "new_since": "2026-08-25T02:01:14.503990-05:00"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D07-384P",
       "Description": "Assorted Ice Cream - BULK 1/230 lb",
       "UOM": "BULK",
       "Pack Size": "1/230 lb",
       "Feature Type": "",
       "Gross Weight": "230",
-      "new_since": "2026-08-25T02:01:14.503990-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
       "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
@@ -136,7 +106,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -218,15 +188,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "672",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1122",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -234,6 +195,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "672",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -398,16 +368,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D03-1085P",
-      "Description": "Coffee, Cold Brew 6/48 oz",
-      "UOM": "CS",
-      "Pack Size": "6/48 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-08-24T20:01:06.181827-05:00"
-    },
-    {
       "Available Qty.": "58",
       "Item No.": "P04-001P",
       "Description": "Corn Tortillas",
@@ -417,7 +377,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "326",
+      "Available Qty.": "205",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -445,7 +405,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "10",
       "Item No.": "D28-541P",
       "Description": "Cucumbers 1/34 lb",
       "UOM": "CS",
@@ -500,7 +460,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "307",
+      "Available Qty.": "253",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -525,6 +485,16 @@
       "Pack Size": "150/3 ct",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D28-1188P",
+      "Description": "Grapes",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-25T06:59:43.018363-05:00"
     },
     {
       "Available Qty.": "1411",
@@ -555,7 +525,7 @@
       "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
-      "Available Qty.": "3592",
+      "Available Qty.": "3432",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -573,7 +543,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "394",
+      "Available Qty.": "286",
       "Item No.": "D08-544P",
       "Description": "Ice Cream w/ Cone 6/8 ct",
       "UOM": "CS",
@@ -645,7 +615,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D28-460P",
       "Description": "Lettuce",
       "UOM": "CS",
@@ -760,7 +730,7 @@
       "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "11",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -860,7 +830,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "23",
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "UOM": "CS",
@@ -978,16 +948,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "39",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "620",
+      "Available Qty.": "700",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1059,7 +1020,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "812",
+      "Available Qty.": "602",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
@@ -1140,7 +1101,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1943",
+      "Available Qty.": "1551",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1149,7 +1110,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2684",
+      "Available Qty.": "2292",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1248,7 +1209,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "27",
       "Item No.": "D28-444P",
       "Description": "Squash, Butternut",
       "UOM": "CS",
@@ -1285,7 +1246,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-824P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
