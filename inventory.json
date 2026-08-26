@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 26, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-26T13:01:09.819502-05:00",
+  "updated_at": "August 26, 2026 at 01:52 PM",
+  "updated_at_iso": "2026-08-26T13:52:37.084020-05:00",
   "item_count": 132,
   "items": [
     {
@@ -32,16 +32,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D11-111P",
-      "Description": "Assorted Baking Items",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-25T14:20:52.982561-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D03-1070P",
       "Description": "Assorted Beverages - BULK 1/1320 lb",
@@ -51,7 +41,7 @@
       "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "100",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -60,7 +50,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "64",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -70,7 +60,17 @@
       "new_since": "2026-08-26T13:01:09.818930-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-26T07:01:14.880311-05:00"
+    },
+    {
+      "Available Qty.": "26",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -80,7 +80,7 @@
       "new_since": "2026-08-26T07:01:14.880311-05:00"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "53",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -153,7 +153,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "399",
+      "Available Qty.": "314",
       "Item No.": "D15-382P",
       "Description": "Boneless Chicken Bites 6/5.2 oz",
       "UOM": "CS",
@@ -415,7 +415,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "48",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -425,7 +425,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "203",
+      "Available Qty.": "192",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -620,7 +620,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "33",
       "Item No.": "D28-460P",
       "Description": "Lettuce",
       "UOM": "CS",
@@ -629,7 +629,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "56",
       "Item No.": "D15-381P",
       "Description": "Lunchmeat 1/10 lb",
       "UOM": "CS",
@@ -675,7 +675,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "7",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -743,7 +743,7 @@
       "new_since": "2026-08-26T11:01:08.630573-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "15",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -863,7 +863,7 @@
       "new_since": "2026-08-26T13:01:09.818930-05:00"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "121",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -1015,7 +1015,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "714",
+      "Available Qty.": "782",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1195,7 +1195,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "417",
+      "Available Qty.": "396",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
       "UOM": "CS",
@@ -1204,7 +1204,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "28",
       "Item No.": "D03-553P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
