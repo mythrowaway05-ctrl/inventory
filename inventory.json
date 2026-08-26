@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 26, 2026 at 02:39 AM",
-  "updated_at_iso": "2026-08-26T02:39:27.658787-05:00",
-  "item_count": 130,
+  "updated_at": "August 26, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-26T03:01:06.590416-05:00",
+  "item_count": 127,
   "items": [
     {
       "Available Qty.": "117",
@@ -42,7 +42,7 @@
       "new_since": "2026-08-25T12:01:11.578920-05:00"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "75",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -67,25 +67,6 @@
       "Pack Size": "1/230 lb",
       "Feature Type": "",
       "Gross Weight": "230"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "32",
-      "Item No.": "D26-598P",
-      "Description": "Assorted Spices and Condiments",
-      "UOM": "CS",
-      "Pack Size": "1/30lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
       "Available Qty.": "214",
@@ -306,15 +287,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "813",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "139",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -322,6 +294,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "813",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "310",
@@ -334,21 +315,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "783",
@@ -659,7 +640,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "25",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -1080,16 +1061,6 @@
       "Pack Size": "12/14 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D25-185P",
-      "Description": "Snacks, Assorted - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 lb BULK",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
       "Available Qty.": "700",
