@@ -1,8 +1,18 @@
 {
-  "updated_at": "August 26, 2026 at 01:03 AM",
-  "updated_at_iso": "2026-08-26T01:03:06.592599-05:00",
-  "item_count": 124,
+  "updated_at": "August 26, 2026 at 01:32 AM",
+  "updated_at_iso": "2026-08-26T01:32:38.881818-05:00",
+  "item_count": 130,
   "items": [
+    {
+      "Available Qty.": "117",
+      "Item No.": "D15-301P",
+      "Description": "8 Piece Chicken, Mix Cut",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
+    },
     {
       "Available Qty.": "404",
       "Item No.": "D28-738P",
@@ -71,6 +81,16 @@
       "new_since": "2026-08-25T02:01:14.503990-05:00"
     },
     {
+      "Available Qty.": "32",
+      "Item No.": "D26-598P",
+      "Description": "Assorted Spices and Condiments",
+      "UOM": "CS",
+      "Pack Size": "1/30lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
+    },
+    {
       "Available Qty.": "214",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -132,6 +152,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "756",
+      "Item No.": "D15-382P",
+      "Description": "Boneless Chicken Bites 6/5.2 oz",
+      "UOM": "CS",
+      "Pack Size": "6/5.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
       "Available Qty.": "1180",
@@ -198,15 +228,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1080",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "670",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -214,6 +235,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1080",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -261,7 +291,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "282",
+      "Available Qty.": "434",
       "Item No.": "D15-428P",
       "Description": "Chicken Thighs w/ Back and Drumstick 1/40-50 lb",
       "UOM": "CS",
@@ -307,21 +337,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "783",
@@ -559,6 +589,16 @@
       "Gross Weight": "21"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D03-034P",
+      "Description": "K-Cups, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/10 Lb box",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
+    },
+    {
       "Available Qty.": "138",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -575,6 +615,16 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "110",
+      "Item No.": "D15-381P",
+      "Description": "Lunchmeat 1/10 lb",
+      "UOM": "CS",
+      "Pack Size": "1/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
       "Available Qty.": "57",
@@ -903,7 +953,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "644",
+      "Available Qty.": "646",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1036,6 +1086,16 @@
       "Pack Size": "12/14 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D25-185P",
+      "Description": "Snacks, Assorted - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/500 lb BULK",
+      "Feature Type": "",
+      "Gross Weight": "500",
+      "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
       "Available Qty.": "700",
