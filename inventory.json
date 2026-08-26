@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 26, 2026 at 04:29 PM",
-  "updated_at_iso": "2026-08-26T16:29:36.713828-05:00",
-  "item_count": 134,
+  "updated_at": "August 26, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-26T17:01:10.198648-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "91",
@@ -155,7 +155,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "25",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -183,7 +183,7 @@
       "new_since": "2026-08-26T16:01:09.763581-05:00"
     },
     {
-      "Available Qty.": "1180",
+      "Available Qty.": "1168",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -192,7 +192,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1324",
+      "Available Qty.": "1312",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -228,6 +228,26 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "13",
+      "Item No.": "D25-2023P",
+      "Description": "Candy 4/17 oz",
+      "UOM": "CS",
+      "Pack Size": "4/17 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
+    },
+    {
+      "Available Qty.": "19",
+      "Item No.": "D25-2022P",
+      "Description": "Candy 9/18.42 oz",
+      "UOM": "CS",
+      "Pack Size": "9/18.42 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
+    },
+    {
       "Available Qty.": "1143",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -246,16 +266,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "670",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "1022",
+      "Available Qty.": "1020",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -263,6 +274,15 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-26T12:01:23.958109-05:00"
+    },
+    {
+      "Available Qty.": "670",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -275,7 +295,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "542",
+      "Available Qty.": "540",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -335,7 +355,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "813",
+      "Available Qty.": "811",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -385,7 +405,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "779",
+      "Available Qty.": "777",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -423,6 +443,26 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-26T12:01:23.958109-05:00"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D25-2032P",
+      "Description": "Cookies 12/7.76 oz",
+      "UOM": "CS",
+      "Pack Size": "12/7.76 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
+    },
+    {
+      "Available Qty.": "120",
+      "Item No.": "D25-1916P",
+      "Description": "Cookies 2/12 oz",
+      "UOM": "CS",
+      "Pack Size": "2/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
     },
     {
       "Available Qty.": "57",
@@ -475,6 +515,16 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
+      "Available Qty.": "84",
+      "Item No.": "D09-062P",
+      "Description": "Dressing, Honey Mustard UNRANKED",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
+    },
+    {
       "Available Qty.": "647",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
@@ -512,6 +562,16 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D12-380P",
+      "Description": "Facial Cleanser 4/3 ct",
+      "UOM": "CS",
+      "Pack Size": "4/3 ct",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
     },
     {
       "Available Qty.": "240",
@@ -668,7 +728,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "899",
+      "Available Qty.": "879",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -733,7 +793,7 @@
       "new_since": "2026-08-26T13:01:09.818930-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "11",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -813,7 +873,7 @@
       "new_since": "2026-08-26T13:01:09.818930-05:00"
     },
     {
-      "Available Qty.": "105",
+      "Available Qty.": "102",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -1142,6 +1202,16 @@
       "Gross Weight": "1"
     },
     {
+      "Available Qty.": "79",
+      "Item No.": "D06-900P",
+      "Description": "Sharp Cheddar, Mac and Cheese w/ Bacon 6/4 oz",
+      "UOM": "CS",
+      "Pack Size": "6/4 oz",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
+    },
+    {
       "Available Qty.": "128",
       "Item No.": "P06-230P",
       "Description": "Skillet Dinner, Lasagna",
@@ -1222,6 +1292,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "14",
       "new_since": "2026-08-26T11:01:08.630573-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D15-569P",
+      "Description": "Tuna in Water 48/5 oz 48/5 oz can",
+      "UOM": "CS",
+      "Pack Size": "48/5 oz can",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-26T17:01:10.198079-05:00"
     },
     {
       "Available Qty.": "111",
