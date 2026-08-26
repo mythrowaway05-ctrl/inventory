@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 26, 2026 at 07:32 AM",
-  "updated_at_iso": "2026-08-26T07:32:35.132162-05:00",
-  "item_count": 128,
+  "updated_at": "August 26, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-26T08:01:22.371900-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "113",
@@ -67,26 +67,6 @@
       "Pack Size": "1/230 lb",
       "Feature Type": "",
       "Gross Weight": "230"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-08-26T07:01:14.880311-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-08-26T07:01:14.880311-05:00"
     },
     {
       "Available Qty.": "214",
@@ -226,15 +206,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "670",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1074",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -242,6 +213,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "670",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -307,15 +287,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "813",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "139",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -323,6 +294,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "813",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "306",
@@ -650,7 +630,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "12",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -677,7 +657,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -1037,7 +1017,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1499",
+      "Available Qty.": "1495",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
