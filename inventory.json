@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 26, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-26T16:01:09.764171-05:00",
-  "item_count": 135,
+  "updated_at": "August 26, 2026 at 04:29 PM",
+  "updated_at_iso": "2026-08-26T16:29:36.713828-05:00",
+  "item_count": 134,
   "items": [
     {
       "Available Qty.": "91",
@@ -61,7 +61,7 @@
       "new_since": "2026-08-26T15:01:31.632270-05:00"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "97",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -88,16 +88,6 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-08-26T07:01:14.880311-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-014P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/200 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
       "Available Qty.": "7",
@@ -256,6 +246,15 @@
       "Gross Weight": "6"
     },
     {
+      "Available Qty.": "670",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "1022",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -264,15 +263,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-26T12:01:23.958109-05:00"
-    },
-    {
-      "Available Qty.": "670",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -345,16 +335,6 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "137",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-08-26T12:01:23.958109-05:00"
-    },
-    {
       "Available Qty.": "813",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -362,6 +342,16 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20",
+      "new_since": "2026-08-26T12:01:23.958109-05:00"
+    },
+    {
+      "Available Qty.": "137",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40",
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
@@ -376,16 +366,6 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-08-26T12:01:23.958109-05:00"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
@@ -395,7 +375,17 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "781",
+      "Available Qty.": "6",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45",
+      "new_since": "2026-08-26T12:01:23.958109-05:00"
+    },
+    {
+      "Available Qty.": "779",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -445,7 +435,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "61",
+      "Available Qty.": "60",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -505,7 +495,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "3357",
+      "Available Qty.": "3348",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -659,7 +649,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "44",
       "Item No.": "D15-381P",
       "Description": "Lunchmeat 1/10 lb",
       "UOM": "CS",
@@ -678,7 +668,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "909",
+      "Available Qty.": "899",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -972,7 +962,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "464",
+      "Available Qty.": "461",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -1017,7 +1007,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "731",
+      "Available Qty.": "721",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1035,7 +1025,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "782",
+      "Available Qty.": "780",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1134,7 +1124,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1428",
+      "Available Qty.": "1425",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1143,7 +1133,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2223",
+      "Available Qty.": "2218",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1152,7 +1142,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "128",
       "Item No.": "P06-230P",
       "Description": "Skillet Dinner, Lasagna",
       "UOM": "CS",
@@ -1215,7 +1205,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "396",
+      "Available Qty.": "391",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
       "UOM": "CS",
