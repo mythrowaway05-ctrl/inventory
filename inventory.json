@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 26, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-26T14:01:07.567291-05:00",
-  "item_count": 132,
+  "updated_at": "August 26, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-26T15:01:31.632778-05:00",
+  "item_count": 133,
   "items": [
     {
       "Available Qty.": "91",
@@ -41,6 +41,16 @@
       "Gross Weight": "1320"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-26T15:01:31.632270-05:00"
+    },
+    {
       "Available Qty.": "100",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
@@ -50,7 +60,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "94",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -70,7 +80,7 @@
       "new_since": "2026-08-26T07:01:14.880311-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "7",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -117,7 +127,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "108",
       "Item No.": "P23-088P",
       "Description": "Beans, Pinto, NSA No Salt Added",
       "UOM": "CS",
@@ -153,7 +163,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "314",
+      "Available Qty.": "44",
       "Item No.": "D15-382P",
       "Description": "Boneless Chicken Bites 6/5.2 oz",
       "UOM": "CS",
@@ -226,6 +236,15 @@
       "Gross Weight": "6"
     },
     {
+      "Available Qty.": "670",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "1022",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -234,15 +253,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-08-26T12:01:23.958109-05:00"
-    },
-    {
-      "Available Qty.": "670",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -375,7 +385,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "422",
+      "Available Qty.": "407",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -415,7 +425,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "61",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -485,7 +495,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "209",
       "Item No.": "P06-018P",
       "Description": "Entree, Red Beans and Rice",
       "UOM": "CS",
@@ -733,7 +743,7 @@
       "new_since": "2026-08-26T11:01:08.630573-05:00"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "5",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -743,7 +753,7 @@
       "new_since": "2026-08-26T11:01:08.630573-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "22",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -979,7 +989,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "33",
       "Item No.": "P03-007P",
       "Description": "Prime Hydration, Blue Raspberry",
       "UOM": "CS",
@@ -1006,7 +1016,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "240",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -1214,7 +1224,7 @@
       "new_since": "2026-08-26T11:01:08.630573-05:00"
     },
     {
-      "Available Qty.": "121",
+      "Available Qty.": "111",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
