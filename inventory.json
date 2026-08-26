@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 26, 2026 at 06:20 AM",
-  "updated_at_iso": "2026-08-26T06:20:59.412888-05:00",
-  "item_count": 126,
+  "updated_at": "August 26, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-26T07:01:14.880810-05:00",
+  "item_count": 128,
   "items": [
     {
-      "Available Qty.": "117",
+      "Available Qty.": "113",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -14,7 +14,7 @@
       "new_since": "2026-08-26T01:32:38.881456-05:00"
     },
     {
-      "Available Qty.": "402",
+      "Available Qty.": "399",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -69,6 +69,26 @@
       "Gross Weight": "230"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-26T07:01:14.880311-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-26T07:01:14.880311-05:00"
+    },
+    {
       "Available Qty.": "214",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -114,7 +134,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "36",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -132,7 +152,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "656",
+      "Available Qty.": "624",
       "Item No.": "D15-382P",
       "Description": "Boneless Chicken Bites 6/5.2 oz",
       "UOM": "CS",
@@ -206,15 +226,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1080",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "670",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -222,6 +233,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1074",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -287,15 +307,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "139",
-      "Item No.": "D15-1135P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "813",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -305,7 +316,16 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "309",
+      "Available Qty.": "139",
+      "Item No.": "D15-1135P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/40lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "306",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -377,7 +397,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "79",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -494,7 +514,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "3379",
+      "Available Qty.": "3389",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -548,7 +568,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "45",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -575,7 +595,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "36",
       "Item No.": "D28-460P",
       "Description": "Lettuce",
       "UOM": "CS",
@@ -621,7 +641,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -630,7 +650,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "16",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -657,7 +677,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -765,7 +785,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "121",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -999,7 +1019,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "93",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -1017,7 +1037,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1495",
+      "Available Qty.": "1499",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1080,7 +1100,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "194",
+      "Available Qty.": "198",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
