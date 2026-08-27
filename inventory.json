@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 27, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-08-27T17:01:06.260258-05:00",
-  "item_count": 131,
+  "updated_at": "August 27, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-08-27T18:01:09.244990-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "84",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "271",
+      "Available Qty.": "221",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -373,8 +373,7 @@
       "UOM": "CS",
       "Pack Size": "2/12 oz",
       "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-08-26T17:01:10.198079-05:00"
+      "Gross Weight": "2"
     },
     {
       "Available Qty.": "57",
@@ -386,7 +385,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -601,16 +600,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-445P",
-      "Description": "Lunchmeat 8/12 oz",
-      "UOM": "CS",
-      "Pack Size": "8/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-08-27T17:01:06.259661-05:00"
     },
     {
       "Available Qty.": "57",
@@ -1062,16 +1051,6 @@
       "new_since": "2026-08-27T07:01:18.641864-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-444P",
-      "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-08-27T17:01:06.259661-05:00"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-185P",
       "Description": "Snacks, Assorted - BULK",
@@ -1142,7 +1121,7 @@
       "new_since": "2026-08-27T07:01:18.641864-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D28-444P",
       "Description": "Squash, Butternut",
       "UOM": "CS",
@@ -1168,8 +1147,7 @@
       "UOM": "CS",
       "Pack Size": "48/5 oz can",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-08-26T17:01:10.198079-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "111",
