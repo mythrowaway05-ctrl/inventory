@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-27T01:01:07.907667-05:00",
+  "scraped_at": "2026-08-27T02:01:09.705190-05:00",
   "po_number": "PO6321924",
   "appointment": {
     "reference_number": "PO6321924",
@@ -7,10 +7,10 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n19",
-    "Total Line Items": "Gross Weight\n2972 lbs",
+    "Total Line Items": "Gross Weight\n2973 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-382P\tBoneless Chicken Bites\t32\t32\tCS\t90\t0.53\t\u00a0\t6/5.2 oz\tDRY\t0.00\t\u00a0\nD28-444P\tSquash, Butternut\t3\t3\tCS\t102\t0.00\t\u00a0\t1/34 lb\tREF\t0.00\t\u00a0\nD16-063P\tAssorted Frozen Food - BULK\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 lbs\tFROZEN\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD28-897P\tCorn on the Cob\t3\t3\tCS\t135\t0.00\t\u00a0\t1/45 lb\tREF\t0.00\t\u00a0\nD28-541P\tCucumbers\t3\t3\tCS\t102\t0.00\t\u00a0\t1/34 lb\tREF\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nD28-738P\tApples\t4\t4\tCS\t168\t0.00\t\u00a0\t1/42 lb\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nDS21-001P\tPasta, Spaghetti\t2\t2\tCS\t42\t0.00\t\u00a0\t20/16 oz\tDRY\t0.00\t\u00a0\nD26-662P\tMix, Classic Beef Gravy\t4\t4\tCS\t4\t0.19\t\u00a0\t15/0.9 oz\tDRY\t0.00\t\u00a0\nD26-979P\tSugar\t4\t4\tCS\t100\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\t\u00a0\nD07-1116P\tButter\t8\t8\tCS\t288\t0.00\t\u00a0\t12/45 oz\tREF\t0.00\t\u00a0\nD15-050P\tAsst. Canned Meats\t25\t25\tCS\t500\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD23-821P\tTrail Mix\t8\t8\tCS\t40\t0.95\t\u00a0\t4/18 oz\tDRY\t0.00\t\u00a0\nD26-673P\tSauce, Sweet Curry\t3\t3\tCS\t24\t1.52\t\u00a0\t4/32 oz\tDRY\t0.00\t\u00a0\nD03-010P\tWater 6/1 gal\t2\t0\tCS\t102\t2.03\tCase\t6/1 gal\tDry\t0.00\t\u00a0\nD12-380P\tFacial Cleanser 4/3 ct\t5\t0\tCS\t30\t1.18\tCase\t4/3 ct\tDry\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-382P\tBoneless Chicken Bites\t32\t32\tCS\t90\t0.53\t\u00a0\t6/5.2 oz\tFROZEN\t0.00\t\u00a0\nD28-444P\tSquash, Butternut\t3\t3\tCS\t102\t0.00\t\u00a0\t1/34 lb\tREF\t0.00\t\u00a0\nD16-063P\tAssorted Frozen Food - BULK\t1\t1\tBULK\t250\t45.00\t\u00a0\t1/250 lbs\tFROZEN\t0.00\t\u00a0\nD28-461P\tBell Peppers\t8\t8\tCS\t200\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\t\u00a0\nD28-897P\tCorn on the Cob\t3\t3\tCS\t135\t0.00\t\u00a0\t1/45 lb\tREF\t0.00\t\u00a0\nD28-541P\tCucumbers\t3\t3\tCS\t102\t0.00\t\u00a0\t1/34 lb\tREF\t0.00\t\u00a0\nD03-1091P\tGatorade, Lower Sugar\t15\t15\tCS\t525\t6.65\t\u00a0\t4-6/20 oz\tDRY\t0.00\t\u00a0\nD28-738P\tApples\t4\t4\tCS\t168\t0.00\t\u00a0\t1/42 lb\tREF\t0.00\t\u00a0\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\t\u00a0\nDS21-001P\tPasta, Spaghetti\t2\t2\tCS\t42\t0.00\t\u00a0\t20/16 oz\tDRY\t0.00\t\u00a0\nD26-662P\tMix, Classic Beef Gravy\t4\t4\tCS\t4\t0.19\t\u00a0\t15/0.9 oz\tDRY\t0.00\t\u00a0\nD26-979P\tSugar\t4\t4\tCS\t100\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\t\u00a0\nD07-1116P\tButter\t8\t8\tCS\t288\t0.00\t\u00a0\t12/45 oz\tREF\t0.00\t\u00a0\nD15-050P\tAsst. Canned Meats\t25\t25\tCS\t500\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\t\u00a0\nD15-104P\tChicken Wings\t10\t10\tCS\t210\t3.78\t\u00a0\t1/20 lb\tFROZEN\t0.00\t\u00a0\nD23-821P\tTrail Mix\t8\t8\tCS\t40\t0.95\t\u00a0\t4/18 oz\tDRY\t0.00\t\u00a0\nD26-673P\tSauce, Sweet Curry\t3\t3\tCS\t24\t1.52\t\u00a0\t4/32 oz\tDRY\t0.00\t\u00a0\nD03-010P\tWater\t2\t2\tCS\t102\t2.03\t\u00a0\t6/1 gal\tDRY\t0.00\t\u00a0\nD12-380P\tFacial Cleanser\t5\t5\tCS\t31\t1.18\t\u00a0\t4/3 ct\tDRY\t0.00"
   },
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "90",
       "Packaging Type": "",
       "Pack Size": "6/5.2 oz",
-      "Handling Requirements": "DRY",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -236,27 +236,27 @@
     },
     {
       "Item No.": "D03-010P",
-      "Description": "Water 6/1 gal",
+      "Description": "Water",
       "Order Qty.": "2",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "2",
       "UOM": "CS",
       "Gross Weight": "102",
-      "Packaging Type": "Case",
+      "Packaging Type": "",
       "Pack Size": "6/1 gal",
-      "Handling Requirements": "Dry",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
     {
       "Item No.": "D12-380P",
-      "Description": "Facial Cleanser 4/3 ct",
+      "Description": "Facial Cleanser",
       "Order Qty.": "5",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "5",
       "UOM": "CS",
-      "Gross Weight": "30",
-      "Packaging Type": "Case",
+      "Gross Weight": "31",
+      "Packaging Type": "",
       "Pack Size": "4/3 ct",
-      "Handling Requirements": "Dry",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     }
