@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 27, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-27T13:01:27.214220-05:00",
-  "item_count": 130,
+  "updated_at": "August 27, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-27T14:01:18.773364-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "86",
@@ -205,15 +205,6 @@
       "new_since": "2026-08-27T02:01:09.759109-05:00"
     },
     {
-      "Available Qty.": "994",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "666",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -221,6 +212,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "994",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -314,21 +314,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "696",
@@ -456,16 +456,6 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "8",
-      "Item No.": "D25-2021P",
-      "Description": "Fig Bars 6/6 ct",
-      "UOM": "CS",
-      "Pack Size": "6/6 ct",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-08-27T02:01:09.759109-05:00"
     },
     {
       "Available Qty.": "237",
@@ -992,7 +982,7 @@
       "new_since": "2026-08-27T07:01:18.641864-05:00"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "739",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
