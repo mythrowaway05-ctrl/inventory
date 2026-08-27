@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 27, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-08-27T10:01:22.239730-05:00",
-  "item_count": 132,
+  "updated_at": "August 27, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-08-27T11:01:20.699423-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "86",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "301",
+      "Available Qty.": "284",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -143,7 +143,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "4",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -215,7 +215,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "0",
       "Item No.": "D06-362P",
       "Description": "Cheeseburger Mac 8/6.6 oz",
       "UOM": "CS",
@@ -434,7 +434,7 @@
       "new_since": "2026-08-26T12:01:23.958109-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "0",
       "Item No.": "D28-897P",
       "Description": "Corn on the Cob",
       "UOM": "CS",
@@ -686,7 +686,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "0",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -711,18 +711,7 @@
       "UOM": "CS",
       "Pack Size": "9/.5 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-26T11:01:08.630573-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D07-1054P",
-      "Description": "Milk, Almond, Vanilla 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/64 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-08-27T03:01:17.016427-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "198",
@@ -775,7 +764,7 @@
       "new_since": "2026-08-26T13:01:09.818930-05:00"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "141",
       "Item No.": "D25-2033P",
       "Description": "Oatmeal Crumble Bars 6/6 ct",
       "UOM": "CS",
@@ -1253,7 +1242,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "29",
       "Item No.": "D28-158P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
