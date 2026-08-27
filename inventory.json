@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 27, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-08-27T16:01:07.455255-05:00",
-  "item_count": 127,
+  "updated_at": "August 27, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-08-27T17:01:06.260258-05:00",
+  "item_count": 131,
   "items": [
     {
-      "Available Qty.": "86",
+      "Available Qty.": "84",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -70,7 +70,7 @@
       "new_since": "2026-08-27T02:01:09.759109-05:00"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "29",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -178,7 +178,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "5",
       "Item No.": "D08-548P",
       "Description": "Cake, Chocolate Layer",
       "UOM": "CS",
@@ -187,7 +187,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "1135",
+      "Available Qty.": "1131",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -214,7 +214,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "994",
+      "Available Qty.": "989",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -440,7 +440,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3292",
+      "Available Qty.": "3290",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -458,7 +458,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "237",
+      "Available Qty.": "197",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -557,7 +557,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "92",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -601,6 +601,16 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-445P",
+      "Description": "Lunchmeat 8/12 oz",
+      "UOM": "CS",
+      "Pack Size": "8/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-08-27T17:01:06.259661-05:00"
     },
     {
       "Available Qty.": "57",
@@ -668,7 +678,7 @@
       "new_since": "2026-08-27T12:01:24.340189-05:00"
     },
     {
-      "Available Qty.": "816",
+      "Available Qty.": "815",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -794,6 +804,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "23",
+      "Item No.": "D06-695P",
+      "Description": "Penne w/ Meatballs 8/14 oz",
+      "UOM": "CS",
+      "Pack Size": "8/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-08-27T17:01:06.259661-05:00"
+    },
+    {
       "Available Qty.": "430",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
@@ -803,15 +823,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1346",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -819,6 +830,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "152",
@@ -1042,6 +1062,16 @@
       "new_since": "2026-08-27T07:01:18.641864-05:00"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D15-444P",
+      "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-08-27T17:01:06.259661-05:00"
+    },
+    {
       "Available Qty.": "3",
       "Item No.": "D25-185P",
       "Description": "Snacks, Assorted - BULK",
@@ -1112,6 +1142,16 @@
       "new_since": "2026-08-27T07:01:18.641864-05:00"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D28-444P",
+      "Description": "Squash, Butternut",
+      "UOM": "CS",
+      "Pack Size": "1/34 lb",
+      "Feature Type": "",
+      "Gross Weight": "34",
+      "new_since": "2026-08-27T17:01:06.259661-05:00"
+    },
+    {
       "Available Qty.": "102",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
@@ -1165,8 +1205,7 @@
       "UOM": "BULK",
       "Pack Size": "1/750 Lb Bulk Tote",
       "Feature Type": "Free Item",
-      "Gross Weight": "750",
-      "new_since": "2026-08-26T16:01:09.763581-05:00"
+      "Gross Weight": "750"
     },
     {
       "Available Qty.": "370",
