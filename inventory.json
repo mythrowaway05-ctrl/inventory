@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 28, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-08-28T11:01:10.239637-05:00",
-  "item_count": 136,
+  "updated_at": "August 28, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-08-28T12:01:08.732446-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "84",
@@ -267,13 +267,14 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "801",
-      "Item No.": "P15-104P",
+      "Available Qty.": "9",
+      "Item No.": "D15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "21",
+      "new_since": "2026-08-28T12:01:08.731795-05:00"
     },
     {
       "Available Qty.": "140",
@@ -283,6 +284,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "801",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "304",
@@ -295,21 +305,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "696",
