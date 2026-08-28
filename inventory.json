@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 28, 2026 at 03:30 PM",
-  "updated_at_iso": "2026-08-28T15:30:42.354478-05:00",
-  "item_count": 135,
+  "updated_at": "August 28, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-08-28T16:01:05.408431-05:00",
+  "item_count": 136,
   "items": [
     {
       "Available Qty.": "84",
@@ -449,7 +449,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3272",
+      "Available Qty.": "3274",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -513,7 +513,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1584",
+      "Available Qty.": "1586",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -532,7 +532,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "3227",
+      "Available Qty.": "3229",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -586,7 +586,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "13",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -764,6 +764,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D25-2033P",
+      "Description": "Oatmeal Crumble Bars 6/6 ct",
+      "UOM": "CS",
+      "Pack Size": "6/6 ct",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-08-28T09:01:09.665845-05:00"
+    },
+    {
       "Available Qty.": "98",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
@@ -845,7 +855,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1903",
+      "Available Qty.": "1905",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -944,7 +954,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "756",
+      "Available Qty.": "752",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1035,7 +1045,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "221",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -1053,7 +1063,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "477",
+      "Available Qty.": "479",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1062,7 +1072,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1238",
+      "Available Qty.": "1220",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1193,7 +1203,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "73",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-28T15:30:42.289568-05:00",
+  "scraped_at": "2026-08-28T16:01:05.360754-05:00",
   "po_number": "PO6336649",
   "appointment": {
     "reference_number": "PO6336649",
@@ -10,19 +10,19 @@
     "Total Line Items": "Gross Weight\n505 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-999P\tMeat, Assorted Frozen\t250\t0\tLB\t250\t0.18\tLoose Items\tTo Be Weighed\tFrozen Food\t0.00\t\u00a0\nD15-1009P\tSausage Links\t10\t10\tCS\t57\t1.03\t\u00a0\t12/6.4oz\tFROZEN\t0.00\t\u00a0\nD25-411P\tPizza Rolls\t4\t4\tCS\t64\t2.88\t\u00a0\t9/24.8 oz\tFROZEN\t0.00\t\u00a0\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\t\u00a0\nD25-2034P\tGansito, Snack Cake\t1\t1\tCS\t21\t3.99\t\u00a0\t4/32 ct\tDRY\t0.00\t\u00a0\nD08-553P\tConchas\t2\t2\tCS\t22\t2.09\t\u00a0\t24/4.23 oz\tDRY\t0.00\t\u00a0\nDS06-021P\tBeans, Baked\t5\t5\tCS\t60\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\t\u00a0\nD15-176P\tBologna, Thick Cut\t3\t3\tCS\t15\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-999P\tMeat, Assorted Frozen\t250\t250\tLB\t250\t0.18\t\u00a0\tTo Be Weighed\tFROZEN\t0.00\t\u00a0\nD15-1009P\tSausage Links\t10\t10\tCS\t57\t1.03\t\u00a0\t12/6.4oz\tFROZEN\t0.00\t\u00a0\nD25-411P\tPizza Rolls\t4\t4\tCS\t64\t2.88\t\u00a0\t9/24.8 oz\tFROZEN\t0.00\t\u00a0\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\t\u00a0\nD25-2034P\tGansito, Snack Cake\t1\t1\tCS\t21\t3.99\t\u00a0\t4/32 ct\tDRY\t0.00\t\u00a0\nD08-553P\tConchas\t2\t2\tCS\t22\t2.09\t\u00a0\t24/4.23 oz\tDRY\t0.00\t\u00a0\nDS06-021P\tBeans, Baked\t5\t5\tCS\t60\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\t\u00a0\nD15-176P\tBologna, Thick Cut\t3\t3\tCS\t15\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00"
   },
   "items": [
     {
       "Item No.": "D15-999P",
       "Description": "Meat, Assorted Frozen",
       "Order Qty.": "250",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "250",
       "UOM": "LB",
       "Gross Weight": "250",
-      "Packaging Type": "Loose Items",
+      "Packaging Type": "",
       "Pack Size": "To Be Weighed",
-      "Handling Requirements": "Frozen Food",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
