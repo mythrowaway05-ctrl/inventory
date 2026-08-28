@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 28, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-28T13:01:08.157190-05:00",
-  "item_count": 136,
+  "updated_at": "August 28, 2026 at 02:00 PM",
+  "updated_at_iso": "2026-08-28T14:00:56.171565-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "84",
@@ -31,6 +31,16 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "24",
+      "Item No.": "D11-111P",
+      "Description": "Assorted Baking Items",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-27T16:01:07.454710-05:00"
+    },
+    {
       "Available Qty.": "1",
       "Item No.": "D03-1070P",
       "Description": "Assorted Beverages - BULK 1/1320 lb",
@@ -49,7 +59,27 @@
       "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "12",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-08-28T14:00:56.171156-05:00"
+    },
+    {
+      "Available Qty.": "27",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-08-28T14:00:56.171156-05:00"
+    },
+    {
+      "Available Qty.": "173",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -66,6 +96,26 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-08-28T13:01:08.156641-05:00"
+    },
+    {
+      "Available Qty.": "42",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-28T14:00:56.171156-05:00"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D26-598P",
+      "Description": "Assorted Spices and Condiments",
+      "UOM": "CS",
+      "Pack Size": "1/30lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-08-28T14:00:56.171156-05:00"
     },
     {
       "Available Qty.": "211",
@@ -178,15 +228,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "950",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "666",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -194,6 +235,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "950",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -214,15 +264,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-626P",
-      "Description": "Chicken Legs 1/40 lb",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "P15-103P",
       "Description": "Chicken Tenders",
@@ -230,15 +271,6 @@
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "217",
-      "Item No.": "D15-1153P",
-      "Description": "Chicken Thigh w/ Back Removed 1/40 lb",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "317",
@@ -259,15 +291,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "796",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D15-104P",
       "Description": "Chicken Wings",
@@ -278,13 +301,13 @@
       "new_since": "2026-08-28T12:01:08.731795-05:00"
     },
     {
-      "Available Qty.": "165",
-      "Item No.": "D15-1135P",
+      "Available Qty.": "796",
+      "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
-      "Pack Size": "1/40lb",
+      "Pack Size": "4/5 lb bags",
       "Feature Type": "",
-      "Gross Weight": "40"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "304",
@@ -294,24 +317,6 @@
       "Pack Size": "24/5 oz can",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
     },
     {
       "Available Qty.": "696",
@@ -675,6 +680,16 @@
       "new_since": "2026-08-28T11:01:10.238927-05:00"
     },
     {
+      "Available Qty.": "20",
+      "Item No.": "D07-1024P",
+      "Description": "Milk, Skim 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-08-28T14:00:56.171156-05:00"
+    },
+    {
       "Available Qty.": "50",
       "Item No.": "D25-313P",
       "Description": "Mini Muffins",
@@ -858,15 +873,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1340",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -874,6 +880,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "152",
