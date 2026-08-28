@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 28, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-08-28T02:01:10.709594-05:00",
-  "item_count": 164,
+  "updated_at": "August 28, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-28T03:01:09.609448-05:00",
+  "item_count": 163,
   "items": [
     {
       "Available Qty.": "84",
@@ -337,15 +337,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "801",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "140",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -353,6 +344,15 @@
       "Pack Size": "1/40lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "801",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "8",
@@ -375,21 +375,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-820P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-752P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "696",
@@ -871,6 +871,16 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
+      "Available Qty.": "80",
+      "Item No.": "D25-2037P",
+      "Description": "Mini Muffins 48/4.44 oz",
+      "UOM": "CS",
+      "Pack Size": "48/4.44 oz",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-08-28T03:01:09.608772-05:00"
+    },
+    {
       "Available Qty.": "192",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -1016,16 +1026,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D06-696P",
-      "Description": "Philly Cheesesteak 8/4.2 oz",
-      "UOM": "CS",
-      "Pack Size": "8/4.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
       "Available Qty.": "430",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
@@ -1033,15 +1033,6 @@
       "Pack Size": "12/20 oz",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "1340",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "5",
@@ -1053,6 +1044,15 @@
       "Gross Weight": "24"
     },
     {
+      "Available Qty.": "1340",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
+    },
+    {
       "Available Qty.": "152",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
@@ -1060,16 +1060,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-738P",
-      "Description": "Pizza",
-      "UOM": "CS",
-      "Pack Size": "16/23 oz",
-      "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
       "Available Qty.": "52",
