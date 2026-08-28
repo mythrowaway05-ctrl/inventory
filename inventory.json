@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 28, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-08-28T07:01:10.165702-05:00",
-  "item_count": 155,
+  "updated_at": "August 28, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-08-28T08:01:10.366670-05:00",
+  "item_count": 144,
   "items": [
     {
       "Available Qty.": "84",
@@ -31,7 +31,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D11-111P",
       "Description": "Assorted Baking Items",
       "UOM": "CS",
@@ -68,7 +68,7 @@
       "Gross Weight": "1500"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "28",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -131,16 +131,6 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D04-256P",
-      "Description": "Biscuits 12/16 oz",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
       "Available Qty.": "309",
       "Item No.": "P23-092P",
       "Description": "Black Beans, Dry Bag",
@@ -157,16 +147,6 @@
       "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
       "Gross Weight": "40",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "12",
-      "Item No.": "D15-176P",
-      "Description": "Bologna, Thick Cut",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
@@ -188,6 +168,16 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "5",
+      "Item No.": "D08-548P",
+      "Description": "Cake, Chocolate Layer",
+      "UOM": "CS",
+      "Pack Size": "24/12.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-08-28T08:01:10.366085-05:00"
+    },
+    {
       "Available Qty.": "1131",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -204,16 +194,6 @@
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "34",
-      "Item No.": "D06-694P",
-      "Description": "Cheesy Broccoli 6/10.8 oz",
-      "UOM": "CS",
-      "Pack Size": "6/10.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
       "Available Qty.": "666",
@@ -315,7 +295,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "4",
       "Item No.": "D15-803P",
       "Description": "Chicken, 8 Piece Cut Individually Bagged",
       "UOM": "CS",
@@ -335,21 +315,21 @@
     },
     {
       "Available Qty.": "6",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D15-752P",
       "Description": "Chicken, Rotisserie",
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
       "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-820P",
+      "Description": "Chicken, Rotisserie",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "696",
@@ -379,7 +359,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "535",
+      "Available Qty.": "526",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -398,7 +378,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "1115",
+      "Available Qty.": "708",
       "Item No.": "D25-585P",
       "Description": "Cookies 12/13 oz",
       "UOM": "CS",
@@ -406,6 +386,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "11",
       "new_since": "2026-08-28T02:01:10.709050-05:00"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D25-1916P",
+      "Description": "Cookies 2/12 oz",
+      "UOM": "CS",
+      "Pack Size": "2/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-08-28T08:01:10.366085-05:00"
     },
     {
       "Available Qty.": "57",
@@ -417,15 +407,6 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-897P",
-      "Description": "Corn on the Cob",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "45"
-    },
-    {
       "Available Qty.": "153",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -435,17 +416,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D17-056P",
-      "Description": "Creamer, Non Dairy",
-      "UOM": "CS",
-      "Pack Size": "6/32 oz",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "142",
+      "Available Qty.": "85",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -462,16 +433,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-1600P",
-      "Description": "Curly Fries",
-      "UOM": "CS",
-      "Pack Size": "6/22 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
       "Available Qty.": "1",
@@ -529,7 +490,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "193",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -584,7 +545,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "27",
       "Item No.": "D05-835P",
       "Description": "Hash Browns",
       "UOM": "CS",
@@ -676,7 +637,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "52",
       "Item No.": "D14-003P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -714,7 +675,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "8",
       "Item No.": "D15-110P",
       "Description": "Lunchmeat 6/16 oz",
       "UOM": "CS",
@@ -742,56 +703,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D15-447P",
-      "Description": "Meatballs - BULK 1/1060 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1060 lb",
-      "Feature Type": "",
-      "Gross Weight": "1060",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D15-446P",
-      "Description": "Meatballs - BULK 1/1085 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1085 lb",
-      "Feature Type": "",
-      "Gross Weight": "1085",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-448P",
-      "Description": "Meatballs - BULK 1/1120 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1120 lb",
-      "Feature Type": "",
-      "Gross Weight": "1120",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-449P",
-      "Description": "Meatballs - BULK 1/940 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/940 lb",
-      "Feature Type": "",
-      "Gross Weight": "940",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "45",
-      "Item No.": "D07-169P",
-      "Description": "Milk, 1% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
       "Available Qty.": "190",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -801,7 +712,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "182",
+      "Available Qty.": "133",
       "Item No.": "D25-313P",
       "Description": "Mini Muffins",
       "UOM": "CS",
@@ -830,7 +741,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "219",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -1002,7 +913,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D25-411P",
       "Description": "Pizza Rolls",
       "UOM": "CS",
@@ -1057,16 +968,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D06-441P",
-      "Description": "Ramen Noodles, Cajun Shrimp",
-      "UOM": "CS",
-      "Pack Size": "24/3 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-28T04:01:19.565263-05:00"
-    },
-    {
       "Available Qty.": "705",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
@@ -1100,8 +1001,17 @@
       "UOM": "CS",
       "Pack Size": "24/5 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D26-663P",
+      "Description": "Sauce, BBQ, Apple Bourbon",
+      "UOM": "CS",
+      "Pack Size": "6/15.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-08-28T08:01:10.366085-05:00"
     },
     {
       "Available Qty.": "517",
@@ -1110,8 +1020,7 @@
       "UOM": "CS",
       "Pack Size": "6/15.8 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "102",
@@ -1120,8 +1029,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "59",
@@ -1130,8 +1038,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "91",
@@ -1140,8 +1047,7 @@
       "UOM": "CS",
       "Pack Size": "6/3 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "19",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "126",
@@ -1150,8 +1056,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "739",
@@ -1160,8 +1065,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "23"
     },
     {
       "Available Qty.": "79",
@@ -1170,8 +1074,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "408",
@@ -1190,8 +1093,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "118",
@@ -1200,38 +1102,25 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "8"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-1009P",
-      "Description": "Sausage Links",
-      "UOM": "CS",
-      "Pack Size": "12/6.4oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-28T02:01:10.709050-05:00"
-    },
-    {
-      "Available Qty.": "1362",
+      "Available Qty.": "1260",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
       "Pack Size": "15/1.1 oz",
       "Feature Type": "",
-      "Gross Weight": "1",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2210",
+      "Available Qty.": "2108",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
       "Pack Size": "15/0.8 oz",
       "Feature Type": "",
-      "Gross Weight": "1",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "1"
     },
     {
       "Available Qty.": "107",
@@ -1240,8 +1129,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.6 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "555",
@@ -1250,8 +1138,7 @@
       "UOM": "CS",
       "Pack Size": "12/14 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "700",
@@ -1260,8 +1147,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "456",
@@ -1270,8 +1156,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz can",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "154",
@@ -1280,8 +1165,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "193",
@@ -1290,8 +1174,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "401",
@@ -1300,8 +1183,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.7 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "389",
@@ -1310,11 +1192,10 @@
       "UOM": "CS",
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-08-27T07:01:18.641864-05:00"
+      "Gross Weight": "21"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "28",
       "Item No.": "D06-892P",
       "Description": "Spaghetti with Meat Sauce",
       "UOM": "CS",
@@ -1334,17 +1215,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-444P",
-      "Description": "Squash, Butternut",
-      "UOM": "CS",
-      "Pack Size": "1/34 lb",
-      "Feature Type": "",
-      "Gross Weight": "34",
-      "new_since": "2026-08-27T17:01:06.259661-05:00"
-    },
-    {
-      "Available Qty.": "89",
+      "Available Qty.": "58",
       "Item No.": "D25-2035P",
       "Description": "Takis 12/2.875 oz",
       "UOM": "CS",
@@ -1364,7 +1235,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "290",
+      "Available Qty.": "289",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
@@ -1384,7 +1255,7 @@
       "new_since": "2026-08-28T02:01:10.709050-05:00"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "81",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
