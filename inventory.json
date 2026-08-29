@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 29, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-29T06:01:10.210239-05:00",
-  "item_count": 145,
+  "updated_at": "August 29, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-29T07:01:08.504753-05:00",
+  "item_count": 143,
   "items": [
     {
       "Available Qty.": "84",
@@ -23,7 +23,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "82",
+      "Available Qty.": "83",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -200,7 +200,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "5",
       "Item No.": "D15-382P",
       "Description": "Boneless Chicken Bites 6/5.2 oz",
       "UOM": "CS",
@@ -392,7 +392,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "129",
       "Item No.": "D25-585P",
       "Description": "Cookies 12/13 oz",
       "UOM": "CS",
@@ -410,7 +410,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "148",
+      "Available Qty.": "146",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -419,7 +419,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "11",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -527,7 +527,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1297",
+      "Available Qty.": "1296",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -626,7 +626,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "36",
       "Item No.": "D14-003P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -642,15 +642,6 @@
       "Pack Size": "16/24 oz",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-134P",
-      "Description": "Lunchmeat",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "13"
     },
     {
       "Available Qty.": "41",
@@ -687,16 +678,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D07-405P",
-      "Description": "Milk, 2% 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
       "Available Qty.": "36",
@@ -739,7 +720,7 @@
       "new_since": "2026-08-28T14:00:56.171156-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "5",
       "Item No.": "D07-1034P",
       "Description": "Milk, Whole 12/.5 gal",
       "UOM": "CS",
@@ -749,7 +730,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "39",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -769,7 +750,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "14",
       "Item No.": "D25-313P",
       "Description": "Mini Muffins",
       "UOM": "CS",
@@ -778,7 +759,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "31",
       "Item No.": "D25-2037P",
       "Description": "Mini Muffins 48/4.44 oz",
       "UOM": "CS",
@@ -1049,7 +1030,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "74",
       "Item No.": "D26-664P",
       "Description": "Sauce, BBQ, Garlic",
       "UOM": "CS",
@@ -1266,7 +1247,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "92",
       "Item No.": "D25-2036P",
       "Description": "Takis Peanuts 12/3.2 oz",
       "UOM": "CS",
@@ -1311,7 +1292,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "25",
       "Item No.": "D28-158P",
       "Description": "Watermelon - BULK TOTE",
       "UOM": "BULK",
