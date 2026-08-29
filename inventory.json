@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 29, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-08-29T04:01:19.945123-05:00",
+  "updated_at": "August 29, 2026 at 04:40 AM",
+  "updated_at_iso": "2026-08-29T04:40:49.093360-05:00",
   "item_count": 145,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "68",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -89,15 +89,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D16-055P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/575 lb",
-      "Feature Type": "",
-      "Gross Weight": "575"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D16-057P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -105,6 +96,15 @@
       "Feature Type": "",
       "Gross Weight": "475",
       "new_since": "2026-08-29T02:01:10.674795-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D16-055P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/575 lb",
+      "Feature Type": "",
+      "Gross Weight": "575"
     },
     {
       "Available Qty.": "4",
@@ -256,15 +256,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "666",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "950",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -272,6 +263,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "666",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -599,15 +599,6 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "91",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "7",
       "Item No.": "D14-117P",
       "Description": "Juice, Apple",
@@ -615,6 +606,15 @@
       "Pack Size": "8/64 oz",
       "Feature Type": "",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "91",
+      "Item No.": "P14-005P",
+      "Description": "Juice, Apple",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "104",
