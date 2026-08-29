@@ -1,18 +1,31 @@
 {
-  "scraped_at": "2026-08-29T08:01:21.707997-05:00",
+  "scraped_at": "2026-08-29T09:01:10.966909-05:00",
   "po_number": "PO6336649",
   "appointment": {
     "reference_number": "PO6336649",
     "pickup_date": "09/09/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n14",
-    "Total Line Items": "Gross Weight\n1136 lbs",
+    "Total Due": "Total Line Items\n15",
+    "Total Line Items": "Gross Weight\n1866 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-999P\tMeat, Assorted Frozen\t250\t250\tLB\t250\t0.18\t\u00a0\tTo Be Weighed\tFROZEN\t0.00\t\u00a0\nD15-1009P\tSausage Links\t10\t10\tCS\t57\t1.03\t\u00a0\t12/6.4oz\tFROZEN\t0.00\t\u00a0\nD25-411P\tPizza Rolls\t4\t4\tCS\t64\t2.88\t\u00a0\t9/24.8 oz\tFROZEN\t0.00\t\u00a0\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\t\u00a0\nD25-2034P\tGansito, Snack Cake\t1\t1\tCS\t21\t3.99\t\u00a0\t4/32 ct\tDRY\t0.00\t\u00a0\nD08-553P\tConchas\t2\t2\tCS\t22\t2.09\t\u00a0\t24/4.23 oz\tDRY\t0.00\t\u00a0\nDS06-021P\tBeans, Baked\t8\t8\tCS\t96\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\t\u00a0\nD15-176P\tBologna, Thick Cut\t3\t3\tCS\t15\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00\t\u00a0\nD15-382P\tBoneless Chicken Bites\t10\t10\tCS\t28\t0.53\t\u00a0\t6/5.2 oz\tFROZEN\t0.00\t\u00a0\nD15-773P\t8 Piece Cut Chicken\t10\t10\tCS\t450\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\t\u00a0\nD06-890P\tChili with Beans\t3\t3\tCS\t48\t3.04\t\u00a0\t4/4 lb\tFROZEN\t0.00\t\u00a0\nD07-405P\tMilk, 2%\t1\t1\tCS\t44\t0.00\t\u00a0\t12/.5 gal\tREF\t0.00\t\u00a0\nD25-313P\tMini Muffins\t3\t3\tCS\t6\t0.36\t\u00a0\t20/4 ct\tDRY\t0.00\t\u00a0\nD25-2037P\tMini Muffins\t1\t1\tCS\t19\t3.57\t\u00a0\t48/4.44 oz\tDRY\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD12-120P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t730\t131.40\t\u00a0\t1/730 lb\tDRY\t0.00\t\u00a0\nD15-999P\tMeat, Assorted Frozen\t250\t250\tLB\t250\t0.18\t\u00a0\tTo Be Weighed\tFROZEN\t0.00\t\u00a0\nD15-1009P\tSausage Links\t10\t10\tCS\t57\t1.03\t\u00a0\t12/6.4oz\tFROZEN\t0.00\t\u00a0\nD06-890P\tChili with Beans\t3\t3\tCS\t48\t3.04\t\u00a0\t4/4 lb\tFROZEN\t0.00\t\u00a0\nD07-405P\tMilk, 2%\t1\t1\tCS\t44\t0.00\t\u00a0\t12/.5 gal\tREF\t0.00\t\u00a0\nD25-313P\tMini Muffins\t3\t3\tCS\t6\t0.36\t\u00a0\t20/4 ct\tDRY\t0.00\t\u00a0\nD25-2037P\tMini Muffins\t1\t1\tCS\t19\t3.57\t\u00a0\t48/4.44 oz\tDRY\t0.00\t\u00a0\nD25-411P\tPizza Rolls\t4\t4\tCS\t64\t2.88\t\u00a0\t9/24.8 oz\tFROZEN\t0.00\t\u00a0\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\t\u00a0\nD25-2034P\tGansito, Snack Cake\t1\t1\tCS\t21\t3.99\t\u00a0\t4/32 ct\tDRY\t0.00\t\u00a0\nD08-553P\tConchas\t2\t2\tCS\t22\t2.09\t\u00a0\t24/4.23 oz\tDRY\t0.00\t\u00a0\nDS06-021P\tBeans, Baked\t8\t8\tCS\t96\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\t\u00a0\nD15-176P\tBologna, Thick Cut\t3\t3\tCS\t15\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00\t\u00a0\nD15-382P\tBoneless Chicken Bites\t10\t10\tCS\t28\t0.53\t\u00a0\t6/5.2 oz\tFROZEN\t0.00\t\u00a0\nD15-773P\t8 Piece Cut Chicken\t10\t10\tCS\t450\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00"
   },
   "items": [
+    {
+      "Item No.": "D12-120P",
+      "Description": "Assorted Personal Hygiene - BULK",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "BULK",
+      "Gross Weight": "730",
+      "Packaging Type": "",
+      "Pack Size": "1/730 lb",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
     {
       "Item No.": "D15-999P",
       "Description": "Meat, Assorted Frozen",
@@ -36,6 +49,58 @@
       "Packaging Type": "",
       "Pack Size": "12/6.4oz",
       "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D06-890P",
+      "Description": "Chili with Beans",
+      "Order Qty.": "3",
+      "Accepted Qty.": "3",
+      "UOM": "CS",
+      "Gross Weight": "48",
+      "Packaging Type": "",
+      "Pack Size": "4/4 lb",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D07-405P",
+      "Description": "Milk, 2%",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "44",
+      "Packaging Type": "",
+      "Pack Size": "12/.5 gal",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D25-313P",
+      "Description": "Mini Muffins",
+      "Order Qty.": "3",
+      "Accepted Qty.": "3",
+      "UOM": "CS",
+      "Gross Weight": "6",
+      "Packaging Type": "",
+      "Pack Size": "20/4 ct",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D25-2037P",
+      "Description": "Mini Muffins",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "19",
+      "Packaging Type": "",
+      "Pack Size": "48/4.44 oz",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -140,58 +205,6 @@
       "Packaging Type": "",
       "Pack Size": "1/45 lb",
       "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D06-890P",
-      "Description": "Chili with Beans",
-      "Order Qty.": "3",
-      "Accepted Qty.": "3",
-      "UOM": "CS",
-      "Gross Weight": "48",
-      "Packaging Type": "",
-      "Pack Size": "4/4 lb",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D07-405P",
-      "Description": "Milk, 2%",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
-      "UOM": "CS",
-      "Gross Weight": "44",
-      "Packaging Type": "",
-      "Pack Size": "12/.5 gal",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D25-313P",
-      "Description": "Mini Muffins",
-      "Order Qty.": "3",
-      "Accepted Qty.": "3",
-      "UOM": "CS",
-      "Gross Weight": "6",
-      "Packaging Type": "",
-      "Pack Size": "20/4 ct",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": ""
-    },
-    {
-      "Item No.": "D25-2037P",
-      "Description": "Mini Muffins",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
-      "UOM": "CS",
-      "Gross Weight": "19",
-      "Packaging Type": "",
-      "Pack Size": "48/4.44 oz",
-      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     }

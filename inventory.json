@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 29, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-08-29T08:01:21.766725-05:00",
-  "item_count": 143,
+  "updated_at": "August 29, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-08-29T09:01:11.025679-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "84",
@@ -115,16 +115,6 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-08-28T13:01:08.156641-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D12-120P",
-      "Description": "Assorted Personal Hygiene - BULK 1/730 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/730 lb",
-      "Feature Type": "",
-      "Gross Weight": "730",
-      "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
       "Available Qty.": "35",
@@ -255,15 +245,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "950",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "666",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -271,6 +252,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "950",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -749,7 +739,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "12",
       "Item No.": "D25-313P",
       "Description": "Mini Muffins",
       "UOM": "CS",
