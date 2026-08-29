@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 29, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-29T09:01:11.025679-05:00",
-  "item_count": 142,
+  "updated_at": "August 29, 2026 at 09:49 AM",
+  "updated_at_iso": "2026-08-29T09:49:57.047893-05:00",
+  "item_count": 139,
   "items": [
     {
-      "Available Qty.": "84",
+      "Available Qty.": "83",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -59,7 +59,7 @@
       "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "22",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -69,17 +69,7 @@
       "new_since": "2026-08-28T14:00:56.171156-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D05-910P",
-      "Description": "Assorted Cereal/Snacks - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lbs",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-08-29T02:01:10.674795-05:00"
-    },
-    {
-      "Available Qty.": "151",
+      "Available Qty.": "146",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -117,7 +107,7 @@
       "new_since": "2026-08-28T13:01:08.156641-05:00"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "33",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -181,23 +171,13 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "18",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
       "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D15-382P",
-      "Description": "Boneless Chicken Bites 6/5.2 oz",
-      "UOM": "CS",
-      "Pack Size": "6/5.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
       "Available Qty.": "1156",
@@ -291,7 +271,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "P15-103P",
       "Description": "Chicken Tenders",
       "UOM": "CS",
@@ -381,7 +361,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "119",
       "Item No.": "D25-585P",
       "Description": "Cookies 12/13 oz",
       "UOM": "CS",
@@ -408,7 +388,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -525,7 +505,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1586",
+      "Available Qty.": "1582",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -651,7 +631,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "8",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -669,7 +649,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "32",
       "Item No.": "D07-1042P",
       "Description": "Milk, 2% 25/8 oz",
       "UOM": "CS",
@@ -689,7 +669,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -709,7 +689,7 @@
       "new_since": "2026-08-28T14:00:56.171156-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D07-1034P",
       "Description": "Milk, Whole 12/.5 gal",
       "UOM": "CS",
@@ -719,7 +699,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "28",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -739,7 +719,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "10",
       "Item No.": "D25-313P",
       "Description": "Mini Muffins",
       "UOM": "CS",
@@ -1145,16 +1125,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D25-186P",
-      "Description": "Snacks, Assorted - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
-      "new_since": "2026-08-29T02:01:10.674795-05:00"
-    },
-    {
       "Available Qty.": "700",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
@@ -1209,7 +1179,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "340",
+      "Available Qty.": "336",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -1218,7 +1188,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "41",
       "Item No.": "D25-2035P",
       "Description": "Takis 12/2.875 oz",
       "UOM": "CS",
@@ -1227,7 +1197,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "175",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
