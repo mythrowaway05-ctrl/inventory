@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 29, 2026 at 06:44 PM",
-  "updated_at_iso": "2026-08-29T18:44:09.954728-05:00",
-  "item_count": 135,
+  "updated_at": "August 29, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-08-29T19:01:14.366628-05:00",
+  "item_count": 139,
   "items": [
     {
       "Available Qty.": "83",
@@ -105,7 +105,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "33",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -177,6 +177,16 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "62",
+      "Item No.": "D15-382P",
+      "Description": "Boneless Chicken Bites 6/5.2 oz",
+      "UOM": "CS",
+      "Pack Size": "6/5.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-08-29T02:01:10.674795-05:00"
+    },
+    {
       "Available Qty.": "1151",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -222,13 +232,14 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "666",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
+      "Available Qty.": "14",
+      "Item No.": "D06-690P",
+      "Description": "Chicken Bites, Southwest",
       "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
+      "Pack Size": "10/6 oz",
       "Feature Type": "",
-      "Gross Weight": "40"
+      "Gross Weight": "4",
+      "new_since": "2026-08-29T19:01:14.366142-05:00"
     },
     {
       "Available Qty.": "950",
@@ -238,6 +249,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "666",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
@@ -385,7 +405,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "27",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -666,7 +686,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "11",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -855,15 +875,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1340",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -873,6 +884,15 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
+    },
+    {
       "Available Qty.": "152",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
@@ -880,6 +900,16 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D25-411P",
+      "Description": "Pizza Rolls",
+      "UOM": "CS",
+      "Pack Size": "9/24.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "16",
+      "new_since": "2026-08-29T19:01:14.366142-05:00"
     },
     {
       "Available Qty.": "460",
@@ -1132,6 +1162,16 @@
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D06-892P",
+      "Description": "Spaghetti with Meat Sauce",
+      "UOM": "CS",
+      "Pack Size": "8/13 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-08-29T19:01:14.366142-05:00"
     },
     {
       "Available Qty.": "336",
