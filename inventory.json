@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 29, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-08-29T21:01:09.439437-05:00",
-  "item_count": 137,
+  "updated_at": "August 29, 2026 at 09:33 PM",
+  "updated_at_iso": "2026-08-29T21:33:40.331752-05:00",
+  "item_count": 136,
   "items": [
     {
       "Available Qty.": "83",
@@ -223,14 +223,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D06-690P",
-      "Description": "Chicken Bites, Southwest",
+      "Available Qty.": "666",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
       "UOM": "CS",
-      "Pack Size": "10/6 oz",
+      "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-08-29T19:01:14.366142-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "950",
@@ -240,15 +239,6 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "666",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "7",
