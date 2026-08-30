@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 29, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-08-29T20:01:08.063715-05:00",
-  "item_count": 140,
+  "updated_at": "August 29, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-08-29T21:01:09.439437-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "83",
@@ -59,7 +59,7 @@
       "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "5",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -78,6 +78,15 @@
     },
     {
       "Available Qty.": "1",
+      "Item No.": "D16-055P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/575 lb",
+      "Feature Type": "",
+      "Gross Weight": "575"
+    },
+    {
+      "Available Qty.": "1",
       "Item No.": "D16-057P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -87,25 +96,7 @@
       "new_since": "2026-08-29T02:01:10.674795-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D16-055P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/575 lb",
-      "Feature Type": "",
-      "Gross Weight": "575"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "33",
+      "Available Qty.": "23",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -177,7 +168,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "52",
       "Item No.": "D15-382P",
       "Description": "Boneless Chicken Bites 6/5.2 oz",
       "UOM": "CS",
@@ -232,7 +223,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "0",
       "Item No.": "D06-690P",
       "Description": "Chicken Bites, Southwest",
       "UOM": "CS",
@@ -378,7 +369,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "19",
       "Item No.": "D25-585P",
       "Description": "Cookies 12/13 oz",
       "UOM": "CS",
@@ -405,7 +396,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "17",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -529,15 +520,6 @@
       "Pack Size": "10/1 lb",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D05-835P",
-      "Description": "Hash Browns",
-      "UOM": "CS",
-      "Pack Size": "6/28 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "3129",
@@ -875,15 +857,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1340",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "P23-113P",
       "Description": "Pinto Beans, Dry",
@@ -893,6 +866,15 @@
       "Gross Weight": "24"
     },
     {
+      "Available Qty.": "1340",
+      "Item No.": "P23-101P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "20/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "20"
+    },
+    {
       "Available Qty.": "152",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
@@ -900,16 +882,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D25-411P",
-      "Description": "Pizza Rolls",
-      "UOM": "CS",
-      "Pack Size": "9/24.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-08-29T19:01:14.366142-05:00"
     },
     {
       "Available Qty.": "460",
@@ -1074,7 +1046,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "382",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -1083,7 +1055,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1180",
+      "Available Qty.": "1170",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
@@ -1164,7 +1136,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
       "Item No.": "D06-892P",
       "Description": "Spaghetti with Meat Sauce",
       "UOM": "CS",
