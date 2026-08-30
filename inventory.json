@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 30, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-08-30T09:01:12.980588-05:00",
-  "item_count": 132,
+  "updated_at": "August 30, 2026 at 09:07 AM",
+  "updated_at_iso": "2026-08-30T09:07:28.686234-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "83",
@@ -77,15 +77,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D16-057P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/475 lbs",
-      "Feature Type": "",
-      "Gross Weight": "475"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D16-055P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -94,14 +85,13 @@
       "Gross Weight": "575"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D19-047P",
-      "Description": "Assorted Paper Goods - BULK 1/250 lb",
+      "Available Qty.": "1",
+      "Item No.": "D16-057P",
+      "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/250 lb",
+      "Pack Size": "1/475 lbs",
       "Feature Type": "",
-      "Gross Weight": "250",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
+      "Gross Weight": "475"
     },
     {
       "Available Qty.": "23",
@@ -221,15 +211,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "950",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "666",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -237,6 +218,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "950",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "7",
@@ -329,7 +319,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "0",
       "Item No.": "D06-890P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -636,7 +626,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "7",
       "Item No.": "D07-1042P",
       "Description": "Milk, 2% 25/8 oz",
       "UOM": "CS",
@@ -933,7 +923,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "174",
+      "Available Qty.": "99",
       "Item No.": "D26-669P",
       "Description": "Sauce, Creamy Chimichurri 4/32 oz",
       "UOM": "CS",
@@ -1014,7 +1004,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "332",
+      "Available Qty.": "272",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
