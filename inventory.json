@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 30, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-08-30T06:01:09.357055-05:00",
-  "item_count": 139,
+  "updated_at": "August 30, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-08-30T07:01:04.330517-05:00",
+  "item_count": 133,
   "items": [
     {
       "Available Qty.": "83",
@@ -22,7 +22,7 @@
       "Gross Weight": "45"
     },
     {
-      "Available Qty.": "82",
+      "Available Qty.": "76",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -77,21 +77,21 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D16-055P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/575 lb",
-      "Feature Type": "",
-      "Gross Weight": "575"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D16-057P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
       "Pack Size": "1/475 lbs",
       "Feature Type": "",
       "Gross Weight": "475"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D16-055P",
+      "Description": "Assorted Frozen Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/575 lb",
+      "Feature Type": "",
+      "Gross Weight": "575"
     },
     {
       "Available Qty.": "1",
@@ -194,7 +194,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "5",
       "Item No.": "D07-641P",
       "Description": "Butter, Unsalted 18/16 oz",
       "UOM": "CS",
@@ -229,16 +229,6 @@
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D07-136P",
-      "Description": "Cheese, Slices",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
     },
     {
       "Available Qty.": "950",
@@ -610,7 +600,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D06-401P",
       "Description": "Lunchables 8/2.9 oz",
       "UOM": "CS",
@@ -690,15 +680,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "31",
-      "Item No.": "D25-2037P",
-      "Description": "Mini Muffins 48/4.44 oz",
-      "UOM": "CS",
-      "Pack Size": "48/4.44 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
     },
     {
       "Available Qty.": "176",
@@ -881,16 +862,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "25",
-      "Item No.": "D06-825P",
-      "Description": "Pizza, Personal",
-      "UOM": "CS",
-      "Pack Size": "12/11.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
-    },
-    {
       "Available Qty.": "460",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -1053,16 +1024,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-1009P",
-      "Description": "Sausage Links",
-      "UOM": "CS",
-      "Pack Size": "12/6.4oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
-    },
-    {
       "Available Qty.": "332",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
@@ -1088,16 +1049,6 @@
       "Pack Size": "12/5.6 oz",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D15-443P",
-      "Description": "Smoked Sausage, Cheddar 6/14 oz",
-      "UOM": "CS",
-      "Pack Size": "6/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
     },
     {
       "Available Qty.": "553",
@@ -1206,16 +1157,6 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D06-385P",
-      "Description": "Uncrustable",
-      "UOM": "CS",
-      "Pack Size": "6/10 ct",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-08-30T02:01:19.167090-05:00"
     },
     {
       "Available Qty.": "105",
