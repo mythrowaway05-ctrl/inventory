@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 30, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-08-30T14:01:03.360903-05:00",
+  "updated_at": "August 30, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-08-30T15:01:15.792748-05:00",
   "item_count": 107,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "45"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "72",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -157,7 +157,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "1110",
+      "Available Qty.": "1108",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -175,7 +175,17 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "946",
+      "Available Qty.": "3",
+      "Item No.": "D06-694P",
+      "Description": "Cheesy Broccoli 6/10.8 oz",
+      "UOM": "CS",
+      "Pack Size": "6/10.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-08-30T15:01:15.792353-05:00"
+    },
+    {
+      "Available Qty.": "945",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -220,7 +230,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "P15-103P",
       "Description": "Chicken Tenders",
       "UOM": "CS",
@@ -328,7 +338,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "8",
       "Item No.": "D06-446P",
       "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
       "UOM": "CS",
@@ -373,7 +383,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1141",
+      "Available Qty.": "1139",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -454,7 +464,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "3129",
+      "Available Qty.": "3122",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -526,7 +536,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "33",
       "Item No.": "D14-003P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -606,15 +616,6 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
@@ -887,7 +888,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "40",
       "Item No.": "D25-2035P",
       "Description": "Takis 12/2.875 oz",
       "UOM": "CS",
@@ -896,7 +897,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "174",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
@@ -905,7 +906,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "91",
       "Item No.": "D25-2036P",
       "Description": "Takis Peanuts 12/3.2 oz",
       "UOM": "CS",
