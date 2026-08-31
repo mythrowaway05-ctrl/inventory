@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 31, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-08-31T15:01:04.627757-05:00",
-  "item_count": 121,
+  "updated_at": "August 31, 2026 at 03:30 PM",
+  "updated_at_iso": "2026-08-31T15:30:54.278265-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "75",
@@ -148,15 +148,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D08-548P",
-      "Description": "Cake, Chocolate Layer",
-      "UOM": "CS",
-      "Pack Size": "24/12.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
-    },
-    {
       "Available Qty.": "1085",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -175,15 +166,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "664",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "934",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -191,6 +173,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "664",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -499,15 +490,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D14-003P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "8/59 oz carton",
-      "Feature Type": "",
-      "Gross Weight": "35"
-    },
-    {
       "Available Qty.": "126",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -563,14 +545,14 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "17",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
+      "Available Qty.": "16",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-08-31T12:01:33.280600-05:00"
+      "Gross Weight": "36",
+      "new_since": "2026-08-31T15:30:54.277792-05:00"
     },
     {
       "Available Qty.": "163",
@@ -672,7 +654,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "661",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -826,16 +808,6 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D26-664P",
-      "Description": "Sauce, BBQ, Garlic",
-      "UOM": "CS",
-      "Pack Size": "6/15.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-08-31T08:01:27.605936-05:00"
-    },
-    {
       "Available Qty.": "71",
       "Item No.": "D26-669P",
       "Description": "Sauce, Creamy Chimichurri 4/32 oz",
@@ -926,7 +898,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "214",
+      "Available Qty.": "184",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
