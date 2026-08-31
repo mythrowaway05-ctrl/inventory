@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 31, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-08-31T13:01:09.381350-05:00",
-  "item_count": 123,
+  "updated_at": "August 31, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-08-31T14:01:24.027235-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "75",
@@ -157,7 +157,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "1095",
+      "Available Qty.": "1085",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -283,7 +283,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "524",
+      "Available Qty.": "523",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -490,15 +490,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D14-117P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "8/64 oz",
-      "Feature Type": "",
-      "Gross Weight": "36"
-    },
-    {
       "Available Qty.": "104",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
@@ -508,7 +499,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "8",
       "Item No.": "D14-003P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -563,17 +554,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-08-31T12:01:33.280600-05:00"
-    },
-    {
-      "Available Qty.": "37",
+      "Available Qty.": "27",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -682,7 +663,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "203",
+      "Available Qty.": "683",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -709,7 +690,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "107",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -790,7 +771,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "207",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -808,7 +789,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "675",
+      "Available Qty.": "672",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -817,7 +798,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "234",
+      "Available Qty.": "229",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
