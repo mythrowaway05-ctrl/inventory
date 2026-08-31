@@ -1,10 +1,10 @@
 {
-  "updated_at": "August 31, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-08-31T02:01:23.581075-05:00",
+  "updated_at": "August 31, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-08-31T03:01:08.937684-05:00",
   "item_count": 102,
   "items": [
     {
-      "Available Qty.": "81",
+      "Available Qty.": "86",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "58",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "45"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "72",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -328,15 +328,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D06-446P",
-      "Description": "Crispy Chicken w/ Mac and Cheese 8/14.25 oz",
-      "UOM": "CS",
-      "Pack Size": "8/14.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "9"
-    },
-    {
       "Available Qty.": "38",
       "Item No.": "D26-034P",
       "Description": "Crumbs, Graham Cracker",
@@ -571,6 +562,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D07-878P",
+      "Description": "Milk, 1% 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-08-31T03:01:08.937282-05:00"
+    },
+    {
       "Available Qty.": "181",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -589,7 +590,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "41",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -634,7 +635,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1186",
+      "Available Qty.": "1187",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
       "UOM": "CS",
@@ -643,7 +644,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1128",
+      "Available Qty.": "1129",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -895,7 +896,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "84",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
