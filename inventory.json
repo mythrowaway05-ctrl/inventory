@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 01, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-01T14:01:11.905260-05:00",
-  "item_count": 121,
+  "updated_at": "September 01, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-01T15:01:15.468889-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "60",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "445",
+      "Available Qty.": "439",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -38,16 +38,6 @@
       "Pack Size": "1/1550 LB",
       "Feature Type": "",
       "Gross Weight": "1550"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-01T12:01:35.554444-05:00"
     },
     {
       "Available Qty.": "61",
@@ -86,7 +76,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "102",
       "Item No.": "P23-088P",
       "Description": "Beans, Pinto, NSA No Salt Added",
       "UOM": "CS",
@@ -95,7 +85,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "83",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -122,7 +112,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "3",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -141,7 +131,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1293",
+      "Available Qty.": "1289",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -168,7 +158,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "924",
+      "Available Qty.": "916",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -213,7 +203,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D15-849P",
       "Description": "Chicken Tenderloin Fritters",
       "UOM": "CS",
@@ -223,7 +213,7 @@
       "new_since": "2026-09-01T08:01:35.387903-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "13",
       "Item No.": "D15-450P",
       "Description": "Chicken Tenderloins 1/20 lb",
       "UOM": "CS",
@@ -296,7 +286,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "47",
       "Item No.": "D08-553P",
       "Description": "Conchas 24/4.23 oz",
       "UOM": "CS",
@@ -332,15 +322,6 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "P27-155P",
-      "Description": "Diced Tomatoes, No Salt Added",
-      "UOM": "CS",
-      "Pack Size": "24/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "25"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "D29-158P",
       "Description": "Dough, Pizza Balls 1/30 lb",
@@ -350,7 +331,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "584",
+      "Available Qty.": "582",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -368,7 +349,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3209",
+      "Available Qty.": "3206",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -395,7 +376,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "498",
+      "Available Qty.": "492",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -422,7 +403,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1257",
+      "Available Qty.": "1254",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -512,16 +493,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-381P",
-      "Description": "Lunchmeat 1/10 lb",
-      "UOM": "CS",
-      "Pack Size": "1/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-09-01T14:01:11.904738-05:00"
-    },
-    {
       "Available Qty.": "41",
       "Item No.": "P06-226P",
       "Description": "Mac and Cheese Pouch",
@@ -568,7 +539,7 @@
       "new_since": "2026-09-01T03:01:05.867673-05:00"
     },
     {
-      "Available Qty.": "144",
+      "Available Qty.": "140",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -705,7 +676,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "101",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -741,7 +712,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1577",
+      "Available Qty.": "1645",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -750,7 +721,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "152",
+      "Available Qty.": "149",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
       "UOM": "CS",
@@ -777,7 +748,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "430",
+      "Available Qty.": "387",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -958,7 +929,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "696",
+      "Available Qty.": "693",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -1030,7 +1001,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "75",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
@@ -1039,7 +1010,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "74",
       "Item No.": "D25-2036P",
       "Description": "Takis Peanuts 12/3.2 oz",
       "UOM": "CS",
@@ -1057,7 +1028,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "4467",
+      "Available Qty.": "4464",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1076,7 +1047,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "11",
       "Item No.": "P27-101P",
       "Description": "Vegetables, Mixed, NSA No Salt Added",
       "UOM": "CS",
