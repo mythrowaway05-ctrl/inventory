@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 01, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-01T16:01:09.939354-05:00",
-  "item_count": 118,
+  "updated_at": "September 01, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-01T17:01:17.995407-05:00",
+  "item_count": 116,
   "items": [
     {
-      "Available Qty.": "60",
+      "Available Qty.": "55",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "439",
+      "Available Qty.": "433",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -40,7 +40,7 @@
       "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "61",
+      "Available Qty.": "51",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "164",
+      "Available Qty.": "158",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -76,7 +76,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "96",
       "Item No.": "P23-088P",
       "Description": "Beans, Pinto, NSA No Salt Added",
       "UOM": "CS",
@@ -110,16 +110,6 @@
       "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-01T12:01:35.554444-05:00"
     },
     {
       "Available Qty.": "1144",
@@ -203,17 +193,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-849P",
-      "Description": "Chicken Tenderloin Fritters",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-01T08:01:35.387903-05:00"
-    },
-    {
-      "Available Qty.": "13",
+      "Available Qty.": "11",
       "Item No.": "D15-450P",
       "Description": "Chicken Tenderloins 1/20 lb",
       "UOM": "CS",
@@ -304,7 +284,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "84",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -349,7 +329,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3206",
+      "Available Qty.": "3201",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -367,7 +347,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "116",
       "Item No.": "D25-418P",
       "Description": "Fries, Crinkle Cut",
       "UOM": "CS",
@@ -403,7 +383,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1254",
+      "Available Qty.": "1251",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -448,7 +428,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "172",
+      "Available Qty.": "168",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -457,7 +437,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "381",
+      "Available Qty.": "377",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -484,7 +464,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "110",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -548,7 +528,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "154",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -557,7 +537,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "775",
+      "Available Qty.": "772",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -566,7 +546,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "63",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -685,7 +665,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "772",
+      "Available Qty.": "771",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -694,7 +674,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1826",
+      "Available Qty.": "1820",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -730,7 +710,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "439",
+      "Available Qty.": "434",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -911,7 +891,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "80",
       "Item No.": "P06-230P",
       "Description": "Skillet Dinner, Lasagna",
       "UOM": "CS",
@@ -929,7 +909,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "693",
+      "Available Qty.": "688",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -938,7 +918,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "407",
+      "Available Qty.": "403",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -1065,7 +1045,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "265",
+      "Available Qty.": "263",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
