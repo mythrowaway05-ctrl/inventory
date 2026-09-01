@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 01, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-09-01T04:01:10.982752-05:00",
+  "updated_at": "September 01, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-09-01T05:01:19.282851-05:00",
   "item_count": 123,
   "items": [
     {
@@ -710,15 +710,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
-    },
-    {
       "Available Qty.": "1526",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -726,6 +717,15 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P23-113P",
+      "Description": "Pinto Beans, Dry",
+      "UOM": "CS",
+      "Pack Size": "24/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "24"
     },
     {
       "Available Qty.": "152",
