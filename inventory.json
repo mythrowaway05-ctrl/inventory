@@ -1,6 +1,6 @@
 {
-  "updated_at": "August 31, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-08-31T20:01:20.351399-05:00",
+  "updated_at": "August 31, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-08-31T21:01:07.539872-05:00",
   "item_count": 116,
   "items": [
     {
@@ -58,7 +58,7 @@
       "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "133",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -130,6 +130,16 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "20",
+      "Item No.": "D15-382P",
+      "Description": "Boneless Chicken Bites 6/5.2 oz",
+      "UOM": "CS",
+      "Pack Size": "6/5.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-08-31T21:01:07.539419-05:00"
+    },
+    {
       "Available Qty.": "1145",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -148,7 +158,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1080",
+      "Available Qty.": "1077",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -166,15 +176,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "934",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "664",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -182,6 +183,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "934",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
@@ -265,7 +275,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "522",
+      "Available Qty.": "520",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -328,7 +338,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "623",
+      "Available Qty.": "619",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -508,16 +518,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-878P",
-      "Description": "Milk, 1% 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-08-31T03:01:08.937282-05:00"
-    },
-    {
       "Available Qty.": "181",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -545,7 +545,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "201",
+      "Available Qty.": "199",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -554,7 +554,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "786",
+      "Available Qty.": "783",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -599,7 +599,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "80",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -608,7 +608,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "180",
+      "Available Qty.": "178",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -626,7 +626,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "677",
+      "Available Qty.": "673",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -635,7 +635,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "661",
+      "Available Qty.": "658",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -671,7 +671,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1872",
+      "Available Qty.": "1869",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -698,7 +698,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "1544",
+      "Available Qty.": "1541",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -716,7 +716,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "441",
+      "Available Qty.": "438",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -743,7 +743,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "500",
+      "Available Qty.": "497",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -770,7 +770,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "873",
+      "Available Qty.": "871",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -849,7 +849,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "398",
+      "Available Qty.": "395",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -859,7 +859,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "218",
+      "Available Qty.": "214",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -879,7 +879,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "133",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -909,7 +909,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "548",
+      "Available Qty.": "545",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -998,7 +998,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "120",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
@@ -1016,7 +1016,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "48",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
