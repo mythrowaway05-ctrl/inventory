@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 01, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-01T08:01:35.388657-05:00",
-  "item_count": 122,
+  "updated_at": "September 01, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-09-01T09:01:27.462953-05:00",
+  "item_count": 123,
   "items": [
     {
-      "Available Qty.": "67",
+      "Available Qty.": "66",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -47,6 +47,16 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-01T09:01:27.462620-05:00"
     },
     {
       "Available Qty.": "167",
@@ -267,7 +277,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "507",
+      "Available Qty.": "503",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -294,7 +304,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "101",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -519,7 +529,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "12",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -538,7 +548,7 @@
       "new_since": "2026-09-01T03:01:05.867673-05:00"
     },
     {
-      "Available Qty.": "112",
+      "Available Qty.": "102",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -620,7 +630,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "36",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -703,7 +713,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1856",
+      "Available Qty.": "1842",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -757,7 +767,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "719",
+      "Available Qty.": "717",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -902,7 +912,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "112",
+      "Available Qty.": "110",
       "Item No.": "D26-665P",
       "Description": "Seasoning Mix, Mild Chili",
       "UOM": "CS",
@@ -911,7 +921,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "975",
+      "Available Qty.": "973",
       "Item No.": "D26-661P",
       "Description": "Seasoning, Carmelized Onion",
       "UOM": "CS",
