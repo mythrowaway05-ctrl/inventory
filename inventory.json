@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 01, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-01T06:01:04.729001-05:00",
-  "item_count": 123,
+  "updated_at": "September 01, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-01T07:01:11.789609-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "67",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "56",
       "Item No.": "D28-738P",
       "Description": "Apples",
       "UOM": "CS",
@@ -409,7 +409,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "3084",
+      "Available Qty.": "3079",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -527,7 +527,7 @@
       "new_since": "2026-09-01T03:01:05.867673-05:00"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "133",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -609,7 +609,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "40",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -655,7 +655,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "1080",
+      "Available Qty.": "1078",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -710,22 +710,13 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1526",
+      "Available Qty.": "1524",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "P23-113P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "24/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
     },
     {
       "Available Qty.": "152",
@@ -755,7 +746,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "790",
+      "Available Qty.": "785",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -801,7 +792,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "857",
+      "Available Qty.": "855",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -820,7 +811,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "66",
       "Item No.": "D26-669P",
       "Description": "Sauce, Creamy Chimichurri 4/32 oz",
       "UOM": "CS",
@@ -850,7 +841,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "279",
+      "Available Qty.": "278",
       "Item No.": "D26-671P",
       "Description": "Sauce, Maple Chili 4/32 oz",
       "UOM": "CS",
@@ -870,7 +861,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "192",
+      "Available Qty.": "191",
       "Item No.": "D26-672P",
       "Description": "Sauce, Peri Peri 4/32 oz",
       "UOM": "CS",
@@ -890,7 +881,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "214",
+      "Available Qty.": "213",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -900,7 +891,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "247",
       "Item No.": "D26-674P",
       "Description": "Sauce, Wasabi 4/32 oz",
       "UOM": "CS",
@@ -990,7 +981,7 @@
       "new_since": "2026-08-31T08:01:27.605936-05:00"
     },
     {
-      "Available Qty.": "146",
+      "Available Qty.": "145",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -1049,7 +1040,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "108",
       "Item No.": "D25-1381P",
       "Description": "Takis 20/3.25 oz",
       "UOM": "CS",
@@ -1076,7 +1067,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "4680",
+      "Available Qty.": "4676",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
