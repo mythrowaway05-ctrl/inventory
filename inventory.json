@@ -1,7 +1,7 @@
 {
-  "updated_at": "August 31, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-08-31T21:01:07.539872-05:00",
-  "item_count": 116,
+  "updated_at": "August 31, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-08-31T22:01:04.715419-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "75",
@@ -130,16 +130,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "20",
-      "Item No.": "D15-382P",
-      "Description": "Boneless Chicken Bites 6/5.2 oz",
-      "UOM": "CS",
-      "Pack Size": "6/5.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-08-31T21:01:07.539419-05:00"
-    },
-    {
       "Available Qty.": "1145",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -176,15 +166,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "664",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "934",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -192,6 +173,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "664",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
