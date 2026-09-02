@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 02, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-09-02T13:01:10.728450-05:00",
-  "item_count": 110,
+  "updated_at": "September 02, 2026 at 01:15 PM",
+  "updated_at_iso": "2026-09-02T13:15:19.472185-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "53",
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D19-016P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -179,7 +179,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -234,7 +234,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D15-609P",
       "Description": "Chicken Strips, Dark",
       "UOM": "CS",
@@ -244,13 +244,23 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "D15-450P",
       "Description": "Chicken Tenderloins 1/20 lb",
       "UOM": "CS",
       "Pack Size": "1/20 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "P15-103P",
+      "Description": "Chicken Tenders",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-02T13:15:19.471733-05:00"
     },
     {
       "Available Qty.": "276",
@@ -331,7 +341,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "40",
       "Item No.": "D08-553P",
       "Description": "Conchas 24/4.23 oz",
       "UOM": "CS",
@@ -431,7 +441,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "2058",
+      "Available Qty.": "2055",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -441,7 +451,7 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "398",
+      "Available Qty.": "395",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -491,7 +501,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "1492",
+      "Available Qty.": "1487",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -560,7 +570,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "100",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -871,7 +881,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "252",
+      "Available Qty.": "251",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -923,6 +933,26 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
+    },
+    {
+      "Available Qty.": "188",
+      "Item No.": "P06-009P",
+      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-02T09:49:53.950489-05:00"
+    },
+    {
+      "Available Qty.": "388",
+      "Item No.": "P06-028P",
+      "Description": "Soup, Tomato, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.7 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-02T13:15:19.471733-05:00"
     },
     {
       "Available Qty.": "373",
@@ -1017,7 +1047,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "65",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
