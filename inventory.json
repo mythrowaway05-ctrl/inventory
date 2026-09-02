@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 02, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-09-02T15:01:06.187783-05:00",
-  "item_count": 111,
+  "updated_at": "September 02, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-09-02T16:01:14.689028-05:00",
+  "item_count": 109,
   "items": [
     {
       "Available Qty.": "53",
@@ -47,16 +47,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D12-339P",
-      "Description": "Assorted Personal Hygiene - BULK 1/300 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lb",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-09-02T12:12:50.945519-05:00"
     },
     {
       "Available Qty.": "154",
@@ -179,15 +169,6 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "652",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "863",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -195,6 +176,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "652",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -341,6 +331,16 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
+      "Available Qty.": "19",
+      "Item No.": "D25-585P",
+      "Description": "Cookies 12/13 oz",
+      "UOM": "CS",
+      "Pack Size": "12/13 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "11",
+      "new_since": "2026-09-02T16:01:14.688437-05:00"
+    },
+    {
       "Available Qty.": "57",
       "Item No.": "P04-001P",
       "Description": "Corn Tortillas",
@@ -431,7 +431,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "2025",
+      "Available Qty.": "2005",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -441,7 +441,7 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "395",
+      "Available Qty.": "393",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -491,7 +491,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "1487",
+      "Available Qty.": "1484",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -642,16 +642,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "36",
       "new_since": "2026-09-02T11:02:39.077687-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-131P",
-      "Description": "Milk, Whole 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-09-02T12:12:50.945519-05:00"
     },
     {
       "Available Qty.": "142",
@@ -923,16 +913,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "388",
-      "Item No.": "P06-028P",
-      "Description": "Soup, Tomato, RS Reduced Sodium",
-      "UOM": "CS",
-      "Pack Size": "24/10.7 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T13:15:19.471733-05:00"
     },
     {
       "Available Qty.": "373",
