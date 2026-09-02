@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 02, 2026 at 04:27 PM",
-  "updated_at_iso": "2026-09-02T16:27:29.785639-05:00",
-  "item_count": 109,
+  "updated_at": "September 02, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-02T17:01:09.805273-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "53",
@@ -67,7 +67,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "681",
+      "Available Qty.": "679",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -169,15 +169,6 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "863",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "652",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -185,6 +176,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "863",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
@@ -331,17 +331,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-585P",
-      "Description": "Cookies 12/13 oz",
-      "UOM": "CS",
-      "Pack Size": "12/13 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "11",
-      "new_since": "2026-09-02T16:01:14.688437-05:00"
-    },
-    {
-      "Available Qty.": "57",
+      "Available Qty.": "56",
       "Item No.": "P04-001P",
       "Description": "Corn Tortillas",
       "UOM": "CS",
@@ -381,7 +371,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "560",
+      "Available Qty.": "558",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -441,7 +431,7 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "393",
+      "Available Qty.": "391",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -634,7 +624,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -913,16 +903,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "373",
-      "Item No.": "P06-029P",
-      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
-      "UOM": "CS",
-      "Pack Size": "24/10.6 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T12:12:50.945519-05:00"
     },
     {
       "Available Qty.": "326",
