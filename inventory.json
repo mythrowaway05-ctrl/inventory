@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 01, 2026 at 11:01 PM",
-  "updated_at_iso": "2026-09-01T23:01:04.779657-05:00",
-  "item_count": 118,
+  "updated_at": "September 02, 2026 at 12:01 AM",
+  "updated_at_iso": "2026-09-02T00:01:18.156059-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "54",
@@ -49,17 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D19-047P",
-      "Description": "Assorted Paper Goods - BULK 1/250 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lb",
-      "Feature Type": "",
-      "Gross Weight": "250",
-      "new_since": "2026-09-01T21:01:04.641183-05:00"
-    },
-    {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D19-014P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -168,15 +158,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "662",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "896",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -184,6 +165,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "662",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -241,229 +231,231 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "784",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
+      "Available Qty.": "54",
+      "Item No.": "D15-301P",
+      "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
+      "Pack Size": "1/50 lb",
       "Feature Type": "",
-      "Gross Weight": "20"
+      "Gross Weight": "50"
     },
     {
-      "Available Qty.": "272",
-      "Item No.": "P15-008P",
-      "Description": "Chicken, Canned",
+      "Available Qty.": "433",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
-      "Pack Size": "24/5 oz can",
+      "Pack Size": "12/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "11"
+      "Gross Weight": "14"
     },
     {
-      "Available Qty.": "660",
-      "Item No.": "P15-068P",
-      "Description": "Chicken, Whole Individually Frozen",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
+      "Available Qty.": "1",
+      "Item No.": "D03-1070P",
+      "Description": "Assorted Beverages - BULK 1/1320 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/1320 lb",
       "Feature Type": "",
-      "Gross Weight": "17"
+      "Gross Weight": "1320"
     },
     {
-      "Available Qty.": "388",
-      "Item No.": "P06-061P",
-      "Description": "Chili w/Beans",
-      "UOM": "CS",
-      "Pack Size": "12/15 oz. cans",
+      "Available Qty.": "2",
+      "Item No.": "D03-917P",
+      "Description": "Assorted Beverages - BULK 1/1550 LB",
+      "UOM": "BULK",
+      "Pack Size": "1/1550 LB",
       "Feature Type": "",
-      "Gross Weight": "15"
+      "Gross Weight": "1550"
     },
     {
-      "Available Qty.": "498",
-      "Item No.": "P15-026P",
-      "Description": "Chuck Light Tuna Value Grade",
-      "UOM": "CS",
-      "Pack Size": "48/5 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "47",
-      "Item No.": "D08-553P",
-      "Description": "Conchas 24/4.23 oz",
-      "UOM": "CS",
-      "Pack Size": "24/4.23 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "57",
-      "Item No.": "P04-001P",
-      "Description": "Corn Tortillas",
-      "UOM": "CS",
-      "Pack Size": "30/18 ct",
-      "Feature Type": "",
-      "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "82",
-      "Item No.": "P27-093P",
-      "Description": "Corn, Whole Kernel",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "38",
-      "Item No.": "D26-034P",
-      "Description": "Crumbs, Graham Cracker",
-      "UOM": "CS",
-      "Pack Size": "1/25 lb",
-      "Feature Type": "",
-      "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D29-158P",
-      "Description": "Dough, Pizza Balls 1/30 lb",
+      "Available Qty.": "51",
+      "Item No.": "D03-941P",
+      "Description": "Assorted Drinks",
       "UOM": "CS",
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "582",
-      "Item No.": "P26-050P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
+      "Available Qty.": "1",
+      "Item No.": "D19-014P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/200 Lb BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "7"
+      "Gross Weight": "200",
+      "new_since": "2026-09-01T21:01:04.641183-05:00"
     },
     {
-      "Available Qty.": "1137",
-      "Item No.": "P10-006P",
-      "Description": "Dried Fruit, Strawberry and Banana Crisps",
+      "Available Qty.": "158",
+      "Item No.": "P06-188P",
+      "Description": "Beans, Baked",
       "UOM": "CS",
-      "Pack Size": "12/0.6 oz",
+      "Pack Size": "12/16 oz can",
       "Feature Type": "",
-      "Gross Weight": "1"
+      "Gross Weight": "15"
     },
     {
-      "Available Qty.": "3199",
-      "Item No.": "P06-003P",
-      "Description": "Entree, Mac and Cheese",
+      "Available Qty.": "401",
+      "Item No.": "P23-080P",
+      "Description": "Beans, Black",
       "UOM": "CS",
-      "Pack Size": "24/7.25 oz",
+      "Pack Size": "12/15 oz can",
       "Feature Type": "",
-      "Gross Weight": "12"
+      "Gross Weight": "14"
     },
     {
-      "Available Qty.": "189",
-      "Item No.": "P06-018P",
-      "Description": "Entree, Red Beans and Rice",
+      "Available Qty.": "685",
+      "Item No.": "P23-107P",
+      "Description": "Beans, Black, Dry",
       "UOM": "CS",
-      "Pack Size": "12/15 oz",
+      "Pack Size": "20/1 lb",
       "Feature Type": "",
-      "Gross Weight": "12"
+      "Gross Weight": "20"
     },
     {
-      "Available Qty.": "114",
-      "Item No.": "D25-418P",
-      "Description": "Fries, Crinkle Cut",
+      "Available Qty.": "96",
+      "Item No.": "P23-088P",
+      "Description": "Beans, Pinto, NSA No Salt Added",
       "UOM": "CS",
-      "Pack Size": "5/6 lb",
+      "Pack Size": "12/15.5 oz can",
       "Feature Type": "",
-      "Gross Weight": "32"
+      "Gross Weight": "14"
     },
     {
-      "Available Qty.": "492",
-      "Item No.": "D25-2034P",
-      "Description": "Gansito, Snack Cake 4/32 ct",
+      "Available Qty.": "83",
+      "Item No.": "P06-141P",
+      "Description": "Beef Stew",
       "UOM": "CS",
-      "Pack Size": "4/32 ct",
+      "Pack Size": "12/15 oz can",
       "Feature Type": "",
-      "Gross Weight": "21"
+      "Gross Weight": "13"
     },
     {
-      "Available Qty.": "52",
-      "Item No.": "D03-1091P",
-      "Description": "Gatorade, Lower Sugar 4-6/20 oz",
+      "Available Qty.": "309",
+      "Item No.": "P23-092P",
+      "Description": "Black Beans, Dry Bag",
       "UOM": "CS",
-      "Pack Size": "4-6/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "35"
-    },
-    {
-      "Available Qty.": "605",
-      "Item No.": "P25-005P",
-      "Description": "Graham Crackers",
-      "UOM": "CS",
-      "Pack Size": "150/3 ct",
-      "Feature Type": "",
-      "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "1247",
-      "Item No.": "P23-053P",
-      "Description": "Green Beans, Cut",
-      "UOM": "CS",
-      "Pack Size": "24/14.5 oz",
+      "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1506",
-      "Item No.": "P15-064P",
-      "Description": "Ground Beef, 80/20",
+      "Available Qty.": "8",
+      "Item No.": "P13-010P",
+      "Description": "Bleach",
       "UOM": "CS",
-      "Pack Size": "10/1 lb",
+      "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
-      "Gross Weight": "10"
+      "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2899",
-      "Item No.": "D06-901P",
-      "Description": "Hot Cheese Topokki Cup, Microwavable",
+      "Available Qty.": "1144",
+      "Item No.": "P05-122P",
+      "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
-      "Pack Size": "8/4.23 oz",
+      "Pack Size": "48/1.3 oz",
       "Feature Type": "",
-      "Gross Weight": "3"
+      "Gross Weight": "8"
     },
     {
-      "Available Qty.": "50",
-      "Item No.": "D08-544P",
-      "Description": "Ice Cream w/ Cone 6/8 ct",
+      "Available Qty.": "1289",
+      "Item No.": "P05-121P",
+      "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
-      "Pack Size": "6/8 ct",
+      "Pack Size": "48/1.3 oz",
       "Feature Type": "",
-      "Gross Weight": "10"
+      "Gross Weight": "8"
     },
     {
-      "Available Qty.": "293",
-      "Item No.": "D15-1161P",
-      "Description": "Italian Pizza Topping",
+      "Available Qty.": "1061",
+      "Item No.": "D03-478P",
+      "Description": "Capri Sun",
       "UOM": "CS",
-      "Pack Size": "1/10 lb",
+      "Pack Size": "4-10/6 oz",
       "Feature Type": "",
-      "Gross Weight": "10"
+      "Gross Weight": "17"
     },
     {
-      "Available Qty.": "168",
-      "Item No.": "P26-044P",
-      "Description": "Jelly, Grape, Squeeze",
+      "Available Qty.": "127",
+      "Item No.": "P06-026P",
+      "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
-      "Pack Size": "12/19 oz",
+      "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
-      "Gross Weight": "16"
+      "Gross Weight": "6"
     },
     {
-      "Available Qty.": "377",
-      "Item No.": "P26-045P",
-      "Description": "Jelly, Strawberry, Squeeze",
+      "Available Qty.": "896",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
       "UOM": "CS",
-      "Pack Size": "12/19 oz",
+      "Pack Size": "6/3 lb",
       "Feature Type": "",
-      "Gross Weight": "16"
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "662",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D15-785P",
+      "Description": "Chicken Gizzards",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "425",
+      "Item No.": "P15-106P",
+      "Description": "Chicken Leg Quarters",
+      "UOM": "CS",
+      "Pack Size": "4/4.25 lb",
+      "Feature Type": "",
+      "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D15-541P",
+      "Description": "Chicken Liver 1/40 lb",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D15-450P",
+      "Description": "Chicken Tenderloins 1/20 lb",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-01T08:01:35.387903-05:00"
+    },
+    {
+      "Available Qty.": "277",
+      "Item No.": "D15-428P",
+      "Description": "Chicken Thighs w/ Back and Drumstick 1/40-50 lb",
+      "UOM": "CS",
+      "Pack Size": "1/40-50 lb",
+      "Feature Type": "",
+      "Gross Weight": "45"
+    },
+    {
+      "Available Qty.": "479",
+      "Item No.": "P15-081P",
+      "Description": "Chicken Vienna Sausage",
+      "UOM": "CS",
+      "Pack Size": "48/5 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "91",
