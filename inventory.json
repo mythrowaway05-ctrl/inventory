@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 01, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-01T20:01:09.110420-05:00",
-  "item_count": 116,
+  "updated_at": "September 01, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-09-01T21:01:04.641649-05:00",
+  "item_count": 118,
   "items": [
     {
-      "Available Qty.": "53",
+      "Available Qty.": "54",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -47,6 +47,26 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-047P",
+      "Description": "Assorted Paper Goods - BULK 1/250 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/250 lb",
+      "Feature Type": "",
+      "Gross Weight": "250",
+      "new_since": "2026-09-01T21:01:04.641183-05:00"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D19-014P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/200 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "200",
+      "new_since": "2026-09-01T21:01:04.641183-05:00"
     },
     {
       "Available Qty.": "158",
@@ -148,15 +168,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "896",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "662",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -164,6 +175,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "896",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
