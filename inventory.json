@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 02, 2026 at 01:15 PM",
-  "updated_at_iso": "2026-09-02T13:15:19.472185-05:00",
+  "updated_at": "September 02, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-09-02T14:01:09.384648-05:00",
   "item_count": 113,
   "items": [
     {
@@ -49,7 +49,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D19-016P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -59,7 +59,7 @@
       "new_since": "2026-09-02T12:12:50.945519-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D12-339P",
       "Description": "Assorted Personal Hygiene - BULK 1/300 lb",
       "UOM": "BULK",
@@ -179,7 +179,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "15",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -189,15 +189,6 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "863",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "652",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -205,6 +196,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "863",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
@@ -234,7 +234,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-609P",
       "Description": "Chicken Strips, Dark",
       "UOM": "CS",
@@ -341,7 +341,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "42",
       "Item No.": "D08-553P",
       "Description": "Conchas 24/4.23 oz",
       "UOM": "CS",
@@ -441,7 +441,7 @@
       "new_since": "2026-09-02T00:16:47.041304-05:00"
     },
     {
-      "Available Qty.": "2055",
+      "Available Qty.": "2025",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -451,7 +451,7 @@
       "new_since": "2026-09-02T02:11:28.315857-05:00"
     },
     {
-      "Available Qty.": "395",
+      "Available Qty.": "398",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -654,7 +654,7 @@
       "new_since": "2026-09-02T11:02:39.077687-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "8",
       "Item No.": "D07-131P",
       "Description": "Milk, Whole 6/1 gal",
       "UOM": "CS",
@@ -799,7 +799,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "354",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -826,7 +826,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D20-000P",
       "Description": "Personal Hygiene, Assorted - BULK TOTE",
       "UOM": "BULK",
@@ -1047,7 +1047,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "67",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
