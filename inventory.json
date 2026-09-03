@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 03, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-03T08:01:15.670158-05:00",
-  "item_count": 113,
+  "updated_at": "September 03, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-09-03T09:01:15.257695-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "53",
@@ -130,7 +130,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "496",
+      "Available Qty.": "486",
       "Item No.": "D05-948P",
       "Description": "Cereal Bars 3/26.7 oz",
       "UOM": "CS",
@@ -211,7 +211,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "298",
+      "Available Qty.": "234",
       "Item No.": "D15-428P",
       "Description": "Chicken Thighs w/ Back and Drumstick 1/40-50 lb",
       "UOM": "CS",
@@ -293,7 +293,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "P04-001P",
       "Description": "Corn Tortillas",
       "UOM": "CS",
@@ -384,7 +384,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "183",
+      "Available Qty.": "173",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -420,7 +420,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "352",
+      "Available Qty.": "342",
       "Item No.": "D27-089P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -430,7 +430,7 @@
       "new_since": "2026-09-03T02:02:04.902580-05:00"
     },
     {
-      "Available Qty.": "1169",
+      "Available Qty.": "1173",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -458,7 +458,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "2874",
+      "Available Qty.": "2554",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -467,16 +467,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D08-544P",
-      "Description": "Ice Cream w/ Cone 6/8 ct",
-      "UOM": "CS",
-      "Pack Size": "6/8 ct",
-      "Feature Type": "",
-      "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "283",
+      "Available Qty.": "133",
       "Item No.": "D15-1161P",
       "Description": "Italian Pizza Topping",
       "UOM": "CS",
@@ -584,15 +575,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D07-607P",
-      "Description": "Milk, 2% Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "120",
@@ -794,7 +776,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "33",
       "Item No.": "D15-1168P",
       "Description": "Pork Sausage Patties",
       "UOM": "CS",
@@ -813,7 +795,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "13",
       "Item No.": "D25-348P",
       "Description": "Potato Fries",
       "UOM": "CS",
@@ -822,7 +804,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "76",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -840,7 +822,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "30",
       "Item No.": "D01-391P",
       "Description": "Quart Size Jugs, EMPTY 1/54 CT",
       "UOM": "CS",
@@ -868,7 +850,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "0",
       "Item No.": "D26-350P",
       "Description": "Ranch Seasoning 12/1 oz",
       "UOM": "CS",
@@ -896,46 +878,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "139",
-      "Item No.": "P06-142P",
-      "Description": "Soup, Cream of Chicken",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T21:01:06.543413-05:00"
-    },
-    {
-      "Available Qty.": "188",
-      "Item No.": "P06-009P",
-      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T09:49:53.950489-05:00"
-    },
-    {
-      "Available Qty.": "368",
-      "Item No.": "P06-028P",
-      "Description": "Soup, Tomato, RS Reduced Sodium",
-      "UOM": "CS",
-      "Pack Size": "24/10.7 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T13:15:19.471733-05:00"
-    },
-    {
-      "Available Qty.": "373",
-      "Item No.": "P06-029P",
-      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
-      "UOM": "CS",
-      "Pack Size": "24/10.6 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-02T12:12:50.945519-05:00"
-    },
-    {
       "Available Qty.": "326",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
@@ -945,7 +887,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "542",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
@@ -984,7 +926,7 @@
       "new_since": "2026-09-03T02:02:04.902580-05:00"
     },
     {
-      "Available Qty.": "4398",
+      "Available Qty.": "4038",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1031,7 +973,7 @@
       "new_since": "2026-09-03T02:02:04.902580-05:00"
     },
     {
-      "Available Qty.": "255",
+      "Available Qty.": "185",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
