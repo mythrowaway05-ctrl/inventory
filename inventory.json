@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 03, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-03T14:01:12.861359-05:00",
-  "item_count": 127,
+  "updated_at": "September 03, 2026 at 02:31 PM",
+  "updated_at_iso": "2026-09-03T14:31:25.073708-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "73",
@@ -258,6 +258,16 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-03T14:31:24.985479-05:00"
     },
     {
       "Available Qty.": "760",
