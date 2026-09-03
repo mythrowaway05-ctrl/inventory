@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 03, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-03T16:01:33.072899-05:00",
-  "item_count": 125,
+  "updated_at": "September 03, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-03T17:01:07.782085-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "73",
@@ -113,7 +113,17 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "0",
+      "Item No.": "D15-382P",
+      "Description": "Boneless Chicken Bites 6/5.2 oz",
+      "UOM": "CS",
+      "Pack Size": "6/5.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-09-03T17:01:07.781640-05:00"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -168,22 +178,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "0",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
       "Pack Size": "2/5 lb",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "652",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "846",
@@ -193,6 +194,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "652",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -222,7 +232,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D15-609P",
       "Description": "Chicken Strips, Dark",
       "UOM": "CS",
@@ -257,16 +267,6 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-03T14:31:24.985479-05:00"
     },
     {
       "Available Qty.": "422",
@@ -395,7 +395,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "475",
+      "Available Qty.": "477",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -422,7 +422,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "234",
+      "Available Qty.": "204",
       "Item No.": "D27-089P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -430,6 +430,16 @@
       "Feature Type": "",
       "Gross Weight": "12",
       "new_since": "2026-09-03T02:02:04.902580-05:00"
+    },
+    {
+      "Available Qty.": "29",
+      "Item No.": "D27-161P",
+      "Description": "Green Beans 10 Cans",
+      "UOM": "CS",
+      "Pack Size": "6/10 cans",
+      "Feature Type": "",
+      "Gross Weight": "45",
+      "new_since": "2026-09-03T17:01:07.781640-05:00"
     },
     {
       "Available Qty.": "1173",
@@ -805,7 +815,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "25",
       "Item No.": "D01-391P",
       "Description": "Quart Size Jugs, EMPTY 1/54 CT",
       "UOM": "CS",
