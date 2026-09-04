@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 04, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-04T07:01:19.944190-05:00",
-  "item_count": 150,
+  "updated_at": "September 04, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-04T08:01:06.129417-05:00",
+  "item_count": 146,
   "items": [
     {
       "Available Qty.": "70",
@@ -123,26 +123,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-382P",
-      "Description": "Boneless Chicken Bites 6/5.2 oz",
-      "UOM": "CS",
-      "Pack Size": "6/5.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-09-03T17:01:07.781640-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-03T11:01:11.280101-05:00"
-    },
-    {
       "Available Qty.": "1136",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -170,7 +150,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "73",
       "Item No.": "D05-948P",
       "Description": "Cereal Bars 3/26.7 oz",
       "UOM": "CS",
@@ -188,7 +168,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "15",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -252,7 +232,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-609P",
       "Description": "Chicken Strips, Dark",
       "UOM": "CS",
@@ -685,7 +665,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "61",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -704,7 +684,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "107",
       "Item No.": "D06-417P",
       "Description": "Mini Wontons 4/24 oz",
       "UOM": "CS",
@@ -739,16 +719,6 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D06-454P",
-      "Description": "Mozzerella Sticks w/ Marinara Sauce 8/11 oz",
-      "UOM": "CS",
-      "Pack Size": "8/11 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
       "Available Qty.": "1187",
@@ -787,7 +757,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -979,7 +949,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "8",
       "Item No.": "D01-391P",
       "Description": "Quart Size Jugs, EMPTY 1/54 CT",
       "UOM": "CS",
@@ -1124,7 +1094,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "43",
       "Item No.": "D15-1172P",
       "Description": "Sausage Patties 6/11.1 oz",
       "UOM": "CS",
@@ -1247,17 +1217,7 @@
       "new_since": "2026-09-03T14:01:12.860955-05:00"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D06-457P",
-      "Description": "Spicy Chicken Alfredo 8/8 oz",
-      "UOM": "CS",
-      "Pack Size": "8/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "D15-404P",
       "Description": "Spicy Chicken Sandwich 12/5 oz",
       "UOM": "CS",
@@ -1358,7 +1318,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "297",
+      "Available Qty.": "301",
       "Item No.": "D23-822P",
       "Description": "Wax Beans 12/14.5 oz",
       "UOM": "CS",
