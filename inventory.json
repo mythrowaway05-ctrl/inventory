@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 04, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-04T16:01:11.390616-05:00",
-  "item_count": 141,
+  "updated_at": "September 04, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-04T17:01:11.354007-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "70",
@@ -195,7 +195,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "826",
+      "Available Qty.": "828",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -320,6 +320,16 @@
       "Pack Size": "24/4.23 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D25-585P",
+      "Description": "Cookies 12/13 oz",
+      "UOM": "CS",
+      "Pack Size": "12/13 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "11",
+      "new_since": "2026-09-04T17:01:11.353357-05:00"
     },
     {
       "Available Qty.": "164",
@@ -484,8 +494,7 @@
       "UOM": "CS",
       "Pack Size": "6/10 cans",
       "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-09-03T17:01:07.781640-05:00"
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "1173",
@@ -912,7 +921,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "16",
       "Item No.": "D15-1168P",
       "Description": "Pork Sausage Patties",
       "UOM": "CS",
