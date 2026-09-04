@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 04, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-04T11:01:30.994498-05:00",
-  "item_count": 141,
+  "updated_at": "September 04, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-09-04T12:01:10.487670-05:00",
+  "item_count": 140,
   "items": [
     {
       "Available Qty.": "70",
@@ -19,8 +19,7 @@
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-09-03T11:46:45.173510-05:00"
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "393",
@@ -123,6 +122,16 @@
       "Gross Weight": "27"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-04T12:01:10.487147-05:00"
+    },
+    {
       "Available Qty.": "1136",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -150,7 +159,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "3",
       "Item No.": "D05-948P",
       "Description": "Cereal Bars 3/26.7 oz",
       "UOM": "CS",
@@ -313,6 +322,16 @@
       "Gross Weight": "11"
     },
     {
+      "Available Qty.": "68",
+      "Item No.": "D27-104P",
+      "Description": "Corn",
+      "UOM": "CS",
+      "Pack Size": "24/15.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-04T02:01:14.488045-05:00"
+    },
+    {
       "Available Qty.": "12",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -323,7 +342,7 @@
       "new_since": "2026-09-04T09:01:12.050433-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "9",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -386,7 +405,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "2",
       "Item No.": "D25-1634P",
       "Description": "Fries 6/28 oz",
       "UOM": "CS",
@@ -405,7 +424,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "1780",
+      "Available Qty.": "1778",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -414,7 +433,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "118",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -423,7 +442,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "474",
+      "Available Qty.": "473",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -450,7 +469,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "40",
       "Item No.": "D27-089P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -588,7 +607,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "39",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -605,15 +624,6 @@
       "Pack Size": "24/7.26 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-332P",
-      "Description": "Mac and cheese 12/6 oz",
-      "UOM": "CS",
-      "Pack Size": "12/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "5"
     },
     {
       "Available Qty.": "857",
@@ -683,7 +693,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "107",
+      "Available Qty.": "97",
       "Item No.": "D06-417P",
       "Description": "Mini Wontons 4/24 oz",
       "UOM": "CS",
@@ -846,7 +856,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "18",
       "Item No.": "D06-447P",
       "Description": "Penne w/ Chickpeas and Yellow Peas 6/7 oz",
       "UOM": "CS",
@@ -892,7 +902,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "17",
       "Item No.": "D15-1168P",
       "Description": "Pork Sausage Patties",
       "UOM": "CS",
@@ -919,7 +929,7 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "19",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -936,15 +946,6 @@
       "Pack Size": "24/6 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D01-391P",
-      "Description": "Quart Size Jugs, EMPTY 1/54 CT",
-      "UOM": "CS",
-      "Pack Size": "1/54 CT",
-      "Feature Type": "",
-      "Gross Weight": "6"
     },
     {
       "Available Qty.": "4046",
@@ -1109,7 +1110,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "247",
+      "Available Qty.": "245",
       "Item No.": "D03-685P",
       "Description": "Soda 24/16.9 oz",
       "UOM": "CS",
@@ -1136,7 +1137,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "131",
+      "Available Qty.": "122",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -1225,8 +1226,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-03T11:46:45.173510-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "3766",
@@ -1272,16 +1272,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D27-181P",
-      "Description": "Whole Kernel Sweet Corn",
-      "UOM": "CS",
-      "Pack Size": "12/15.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
       "Available Qty.": "18",
