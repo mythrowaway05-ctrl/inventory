@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 04, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-09-04T04:01:10.571673-05:00",
+  "updated_at": "September 04, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-09-04T05:01:07.755940-05:00",
   "item_count": 157,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "35",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -208,7 +208,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "21",
       "Item No.": "D06-690P",
       "Description": "Chicken Bites, Southwest",
       "UOM": "CS",
@@ -227,15 +227,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "846",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "652",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -243,6 +234,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "846",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
@@ -511,6 +511,15 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "217",
+      "Item No.": "D27-089P",
+      "Description": "Green Beans",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz. can",
+      "Feature Type": "",
+      "Gross Weight": "12"
+    },
+    {
       "Available Qty.": "13",
       "Item No.": "D27-799P",
       "Description": "Green Beans",
@@ -519,15 +528,6 @@
       "Feature Type": "",
       "Gross Weight": "9",
       "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
-      "Available Qty.": "217",
-      "Item No.": "D27-089P",
-      "Description": "Green Beans",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz. can",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "35",
@@ -801,7 +801,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "19",
       "Item No.": "D06-454P",
       "Description": "Mozzerella Sticks w/ Marinara Sauce 8/11 oz",
       "UOM": "CS",
