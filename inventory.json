@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 04, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-04T10:01:07.347119-05:00",
+  "updated_at": "September 04, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-09-04T11:01:30.994498-05:00",
   "item_count": 141,
   "items": [
     {
@@ -150,7 +150,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "13",
       "Item No.": "D05-948P",
       "Description": "Cereal Bars 3/26.7 oz",
       "UOM": "CS",
@@ -247,8 +247,7 @@
       "UOM": "CS",
       "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-03T10:01:25.318583-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "478",
@@ -314,7 +313,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "12",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -369,7 +368,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3129",
+      "Available Qty.": "3104",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -451,7 +450,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "65",
       "Item No.": "D27-089P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -460,7 +459,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "21",
       "Item No.": "D27-161P",
       "Description": "Green Beans 10 Cans",
       "UOM": "CS",
@@ -608,7 +607,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D06-332P",
       "Description": "Mac and cheese 12/6 oz",
       "UOM": "CS",
@@ -645,16 +644,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-537P",
-      "Description": "Milk, Almond Silk 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/.5 gal",
-      "Feature Type": "",
-      "Gross Weight": "28",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
       "Available Qty.": "31",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
@@ -665,7 +654,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "125",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -673,6 +662,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-09-04T09:01:12.050433-05:00"
+    },
+    {
+      "Available Qty.": "17",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-04T11:01:30.993966-05:00"
     },
     {
       "Available Qty.": "120",
@@ -847,7 +846,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "139",
+      "Available Qty.": "19",
       "Item No.": "D06-447P",
       "Description": "Penne w/ Chickpeas and Yellow Peas 6/7 oz",
       "UOM": "CS",
@@ -1080,8 +1079,7 @@
       "UOM": "CS",
       "Pack Size": "12/16oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-03T10:01:25.318583-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "460",
@@ -1153,8 +1151,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-03T10:01:25.318583-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "368",
@@ -1232,7 +1229,7 @@
       "new_since": "2026-09-03T11:46:45.173510-05:00"
     },
     {
-      "Available Qty.": "3826",
+      "Available Qty.": "3766",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1268,7 +1265,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "296",
+      "Available Qty.": "196",
       "Item No.": "D23-822P",
       "Description": "Wax Beans 12/14.5 oz",
       "UOM": "CS",
