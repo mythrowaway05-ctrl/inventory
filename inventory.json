@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 04, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-04T14:01:04.180131-05:00",
-  "item_count": 141,
+  "updated_at": "September 04, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-04T15:01:17.774355-05:00",
+  "item_count": 142,
   "items": [
     {
       "Available Qty.": "70",
@@ -68,7 +68,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "138",
+      "Available Qty.": "133",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -424,7 +424,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "1778",
+      "Available Qty.": "1777",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -694,6 +694,16 @@
       "new_since": "2026-09-04T14:01:04.092221-05:00"
     },
     {
+      "Available Qty.": "34",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-09-04T15:01:17.773785-05:00"
+    },
+    {
       "Available Qty.": "120",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -821,7 +831,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "995",
+      "Available Qty.": "990",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -1171,8 +1181,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.7 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-03T14:01:12.860955-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "372",
@@ -1181,8 +1190,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-03T14:01:12.860955-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "321",
@@ -1248,7 +1256,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "333",
+      "Available Qty.": "323",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -1275,7 +1283,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "196",
+      "Available Qty.": "40",
       "Item No.": "D23-822P",
       "Description": "Wax Beans 12/14.5 oz",
       "UOM": "CS",
