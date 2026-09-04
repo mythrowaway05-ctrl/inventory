@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 04, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-09-04T03:01:12.753792-05:00",
-  "item_count": 160,
+  "updated_at": "September 04, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-09-04T04:01:10.571673-05:00",
+  "item_count": 157,
   "items": [
     {
       "Available Qty.": "70",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "41",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -76,16 +76,6 @@
       "Pack Size": "1/800 lbs",
       "Feature Type": "",
       "Gross Weight": "800",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-036P",
-      "Description": "Assorted Paper Goods -BULK 1/300 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lb",
-      "Feature Type": "",
-      "Gross Weight": "300",
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
@@ -218,7 +208,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "23",
       "Item No.": "D06-690P",
       "Description": "Chicken Bites, Southwest",
       "UOM": "CS",
@@ -237,15 +227,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "652",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "846",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -253,6 +234,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "652",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -384,7 +374,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "15",
       "Item No.": "D07-1014P",
       "Description": "Cream Cheese",
       "UOM": "CS",
@@ -457,7 +447,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "17",
       "Item No.": "D25-1634P",
       "Description": "Fries 6/28 oz",
       "UOM": "CS",
@@ -669,7 +659,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "53",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -679,7 +669,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "7",
       "Item No.": "D06-453P",
       "Description": "Lunchables 6/5.12 oz",
       "UOM": "CS",
@@ -689,7 +679,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "15",
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -755,7 +745,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "77",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -774,7 +764,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "113",
       "Item No.": "D06-417P",
       "Description": "Mini Wontons 4/24 oz",
       "UOM": "CS",
@@ -811,7 +801,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "12",
       "Item No.": "D06-454P",
       "Description": "Mozzerella Sticks w/ Marinara Sauce 8/11 oz",
       "UOM": "CS",
@@ -947,7 +937,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "165",
       "Item No.": "D06-447P",
       "Description": "Penne w/ Chickpeas and Yellow Peas 6/7 oz",
       "UOM": "CS",
@@ -983,7 +973,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "D06-631P",
       "Description": "Pizza 12",
       "UOM": "CS",
@@ -1094,7 +1084,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "22",
       "Item No.": "D15-706P",
       "Description": "Salami, Cooked",
       "UOM": "CS",
@@ -1223,7 +1213,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "25",
       "Item No.": "D07-429P",
       "Description": "Shredded Cheese 2-6/8 oz",
       "UOM": "CS",
@@ -1242,23 +1232,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "13",
       "Item No.": "D15-456P",
       "Description": "Smoked Sausage 12/14 oz",
       "UOM": "CS",
       "Pack Size": "12/14 oz",
       "Feature Type": "",
       "Gross Weight": "11",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D15-455P",
-      "Description": "Smoked Sausage 6/13.5 oz",
-      "UOM": "CS",
-      "Pack Size": "6/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
@@ -1271,7 +1251,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "257",
       "Item No.": "D03-685P",
       "Description": "Soda 24/16.9 oz",
       "UOM": "CS",
@@ -1337,7 +1317,7 @@
       "new_since": "2026-09-03T14:01:12.860955-05:00"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "28",
       "Item No.": "D06-457P",
       "Description": "Spicy Chicken Alfredo 8/8 oz",
       "UOM": "CS",
@@ -1347,17 +1327,7 @@
       "new_since": "2026-09-04T02:01:14.488045-05:00"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D15-1171P",
-      "Description": "Spicy Chicken Bites 6/14 oz",
-      "UOM": "CS",
-      "Pack Size": "6/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-04T02:01:14.488045-05:00"
-    },
-    {
-      "Available Qty.": "44",
+      "Available Qty.": "34",
       "Item No.": "D15-404P",
       "Description": "Spicy Chicken Sandwich 12/5 oz",
       "UOM": "CS",
