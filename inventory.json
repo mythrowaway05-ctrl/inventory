@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 03, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-09-03T22:01:24.733304-05:00",
-  "item_count": 126,
+  "updated_at": "September 03, 2026 at 11:01 PM",
+  "updated_at_iso": "2026-09-03T23:01:12.387597-05:00",
+  "item_count": 127,
   "items": [
     {
       "Available Qty.": "70",
@@ -59,7 +59,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "148",
+      "Available Qty.": "138",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -169,7 +169,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "121",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -588,7 +588,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "57",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -806,7 +806,17 @@
       "Gross Weight": "31"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "45",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-09-03T23:01:12.387157-05:00"
+    },
+    {
+      "Available Qty.": "157",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -815,7 +825,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "24",
       "Item No.": "D01-391P",
       "Description": "Quart Size Jugs, EMPTY 1/54 CT",
       "UOM": "CS",
@@ -834,7 +844,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "4151",
+      "Available Qty.": "4159",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
