@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-09-05T03:01:08.945822-05:00",
+  "scraped_at": "2026-09-05T04:01:10.094842-05:00",
   "po_number": "PO6347741",
   "appointment": {
     "reference_number": "PO6347741",
     "pickup_date": "09/16/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n14",
-    "Total Line Items": "Gross Weight\n1205 lbs",
+    "Total Due": "Total Line Items\n19",
+    "Total Line Items": "Gross Weight\n1376 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-457P\tSpicy Chicken Alfredo\t8\t8\tCS\t38\t0.91\t\u00a0\t8/8 oz\tFROZEN\t0.00\t\u00a0\nD07-429P\tShredded Cheese\t1\t1\tCS\t7\t1.25\t\u00a0\t2-6/8 oz\tREF\t0.00\t\u00a0\nD15-456P\tSmoked Sausage\t20\t20\tCS\t210\t2.00\t\u00a0\t12/14 oz\tFROZEN\t0.00\t\u00a0\nD19-036P\tAssorted Paper Goods -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD07-1014P\tCream Cheese\t1\t1\tCS\t20\t3.65\t\u00a0\t36/8oz\tREF\t0.00\t\u00a0\nD25-1634P\tFries\t2\t2\tCS\t21\t1.89\t\u00a0\t6/28 oz\tFROZEN\t0.00\t\u00a0\nD15-773P\t8 Piece Cut Chicken\t6\t6\tCS\t270\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\t\u00a0\nD06-690P\tChicken Bites, Southwest\t2\t2\tCS\t8\t0.72\t\u00a0\t10/6 oz\tFROZEN\t0.00\t\u00a0\nD03-685P\tSoda\t2\t2\tCS\t60\t2.70\t\u00a0\t24/16.9 oz\tDRY\t0.00\t\u00a0\nD28-442P\tOnions\t2\t2\tCS\t100\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\t\u00a0\nD06-453P\tLunchables\t8\t8\tCS\t58\t1.37\t\u00a0\t6/5.12 oz\tREF\t0.00\t\u00a0\nD06-417P\tMini Wontons\t3\t3\tCS\t18\t1.08\t\u00a0\t4/24 oz\tFROZEN\t0.00\t\u00a0\nD06-454P\tMozzerella Sticks w/ Marinara Sauce\t11\t11\tCS\t61\t1.05\t\u00a0\t8/11 oz\tREF\t0.00\t\u00a0\nD06-631P\tPizza 12\t2\t2\tCS\t34\t3.05\t\u00a0\t14/13.5 oz\tFROZEN\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-457P\tSpicy Chicken Alfredo\t8\t8\tCS\t38\t0.91\t\u00a0\t8/8 oz\tFROZEN\t0.00\t\u00a0\nD07-429P\tShredded Cheese\t1\t1\tCS\t7\t1.25\t\u00a0\t2-6/8 oz\tREF\t0.00\t\u00a0\nD15-456P\tSmoked Sausage\t20\t20\tCS\t210\t2.00\t\u00a0\t12/14 oz\tFROZEN\t0.00\t\u00a0\nD19-036P\tAssorted Paper Goods -BULK\t1\t1\tBULK\t300\t54.00\t\u00a0\t1/300 lb\tDRY\t0.00\t\u00a0\nD07-1014P\tCream Cheese\t1\t1\tCS\t20\t3.65\t\u00a0\t36/8oz\tREF\t0.00\t\u00a0\nD25-1634P\tFries\t2\t2\tCS\t21\t1.89\t\u00a0\t6/28 oz\tFROZEN\t0.00\t\u00a0\nD15-773P\t8 Piece Cut Chicken\t6\t6\tCS\t270\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\t\u00a0\nD06-690P\tChicken Bites, Southwest\t2\t2\tCS\t8\t0.72\t\u00a0\t10/6 oz\tFROZEN\t0.00\t\u00a0\nD03-685P\tSoda\t2\t2\tCS\t60\t2.70\t\u00a0\t24/16.9 oz\tDRY\t0.00\t\u00a0\nD28-442P\tOnions\t2\t2\tCS\t100\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\t\u00a0\nD06-453P\tLunchables\t8\t8\tCS\t58\t1.37\t\u00a0\t6/5.12 oz\tREF\t0.00\t\u00a0\nD06-417P\tMini Wontons\t3\t3\tCS\t18\t1.08\t\u00a0\t4/24 oz\tFROZEN\t0.00\t\u00a0\nD06-454P\tMozzerella Sticks w/ Marinara Sauce\t11\t11\tCS\t61\t1.05\t\u00a0\t8/11 oz\tREF\t0.00\t\u00a0\nD06-631P\tPizza 12\t2\t2\tCS\t34\t3.05\t\u00a0\t14/13.5 oz\tFROZEN\t0.00\t\u00a0\nD25-2039P\tChex Mix\t2\t2\tCS\t42\t3.95\t\u00a0\t10/31 oz\tDRY\t0.00\t\u00a0\nD15-451P\tChicken Breast Chunks\t4\t4\tCS\t40\t1.90\t\u00a0\t2/5 lb\tFROZEN\t0.00\t\u00a0\nD14-014P\tJuice, Orange\t1\t0\tCS\t0\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\t\u00a0\nD14-008P\tJuice, Orange\t1\t1\tCS\t45\t4.50\t\u00a0\t9/.5 gal\tREF\t0.00\t\u00a0\nD07-608P\tMilk, 2%\t1\t1\tCS\t44\t0.00\t\u00a0\t9/.5 gal\tREF\t0.00"
   },
   "items": [
     {
@@ -192,6 +192,71 @@
       "Packaging Type": "",
       "Pack Size": "14/13.5 oz",
       "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D25-2039P",
+      "Description": "Chex Mix",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "42",
+      "Packaging Type": "",
+      "Pack Size": "10/31 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D15-451P",
+      "Description": "Chicken Breast Chunks",
+      "Order Qty.": "4",
+      "Accepted Qty.": "4",
+      "UOM": "CS",
+      "Gross Weight": "40",
+      "Packaging Type": "",
+      "Pack Size": "2/5 lb",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D14-014P",
+      "Description": "Juice, Orange",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "12/1 pt",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D14-008P",
+      "Description": "Juice, Orange",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "45",
+      "Packaging Type": "",
+      "Pack Size": "9/.5 gal",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D07-608P",
+      "Description": "Milk, 2%",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "44",
+      "Packaging Type": "",
+      "Pack Size": "9/.5 gal",
+      "Handling Requirements": "REF",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     }
