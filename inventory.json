@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 05, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-05T07:01:10.814332-05:00",
-  "item_count": 134,
+  "updated_at": "September 05, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-05T08:01:17.217154-05:00",
+  "item_count": 154,
   "items": [
     {
       "Available Qty.": "70",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "26",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -68,7 +68,7 @@
       "new_since": "2026-09-05T02:01:17.926119-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "7",
       "Item No.": "D06-941P",
       "Description": "Assorted Canned Pasta",
       "UOM": "CS",
@@ -78,23 +78,13 @@
       "new_since": "2026-09-05T02:01:17.926119-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "8",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "25",
-      "new_since": "2026-09-05T02:01:17.926119-05:00"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D15-050P",
-      "Description": "Asst. Canned Meats",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb bx",
-      "Feature Type": "",
-      "Gross Weight": "20",
       "new_since": "2026-09-05T02:01:17.926119-05:00"
     },
     {
@@ -189,7 +179,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "6",
       "Item No.": "D05-410P",
       "Description": "Cereal",
       "UOM": "CS",
@@ -206,16 +196,6 @@
       "Pack Size": "10/26.9 oz",
       "Feature Type": "",
       "Gross Weight": "17",
-      "new_since": "2026-09-05T02:01:17.926119-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D05-952P",
-      "Description": "Cereal 6/12 oz",
-      "UOM": "CS",
-      "Pack Size": "6/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
       "new_since": "2026-09-05T02:01:17.926119-05:00"
     },
     {
@@ -264,15 +244,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "260",
-      "Item No.": "P15-106P",
-      "Description": "Chicken Leg Quarters",
-      "UOM": "CS",
-      "Pack Size": "4/4.25 lb",
-      "Feature Type": "",
-      "Gross Weight": "17"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D15-1138P",
       "Description": "Chicken Leg Quarters",
@@ -280,6 +251,15 @@
       "Pack Size": "4/10 lb",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "260",
+      "Item No.": "P15-106P",
+      "Description": "Chicken Leg Quarters",
+      "UOM": "CS",
+      "Pack Size": "4/4.25 lb",
+      "Feature Type": "",
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "2",
@@ -491,7 +471,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "106",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -1123,6 +1103,226 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "626",
+      "Item No.": "P15-087P",
+      "Description": "Salmon, Canned",
+      "UOM": "CS",
+      "Pack Size": "24/5 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "34",
+      "Item No.": "D26-669P",
+      "Description": "Sauce, Creamy Chimichurri 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "103",
+      "Item No.": "D26-670P",
+      "Description": "Sauce, Creamy Elote 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "D26-659P",
+      "Description": "Sauce, Hollandaise",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "19",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "104",
+      "Item No.": "D26-671P",
+      "Description": "Sauce, Maple Chili 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "1113",
+      "Item No.": "P26-051P",
+      "Description": "Sauce, Pasta, Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "113",
+      "Item No.": "D26-672P",
+      "Description": "Sauce, Peri Peri 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "356",
+      "Item No.": "P26-039P",
+      "Description": "Sauce, Sloppy Joe",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz can",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "200",
+      "Item No.": "D26-673P",
+      "Description": "Sauce, Sweet Curry 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "114",
+      "Item No.": "D26-674P",
+      "Description": "Sauce, Wasabi 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "583",
+      "Item No.": "D15-650P",
+      "Description": "Sausage Roll Hot",
+      "UOM": "CS",
+      "Pack Size": "12/16oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "460",
+      "Item No.": "D26-661P",
+      "Description": "Seasoning, Carmelized Onion",
+      "UOM": "CS",
+      "Pack Size": "15/0.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "1",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P06-230P",
+      "Description": "Skillet Dinner, Lasagna",
+      "UOM": "CS",
+      "Pack Size": "12/5.6 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "521",
+      "Item No.": "P15-086P",
+      "Description": "Smoked Sausage, Hot",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "245",
+      "Item No.": "D03-685P",
+      "Description": "Soda 24/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "24/16.9 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "669",
+      "Item No.": "P06-007P",
+      "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "393",
+      "Item No.": "P06-115P",
+      "Description": "Soup, Chicken and Rice, EZO Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz can",
+      "Feature Type": "",
+      "Gross Weight": "18",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "122",
+      "Item No.": "P06-142P",
+      "Description": "Soup, Cream of Chicken",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "180",
+      "Item No.": "P06-009P",
+      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "368",
+      "Item No.": "P06-028P",
+      "Description": "Soup, Tomato, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.7 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "372",
+      "Item No.": "P06-029P",
+      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.6 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
+      "Available Qty.": "321",
+      "Item No.": "P27-089P",
+      "Description": "Spinach, Chopped, LS Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "12/13.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-05T08:01:17.216719-05:00"
+    },
+    {
       "Available Qty.": "252",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
@@ -1187,7 +1387,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "323",
+      "Available Qty.": "319",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
