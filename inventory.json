@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 05, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-05T14:01:03.237683-05:00",
+  "updated_at": "September 05, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-05T15:01:02.017797-05:00",
   "item_count": 136,
   "items": [
     {
@@ -31,7 +31,7 @@
       "Gross Weight": "47"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "5",
       "Item No.": "D16-020P",
       "Description": "Assorted Canned Goods",
       "UOM": "CS",
@@ -510,7 +510,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "53",
       "Item No.": "D14-014P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -617,8 +617,7 @@
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-09-04T14:01:04.092221-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "6",
