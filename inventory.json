@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 07, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-07T11:01:00.795822-05:00",
-  "item_count": 107,
+  "updated_at": "September 07, 2026 at 11:53 AM",
+  "updated_at_iso": "2026-09-07T11:53:30.633909-05:00",
+  "item_count": 105,
   "items": [
     {
-      "Available Qty.": "70",
+      "Available Qty.": "50",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -130,22 +130,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
       "Pack Size": "2/5 lb",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "818",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
     },
     {
       "Available Qty.": "652",
@@ -155,6 +146,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "818",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "6",
@@ -202,7 +202,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D15-450P",
       "Description": "Chicken Tenderloins 1/20 lb",
       "UOM": "CS",
@@ -220,7 +220,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "759",
+      "Available Qty.": "757",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -292,7 +292,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -346,7 +346,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1706",
+      "Available Qty.": "1696",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -355,7 +355,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "53",
       "Item No.": "D25-936P",
       "Description": "Fruit Snacks",
       "UOM": "CS",
@@ -535,7 +535,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "23",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -553,7 +553,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "40",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -562,7 +562,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "0",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -571,7 +571,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "79",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -598,7 +598,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D07-642P",
       "Description": "Milk, Whole Chocolate 6/.5 gal",
       "UOM": "CS",
@@ -616,7 +616,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "36",
       "Item No.": "D06-417P",
       "Description": "Mini Wontons 4/24 oz",
       "UOM": "CS",
@@ -805,15 +805,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D25-2038P",
-      "Description": "Popsicle 1/10 ct",
-      "UOM": "CS",
-      "Pack Size": "1/10 ct",
-      "Feature Type": "",
-      "Gross Weight": "28"
-    },
-    {
       "Available Qty.": "419",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -877,16 +868,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D27-009P",
-      "Description": "Sweet Peas",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "17",
+      "Available Qty.": "9",
       "Item No.": "D03-1078P",
       "Description": "Tea, Extra Sweet 4/1 gal",
       "UOM": "CS",
@@ -958,7 +940,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D27-160P",
       "Description": "Whole Kernel Sweet Corn 10 Cans",
       "UOM": "CS",
