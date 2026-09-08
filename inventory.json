@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 08, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-08T07:01:05.865896-05:00",
-  "item_count": 125,
+  "updated_at": "September 08, 2026 at 07:25 AM",
+  "updated_at_iso": "2026-09-08T07:25:49.131878-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "40",
@@ -166,15 +166,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-1138P",
-      "Description": "Chicken Leg Quarters",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "260",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
@@ -182,6 +173,15 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-1138P",
+      "Description": "Chicken Leg Quarters",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "2",
@@ -517,15 +517,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "33",
-      "Item No.": "D07-169P",
-      "Description": "Milk, 1% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
       "Available Qty.": "124",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -533,24 +524,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "45",
-      "Item No.": "D07-607P",
-      "Description": "Milk, 2% Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "16",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44"
     },
     {
       "Available Qty.": "79",
@@ -1068,15 +1041,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "30",
       "new_since": "2026-09-07T12:01:03.502183-05:00"
-    },
-    {
-      "Available Qty.": "19",
-      "Item No.": "D03-1078P",
-      "Description": "Tea, Extra Sweet 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "11",
