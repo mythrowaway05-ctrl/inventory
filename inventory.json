@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 08, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-08T06:01:12.237578-05:00",
-  "item_count": 126,
+  "updated_at": "September 08, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-08T07:01:05.865896-05:00",
+  "item_count": 125,
   "items": [
     {
-      "Available Qty.": "50",
+      "Available Qty.": "40",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -139,15 +139,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "647",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "818",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -155,6 +146,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "647",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -193,7 +193,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D15-609P",
       "Description": "Chicken Strips, Dark",
       "UOM": "CS",
@@ -499,7 +499,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "17",
       "Item No.": "P06-226P",
       "Description": "Mac and Cheese Pouch",
       "UOM": "CS",
@@ -1070,16 +1070,6 @@
       "new_since": "2026-09-07T12:01:03.502183-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D27-009P",
-      "Description": "Sweet Peas",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-09-07T12:01:03.502183-05:00"
-    },
-    {
       "Available Qty.": "19",
       "Item No.": "D03-1078P",
       "Description": "Tea, Extra Sweet 4/1 gal",
@@ -1107,7 +1097,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "3639",
+      "Available Qty.": "3614",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1152,7 +1142,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "D27-160P",
       "Description": "Whole Kernel Sweet Corn 10 Cans",
       "UOM": "CS",
