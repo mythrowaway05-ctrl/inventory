@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 08, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-08T14:01:06.814238-05:00",
-  "item_count": 107,
+  "updated_at": "September 08, 2026 at 02:42 PM",
+  "updated_at_iso": "2026-09-08T14:42:27.036506-05:00",
+  "item_count": 105,
   "items": [
     {
       "Available Qty.": "39",
@@ -203,7 +203,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "354",
+      "Available Qty.": "350",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -446,7 +446,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "48",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -536,7 +536,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -878,16 +878,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D06-875P",
-      "Description": "Soup, Vegetable",
-      "UOM": "CS",
-      "Pack Size": "24/10.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-08T11:56:18.269921-05:00"
-    },
-    {
       "Available Qty.": "369",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
@@ -958,16 +948,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D27-160P",
-      "Description": "Whole Kernel Sweet Corn 10 Cans",
-      "UOM": "CS",
-      "Pack Size": "6/10 Cans",
-      "Feature Type": "",
-      "Gross Weight": "47",
-      "new_since": "2026-09-08T10:01:25.505560-05:00"
     }
   ]
 }
