@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 08, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-08T16:01:10.691988-05:00",
+  "updated_at": "September 08, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-08T17:01:05.196177-05:00",
   "item_count": 79,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "105",
+      "Available Qty.": "103",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "0",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -209,6 +209,16 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "136",
+      "Item No.": "D27-104P",
+      "Description": "Corn",
+      "UOM": "CS",
+      "Pack Size": "24/15.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-08T11:56:18.269921-05:00"
     },
     {
       "Available Qty.": "26",
@@ -382,15 +392,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "P06-226P",
-      "Description": "Mac and Cheese Pouch",
-      "UOM": "CS",
-      "Pack Size": "24/7.26 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
       "Available Qty.": "854",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
@@ -490,7 +491,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "37",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -670,7 +671,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "3336",
+      "Available Qty.": "3320",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -706,7 +707,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "36",
       "Item No.": "D23-822P",
       "Description": "Wax Beans 12/14.5 oz",
       "UOM": "CS",
