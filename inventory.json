@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 09, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-09T06:01:00.603978-05:00",
+  "updated_at": "September 09, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-09T07:01:18.312557-05:00",
   "item_count": 114,
   "items": [
     {
@@ -174,17 +174,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "D28-1235P",
-      "Description": "Cauliflower 2/3 lb",
-      "UOM": "CS",
-      "Pack Size": "2/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "34",
+      "Available Qty.": "0",
       "Item No.": "D05-953P",
       "Description": "Cereal 5/12 oz",
       "UOM": "CS",
@@ -212,15 +202,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "597",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "750",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -228,6 +209,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "597",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "6",
@@ -311,7 +301,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "149",
+      "Available Qty.": "125",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -993,6 +983,16 @@
     },
     {
       "Available Qty.": "3",
+      "Item No.": "D28-803P",
+      "Description": "Squash, Winter",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-09T07:01:18.311980-05:00"
+    },
+    {
+      "Available Qty.": "3",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
@@ -1048,7 +1048,7 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D23-822P",
       "Description": "Wax Beans 12/14.5 oz",
       "UOM": "CS",
@@ -1057,7 +1057,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D23-025P",
       "Description": "Wax Beans 24/15 oz. cans",
       "UOM": "CS",
