@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 09, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-09T11:01:07.245718-05:00",
-  "item_count": 94,
+  "updated_at": "September 09, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-09-09T12:01:21.276832-05:00",
+  "item_count": 95,
   "items": [
     {
       "Available Qty.": "26",
@@ -186,7 +186,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "751",
+      "Available Qty.": "755",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -237,11 +237,10 @@
       "UOM": "CS",
       "Pack Size": "24/15.25 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-08T11:56:18.269921-05:00"
+      "Gross Weight": "26"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "21",
       "Item No.": "D26-034P",
       "Description": "Crumbs, Graham Cracker",
       "UOM": "CS",
@@ -296,7 +295,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1376",
+      "Available Qty.": "1356",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -440,6 +439,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "54",
+      "Item No.": "D07-154P",
+      "Description": "Milk, Chocolate 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-09T12:01:21.276306-05:00"
+    },
+    {
       "Available Qty.": "85",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -512,7 +521,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "33",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -611,7 +620,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1960",
+      "Available Qty.": "2028",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -743,7 +752,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "497",
+      "Available Qty.": "495",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
