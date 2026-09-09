@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 09, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-09T07:01:18.312557-05:00",
-  "item_count": 114,
+  "updated_at": "September 09, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-09T08:01:11.634888-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "29",
@@ -29,66 +29,6 @@
       "Pack Size": "1/170 lbs",
       "Feature Type": "",
       "Gross Weight": "170",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-1895P",
-      "Description": "Assorted Chips - BULKTOTE 1/110 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/110 lb",
-      "Feature Type": "",
-      "Gross Weight": "110",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-005P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/100 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-008P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-009P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/150 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "150",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-004P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/160 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "160",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-012P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
@@ -165,23 +105,13 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "980",
+      "Available Qty.": "984",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
       "Pack Size": "4-10/6 oz",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D05-953P",
-      "Description": "Cereal 5/12 oz",
-      "UOM": "CS",
-      "Pack Size": "5/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
       "Available Qty.": "85",
@@ -193,7 +123,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "15",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -229,6 +159,15 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "5",
+      "Item No.": "D15-1138P",
+      "Description": "Chicken Leg Quarters",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "258",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
@@ -236,15 +175,6 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-1138P",
-      "Description": "Chicken Leg Quarters",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "477",
@@ -301,7 +231,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "105",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -511,16 +441,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D27-827P",
-      "Description": "Mexican Style Street Corn 24/14.75 oz",
-      "UOM": "CS",
-      "Pack Size": "24/14.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
       "Available Qty.": "82",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -611,7 +531,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -872,7 +792,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "206",
+      "Available Qty.": "209",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -1029,16 +949,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D03-201P",
-      "Description": "Water",
-      "UOM": "CS",
-      "Pack Size": "3/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
       "Available Qty.": "37",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
@@ -1048,23 +958,14 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D23-822P",
-      "Description": "Wax Beans 12/14.5 oz",
+      "Available Qty.": "2",
+      "Item No.": "D27-160P",
+      "Description": "Whole Kernel Sweet Corn 10 Cans",
       "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
+      "Pack Size": "6/10 Cans",
       "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D23-025P",
-      "Description": "Wax Beans 24/15 oz. cans",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
+      "Gross Weight": "47",
+      "new_since": "2026-09-08T10:01:25.505560-05:00"
     }
   ]
 }
