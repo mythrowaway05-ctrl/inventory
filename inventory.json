@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 09, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-09-09T02:01:20.136038-05:00",
+  "updated_at": "September 09, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-09-09T03:01:07.952852-05:00",
   "item_count": 114,
   "items": [
     {
@@ -42,13 +42,13 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D19-009P",
+      "Available Qty.": "1",
+      "Item No.": "D19-005P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
-      "Pack Size": "1/150 Lb BULK TOTE",
+      "Pack Size": "1/100 Lb BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "150",
+      "Gross Weight": "100",
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
@@ -62,23 +62,13 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D19-005P",
+      "Available Qty.": "0",
+      "Item No.": "D19-009P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
-      "Pack Size": "1/100 Lb BULK TOTE",
+      "Pack Size": "1/150 Lb BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-012P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
+      "Gross Weight": "150",
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
@@ -89,6 +79,16 @@
       "Pack Size": "1/160 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "160",
+      "new_since": "2026-09-09T02:01:20.135474-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-012P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/230 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "230",
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
@@ -174,7 +174,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "24",
       "Item No.": "D28-1235P",
       "Description": "Cauliflower 2/3 lb",
       "UOM": "CS",
@@ -184,7 +184,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "42",
       "Item No.": "D05-953P",
       "Description": "Cereal 5/12 oz",
       "UOM": "CS",
@@ -239,15 +239,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-1138P",
-      "Description": "Chicken Leg Quarters",
-      "UOM": "CS",
-      "Pack Size": "4/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "258",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
@@ -255,6 +246,15 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-1138P",
+      "Description": "Chicken Leg Quarters",
+      "UOM": "CS",
+      "Pack Size": "4/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "477",
@@ -340,7 +340,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "75",
       "Item No.": "D22-1289P",
       "Description": "Dog Food 2/18 ct",
       "UOM": "CS",
@@ -882,7 +882,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "209",
+      "Available Qty.": "206",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
