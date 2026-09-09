@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 09, 2026 at 04:23 PM",
-  "updated_at_iso": "2026-09-09T16:23:59.506131-05:00",
-  "item_count": 100,
+  "updated_at": "September 09, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-09T17:01:05.153771-05:00",
+  "item_count": 99,
   "items": [
     {
       "Available Qty.": "87",
@@ -78,7 +78,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "34",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -143,7 +143,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -306,7 +306,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1331",
+      "Available Qty.": "1321",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -432,7 +432,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "114",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -570,7 +570,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "186",
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "UOM": "CS",
@@ -668,16 +668,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D06-631P",
-      "Description": "Pizza 12",
-      "UOM": "CS",
-      "Pack Size": "14/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-09-09T15:01:02.170652-05:00"
     },
     {
       "Available Qty.": "397",
@@ -784,7 +774,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "125",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -921,7 +911,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "27",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
