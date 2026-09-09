@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 09, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-09-09T09:01:19.541256-05:00",
-  "item_count": 102,
+  "updated_at": "September 09, 2026 at 09:55 AM",
+  "updated_at_iso": "2026-09-09T09:55:47.077572-05:00",
+  "item_count": 100,
   "items": [
     {
-      "Available Qty.": "29",
+      "Available Qty.": "26",
       "Item No.": "D15-301P",
       "Description": "8 Piece Chicken, Mix Cut",
       "UOM": "CS",
@@ -30,16 +30,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D05-903P",
-      "Description": "Assorted Cereal - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/170 lbs",
-      "Feature Type": "",
-      "Gross Weight": "170",
-      "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
       "Available Qty.": "2",
@@ -133,7 +123,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "15",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -160,7 +150,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D15-785P",
       "Description": "Chicken Gizzards",
       "UOM": "CS",
@@ -241,7 +231,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "58",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -251,7 +241,7 @@
       "new_since": "2026-09-08T11:56:18.269921-05:00"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "0",
       "Item No.": "D27-012P",
       "Description": "Corn, Southwestern",
       "UOM": "CS",
@@ -270,7 +260,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "70",
       "Item No.": "D22-1289P",
       "Description": "Dog Food 2/18 ct",
       "UOM": "CS",
@@ -316,7 +306,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1436",
+      "Available Qty.": "1413",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -379,7 +369,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1737",
+      "Available Qty.": "1717",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -541,7 +531,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "38",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -568,7 +558,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "639",
+      "Available Qty.": "632",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -640,7 +630,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1896",
+      "Available Qty.": "1964",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -772,7 +762,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "68",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -782,7 +772,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "114",
+      "Available Qty.": "112",
       "Item No.": "D26-674P",
       "Description": "Sauce, Wasabi 4/32 oz",
       "UOM": "CS",
@@ -902,7 +892,7 @@
       "new_since": "2026-09-09T02:01:20.135474-05:00"
     },
     {
-      "Available Qty.": "2960",
+      "Available Qty.": "2953",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -936,16 +926,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "",
       "Gross Weight": "51"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D27-160P",
-      "Description": "Whole Kernel Sweet Corn 10 Cans",
-      "UOM": "CS",
-      "Pack Size": "6/10 Cans",
-      "Feature Type": "",
-      "Gross Weight": "47",
-      "new_since": "2026-09-08T10:01:25.505560-05:00"
     }
   ]
 }
