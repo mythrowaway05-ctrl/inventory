@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-09-10T12:01:17.399111-05:00",
-  "item_count": 101,
+  "updated_at": "September 10, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-09-10T13:01:17.816375-05:00",
+  "item_count": 102,
   "items": [
     {
       "Available Qty.": "71",
@@ -20,6 +20,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-10T13:01:17.815943-05:00"
     },
     {
       "Available Qty.": "2",
@@ -123,7 +133,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "8",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -151,15 +161,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "590",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "620",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -167,6 +168,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "555",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
@@ -286,7 +296,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1260",
+      "Available Qty.": "1250",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -313,7 +323,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D27-017P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -323,7 +333,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "901",
+      "Available Qty.": "886",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -396,7 +406,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "63",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -405,7 +415,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "81",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -423,7 +433,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "35",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -433,7 +443,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "57",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -471,7 +481,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "78",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -646,7 +656,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4236",
+      "Available Qty.": "4215",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -664,7 +674,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2122",
+      "Available Qty.": "2112",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -700,7 +710,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3681",
+      "Available Qty.": "3677",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -709,7 +719,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3732",
+      "Available Qty.": "3716",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -862,7 +872,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "22",
       "Item No.": "D28-632P",
       "Description": "Squash",
       "UOM": "CS",
