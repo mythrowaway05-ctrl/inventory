@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 10, 2026 at 05:06 PM",
-  "updated_at_iso": "2026-09-10T17:06:53.702710-05:00",
+  "updated_at": "September 10, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-09-10T18:01:07.980993-05:00",
   "item_count": 105,
   "items": [
     {
@@ -76,16 +76,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
-    },
-    {
       "Available Qty.": "1020",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -113,7 +103,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "2",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -140,6 +130,15 @@
       "Gross Weight": "10"
     },
     {
+      "Available Qty.": "612",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -147,15 +146,6 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "620",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -203,7 +193,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "617",
+      "Available Qty.": "614",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -350,7 +340,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1317",
+      "Available Qty.": "1307",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -359,7 +349,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "71",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -432,7 +422,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "18",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -442,7 +432,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "46",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -451,7 +441,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -461,7 +451,7 @@
       "new_since": "2026-09-10T17:01:07.274884-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "0",
       "Item No.": "D15-231P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -480,7 +470,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "33",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -508,7 +498,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "232",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -710,7 +700,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2122",
+      "Available Qty.": "2243",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -908,7 +898,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "21",
       "Item No.": "D28-632P",
       "Description": "Squash",
       "UOM": "CS",
@@ -917,7 +907,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "70",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
@@ -951,6 +941,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "27",
+      "Item No.": "D03-201P",
+      "Description": "Water",
+      "UOM": "CS",
+      "Pack Size": "3/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-10T18:01:07.980484-05:00"
     },
     {
       "Available Qty.": "25",
