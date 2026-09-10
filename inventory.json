@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 10, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-10T07:01:13.348906-05:00",
+  "updated_at": "September 10, 2026 at 07:31 AM",
+  "updated_at_iso": "2026-09-10T07:31:24.955652-05:00",
   "item_count": 109,
   "items": [
     {
@@ -133,7 +133,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "83",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -170,7 +170,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "735",
+      "Available Qty.": "635",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -252,7 +252,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "419",
+      "Available Qty.": "410",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -261,7 +261,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "75",
+      "Available Qty.": "60",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -371,7 +371,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "932",
+      "Available Qty.": "917",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -510,7 +510,7 @@
       "new_since": "2026-09-09T14:01:06.285759-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "3",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -539,7 +539,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "64",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -641,7 +641,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "126",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -705,7 +705,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "303",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -732,7 +732,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "384",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -822,7 +822,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1010",
+      "Available Qty.": "990",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -939,7 +939,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "22",
       "Item No.": "D28-632P",
       "Description": "Squash",
       "UOM": "CS",
@@ -955,8 +955,7 @@
       "UOM": "CS",
       "Pack Size": "1/30 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-09T07:01:18.311980-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "3",
@@ -977,7 +976,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "256",
+      "Available Qty.": "248",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
