@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 07:31 AM",
-  "updated_at_iso": "2026-09-10T07:31:24.955652-05:00",
-  "item_count": 109,
+  "updated_at": "September 10, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-10T08:01:21.080547-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "71",
@@ -11,16 +11,6 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-324P",
-      "Description": "8 Piece Cut Chicken",
-      "UOM": "CS",
-      "Pack Size": "8/6 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-09-09T09:01:19.540754-05:00"
     },
     {
       "Available Qty.": "370",
@@ -77,7 +67,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D28-461P",
       "Description": "Bell Peppers",
       "UOM": "CS",
@@ -114,7 +104,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D28-579P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -133,7 +123,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "84",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -188,23 +178,13 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "228",
+      "Available Qty.": "226",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-609P",
-      "Description": "Chicken Strips, Dark",
-      "UOM": "CS",
-      "Pack Size": "2/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-09-10T07:01:13.348599-05:00"
     },
     {
       "Available Qty.": "471",
@@ -279,7 +259,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "15",
       "Item No.": "D22-1289P",
       "Description": "Dog Food 2/18 ct",
       "UOM": "CS",
@@ -306,7 +286,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D28-997P",
       "Description": "Eggplant",
       "UOM": "CS",
@@ -334,7 +314,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1301",
+      "Available Qty.": "1300",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -343,7 +323,17 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "416",
+      "Available Qty.": "1",
+      "Item No.": "D25-936P",
+      "Description": "Fruit Snacks",
+      "UOM": "CS",
+      "Pack Size": "8/8 oz Case",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-10T08:01:21.080257-05:00"
+    },
+    {
+      "Available Qty.": "414",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -398,7 +388,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "79",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -471,7 +461,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "76",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -510,7 +500,7 @@
       "new_since": "2026-09-09T14:01:06.285759-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -539,7 +529,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "66",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -549,7 +539,7 @@
       "new_since": "2026-09-09T12:01:21.276306-05:00"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "49",
       "Item No.": "D07-1009P",
       "Description": "Milk, Strawberry 9/.5 gal",
       "UOM": "CS",
@@ -630,15 +620,6 @@
       "Pack Size": "12/14 oz bag",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-442P",
-      "Description": "Onions",
-      "UOM": "CS",
-      "Pack Size": "16/3lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "126",
@@ -939,7 +920,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "30",
       "Item No.": "D28-632P",
       "Description": "Squash",
       "UOM": "CS",
