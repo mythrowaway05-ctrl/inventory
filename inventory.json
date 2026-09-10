@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 02:22 PM",
-  "updated_at_iso": "2026-09-10T14:22:22.120957-05:00",
-  "item_count": 102,
+  "updated_at": "September 10, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-10T15:01:06.826926-05:00",
+  "item_count": 103,
   "items": [
     {
       "Available Qty.": "71",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "2",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -32,7 +32,7 @@
       "new_since": "2026-09-10T13:01:17.815943-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D22-096P",
       "Description": "Assorted Pet Items - BULK 1/1000 lb",
       "UOM": "BULK",
@@ -96,7 +96,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "8",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -370,7 +370,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "1673",
+      "Available Qty.": "1643",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -488,6 +488,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "14",
       "new_since": "2026-09-10T02:01:19.574009-05:00"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D07-154P",
+      "Description": "Milk, Chocolate 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-10T15:01:06.826384-05:00"
     },
     {
       "Available Qty.": "37",
@@ -655,7 +665,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4215",
+      "Available Qty.": "4205",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -790,7 +800,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "23",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -817,7 +827,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "358",
+      "Available Qty.": "353",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -899,7 +909,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2852",
+      "Available Qty.": "2832",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -908,7 +918,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "233",
+      "Available Qty.": "228",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
