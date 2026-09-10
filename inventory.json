@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-09-10T09:01:20.013569-05:00",
-  "item_count": 107,
+  "updated_at": "September 10, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-09-10T10:01:32.031164-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "71",
@@ -40,7 +40,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "366",
+      "Available Qty.": "358",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "652",
+      "Available Qty.": "644",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -113,7 +113,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "76",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -177,7 +177,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "471",
+      "Available Qty.": "470",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -231,7 +231,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "25",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -276,17 +276,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-997P",
-      "Description": "Eggplant",
-      "UOM": "CS",
-      "Pack Size": "1/35 lb",
-      "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
-    },
-    {
-      "Available Qty.": "2879",
+      "Available Qty.": "2875",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -313,16 +303,6 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D25-936P",
-      "Description": "Fruit Snacks",
-      "UOM": "CS",
-      "Pack Size": "8/8 oz Case",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-09-10T08:01:21.080257-05:00"
-    },
-    {
       "Available Qty.": "414",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
@@ -341,7 +321,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D27-017P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -351,7 +331,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "917",
+      "Available Qty.": "905",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -378,7 +358,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "76",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -406,7 +386,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "31",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -415,7 +395,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "301",
+      "Available Qty.": "291",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -451,7 +431,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "65",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -461,7 +441,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "63",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -509,7 +489,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "54",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -557,7 +537,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -602,7 +582,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -612,7 +592,7 @@
       "new_since": "2026-09-10T09:01:20.013236-05:00"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "111",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -658,7 +638,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "889",
+      "Available Qty.": "869",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -694,7 +674,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4271",
+      "Available Qty.": "4256",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -712,7 +692,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2071",
+      "Available Qty.": "2067",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -721,7 +701,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "132",
+      "Available Qty.": "122",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
       "UOM": "CS",
@@ -730,23 +710,13 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "389",
+      "Available Qty.": "369",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-09-10T09:01:20.013236-05:00"
     },
     {
       "Available Qty.": "106",
@@ -758,7 +728,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3724",
+      "Available Qty.": "3716",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -767,7 +737,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3775",
+      "Available Qty.": "3767",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -785,7 +755,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "725",
+      "Available Qty.": "719",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -803,7 +773,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "990",
+      "Available Qty.": "975",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -839,7 +809,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "57",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -866,7 +836,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "371",
+      "Available Qty.": "363",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -893,7 +863,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "272",
+      "Available Qty.": "268",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -957,7 +927,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "238",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
