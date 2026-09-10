@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-10T06:01:03.239593-05:00",
-  "item_count": 106,
+  "updated_at": "September 10, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-10T07:01:13.348906-05:00",
+  "item_count": 109,
   "items": [
     {
       "Available Qty.": "71",
@@ -197,6 +197,16 @@
       "Gross Weight": "17"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D15-609P",
+      "Description": "Chicken Strips, Dark",
+      "UOM": "CS",
+      "Pack Size": "2/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-09-10T07:01:13.348599-05:00"
+    },
+    {
       "Available Qty.": "471",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
@@ -251,7 +261,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "75",
       "Item No.": "D27-104P",
       "Description": "Corn",
       "UOM": "CS",
@@ -324,7 +334,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1306",
+      "Available Qty.": "1301",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -490,7 +500,17 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "1",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-09T14:01:06.285759-05:00"
+    },
+    {
+      "Available Qty.": "13",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -509,7 +529,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "83",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -519,7 +539,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "79",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -546,6 +566,16 @@
       "Pack Size": "12/15 oz can",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P11-032P",
+      "Description": "Mix, Corn Muffin",
+      "UOM": "CS",
+      "Pack Size": "12/12.5 oz box",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-10T07:01:13.348599-05:00"
     },
     {
       "Available Qty.": "693",
@@ -657,7 +687,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "889",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -711,7 +741,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2069",
+      "Available Qty.": "2071",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -774,7 +804,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "726",
+      "Available Qty.": "725",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -792,7 +822,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1007",
+      "Available Qty.": "1010",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -919,7 +949,7 @@
       "new_since": "2026-09-09T16:01:07.091255-05:00"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "72",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
@@ -938,7 +968,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2863",
+      "Available Qty.": "2864",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
