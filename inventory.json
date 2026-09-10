@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 02:39 AM",
-  "updated_at_iso": "2026-09-10T02:39:58.598969-05:00",
-  "item_count": 110,
+  "updated_at": "September 10, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-09-10T03:01:07.318927-05:00",
+  "item_count": 109,
   "items": [
     {
       "Available Qty.": "71",
@@ -126,16 +126,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
-    },
-    {
       "Available Qty.": "1039",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -154,7 +144,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "20",
       "Item No.": "D28-579P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -173,7 +163,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "88",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -336,7 +326,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "9",
       "Item No.": "D28-997P",
       "Description": "Eggplant",
       "UOM": "CS",
@@ -501,7 +491,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "87",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -511,7 +501,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "89",
+      "Available Qty.": "70",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -669,7 +659,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "138",
+      "Available Qty.": "124",
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "UOM": "CS",
@@ -949,7 +939,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D28-632P",
       "Description": "Squash",
       "UOM": "CS",
