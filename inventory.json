@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-09-10T21:01:43.254202-05:00",
-  "item_count": 102,
+  "updated_at": "September 10, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-09-10T22:01:06.074826-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "71",
@@ -76,7 +76,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1020",
+      "Available Qty.": "1016",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -121,15 +121,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "612",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -137,6 +128,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "612",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -220,7 +220,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "407",
+      "Available Qty.": "403",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -238,7 +238,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2866",
+      "Available Qty.": "2853",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -256,7 +256,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1231",
+      "Available Qty.": "1201",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -294,16 +294,6 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D27-089P",
-      "Description": "Green Beans",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz. can",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
-    },
-    {
-      "Available Qty.": "6",
       "Item No.": "D27-017P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -340,7 +330,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "56",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -413,7 +403,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -423,7 +413,7 @@
       "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "43",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -470,7 +460,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "203",
+      "Available Qty.": "192",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -490,7 +480,7 @@
       "new_since": "2026-09-10T15:01:06.826384-05:00"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "17",
       "Item No.": "D07-1009P",
       "Description": "Milk, Strawberry 9/.5 gal",
       "UOM": "CS",
@@ -591,7 +581,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "104",
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "UOM": "CS",
@@ -672,7 +662,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2243",
+      "Available Qty.": "2235",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -789,7 +779,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "23",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -879,7 +869,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "55",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
