@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 11, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-11T14:01:14.878271-05:00",
-  "item_count": 115,
+  "updated_at": "September 11, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-11T15:01:08.278240-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "71",
@@ -133,16 +133,6 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D05-955P",
-      "Description": "Cereal 14/19 oz",
-      "UOM": "CS",
-      "Pack Size": "14/19 oz",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
-    },
-    {
       "Available Qty.": "77",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -171,15 +161,6 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "489",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -187,6 +168,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "489",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -225,7 +215,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "343",
+      "Available Qty.": "340",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -259,15 +249,6 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D26-034P",
-      "Description": "Crumbs, Graham Cracker",
-      "UOM": "CS",
-      "Pack Size": "1/25 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "25"
     },
     {
       "Available Qty.": "31",
@@ -389,7 +370,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "56",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -489,7 +470,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "12",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -508,7 +489,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "116",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -524,8 +505,7 @@
       "UOM": "CS",
       "Pack Size": "9/1 qt",
       "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-10T15:01:06.826384-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "51",
@@ -565,15 +545,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "P10-046P",
-      "Description": "Mixed Fruit in Juice",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "27"
-    },
-    {
       "Available Qty.": "1176",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
@@ -601,7 +572,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "192",
+      "Available Qty.": "180",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -756,7 +727,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "250",
       "Item No.": "D28-817P",
       "Description": "Potatoes",
       "UOM": "CS",
