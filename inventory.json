@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 10, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-09-10T22:01:06.074826-05:00",
-  "item_count": 101,
+  "updated_at": "September 10, 2026 at 11:01 PM",
+  "updated_at_iso": "2026-09-10T23:01:11.885688-05:00",
+  "item_count": 103,
   "items": [
     {
       "Available Qty.": "71",
@@ -121,15 +121,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "555",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "612",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -137,6 +128,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "555",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
@@ -293,7 +293,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "6",
       "Item No.": "D27-017P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -403,7 +403,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "8",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -451,6 +451,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "13",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-10T23:01:11.885257-05:00"
+    },
+    {
       "Available Qty.": "56",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -458,6 +468,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "48",
+      "Item No.": "D07-168P",
+      "Description": "Milk, Chocolate 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-10T02:01:19.574009-05:00"
     },
     {
       "Available Qty.": "192",
@@ -480,7 +500,7 @@
       "new_since": "2026-09-10T15:01:06.826384-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "7",
       "Item No.": "D07-1009P",
       "Description": "Milk, Strawberry 9/.5 gal",
       "UOM": "CS",
@@ -779,7 +799,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "13",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -788,7 +808,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "487",
+      "Available Qty.": "477",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -887,7 +907,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "228",
+      "Available Qty.": "229",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -905,7 +925,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "25",
       "Item No.": "D03-201P",
       "Description": "Water",
       "UOM": "CS",
