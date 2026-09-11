@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 11, 2026 at 09:43 AM",
-  "updated_at_iso": "2026-09-11T09:43:53.989889-05:00",
-  "item_count": 124,
+  "updated_at": "September 11, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-09-11T10:01:18.365729-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "71",
@@ -547,6 +547,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "90",
+      "Item No.": "D07-1054P",
+      "Description": "Milk, Almond, Vanilla 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/64 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "28",
+      "new_since": "2026-09-11T10:01:18.365152-05:00"
+    },
+    {
       "Available Qty.": "48",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
@@ -574,6 +584,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-09-10T15:01:06.826384-05:00"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "D07-619P",
+      "Description": "Milk, Salted Caramel 12/14 oz",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-11T10:01:18.365152-05:00"
     },
     {
       "Available Qty.": "0",
