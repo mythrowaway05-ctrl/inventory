@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 11, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-11T07:01:08.595372-05:00",
+  "updated_at": "September 11, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-11T08:01:05.651546-05:00",
   "item_count": 107,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D16-055P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -87,6 +87,16 @@
       "Gross Weight": "13"
     },
     {
+      "Available Qty.": "6",
+      "Item No.": "D28-461P",
+      "Description": "Bell Peppers",
+      "UOM": "CS",
+      "Pack Size": "1/25 lb",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-09-11T08:01:05.651108-05:00"
+    },
+    {
       "Available Qty.": "309",
       "Item No.": "P23-092P",
       "Description": "Black Beans, Dry Bag",
@@ -114,7 +124,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "965",
+      "Available Qty.": "960",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -123,7 +133,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "48",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -143,7 +153,7 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D05-954P",
       "Description": "Cereal 10/18 oz",
       "UOM": "CS",
@@ -172,7 +182,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -318,7 +328,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2853",
+      "Available Qty.": "2843",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -364,7 +374,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "671",
+      "Available Qty.": "666",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -383,7 +393,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D27-017P",
       "Description": "Green Beans",
       "UOM": "CS",
@@ -419,7 +429,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "59",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -437,7 +447,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "5",
       "Item No.": "D08-475P",
       "Description": "Ice Cream Sandwiches",
       "UOM": "CS",
@@ -510,7 +520,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "44",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -520,16 +530,6 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D15-986P",
-      "Description": "Lunchmeat",
-      "UOM": "CS",
-      "Pack Size": "8/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
-    },
-    {
-      "Available Qty.": "5",
       "Item No.": "D15-134P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -540,12 +540,12 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D15-231P",
-      "Description": "Lunchmeat, Turkey Breast",
+      "Item No.": "D15-986P",
+      "Description": "Lunchmeat",
       "UOM": "CS",
-      "Pack Size": "8/9 oz",
+      "Pack Size": "8/6 oz",
       "Feature Type": "",
-      "Gross Weight": "5",
+      "Gross Weight": "4",
       "new_since": "2026-09-10T17:01:07.274884-05:00"
     },
     {
@@ -596,7 +596,7 @@
       "new_since": "2026-09-10T17:01:07.274884-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "3",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -606,7 +606,7 @@
       "new_since": "2026-09-10T15:01:06.826384-05:00"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "3",
       "Item No.": "D07-1009P",
       "Description": "Milk, Strawberry 9/.5 gal",
       "UOM": "CS",
@@ -640,8 +640,7 @@
       "UOM": "CS",
       "Pack Size": "12/12.5 oz box",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-10T07:01:13.348599-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "693",
@@ -798,7 +797,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "0",
       "Item No.": "D26-675P",
       "Description": "Pickle Bites",
       "UOM": "CS",
@@ -854,7 +853,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "246",
+      "Available Qty.": "240",
       "Item No.": "D28-817P",
       "Description": "Potatoes",
       "UOM": "CS",
