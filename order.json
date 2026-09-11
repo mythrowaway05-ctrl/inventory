@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-11T05:16:18.899079-05:00",
+  "scraped_at": "2026-09-11T06:01:08.063994-05:00",
   "po_number": "PO6355817",
   "appointment": {
     "reference_number": "PO6355817",
@@ -7,22 +7,22 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n4",
-    "Total Line Items": "Gross Weight\n741 lbs",
+    "Total Line Items": "Gross Weight\n694 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t0\tCS\t567\t3.78\tCase\t24/12 oz\tDry\t0.00\t\u00a0\nD26-465P\tSauce, Worcestershire\t2\t0\tCS\t74\t6.71\tCase\t4/1 Gallon\tDry\t0.00\t\u00a0\nD03-201P\tWater\t2\t0\tCS\t52\t0.00\tCase\t3/1 gal\tDry\t0.00\t\u00a0\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t48\t2.16\tCase\t12/16oz\tFrozen Food\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\t\u00a0\nD26-465P\tSauce, Worcestershire\t2\t2\tCS\t75\t6.71\t\u00a0\t4/1 Gallon\tDRY\t0.00\t\u00a0\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\t\u00a0\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t0\t2.16\t\u00a0\t12/16oz\tFROZEN\t0.00"
   },
   "items": [
     {
       "Item No.": "D03-884P",
       "Description": "Gatorade",
       "Order Qty.": "27",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "27",
       "UOM": "CS",
       "Gross Weight": "567",
-      "Packaging Type": "Case",
+      "Packaging Type": "",
       "Pack Size": "24/12 oz",
-      "Handling Requirements": "Dry",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -30,12 +30,12 @@
       "Item No.": "D26-465P",
       "Description": "Sauce, Worcestershire",
       "Order Qty.": "2",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "2",
       "UOM": "CS",
-      "Gross Weight": "74",
-      "Packaging Type": "Case",
+      "Gross Weight": "75",
+      "Packaging Type": "",
       "Pack Size": "4/1 Gallon",
-      "Handling Requirements": "Dry",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -43,12 +43,12 @@
       "Item No.": "D03-201P",
       "Description": "Water",
       "Order Qty.": "2",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "2",
       "UOM": "CS",
       "Gross Weight": "52",
-      "Packaging Type": "Case",
+      "Packaging Type": "",
       "Pack Size": "3/1 gal",
-      "Handling Requirements": "Dry",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     },
@@ -58,10 +58,10 @@
       "Order Qty.": "4",
       "Accepted Qty.": "0",
       "UOM": "CS",
-      "Gross Weight": "48",
-      "Packaging Type": "Case",
+      "Gross Weight": "0",
+      "Packaging Type": "",
       "Pack Size": "12/16oz",
-      "Handling Requirements": "Frozen Food",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": ""
     }
