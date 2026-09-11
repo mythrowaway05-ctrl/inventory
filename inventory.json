@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 11, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-09-11T09:01:04.925676-05:00",
-  "item_count": 125,
+  "updated_at": "September 11, 2026 at 09:43 AM",
+  "updated_at_iso": "2026-09-11T09:43:53.989889-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "71",
@@ -13,23 +13,13 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "373",
+      "Available Qty.": "368",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-794P",
-      "Description": "Assorted Ice Cream - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 lbs",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
       "Available Qty.": "1",
@@ -191,15 +181,6 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "609",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -207,6 +188,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "609",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -309,7 +299,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1121",
+      "Available Qty.": "1101",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -346,7 +336,7 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "1197",
+      "Available Qty.": "1187",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -355,7 +345,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "408",
+      "Available Qty.": "398",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -364,7 +354,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "660",
+      "Available Qty.": "650",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -491,7 +481,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D28-578P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -500,7 +490,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "25",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -604,7 +594,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "563",
+      "Available Qty.": "523",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -614,7 +604,7 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "255",
+      "Available Qty.": "245",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -623,7 +613,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "693",
+      "Available Qty.": "683",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -668,7 +658,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "202",
+      "Available Qty.": "192",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -704,7 +694,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "34",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -759,7 +749,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "741",
+      "Available Qty.": "731",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -804,7 +794,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "26",
       "Item No.": "D08-555P",
       "Description": "Popsicle",
       "UOM": "CS",
@@ -842,7 +832,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3677",
+      "Available Qty.": "3657",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -851,7 +841,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3725",
+      "Available Qty.": "3705",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -888,7 +878,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "240",
+      "Available Qty.": "230",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -948,7 +938,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "3",
       "Item No.": "D15-650P",
       "Description": "Sausage Roll Hot",
       "UOM": "CS",
@@ -988,7 +978,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "12",
       "Item No.": "D03-780P",
       "Description": "Soda, Diet",
       "UOM": "CS",
@@ -1088,7 +1078,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "376",
+      "Available Qty.": "336",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
@@ -1098,7 +1088,7 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "378",
+      "Available Qty.": "338",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
