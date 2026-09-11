@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 11, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-09-11T02:01:04.995419-05:00",
+  "updated_at": "September 11, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-09-11T03:01:05.869485-05:00",
   "item_count": 109,
   "items": [
     {
@@ -181,15 +181,6 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "612",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -197,6 +188,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "612",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -399,8 +399,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "901",
@@ -436,8 +435,7 @@
       "UOM": "CS",
       "Pack Size": "12/1 pt",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "1635",
@@ -519,8 +517,7 @@
       "UOM": "CS",
       "Pack Size": "1/16 lb",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "43",
@@ -532,16 +529,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-986P",
-      "Description": "Lunchmeat",
-      "UOM": "CS",
-      "Pack Size": "8/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D15-134P",
       "Description": "Lunchmeat",
@@ -550,6 +537,16 @@
       "Feature Type": "",
       "Gross Weight": "13",
       "new_since": "2026-09-11T02:01:04.994909-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-986P",
+      "Description": "Lunchmeat",
+      "UOM": "CS",
+      "Pack Size": "8/6 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-09-10T17:01:07.274884-05:00"
     },
     {
       "Available Qty.": "0",
@@ -596,8 +593,7 @@
       "UOM": "CS",
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "192",
@@ -626,8 +622,7 @@
       "UOM": "CS",
       "Pack Size": "9/.5 gallon",
       "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-09-10T02:01:19.574009-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "71",
@@ -991,7 +986,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "10",
       "Item No.": "D03-201P",
       "Description": "Water",
       "UOM": "CS",
