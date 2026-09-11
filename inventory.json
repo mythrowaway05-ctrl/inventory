@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 11, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-09-11T15:01:08.278240-05:00",
-  "item_count": 112,
+  "updated_at": "September 11, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-09-11T16:01:07.093879-05:00",
+  "item_count": 110,
   "items": [
     {
       "Available Qty.": "71",
@@ -315,7 +315,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "596",
+      "Available Qty.": "594",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -332,15 +332,6 @@
       "Pack Size": "150/3 ct",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D27-017P",
-      "Description": "Green Beans",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "26"
     },
     {
       "Available Qty.": "890",
@@ -440,16 +431,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-986P",
-      "Description": "Lunchmeat",
-      "UOM": "CS",
-      "Pack Size": "8/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
     },
     {
       "Available Qty.": "829",
@@ -862,7 +843,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "49",
       "Item No.": "D03-991P",
       "Description": "Soda 4-6/7.5 oz",
       "UOM": "CS",
@@ -872,7 +853,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D03-780P",
       "Description": "Soda, Diet",
       "UOM": "CS",
