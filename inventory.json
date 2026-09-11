@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 11, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-09-11T17:01:01.537572-05:00",
-  "item_count": 109,
+  "updated_at": "September 11, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-09-11T18:01:01.568995-05:00",
+  "item_count": 111,
   "items": [
     {
       "Available Qty.": "71",
@@ -84,6 +84,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-11T18:01:01.568326-05:00"
     },
     {
       "Available Qty.": "1012",
@@ -306,6 +316,16 @@
       "Gross Weight": "4"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D25-936P",
+      "Description": "Fruit Snacks",
+      "UOM": "CS",
+      "Pack Size": "8/8 oz Case",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-11T18:01:01.568326-05:00"
+    },
+    {
       "Available Qty.": "398",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
@@ -321,8 +341,7 @@
       "UOM": "CS",
       "Pack Size": "4-6/20 oz",
       "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
+      "Gross Weight": "35"
     },
     {
       "Available Qty.": "584",
@@ -466,8 +485,7 @@
       "UOM": "CS",
       "Pack Size": "9/.5 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-10T17:01:07.274884-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "2",
@@ -488,7 +506,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "513",
+      "Available Qty.": "493",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -763,7 +781,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "210",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -933,7 +951,7 @@
       "new_since": "2026-09-11T09:01:04.925323-05:00"
     },
     {
-      "Available Qty.": "318",
+      "Available Qty.": "298",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
@@ -963,7 +981,7 @@
       "new_since": "2026-09-11T02:01:04.994909-05:00"
     },
     {
-      "Available Qty.": "2799",
+      "Available Qty.": "2797",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -972,7 +990,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "209",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
