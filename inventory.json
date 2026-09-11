@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 11, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-09-11T05:01:16.792414-05:00",
+  "updated_at": "September 11, 2026 at 05:16 AM",
+  "updated_at_iso": "2026-09-11T05:16:18.941541-05:00",
   "item_count": 109,
   "items": [
     {
@@ -364,7 +364,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "0",
       "Item No.": "D03-884P",
       "Description": "Gatorade",
       "UOM": "CS",
@@ -845,7 +845,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D08-555P",
       "Description": "Popsicle",
       "UOM": "CS",
@@ -864,7 +864,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "250",
+      "Available Qty.": "249",
       "Item No.": "D28-817P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -986,7 +986,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D03-201P",
       "Description": "Water",
       "UOM": "CS",

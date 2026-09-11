@@ -1,18 +1,44 @@
 {
-  "scraped_at": "2026-09-11T05:01:16.734585-05:00",
+  "scraped_at": "2026-09-11T05:16:18.899079-05:00",
   "po_number": "PO6355817",
   "appointment": {
     "reference_number": "PO6355817",
     "pickup_date": "09/23/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n2",
-    "Total Line Items": "Gross Weight\n100 lbs",
+    "Total Due": "Total Line Items\n4",
+    "Total Line Items": "Gross Weight\n741 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-201P\tWater\t2\t0\tCS\t52\t0.00\tCase\t3/1 gal\tDry\t0.00\t\u00a0\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t48\t2.16\tCase\t12/16oz\tFrozen Food\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t0\tCS\t567\t3.78\tCase\t24/12 oz\tDry\t0.00\t\u00a0\nD26-465P\tSauce, Worcestershire\t2\t0\tCS\t74\t6.71\tCase\t4/1 Gallon\tDry\t0.00\t\u00a0\nD03-201P\tWater\t2\t0\tCS\t52\t0.00\tCase\t3/1 gal\tDry\t0.00\t\u00a0\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t48\t2.16\tCase\t12/16oz\tFrozen Food\t0.00"
   },
   "items": [
+    {
+      "Item No.": "D03-884P",
+      "Description": "Gatorade",
+      "Order Qty.": "27",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "567",
+      "Packaging Type": "Case",
+      "Pack Size": "24/12 oz",
+      "Handling Requirements": "Dry",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
+    {
+      "Item No.": "D26-465P",
+      "Description": "Sauce, Worcestershire",
+      "Order Qty.": "2",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "74",
+      "Packaging Type": "Case",
+      "Pack Size": "4/1 Gallon",
+      "Handling Requirements": "Dry",
+      "VAP Fee": "0.00",
+      "Nutritional Information": ""
+    },
     {
       "Item No.": "D03-201P",
       "Description": "Water",
