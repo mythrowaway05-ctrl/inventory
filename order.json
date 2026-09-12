@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-09-12T05:01:19.777837-05:00",
+  "scraped_at": "2026-09-12T06:01:01.424445-05:00",
   "po_number": "PO6355817",
   "appointment": {
     "reference_number": "PO6355817",
     "pickup_date": "09/23/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n5",
-    "Total Line Items": "Gross Weight\n669 lbs",
+    "Total Due": "Total Line Items\n7",
+    "Total Line Items": "Gross Weight\n859 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\tNot Yet Ranked\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t0\t2.16\t\u00a0\t12/16oz\tFROZEN\t0.00\tNot Yet Ranked\nD28-136P\tPapaya\t2\t0\tCS\t0\t0.00\t\u00a0\t1/38lb\tREF\t0.00\tNot Yet Ranked\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\tNot Yet Ranked\nD28-136P\tPapaya\t2\t0\tCS\t0\t0.00\t\u00a0\t1/38lb\tREF\t0.00\tNot Yet Ranked\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00\tNot Yet Ranked\nD19-009P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t150\t28.50\t\u00a0\t1/150 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD28-461P\tBell Peppers\t2\t0\tCS\t0\t0.00\t\u00a0\t1/25 lb\tREF\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t10\t10\tBAG\t40\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -40,19 +40,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D15-650P",
-      "Description": "Sausage Roll Hot",
-      "Order Qty.": "4",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "12/16oz",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "Order Qty.": "2",
@@ -75,6 +62,45 @@
       "Packaging Type": "",
       "Pack Size": "5/10 lb",
       "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D19-009P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "BULK",
+      "Gross Weight": "150",
+      "Packaging Type": "",
+      "Pack Size": "1/150 Lb BULK TOTE",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D28-461P",
+      "Description": "Bell Peppers",
+      "Order Qty.": "2",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "1/25 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D27-773P",
+      "Description": "Corn on the Cob",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
+      "UOM": "BAG",
+      "Gross Weight": "40",
+      "Packaging Type": "",
+      "Pack Size": "1/4 lb",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
