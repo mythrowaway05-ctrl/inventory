@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-12T03:01:01.321984-05:00",
+  "scraped_at": "2026-09-12T04:01:06.796117-05:00",
   "po_number": "PO6355817",
   "appointment": {
     "reference_number": "PO6355817",
@@ -10,7 +10,7 @@
     "Total Line Items": "Gross Weight\n669 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\t\u00a0\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\t\u00a0\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t0\t2.16\t\u00a0\t12/16oz\tFROZEN\t0.00\t\u00a0\nD28-136P\tPapaya\t2\t0\tCS\t0\t0.00\t\u00a0\t1/38lb\tREF\t0.00\t\u00a0\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\tNot Yet Ranked\nD15-650P\tSausage Roll Hot\t4\t0\tCS\t0\t2.16\t\u00a0\t12/16oz\tFROZEN\t0.00\tNot Yet Ranked\nD28-136P\tPapaya\t2\t0\tCS\t0\t0.00\t\u00a0\t1/38lb\tREF\t0.00\tNot Yet Ranked\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -24,7 +24,7 @@
       "Pack Size": "24/12 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
-      "Nutritional Information": ""
+      "Nutritional Information": "Not Yet Ranked"
     },
     {
       "Item No.": "D03-201P",
@@ -37,7 +37,7 @@
       "Pack Size": "3/1 gal",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
-      "Nutritional Information": ""
+      "Nutritional Information": "Not Yet Ranked"
     },
     {
       "Item No.": "D15-650P",
@@ -50,7 +50,7 @@
       "Pack Size": "12/16oz",
       "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
-      "Nutritional Information": ""
+      "Nutritional Information": "Not Yet Ranked"
     },
     {
       "Item No.": "D28-136P",
@@ -63,7 +63,7 @@
       "Pack Size": "1/38lb",
       "Handling Requirements": "REF",
       "VAP Fee": "0.00",
-      "Nutritional Information": ""
+      "Nutritional Information": "Not Yet Ranked"
     },
     {
       "Item No.": "D28-817P",
@@ -76,7 +76,7 @@
       "Pack Size": "5/10 lb",
       "Handling Requirements": "REF",
       "VAP Fee": "0.00",
-      "Nutritional Information": ""
+      "Nutritional Information": "Not Yet Ranked"
     }
   ]
 }
