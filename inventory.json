@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 12, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-12T01:01:02.716055-05:00",
-  "item_count": 109,
+  "updated_at": "September 12, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-12T02:01:15.675842-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "71",
@@ -20,6 +20,26 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-009P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/150 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "150",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-016P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/130 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "130",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
       "Available Qty.": "1",
@@ -129,8 +149,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.5 oz cans",
       "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "27"
     },
     {
       "Available Qty.": "77",
@@ -140,6 +159,16 @@
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "248",
+      "Item No.": "D07-704P",
+      "Description": "Cheese, Pepperjack",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
       "Available Qty.": "15",
@@ -157,17 +186,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "22",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
-    },
-    {
-      "Available Qty.": "555",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
+      "Gross Weight": "22"
     },
     {
       "Available Qty.": "479",
@@ -177,6 +196,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "555",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
@@ -251,14 +279,23 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "200",
+      "Item No.": "D27-773P",
+      "Description": "Corn on the Cob",
+      "UOM": "BAG",
+      "Pack Size": "1/4 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "4",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
       "Available Qty.": "31",
       "Item No.": "D08-030P",
       "Description": "Dessert Topping",
       "UOM": "CS",
       "Pack Size": "6/5 cans",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "23"
     },
     {
       "Available Qty.": "389",
@@ -343,7 +380,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "900",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -442,6 +479,16 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "1019",
+      "Item No.": "D26-676P",
+      "Description": "Liquid Pineapple Topping",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
       "Available Qty.": "828",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
@@ -460,6 +507,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "74",
+      "Item No.": "D07-152P",
+      "Description": "Milk, Almond 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/.5 Gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "26",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
       "Available Qty.": "38",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
@@ -469,6 +526,16 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "33",
+      "Item No.": "D07-1038P",
+      "Description": "Milk, Chocolate 50/8 oz",
+      "UOM": "CS",
+      "Pack Size": "50/8 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "32",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
       "Available Qty.": "116",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
@@ -476,6 +543,16 @@
       "Pack Size": "9/.5 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "44"
+    },
+    {
+      "Available Qty.": "54",
+      "Item No.": "D07-613P",
+      "Description": "Milk, Whole, Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
       "Available Qty.": "47",
@@ -493,8 +570,7 @@
       "UOM": "CS",
       "Pack Size": "12/9 oz pkg",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "237",
@@ -584,8 +660,7 @@
       "UOM": "CS",
       "Pack Size": "30/1 roll",
       "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "13"
     },
     {
       "Available Qty.": "602",
@@ -684,8 +759,7 @@
       "UOM": "CS",
       "Pack Size": "6/12 ct",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "345",
@@ -703,8 +777,7 @@
       "UOM": "CS",
       "Pack Size": "5/10 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "398",
@@ -938,8 +1011,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.25 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "296",
@@ -948,8 +1020,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "131",
@@ -958,8 +1029,27 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "23"
+    },
+    {
+      "Available Qty.": "40",
+      "Item No.": "D26-677P",
+      "Description": "Syrup, Pineapple Flavored",
+      "UOM": "CS",
+      "Pack Size": "2/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
+    },
+    {
+      "Available Qty.": "31",
+      "Item No.": "D03-960P",
+      "Description": "Tea, Sweet 20/1 pt",
+      "UOM": "CS",
+      "Pack Size": "20/1 pt",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
       "Available Qty.": "2797",
@@ -977,8 +1067,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "217",
@@ -1014,8 +1103,7 @@
       "UOM": "CS",
       "Pack Size": "3-8/12 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-11T02:01:04.994909-05:00"
+      "Gross Weight": "20"
     }
   ]
 }
