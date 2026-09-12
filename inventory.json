@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 12, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-12T16:01:03.254584-05:00",
-  "item_count": 114,
+  "updated_at": "September 12, 2026 at 04:50 PM",
+  "updated_at_iso": "2026-09-12T16:50:24.260470-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "65",
@@ -149,15 +149,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "454",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "555",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -165,6 +156,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "454",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -239,7 +239,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "100",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -458,7 +458,7 @@
       "new_since": "2026-09-12T09:01:02.454985-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "8",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -488,7 +488,7 @@
       "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
-      "Available Qty.": "114",
+      "Available Qty.": "109",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -496,16 +496,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "44",
       "new_since": "2026-09-12T09:01:02.454985-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-613P",
-      "Description": "Milk, Whole, Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
       "Available Qty.": "44",
@@ -743,7 +733,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "138",
       "Item No.": "D28-817P",
       "Description": "Potatoes",
       "UOM": "CS",
