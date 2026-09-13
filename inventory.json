@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 12, 2026 at 09:11 PM",
-  "updated_at_iso": "2026-09-12T21:11:25.498977-05:00",
+  "updated_at": "September 12, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-09-12T22:01:07.304927-05:00",
   "item_count": 113,
   "items": [
     {
@@ -94,7 +94,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -121,7 +121,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "238",
+      "Available Qty.": "236",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -131,7 +131,7 @@
       "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "4",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "90",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -357,7 +357,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "23",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -478,7 +478,7 @@
       "new_since": "2026-09-12T09:01:02.454985-05:00"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "31",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -488,7 +488,7 @@
       "new_since": "2026-09-12T02:01:15.675325-05:00"
     },
     {
-      "Available Qty.": "109",
+      "Available Qty.": "107",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -859,7 +859,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "41",
       "Item No.": "D03-991P",
       "Description": "Soda 4-6/7.5 oz",
       "UOM": "CS",
@@ -868,7 +868,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "D03-780P",
       "Description": "Soda, Diet",
       "UOM": "CS",
