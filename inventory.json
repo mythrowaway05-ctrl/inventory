@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 14, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-14T01:01:06.345619-05:00",
-  "item_count": 112,
+  "updated_at": "September 14, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-14T02:01:15.104294-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "46",
@@ -148,15 +148,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "555",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "454",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -164,6 +155,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "555",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
@@ -272,6 +272,16 @@
       "Pack Size": "12/0.6 oz",
       "Feature Type": "",
       "Gross Weight": "1"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-997P",
+      "Description": "Eggplant",
+      "UOM": "CS",
+      "Pack Size": "1/35 lb",
+      "Feature Type": "",
+      "Gross Weight": "35",
+      "new_since": "2026-09-14T02:01:15.103843-05:00"
     },
     {
       "Available Qty.": "2748",
