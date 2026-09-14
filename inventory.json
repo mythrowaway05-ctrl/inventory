@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 14, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-14T08:01:09.557122-05:00",
-  "item_count": 104,
+  "updated_at": "September 14, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-09-14T09:01:12.107471-05:00",
+  "item_count": 105,
   "items": [
     {
       "Available Qty.": "46",
@@ -13,7 +13,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "358",
+      "Available Qty.": "353",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "78",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -31,7 +31,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "353",
+      "Available Qty.": "343",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -67,7 +67,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "1006",
+      "Available Qty.": "1001",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -76,7 +76,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1178",
+      "Available Qty.": "1173",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -112,7 +112,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "216",
+      "Available Qty.": "196",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -229,7 +229,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -265,7 +265,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2733",
+      "Available Qty.": "2723",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -301,7 +301,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "460",
+      "Available Qty.": "450",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -328,7 +328,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "285",
+      "Available Qty.": "280",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -346,7 +346,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1448",
+      "Available Qty.": "1428",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -391,7 +391,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "74",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -526,7 +526,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "189",
+      "Available Qty.": "179",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -535,7 +535,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "107",
+      "Available Qty.": "102",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -607,7 +607,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "730",
+      "Available Qty.": "727",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -625,7 +625,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "379",
+      "Available Qty.": "374",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -644,7 +644,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "110",
       "Item No.": "P23-095P",
       "Description": "Pinto Beans, Low Sodium",
       "UOM": "CS",
@@ -664,13 +664,23 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "345",
+      "Available Qty.": "335",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15",
+      "new_since": "2026-09-13T22:01:16.620588-05:00"
+    },
+    {
+      "Available Qty.": "112",
+      "Item No.": "D28-817P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "5/10 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
@@ -744,7 +754,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "911",
+      "Available Qty.": "906",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -804,7 +814,7 @@
       "new_since": "2026-09-14T07:01:09.160230-05:00"
     },
     {
-      "Available Qty.": "387",
+      "Available Qty.": "377",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -824,7 +834,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "586",
+      "Available Qty.": "581",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -852,7 +862,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "115",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -861,7 +871,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "258",
+      "Available Qty.": "253",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -870,7 +880,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "356",
+      "Available Qty.": "351",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
       "UOM": "CS",
@@ -879,7 +889,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "306",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -906,7 +916,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "106",
+      "Available Qty.": "101",
       "Item No.": "P27-154P",
       "Description": "Sweet Potatoes, Light Syrup",
       "UOM": "CS",
@@ -924,7 +934,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "2455",
+      "Available Qty.": "2435",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -933,7 +943,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "163",
+      "Available Qty.": "158",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
