@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 13, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-09-13T22:01:16.621006-05:00",
-  "item_count": 113,
+  "updated_at": "September 13, 2026 at 11:01 PM",
+  "updated_at_iso": "2026-09-13T23:01:02.338331-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "46",
@@ -121,7 +121,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "227",
+      "Available Qty.": "217",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -238,7 +238,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "80",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -355,7 +355,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "26",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -418,7 +418,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D28-882P",
       "Description": "Limes",
       "UOM": "CS",
@@ -580,7 +580,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "9",
       "Item No.": "D28-136P",
       "Description": "Papaya",
       "UOM": "CS",
@@ -690,7 +690,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "16",
       "Item No.": "D08-555P",
       "Description": "Popsicle",
       "UOM": "CS",
@@ -934,7 +934,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "41",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
@@ -970,7 +970,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "D26-677P",
       "Description": "Syrup, Pineapple Flavored",
       "UOM": "CS",
@@ -988,7 +988,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "2639",
+      "Available Qty.": "2635",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1022,15 +1022,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D03-010P",
-      "Description": "Water 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "51"
     },
     {
       "Available Qty.": "17",
