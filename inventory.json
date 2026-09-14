@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 14, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-14T06:01:07.104276-05:00",
-  "item_count": 113,
+  "updated_at": "September 14, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-14T07:01:09.160890-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "46",
@@ -94,15 +94,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "145",
       "Item No.": "P27-045P",
       "Description": "Carrots, Sliced",
@@ -121,7 +112,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "217",
+      "Available Qty.": "216",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -229,7 +220,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "395",
+      "Available Qty.": "393",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -274,16 +265,6 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-997P",
-      "Description": "Eggplant",
-      "UOM": "CS",
-      "Pack Size": "1/35 lb",
-      "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-09-14T02:01:15.103843-05:00"
-    },
-    {
       "Available Qty.": "2748",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
@@ -320,7 +301,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "568",
+      "Available Qty.": "460",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -365,16 +346,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "26",
-      "Item No.": "D07-1072P",
-      "Description": "Half and Half 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "1608",
+      "Available Qty.": "1448",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -428,16 +400,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-882P",
-      "Description": "Limes",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "1019",
+      "Available Qty.": "929",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -464,7 +427,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "4",
       "Item No.": "D07-152P",
       "Description": "Milk, Almond 6/.5 gal",
       "UOM": "CS",
@@ -491,7 +454,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "13",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -563,7 +526,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "189",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -588,15 +551,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "24"
-    },
-    {
-      "Available Qty.": "9",
-      "Item No.": "D28-136P",
-      "Description": "Papaya",
-      "UOM": "CS",
-      "Pack Size": "1/38lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "15",
@@ -835,7 +789,7 @@
       "Description": "Sauce, Wasabi 4/32 oz",
       "UOM": "CS",
       "Pack Size": "4/32 oz",
-      "Feature Type": "",
+      "Feature Type": "Free Item",
       "Gross Weight": "8",
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
@@ -850,6 +804,16 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
+      "Available Qty.": "9",
+      "Item No.": "D15-650P",
+      "Description": "Sausage Roll Hot",
+      "UOM": "CS",
+      "Pack Size": "12/16oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-14T07:01:09.160230-05:00"
+    },
+    {
       "Available Qty.": "387",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
@@ -857,16 +821,6 @@
       "Pack Size": "12/14 oz",
       "Feature Type": "",
       "Gross Weight": "11",
-      "new_since": "2026-09-13T22:01:16.620588-05:00"
-    },
-    {
-      "Available Qty.": "37",
-      "Item No.": "D03-991P",
-      "Description": "Soda 4-6/7.5 oz",
-      "UOM": "CS",
-      "Pack Size": "4-6/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
@@ -944,7 +898,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "1",
       "Item No.": "D28-803P",
       "Description": "Squash, Winter",
       "UOM": "CS",
@@ -989,16 +943,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D03-960P",
-      "Description": "Tea, Sweet 20/1 pt",
-      "UOM": "CS",
-      "Pack Size": "20/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "2635",
+      "Available Qty.": "2455",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -1030,15 +975,6 @@
       "Description": "Vegetable Oil",
       "UOM": "CS",
       "Pack Size": "12/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "17",
-      "Item No.": "D03-1098P",
-      "Description": "Zero Sugar, Ginger Root Beer 3-8/12 oz",
-      "UOM": "CS",
-      "Pack Size": "3-8/12 oz",
       "Feature Type": "",
       "Gross Weight": "20"
     }
