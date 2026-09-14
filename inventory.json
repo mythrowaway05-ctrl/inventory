@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 14, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-09-14T12:01:10.553895-05:00",
-  "item_count": 101,
+  "updated_at": "September 14, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-09-14T13:01:38.838006-05:00",
+  "item_count": 100,
   "items": [
     {
       "Available Qty.": "17",
@@ -229,7 +229,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -775,16 +775,6 @@
       "Feature Type": "",
       "Gross Weight": "37",
       "new_since": "2026-09-13T22:01:16.620588-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-650P",
-      "Description": "Sausage Roll Hot",
-      "UOM": "CS",
-      "Pack Size": "12/16oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-14T07:01:09.160230-05:00"
     },
     {
       "Available Qty.": "355",
