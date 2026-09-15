@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 14, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-14T20:01:02.539733-05:00",
-  "item_count": 100,
+  "updated_at": "September 14, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-09-14T21:01:06.638442-05:00",
+  "item_count": 99,
   "items": [
     {
       "Available Qty.": "17",
@@ -11,16 +11,6 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "",
       "Gross Weight": "50"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D15-324P",
-      "Description": "8 Piece Cut Chicken",
-      "UOM": "CS",
-      "Pack Size": "8/6 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-09-14T15:01:09.847440-05:00"
     },
     {
       "Available Qty.": "353",
@@ -41,7 +31,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "337",
+      "Available Qty.": "333",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -77,7 +67,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "883",
+      "Available Qty.": "881",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -86,7 +76,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1094",
+      "Available Qty.": "1092",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -230,7 +220,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "303",
+      "Available Qty.": "301",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -275,7 +265,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2513",
+      "Available Qty.": "2510",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -293,7 +283,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "567",
+      "Available Qty.": "541",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -464,7 +454,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "212",
+      "Available Qty.": "210",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -491,7 +481,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1113",
+      "Available Qty.": "1112",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -599,7 +589,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4126",
+      "Available Qty.": "4123",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -617,7 +607,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2146",
+      "Available Qty.": "2144",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -647,7 +637,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "655",
+      "Available Qty.": "652",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -667,7 +657,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "3501",
+      "Available Qty.": "3499",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -677,7 +667,7 @@
       "new_since": "2026-09-13T22:01:16.620588-05:00"
     },
     {
-      "Available Qty.": "3515",
+      "Available Qty.": "3513",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -825,7 +815,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "114",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
