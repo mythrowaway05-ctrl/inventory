@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 15, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-09-15T12:01:02.775267-05:00",
+  "updated_at": "September 15, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-09-15T13:01:10.722602-05:00",
   "item_count": 101,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "5",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -41,7 +41,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "332",
+      "Available Qty.": "322",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -59,7 +59,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1019",
+      "Available Qty.": "1009",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -87,7 +87,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "10",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -142,7 +142,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "184",
+      "Available Qty.": "183",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -151,7 +151,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "11",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -178,7 +178,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "435",
+      "Available Qty.": "415",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -259,7 +259,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "150",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -295,7 +295,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2498",
+      "Available Qty.": "2491",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -349,7 +349,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "850",
+      "Available Qty.": "845",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -367,7 +367,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1227",
+      "Available Qty.": "1221",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -439,7 +439,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "27",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -466,7 +466,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -476,7 +476,7 @@
       "new_since": "2026-09-15T02:01:01.465731-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "2",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -585,7 +585,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "584",
+      "Available Qty.": "577",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -630,7 +630,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4109",
+      "Available Qty.": "4107",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -648,7 +648,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2140",
+      "Available Qty.": "2133",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -693,7 +693,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3489",
+      "Available Qty.": "3473",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -702,7 +702,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3503",
+      "Available Qty.": "3487",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -720,7 +720,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "573",
+      "Available Qty.": "566",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -783,7 +783,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "353",
+      "Available Qty.": "343",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
