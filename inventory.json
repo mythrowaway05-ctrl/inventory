@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 16, 2026 at 03:07 AM",
-  "updated_at_iso": "2026-09-16T03:07:02.446029-05:00",
+  "updated_at": "September 16, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-09-16T04:01:03.707184-05:00",
   "item_count": 111,
   "items": [
     {
@@ -52,6 +52,16 @@
       "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D19-015P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/180 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "180",
+      "new_since": "2026-09-16T02:01:05.652567-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D19-012P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
@@ -69,16 +79,6 @@
       "Pack Size": "1/160 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "160",
-      "new_since": "2026-09-16T02:01:05.652567-05:00"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D19-015P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
       "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
@@ -238,15 +238,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "543",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "412",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -254,6 +245,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "543",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "5",
