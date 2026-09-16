@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 16, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-16T14:01:02.967428-05:00",
+  "updated_at": "September 16, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-16T15:01:12.702545-05:00",
   "item_count": 100,
   "items": [
     {
@@ -239,7 +239,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "196",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -658,7 +658,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "393",
+      "Available Qty.": "400",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -767,14 +767,13 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "72",
       "Item No.": "D03-292P",
       "Description": "Soda, Zero Sugar",
       "UOM": "CS",
       "Pack Size": "12/12 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-09-15T14:01:04.239657-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "35",
@@ -783,8 +782,7 @@
       "UOM": "CS",
       "Pack Size": "24/20 oz",
       "Feature Type": "",
-      "Gross Weight": "32",
-      "new_since": "2026-09-15T14:01:04.239657-05:00"
+      "Gross Weight": "32"
     },
     {
       "Available Qty.": "575",
