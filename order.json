@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T04:01:03.652984-05:00",
+  "scraped_at": "2026-09-16T05:00:59.584054-05:00",
   "po_number": "PO6355817",
   "appointment": {
     "reference_number": "PO6355817",
@@ -7,25 +7,12 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n6",
-    "Total Line Items": "Gross Weight\n899 lbs",
+    "Total Line Items": "Gross Weight\n1079 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-650P\tSausage Roll Hot\t6\t0\tCS\t0\t2.16\t\u00a0\t12/16oz\tFROZEN\t0.00\tNot Yet Ranked\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\tNot Yet Ranked\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00\tNot Yet Ranked\nD19-009P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t150\t28.50\t\u00a0\t1/150 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t20\t20\tBAG\t80\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-884P\tGatorade\t27\t27\tCS\t567\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD03-201P\tWater\t2\t2\tCS\t52\t0.00\t\u00a0\t3/1 gal\tDRY\t0.00\tNot Yet Ranked\nD28-817P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t5/10 lb\tREF\t0.00\tNot Yet Ranked\nD19-009P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t150\t28.50\t\u00a0\t1/150 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t20\t20\tBAG\t80\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD19-015P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t0\tBULK\t180\t32.40\tBulk Tote\t1/180 Lb BULK TOTE\tDry\t0.00\tNot Yet Ranked"
   },
   "items": [
-    {
-      "Item No.": "D15-650P",
-      "Description": "Sausage Roll Hot",
-      "Order Qty.": "6",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "12/16oz",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
     {
       "Item No.": "D03-884P",
       "Description": "Gatorade",
@@ -88,6 +75,19 @@
       "Packaging Type": "",
       "Pack Size": "1/4 lb",
       "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D19-015P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "BULK",
+      "Gross Weight": "180",
+      "Packaging Type": "Bulk Tote",
+      "Pack Size": "1/180 Lb BULK TOTE",
+      "Handling Requirements": "Dry",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
