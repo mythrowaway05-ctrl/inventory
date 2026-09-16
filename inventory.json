@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 16, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-16T06:01:04.176343-05:00",
-  "item_count": 111,
+  "updated_at": "September 16, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-16T07:01:09.004524-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "5",
@@ -63,16 +63,6 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D19-012P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
-      "new_since": "2026-09-16T02:01:05.652567-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D19-004P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -82,23 +72,13 @@
       "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D22-042P",
-      "Description": "Assorted Pet Food - BULK 1/980 lb",
+      "Available Qty.": "0",
+      "Item No.": "D19-012P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
-      "Pack Size": "1/980 lb",
+      "Pack Size": "1/230 Lb BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "980",
-      "new_since": "2026-09-16T02:01:05.652567-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D22-096P",
-      "Description": "Assorted Pet Items - BULK 1/1000 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 lb",
-      "Feature Type": "",
-      "Gross Weight": "1000",
+      "Gross Weight": "230",
       "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
@@ -238,15 +218,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "412",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "543",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -254,6 +225,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "412",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "5",
@@ -337,15 +317,6 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "D08-030P",
-      "Description": "Dessert Topping",
-      "UOM": "CS",
-      "Pack Size": "6/5 cans",
-      "Feature Type": "",
-      "Gross Weight": "23"
-    },
-    {
       "Available Qty.": "351",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
@@ -362,16 +333,6 @@
       "Pack Size": "12/0.6 oz",
       "Feature Type": "",
       "Gross Weight": "1"
-    },
-    {
-      "Available Qty.": "120",
-      "Item No.": "D03-841P",
-      "Description": "Energy Drink, Zero Sugar",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
       "Available Qty.": "2476",
@@ -410,7 +371,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "434",
+      "Available Qty.": "272",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -491,7 +452,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "927",
+      "Available Qty.": "747",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -534,15 +495,6 @@
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "32"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44"
     },
     {
       "Available Qty.": "1185",
@@ -834,7 +786,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "65",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -843,7 +795,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "95",
       "Item No.": "D26-674P",
       "Description": "Sauce, Wasabi 4/32 oz",
       "UOM": "CS",
@@ -861,27 +813,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "43",
-      "Item No.": "D03-590P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/16.9 oz",
-      "Feature Type": "Discounted Item",
-      "Gross Weight": "31",
-      "new_since": "2026-09-16T02:01:05.652567-05:00"
-    },
-    {
-      "Available Qty.": "452",
-      "Item No.": "D03-292P",
-      "Description": "Soda, Zero Sugar",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-09-15T14:01:04.239657-05:00"
-    },
-    {
-      "Available Qty.": "166",
+      "Available Qty.": "82",
       "Item No.": "D03-681P",
       "Description": "Soda, Zero Sugar 24/20 oz",
       "UOM": "CS",
@@ -981,7 +913,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "2195",
+      "Available Qty.": "1835",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
