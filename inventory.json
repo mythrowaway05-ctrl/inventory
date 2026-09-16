@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 16, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-09-16T09:01:12.473079-05:00",
-  "item_count": 98,
+  "updated_at": "September 16, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-09-16T10:01:03.510056-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "5",
@@ -58,7 +58,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "350",
+      "Available Qty.": "344",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -76,17 +76,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-15T11:01:11.060121-05:00"
-    },
-    {
-      "Available Qty.": "865",
+      "Available Qty.": "861",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -95,7 +85,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1076",
+      "Available Qty.": "1072",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -140,7 +130,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "15",
       "Item No.": "D15-451P",
       "Description": "Chicken Breast Chunks 2/5 lb",
       "UOM": "CS",
@@ -194,7 +184,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "381",
+      "Available Qty.": "379",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -212,7 +202,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "304",
+      "Available Qty.": "300",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -239,7 +229,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "289",
+      "Available Qty.": "200",
+      "Item No.": "D25-398P",
+      "Description": "Chips",
+      "UOM": "CS",
+      "Pack Size": "6/5.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-09-16T10:01:03.509651-05:00"
+    },
+    {
+      "Available Qty.": "285",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -248,13 +248,33 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
       "Pack Size": "1/4 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "4"
+    },
+    {
+      "Available Qty.": "139",
+      "Item No.": "D07-156P",
+      "Description": "Cream, Heavy Whipping",
+      "UOM": "CS",
+      "Pack Size": "9/1 Qt",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-09-16T10:01:03.509651-05:00"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D08-030P",
+      "Description": "Dessert Topping",
+      "UOM": "CS",
+      "Pack Size": "6/5 cans",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
       "Available Qty.": "351",
@@ -266,7 +286,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "1096",
+      "Available Qty.": "1090",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -275,7 +295,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2474",
+      "Available Qty.": "2471",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -293,7 +313,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "405",
+      "Available Qty.": "393",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -302,7 +322,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "365",
+      "Available Qty.": "359",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -311,7 +331,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "272",
+      "Available Qty.": "273",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -356,7 +376,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1281",
+      "Available Qty.": "1275",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -392,7 +412,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "747",
+      "Available Qty.": "837",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -401,7 +421,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "814",
+      "Available Qty.": "810",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -419,16 +439,17 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "34",
-      "Item No.": "D07-168P",
-      "Description": "Milk, Chocolate 12/1 pt",
+      "Available Qty.": "54",
+      "Item No.": "D07-607P",
+      "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
-      "Pack Size": "12/1 pt",
+      "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "14"
+      "Gross Weight": "38",
+      "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -437,7 +458,17 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "1181",
+      "Available Qty.": "32",
+      "Item No.": "D07-1047P",
+      "Description": "Milk, Skim 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-16T10:01:03.509651-05:00"
+    },
+    {
+      "Available Qty.": "1171",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -491,7 +522,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "54",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -572,7 +603,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "636",
+      "Available Qty.": "635",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -617,15 +648,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D08-555P",
-      "Description": "Popsicle",
-      "UOM": "CS",
-      "Pack Size": "6/12 ct",
-      "Feature Type": "",
-      "Gross Weight": "8"
-    },
-    {
       "Available Qty.": "638",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -654,7 +676,7 @@
       "new_since": "2026-09-16T02:01:05.652567-05:00"
     },
     {
-      "Available Qty.": "3465",
+      "Available Qty.": "3463",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -663,7 +685,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3478",
+      "Available Qty.": "3476",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -753,7 +775,17 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "74",
+      "Item No.": "D03-292P",
+      "Description": "Soda, Zero Sugar",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-09-15T14:01:04.239657-05:00"
+    },
+    {
+      "Available Qty.": "35",
       "Item No.": "D03-681P",
       "Description": "Soda, Zero Sugar 24/20 oz",
       "UOM": "CS",
