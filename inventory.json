@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 15, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-15T20:01:07.780575-05:00",
-  "item_count": 101,
+  "updated_at": "September 15, 2026 at 09:00 PM",
+  "updated_at_iso": "2026-09-15T21:00:56.107989-05:00",
+  "item_count": 100,
   "items": [
     {
       "Available Qty.": "5",
@@ -31,7 +31,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "322",
+      "Available Qty.": "320",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1009",
+      "Available Qty.": "1007",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -59,7 +59,7 @@
       "new_since": "2026-09-15T02:01:01.465731-05:00"
     },
     {
-      "Available Qty.": "356",
+      "Available Qty.": "352",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -132,7 +132,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "178",
+      "Available Qty.": "177",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -213,7 +213,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "307",
+      "Available Qty.": "304",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -240,7 +240,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "290",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -366,7 +366,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1297",
+      "Available Qty.": "1291",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -393,7 +393,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "61",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -409,16 +409,6 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-134P",
-      "Description": "Lunchmeat",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-15T16:01:16.269564-05:00"
     },
     {
       "Available Qty.": "814",
@@ -556,7 +546,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "526",
+      "Available Qty.": "524",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -565,7 +555,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "577",
+      "Available Qty.": "573",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -574,7 +564,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "703",
+      "Available Qty.": "701",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -655,7 +645,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "649",
+      "Available Qty.": "641",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -673,7 +663,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3469",
+      "Available Qty.": "3468",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -682,7 +672,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3483",
+      "Available Qty.": "3482",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -718,7 +708,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "112",
+      "Available Qty.": "110",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -810,7 +800,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "60",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -855,7 +845,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "217",
+      "Available Qty.": "212",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
