@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 16, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-16T10:01:03.510056-05:00",
-  "item_count": 101,
+  "updated_at": "September 16, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-09-16T11:01:05.821888-05:00",
+  "item_count": 100,
   "items": [
     {
       "Available Qty.": "5",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "719",
+      "Available Qty.": "717",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -76,7 +76,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "861",
+      "Available Qty.": "860",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -85,7 +85,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1072",
+      "Available Qty.": "1071",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -229,7 +229,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "197",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "139",
+      "Available Qty.": "138",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -277,7 +277,7 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "351",
+      "Available Qty.": "349",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -295,7 +295,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2471",
+      "Available Qty.": "2469",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -313,7 +313,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "393",
+      "Available Qty.": "302",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -322,7 +322,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "359",
+      "Available Qty.": "357",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -367,7 +367,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1191",
+      "Available Qty.": "1171",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -421,7 +421,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "810",
+      "Available Qty.": "790",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -447,15 +447,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-09-16T10:01:03.509651-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1038P",
-      "Description": "Milk, Chocolate 50/8 oz",
-      "UOM": "CS",
-      "Pack Size": "50/8 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "32"
     },
     {
       "Available Qty.": "32",
@@ -666,7 +657,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "394",
+      "Available Qty.": "400",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -766,7 +757,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "339",
+      "Available Qty.": "337",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -775,7 +766,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "73",
       "Item No.": "D03-292P",
       "Description": "Soda, Zero Sugar",
       "UOM": "CS",
@@ -804,7 +795,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "182",
+      "Available Qty.": "181",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -858,7 +849,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "212",
+      "Available Qty.": "192",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
@@ -876,7 +867,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "1",
       "Item No.": "P27-154P",
       "Description": "Sweet Potatoes, Light Syrup",
       "UOM": "CS",
@@ -885,7 +876,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "1827",
+      "Available Qty.": "1742",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -894,7 +885,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "141",
+      "Available Qty.": "131",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
