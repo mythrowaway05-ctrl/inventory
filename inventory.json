@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 17, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-17T14:01:06.855980-05:00",
-  "item_count": 114,
+  "updated_at": "September 17, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-17T15:01:22.056498-05:00",
+  "item_count": 113,
   "items": [
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D15-324P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -23,17 +23,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-17T12:55:37.741763-05:00"
-    },
-    {
-      "Available Qty.": "25",
+      "Available Qty.": "22",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -97,16 +87,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-17T12:55:37.741763-05:00"
-    },
-    {
       "Available Qty.": "837",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -152,7 +132,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "101",
+      "Available Qty.": "99",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -161,22 +141,13 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "58",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "369",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
     },
     {
       "Available Qty.": "524",
@@ -186,6 +157,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "369",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "4",
@@ -269,7 +249,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "196",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -278,7 +258,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "41",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -528,6 +508,16 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
+      "Available Qty.": "49",
+      "Item No.": "D07-1075P",
+      "Description": "Milk, Chocolate 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-09-17T15:01:22.056031-05:00"
+    },
+    {
       "Available Qty.": "25",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -557,7 +547,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "146",
+      "Available Qty.": "110",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -649,7 +639,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "45",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -809,7 +799,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "146",
+      "Available Qty.": "141",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -839,7 +829,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "88",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -889,7 +879,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "66",
       "Item No.": "D26-674P",
       "Description": "Sauce, Wasabi 4/32 oz",
       "UOM": "CS",
@@ -1045,7 +1035,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "121",
+      "Available Qty.": "116",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
@@ -1063,7 +1053,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "150",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
