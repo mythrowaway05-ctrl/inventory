@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-17T08:01:00.014241-05:00",
-  "item_count": 115,
+  "updated_at": "September 17, 2026 at 08:58 AM",
+  "updated_at_iso": "2026-09-17T08:58:19.974825-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "339",
@@ -112,7 +112,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "103",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -231,7 +231,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "200",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -511,6 +511,16 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
+      "Available Qty.": "6",
+      "Item No.": "D07-168P",
+      "Description": "Milk, Chocolate 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-17T08:58:19.974208-05:00"
+    },
+    {
       "Available Qty.": "36",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
@@ -568,16 +578,6 @@
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
       "Gross Weight": "14",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
@@ -663,7 +663,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -791,6 +791,16 @@
       "Feature Type": "",
       "Gross Weight": "15",
       "new_since": "2026-09-17T00:01:01.844129-05:00"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D28-817P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "5/10 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-09-17T08:58:19.974208-05:00"
     },
     {
       "Available Qty.": "318",
