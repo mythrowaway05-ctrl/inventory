@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-09-17T18:01:05.395046-05:00",
-  "item_count": 112,
+  "updated_at": "September 17, 2026 at 06:17 PM",
+  "updated_at_iso": "2026-09-17T18:17:20.105415-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "328",
@@ -222,7 +222,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "258",
+      "Available Qty.": "251",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -249,7 +249,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -314,7 +314,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "152",
+      "Available Qty.": "149",
       "Item No.": "P06-018P",
       "Description": "Entree, Red Beans and Rice",
       "UOM": "CS",
@@ -478,7 +478,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "6",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -619,7 +619,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "142",
+      "Available Qty.": "140",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -673,7 +673,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "677",
+      "Available Qty.": "675",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -765,6 +765,16 @@
       "Feature Type": "",
       "Gross Weight": "11",
       "new_since": "2026-09-17T00:01:01.844129-05:00"
+    },
+    {
+      "Available Qty.": "40",
+      "Item No.": "D28-767P",
+      "Description": "Potatoes, Sweet",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb Case",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-17T18:17:20.105049-05:00"
     },
     {
       "Available Qty.": "3428",
