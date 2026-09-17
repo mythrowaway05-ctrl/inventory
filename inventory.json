@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 17, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-09-17T02:01:04.730887-05:00",
+  "updated_at": "September 17, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-09-17T03:01:04.739694-05:00",
   "item_count": 122,
   "items": [
     {
@@ -160,15 +160,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "385",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "524",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -176,6 +167,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "385",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "4",
@@ -241,7 +241,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "195",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -571,7 +571,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
