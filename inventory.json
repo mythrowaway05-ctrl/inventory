@@ -1,8 +1,18 @@
 {
-  "updated_at": "September 17, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-17T11:01:12.946176-05:00",
-  "item_count": 113,
+  "updated_at": "September 17, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-09-17T12:01:39.666961-05:00",
+  "item_count": 115,
   "items": [
+    {
+      "Available Qty.": "8",
+      "Item No.": "D15-324P",
+      "Description": "8 Piece Cut Chicken",
+      "UOM": "CS",
+      "Pack Size": "8/6 lb",
+      "Feature Type": "",
+      "Gross Weight": "50",
+      "new_since": "2026-09-17T12:01:39.666460-05:00"
+    },
     {
       "Available Qty.": "339",
       "Item No.": "P10-090P",
@@ -11,6 +21,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D06-346P",
+      "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/1020 lb",
+      "Feature Type": "",
+      "Gross Weight": "1020",
+      "new_since": "2026-09-17T12:01:39.666460-05:00"
     },
     {
       "Available Qty.": "710",
@@ -103,7 +123,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "36",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -112,7 +132,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "101",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -295,7 +315,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2412",
+      "Available Qty.": "2403",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -349,7 +369,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "824",
+      "Available Qty.": "820",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -547,7 +567,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "180",
+      "Available Qty.": "175",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -630,7 +650,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "149",
+      "Available Qty.": "145",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -721,7 +741,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4042",
+      "Available Qty.": "4021",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -779,7 +799,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "3442",
+      "Available Qty.": "3437",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -789,7 +809,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "3455",
+      "Available Qty.": "3450",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -979,7 +999,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "293",
+      "Available Qty.": "289",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -1006,7 +1026,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "244",
+      "Available Qty.": "214",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
@@ -1044,7 +1064,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "193",
+      "Available Qty.": "189",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
