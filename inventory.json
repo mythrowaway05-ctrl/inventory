@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 16, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-16T20:01:02.262881-05:00",
-  "item_count": 104,
+  "updated_at": "September 16, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-09-16T21:01:05.297114-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "339",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "715",
+      "Available Qty.": "710",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "46",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -139,7 +139,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "385",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -248,7 +248,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "28",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -286,7 +286,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2447",
+      "Available Qty.": "2437",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -376,7 +376,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "704",
+      "Available Qty.": "698",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -386,7 +386,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "142",
+      "Available Qty.": "144",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -440,6 +440,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "251",
+      "Item No.": "D07-1001P",
+      "Description": "Milk, 2% 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-16T21:01:05.296645-05:00"
+    },
+    {
       "Available Qty.": "46",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
@@ -451,6 +461,16 @@
     },
     {
       "Available Qty.": "38",
+      "Item No.": "D07-1038P",
+      "Description": "Milk, Chocolate 50/8 oz",
+      "UOM": "CS",
+      "Pack Size": "50/8 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "32",
+      "new_since": "2026-09-16T21:01:05.296645-05:00"
+    },
+    {
+      "Available Qty.": "4",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -470,7 +490,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "18",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -490,7 +510,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "26",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -563,7 +583,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "154",
+      "Available Qty.": "149",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -600,7 +620,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "482",
+      "Available Qty.": "476",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -609,7 +629,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "560",
+      "Available Qty.": "549",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -699,7 +719,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "338",
+      "Available Qty.": "318",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -717,7 +737,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3470",
+      "Available Qty.": "3458",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -753,7 +773,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "98",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -771,7 +791,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "302",
+      "Available Qty.": "297",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -807,7 +827,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "68",
       "Item No.": "D03-292P",
       "Description": "Soda, Zero Sugar",
       "UOM": "CS",
@@ -834,7 +854,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "174",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -897,7 +917,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "233",
+      "Available Qty.": "235",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
@@ -916,7 +936,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "1728",
+      "Available Qty.": "1714",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
@@ -925,7 +945,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "131",
+      "Available Qty.": "121",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
