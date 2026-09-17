@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-09-17T04:01:04.156866-05:00",
-  "item_count": 122,
+  "updated_at": "September 17, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-09-17T05:01:15.400294-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "339",
@@ -131,17 +131,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "D25-2041P",
-      "Description": "Cheez-It 60/2.2 oz",
-      "UOM": "CS",
-      "Pack Size": "60/2.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D25-2040P",
       "Description": "Cheez-It, DISPLAY 1/72 ct",
       "UOM": "CS",
@@ -269,7 +259,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "118",
       "Item No.": "D25-596P",
       "Description": "Crackers",
       "UOM": "CS",
@@ -299,7 +289,7 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "1600",
+      "Available Qty.": "1595",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -455,16 +445,6 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D14-086P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "12/.5 GAL",
-      "Feature Type": "",
-      "Gross Weight": "44",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
       "Available Qty.": "57",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -511,17 +491,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D07-405P",
-      "Description": "Milk, 2% 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "210",
+      "Available Qty.": "208",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -531,7 +501,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "35",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -551,7 +521,7 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "25",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -621,7 +591,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "220",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -631,7 +601,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "4",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -723,7 +693,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "42",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -923,7 +893,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "850",
+      "Available Qty.": "848",
       "Item No.": "D26-324P",
       "Description": "Sauce, Marinara",
       "UOM": "CS",
@@ -973,7 +943,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "470",
+      "Available Qty.": "318",
       "Item No.": "D06-085P",
       "Description": "Scrambled Egg Kit",
       "UOM": "CS",
@@ -983,7 +953,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "320",
+      "Available Qty.": "315",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -1100,7 +1070,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "285",
+      "Available Qty.": "279",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
@@ -1120,7 +1090,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "1714",
+      "Available Qty.": "1712",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
