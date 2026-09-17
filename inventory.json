@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-17T10:01:07.053592-05:00",
-  "item_count": 115,
+  "updated_at": "September 17, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-09-17T11:01:12.946176-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "339",
@@ -121,23 +121,13 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "57",
       "Item No.": "D25-2042P",
       "Description": "Cheez-It 6-6/3 oz",
       "UOM": "CS",
       "Pack Size": "6-6/3 oz",
       "Feature Type": "",
       "Gross Weight": "9",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-2040P",
-      "Description": "Cheez-It, DISPLAY 1/72 ct",
-      "UOM": "CS",
-      "Pack Size": "1/72 ct",
-      "Feature Type": "",
-      "Gross Weight": "41",
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
@@ -159,7 +149,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "385",
+      "Available Qty.": "375",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -258,6 +248,16 @@
       "Gross Weight": "4"
     },
     {
+      "Available Qty.": "45",
+      "Item No.": "D07-156P",
+      "Description": "Cream, Heavy Whipping",
+      "UOM": "CS",
+      "Pack Size": "9/1 Qt",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-09-17T11:01:12.945608-05:00"
+    },
+    {
       "Available Qty.": "25",
       "Item No.": "D08-030P",
       "Description": "Dessert Topping",
@@ -267,7 +267,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "1595",
+      "Available Qty.": "1581",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -313,7 +313,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "280",
+      "Available Qty.": "270",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -469,7 +469,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "175",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -479,7 +479,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "2",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -519,16 +519,6 @@
     },
     {
       "Available Qty.": "25",
-      "Item No.": "D07-154P",
-      "Description": "Milk, Chocolate 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-16T18:01:03.695617-05:00"
-    },
-    {
-      "Available Qty.": "25",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -557,7 +547,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "210",
+      "Available Qty.": "180",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -677,7 +667,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "476",
+      "Available Qty.": "472",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -686,7 +676,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "549",
+      "Available Qty.": "546",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -769,7 +759,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "636",
+      "Available Qty.": "632",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -777,16 +767,6 @@
       "Feature Type": "",
       "Gross Weight": "15",
       "new_since": "2026-09-17T00:01:01.844129-05:00"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D28-817P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "5/10 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-09-17T08:58:19.974208-05:00"
     },
     {
       "Available Qty.": "318",
@@ -859,7 +839,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "848",
+      "Available Qty.": "838",
       "Item No.": "D26-324P",
       "Description": "Sauce, Marinara",
       "UOM": "CS",
@@ -969,7 +949,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "95",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1026,7 +1006,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "244",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
@@ -1046,7 +1026,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "1709",
+      "Available Qty.": "1691",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
