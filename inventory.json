@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-17T06:01:03.920668-05:00",
-  "item_count": 119,
+  "updated_at": "September 17, 2026 at 07:00 AM",
+  "updated_at_iso": "2026-09-17T07:00:56.537525-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "339",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "40",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -121,7 +121,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "67",
       "Item No.": "D25-2042P",
       "Description": "Cheez-It 6-6/3 oz",
       "UOM": "CS",
@@ -241,7 +241,7 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "274",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -259,17 +259,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "118",
-      "Item No.": "D25-596P",
-      "Description": "Crackers",
-      "UOM": "CS",
-      "Pack Size": "6/7.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "10",
+      "Available Qty.": "3",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -317,7 +307,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2437",
+      "Available Qty.": "2412",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -380,7 +370,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "272",
+      "Available Qty.": "268",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -435,7 +425,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "14",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -501,7 +491,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "8",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -521,16 +511,6 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
-      "Available Qty.": "25",
-      "Item No.": "D07-1054P",
-      "Description": "Milk, Almond, Vanilla 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/64 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
       "Available Qty.": "36",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
@@ -539,16 +519,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "32",
       "new_since": "2026-09-16T21:01:05.296645-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-16T14:01:02.966973-05:00"
     },
     {
       "Available Qty.": "37",
@@ -601,7 +571,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -609,6 +579,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "36",
       "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D07-1055P",
+      "Description": "Milk, Whole 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
       "Available Qty.": "108",
@@ -693,7 +673,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "36",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -853,7 +833,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "155",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -873,7 +853,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "591",
+      "Available Qty.": "589",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
       "UOM": "CS",
@@ -941,16 +921,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "8",
       "new_since": "2026-09-17T00:01:01.844129-05:00"
-    },
-    {
-      "Available Qty.": "318",
-      "Item No.": "D06-085P",
-      "Description": "Scrambled Egg Kit",
-      "UOM": "CS",
-      "Pack Size": "6/3 oz cups",
-      "Feature Type": "Free Item",
-      "Gross Weight": "1",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "315",
@@ -1043,7 +1013,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "297",
+      "Available Qty.": "293",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -1070,7 +1040,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "279",
+      "Available Qty.": "259",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
@@ -1080,7 +1050,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "405",
+      "Available Qty.": "401",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
