@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-17T01:01:04.162131-05:00",
-  "item_count": 106,
+  "updated_at": "September 17, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-17T02:01:04.730887-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "339",
@@ -121,13 +121,34 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "D15-451P",
-      "Description": "Chicken Breast Chunks 2/5 lb",
+      "Available Qty.": "108",
+      "Item No.": "D25-2042P",
+      "Description": "Cheez-It 6-6/3 oz",
       "UOM": "CS",
-      "Pack Size": "2/5 lb",
+      "Pack Size": "6-6/3 oz",
       "Feature Type": "",
-      "Gross Weight": "10"
+      "Gross Weight": "9",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "12",
+      "Item No.": "D25-2041P",
+      "Description": "Cheez-It 60/2.2 oz",
+      "UOM": "CS",
+      "Pack Size": "60/2.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D25-2040P",
+      "Description": "Cheez-It, DISPLAY 1/72 ct",
+      "UOM": "CS",
+      "Pack Size": "1/72 ct",
+      "Feature Type": "",
+      "Gross Weight": "41",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "63",
@@ -220,7 +241,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "175",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -248,7 +269,17 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "190",
+      "Item No.": "D25-596P",
+      "Description": "Crackers",
+      "UOM": "CS",
+      "Pack Size": "6/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "10",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -266,6 +297,16 @@
       "Feature Type": "",
       "Gross Weight": "23",
       "new_since": "2026-09-16T10:01:03.509651-05:00"
+    },
+    {
+      "Available Qty.": "1600",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "200/12 gm",
+      "Feature Type": "Free Item",
+      "Gross Weight": "6",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "329",
@@ -313,7 +354,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "357",
+      "Available Qty.": "350",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -404,6 +445,26 @@
       "Gross Weight": "21"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D14-1000P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "6/1 gallon",
+      "Feature Type": "",
+      "Gross Weight": "54",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D14-086P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "12/.5 GAL",
+      "Feature Type": "",
+      "Gross Weight": "44",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
       "Available Qty.": "57",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -431,6 +492,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "19",
+      "Item No.": "D07-878P",
+      "Description": "Milk, 1% 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
       "Available Qty.": "549",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -440,7 +511,17 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "9",
+      "Item No.": "D07-405P",
+      "Description": "Milk, 2% 12/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "12/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "210",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -448,6 +529,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "14",
       "new_since": "2026-09-16T21:01:05.296645-05:00"
+    },
+    {
+      "Available Qty.": "55",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "46",
@@ -460,6 +551,16 @@
       "new_since": "2026-09-16T10:01:03.509651-05:00"
     },
     {
+      "Available Qty.": "27",
+      "Item No.": "D07-1054P",
+      "Description": "Milk, Almond, Vanilla 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/64 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "28",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
       "Available Qty.": "36",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
@@ -470,7 +571,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -510,14 +611,44 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1055P",
-      "Description": "Milk, Whole 9/.5 gal",
+      "Available Qty.": "80",
+      "Item No.": "D07-419P",
+      "Description": "Milk, Soy, Original 6/.5 gal",
       "UOM": "CS",
-      "Pack Size": "9/.5 gal",
+      "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-16T18:01:03.695617-05:00"
+      "Gross Weight": "28",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "225",
+      "Item No.": "D07-343P",
+      "Description": "Milk, Whole 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "26",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
+      "Available Qty.": "108",
+      "Item No.": "D07-613P",
+      "Description": "Milk, Whole, Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "1149",
@@ -665,7 +796,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "620",
+      "Available Qty.": "616",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -792,6 +923,16 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
+      "Available Qty.": "850",
+      "Item No.": "D26-324P",
+      "Description": "Sauce, Marinara",
+      "UOM": "CS",
+      "Pack Size": "100/1 oz cups",
+      "Feature Type": "Free Item",
+      "Gross Weight": "8",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
+    },
+    {
       "Available Qty.": "857",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
@@ -830,6 +971,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "8",
       "new_since": "2026-09-17T00:01:01.844129-05:00"
+    },
+    {
+      "Available Qty.": "470",
+      "Item No.": "D06-085P",
+      "Description": "Scrambled Egg Kit",
+      "UOM": "CS",
+      "Pack Size": "6/3 oz cups",
+      "Feature Type": "Free Item",
+      "Gross Weight": "1",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "320",
@@ -947,6 +1098,16 @@
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "285",
+      "Item No.": "D26-351P",
+      "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
+      "UOM": "CS",
+      "Pack Size": "6/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
       "Available Qty.": "405",
