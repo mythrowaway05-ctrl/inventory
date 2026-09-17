@@ -1,18 +1,8 @@
 {
-  "updated_at": "September 17, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-09-17T15:01:22.056498-05:00",
+  "updated_at": "September 17, 2026 at 03:46 PM",
+  "updated_at_iso": "2026-09-17T15:46:39.094732-05:00",
   "item_count": 113,
   "items": [
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-324P",
-      "Description": "8 Piece Cut Chicken",
-      "UOM": "CS",
-      "Pack Size": "8/6 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-09-17T12:01:39.666460-05:00"
-    },
     {
       "Available Qty.": "331",
       "Item No.": "P10-090P",
@@ -21,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D03-941P",
+      "Description": "Assorted Drinks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-17T15:46:39.015754-05:00"
     },
     {
       "Available Qty.": "22",
@@ -249,7 +249,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "196",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -323,7 +323,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "236",
+      "Available Qty.": "216",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -508,7 +508,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "54",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -639,7 +639,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
