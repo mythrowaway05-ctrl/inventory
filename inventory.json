@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 07:00 AM",
-  "updated_at_iso": "2026-09-17T07:00:56.537525-05:00",
-  "item_count": 116,
+  "updated_at": "September 17, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-17T08:01:00.014241-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "339",
@@ -231,7 +231,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "197",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -250,7 +250,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "198",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -462,7 +462,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "7",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -521,7 +521,7 @@
       "new_since": "2026-09-16T21:01:05.296645-05:00"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "25",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -561,7 +561,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "210",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -579,16 +579,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "36",
       "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1055P",
-      "Description": "Milk, Whole 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
       "Available Qty.": "108",
@@ -673,7 +663,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "33",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -1060,7 +1050,7 @@
       "new_since": "2026-09-16T18:01:03.695617-05:00"
     },
     {
-      "Available Qty.": "1712",
+      "Available Qty.": "1709",
       "Item No.": "D04-257P",
       "Description": "Tortillas",
       "UOM": "CS",
