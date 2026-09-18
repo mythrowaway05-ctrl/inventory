@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 18, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-18T06:01:10.362662-05:00",
+  "updated_at": "September 18, 2026 at 07:00 AM",
+  "updated_at_iso": "2026-09-18T07:00:59.290085-05:00",
   "item_count": 121,
   "items": [
     {
@@ -31,16 +31,6 @@
       "Feature Type": "",
       "Gross Weight": "1020",
       "new_since": "2026-09-17T12:01:39.666460-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "697",
@@ -106,7 +96,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1046",
+      "Available Qty.": "1044",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -169,15 +159,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "524",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "85",
       "Item No.": "D15-903P",
       "Description": "Chicken Drumsticks",
@@ -186,6 +167,15 @@
       "Feature Type": "",
       "Gross Weight": "42",
       "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "524",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "510",
@@ -298,7 +288,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "16",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -327,15 +317,6 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "1572",
-      "Item No.": "D09-107P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "200/12 gm",
-      "Feature Type": "Free Item",
-      "Gross Weight": "6"
-    },
-    {
       "Available Qty.": "329",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
@@ -343,6 +324,15 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "1572",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "200/12 gm",
+      "Feature Type": "Free Item",
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1051",
@@ -536,7 +526,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "6",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -555,7 +545,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "50",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -719,7 +709,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "469",
+      "Available Qty.": "467",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -728,7 +718,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "512",
+      "Available Qty.": "510",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -782,7 +772,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "344",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -818,7 +808,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "728",
+      "Available Qty.": "32",
+      "Item No.": "D28-817P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "5/10 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-09-17T08:58:19.974208-05:00"
+    },
+    {
+      "Available Qty.": "703",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
