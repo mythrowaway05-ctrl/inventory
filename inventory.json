@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-17T20:01:03.547560-05:00",
-  "item_count": 113,
+  "updated_at": "September 17, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-09-17T21:01:05.610949-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "328",
@@ -395,6 +395,16 @@
       "Gross Weight": "3"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D08-475P",
+      "Description": "Ice Cream Sandwiches",
+      "UOM": "CS",
+      "Pack Size": "3/24 ct",
+      "Feature Type": "",
+      "Gross Weight": "16",
+      "new_since": "2026-09-17T21:01:05.610358-05:00"
+    },
+    {
       "Available Qty.": "691",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
@@ -449,7 +459,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "4",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -474,8 +484,7 @@
       "UOM": "CS",
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-16T21:01:05.296645-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "6",
@@ -494,8 +503,7 @@
       "UOM": "CS",
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "32",
-      "new_since": "2026-09-16T21:01:05.296645-05:00"
+      "Gross Weight": "32"
     },
     {
       "Available Qty.": "54",
@@ -536,7 +544,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "113",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -767,7 +775,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "116",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
