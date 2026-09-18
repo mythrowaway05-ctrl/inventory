@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 18, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-18T01:01:05.234565-05:00",
-  "item_count": 112,
+  "updated_at": "September 18, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-18T02:01:43.274702-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "328",
@@ -13,6 +13,26 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "40",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
       "Available Qty.": "21",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
@@ -21,6 +41,26 @@
       "Feature Type": "",
       "Gross Weight": "1020",
       "new_since": "2026-09-17T12:01:39.666460-05:00"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "697",
@@ -140,6 +180,15 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "369",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
       "Available Qty.": "524",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -149,13 +198,24 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "369",
-      "Item No.": "P15-107P",
+      "Available Qty.": "87",
+      "Item No.": "D15-903P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
-      "Pack Size": "6/3 lb",
+      "Pack Size": "8/5 lb",
       "Feature Type": "",
-      "Gross Weight": "18"
+      "Gross Weight": "42",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "510",
+      "Item No.": "P15-083P",
+      "Description": "Chicken Fritters, Bone In",
+      "UOM": "CS",
+      "Pack Size": "4/2.5 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "4",
@@ -203,13 +263,23 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "596",
+      "Available Qty.": "800",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
       "Pack Size": "4/4 lb",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "714",
+      "Item No.": "P15-109P",
+      "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
+      "UOM": "CS",
+      "Pack Size": "4/4.25 lb",
+      "Feature Type": "",
+      "Gross Weight": "17",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "251",
@@ -258,6 +328,16 @@
       "new_since": "2026-09-17T11:01:12.945608-05:00"
     },
     {
+      "Available Qty.": "120",
+      "Item No.": "D07-207P",
+      "Description": "Creamer, French Vanilla 6/32 oz",
+      "UOM": "CS",
+      "Pack Size": "6/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
       "Available Qty.": "25",
       "Item No.": "D08-030P",
       "Description": "Dessert Topping",
@@ -267,16 +347,6 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "1572",
-      "Item No.": "D09-107P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "200/12 gm",
-      "Feature Type": "Free Item",
-      "Gross Weight": "6",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
       "Available Qty.": "329",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
@@ -284,6 +354,15 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "1572",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "200/12 gm",
+      "Feature Type": "Free Item",
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1051",
@@ -449,6 +528,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "40",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
       "Available Qty.": "543",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -520,8 +609,17 @@
       "UOM": "CS",
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
+      "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "D07-366P",
+      "Description": "Milk, Soy, Vanilla 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/64 oz",
+      "Feature Type": "Free Item",
       "Gross Weight": "28",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "6",
@@ -530,8 +628,7 @@
       "UOM": "CS",
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "64",
@@ -540,8 +637,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "1146",
@@ -733,6 +829,16 @@
       "Gross Weight": "26"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D06-824P",
+      "Description": "Pizza",
+      "UOM": "CS",
+      "Pack Size": "12/11.5 in",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
       "Available Qty.": "628",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
@@ -740,6 +846,16 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "800",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "312",
@@ -759,6 +875,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "40",
       "new_since": "2026-09-17T18:17:20.105049-05:00"
+    },
+    {
+      "Available Qty.": "22",
+      "Item No.": "D25-2043P",
+      "Description": "Push Pop, Popsicle 10/6 ct",
+      "UOM": "CS",
+      "Pack Size": "10/6 ct",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "3428",
@@ -821,8 +947,7 @@
       "UOM": "CS",
       "Pack Size": "100/1 oz cups",
       "Feature Type": "Free Item",
-      "Gross Weight": "8",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "845",
@@ -975,8 +1100,7 @@
       "UOM": "CS",
       "Pack Size": "6/8 oz",
       "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
+      "Gross Weight": "4"
     },
     {
       "Available Qty.": "393",
