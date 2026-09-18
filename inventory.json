@@ -1,10 +1,10 @@
 {
-  "updated_at": "September 18, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-18T11:01:22.606594-05:00",
-  "item_count": 125,
+  "updated_at": "September 18, 2026 at 11:50 AM",
+  "updated_at_iso": "2026-09-18T11:50:03.830494-05:00",
+  "item_count": 126,
   "items": [
     {
-      "Available Qty.": "324",
+      "Available Qty.": "321",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -33,7 +33,7 @@
       "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -136,7 +136,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1041",
+      "Available Qty.": "1039",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -273,7 +273,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "800",
+      "Available Qty.": "792",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -328,7 +328,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "14",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -447,7 +447,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "783",
+      "Available Qty.": "782",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -492,7 +492,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "138",
+      "Available Qty.": "136",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -557,7 +557,7 @@
       "new_since": "2026-09-18T11:01:22.606011-05:00"
     },
     {
-      "Available Qty.": "511",
+      "Available Qty.": "509",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -591,6 +591,16 @@
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "32"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D07-154P",
+      "Description": "Milk, Chocolate 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-18T11:50:03.829969-05:00"
     },
     {
       "Available Qty.": "25",
@@ -828,7 +838,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "621",
+      "Available Qty.": "619",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
