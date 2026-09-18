@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 18, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-09-18T00:01:12.454939-05:00",
-  "item_count": 113,
+  "updated_at": "September 18, 2026 at 01:01 AM",
+  "updated_at_iso": "2026-09-18T01:01:05.234565-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "328",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "21",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -140,15 +140,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "369",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "524",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -156,6 +147,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "369",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "4",
@@ -248,7 +248,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "11",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -449,16 +449,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D07-878P",
-      "Description": "Milk, 1% 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-17T02:01:04.730257-05:00"
-    },
-    {
       "Available Qty.": "543",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -534,7 +524,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "106",
+      "Available Qty.": "6",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -544,7 +534,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "64",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -761,7 +751,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "10",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
