@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 18, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-09-18T13:01:17.089832-05:00",
-  "item_count": 128,
+  "updated_at": "September 18, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-09-18T14:01:48.560931-05:00",
+  "item_count": 127,
   "items": [
     {
       "Available Qty.": "321",
@@ -13,13 +13,24 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
+      "Available Qty.": "15",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
       "UOM": "CS",
       "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "40",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "60",
@@ -51,17 +62,7 @@
       "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-18T02:01:43.274163-05:00"
-    },
-    {
-      "Available Qty.": "30",
+      "Available Qty.": "49",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -197,25 +198,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "523",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "32",
-      "Item No.": "D15-903P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "42",
-      "new_since": "2026-09-18T02:01:43.274163-05:00"
-    },
-    {
       "Available Qty.": "365",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -223,6 +205,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "523",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "492",
@@ -418,7 +409,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "156",
+      "Available Qty.": "146",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -882,7 +873,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "259",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -947,7 +938,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "81",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
