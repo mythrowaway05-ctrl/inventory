@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 18, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-09-18T04:01:01.985051-05:00",
-  "item_count": 123,
+  "updated_at": "September 18, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-09-18T05:01:08.846175-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "328",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-18T02:01:43.274163-05:00"
     },
     {
       "Available Qty.": "40",
@@ -46,16 +36,6 @@
       "Available Qty.": "4",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-18T02:01:43.274163-05:00"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
       "UOM": "CS",
       "Pack Size": "1/30 lbs",
       "Feature Type": "",
@@ -318,7 +298,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -347,15 +327,6 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "329",
-      "Item No.": "P26-050P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
-    },
-    {
       "Available Qty.": "1572",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -363,6 +334,15 @@
       "Pack Size": "200/12 gm",
       "Feature Type": "Free Item",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "329",
+      "Item No.": "P26-050P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "1051",
@@ -556,7 +536,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
