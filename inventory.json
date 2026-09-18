@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 17, 2026 at 09:17 PM",
-  "updated_at_iso": "2026-09-17T21:17:49.327685-05:00",
-  "item_count": 114,
+  "updated_at": "September 17, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-09-17T22:01:05.762248-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "328",
@@ -13,17 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "30",
-      "Item No.": "D03-941P",
-      "Description": "Assorted Drinks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-17T15:46:39.015754-05:00"
-    },
-    {
-      "Available Qty.": "21",
+      "Available Qty.": "22",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -150,15 +140,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "524",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "369",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -166,6 +147,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "524",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "4",
@@ -177,7 +167,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "1043",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -277,7 +267,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "1576",
+      "Available Qty.": "1572",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -544,7 +534,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "106",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -554,7 +544,7 @@
       "new_since": "2026-09-17T02:01:04.730257-05:00"
     },
     {
-      "Available Qty.": "108",
+      "Available Qty.": "104",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -775,7 +765,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "16",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -845,7 +835,7 @@
       "new_since": "2026-09-17T00:01:01.844129-05:00"
     },
     {
-      "Available Qty.": "830",
+      "Available Qty.": "827",
       "Item No.": "D26-324P",
       "Description": "Sauce, Marinara",
       "UOM": "CS",
