@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 19, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-09-19T17:01:08.818041-05:00",
-  "item_count": 133,
+  "updated_at": "September 19, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-09-19T18:01:05.530938-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "321",
@@ -275,7 +275,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "191",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D07-207P",
       "Description": "Creamer, French Vanilla 6/32 oz",
       "UOM": "CS",
@@ -411,7 +411,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "138",
+      "Available Qty.": "136",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -556,7 +556,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "12",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -566,7 +566,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "24",
       "Item No.": "D07-1056P",
       "Description": "Milk, 2% 9/1 qt",
       "UOM": "CS",
@@ -585,33 +585,13 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "11",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
       "UOM": "CS",
       "Pack Size": "9/1 qt",
       "Feature Type": "Free Item",
       "Gross Weight": "20",
-      "new_since": "2026-09-19T02:01:05.711952-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-168P",
-      "Description": "Milk, Chocolate 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-19T11:56:08.171765-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
       "new_since": "2026-09-19T02:01:05.711952-05:00"
     },
     {
@@ -785,7 +765,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "44",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -875,7 +855,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "4019",
+      "Available Qty.": "4017",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -925,7 +905,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "469",
+      "Available Qty.": "467",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -975,7 +955,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "3422",
+      "Available Qty.": "3418",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -1185,7 +1165,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "1035",
+      "Available Qty.": "1033",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1263,7 +1243,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "148",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
