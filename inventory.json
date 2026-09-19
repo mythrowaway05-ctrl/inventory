@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 19, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-19T01:01:08.552831-05:00",
-  "item_count": 125,
+  "updated_at": "September 19, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-19T02:01:05.712402-05:00",
+  "item_count": 135,
   "items": [
     {
       "Available Qty.": "321",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D11-111P",
+      "Description": "Assorted Baking Items",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
     },
     {
       "Available Qty.": "86",
@@ -158,6 +168,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D15-451P",
+      "Description": "Chicken Breast Chunks 2/5 lb",
+      "UOM": "CS",
+      "Pack Size": "2/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
       "Available Qty.": "58",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -167,15 +187,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "523",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "365",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -183,6 +194,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "523",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "492",
@@ -286,6 +306,16 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "68",
+      "Item No.": "P03-004P",
+      "Description": "Coffee, Ground",
+      "UOM": "CS",
+      "Pack Size": "10/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
       "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
@@ -333,15 +363,6 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "324",
-      "Item No.": "P26-050P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
-    },
-    {
       "Available Qty.": "966",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -349,6 +370,15 @@
       "Pack Size": "200/12 gm",
       "Feature Type": "Free Item",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "324",
+      "Item No.": "P26-050P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "984",
@@ -542,6 +572,16 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "26",
+      "Item No.": "D07-1056P",
+      "Description": "Milk, 2% 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D07-118P",
       "Description": "Milk, Buttermilk 9/.5 gal",
@@ -552,6 +592,16 @@
       "new_since": "2026-09-18T15:00:57.403654-05:00"
     },
     {
+      "Available Qty.": "31",
+      "Item No.": "D07-338P",
+      "Description": "Milk, Buttermilk 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
       "Available Qty.": "6",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
@@ -559,6 +609,16 @@
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
     },
     {
       "Available Qty.": "26",
@@ -614,6 +674,26 @@
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D07-980P",
+      "Description": "Milk, Whole 12/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "12/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-343P",
+      "Description": "Milk, Whole 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
     },
     {
       "Available Qty.": "3",
@@ -823,15 +903,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D28-817P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "5/10 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "472",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -840,6 +911,15 @@
       "Feature Type": "Free Item",
       "Gross Weight": "50",
       "new_since": "2026-09-18T02:01:43.274163-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D28-817P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "5/10 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "309",
@@ -1079,6 +1159,16 @@
       "new_since": "2026-09-18T16:01:18.808694-05:00"
     },
     {
+      "Available Qty.": "178",
+      "Item No.": "D03-1100P",
+      "Description": "Tea, Sweet 18/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "18/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
       "Available Qty.": "179",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
@@ -1133,7 +1223,17 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
+      "Item No.": "D03-201P",
+      "Description": "Water",
+      "UOM": "CS",
+      "Pack Size": "3/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-19T02:01:05.711952-05:00"
+    },
+    {
+      "Available Qty.": "2",
       "Item No.": "D03-741P",
       "Description": "Water - Bulk Tote",
       "UOM": "BULK",
