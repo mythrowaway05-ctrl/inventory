@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 19, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-19T16:01:09.590779-05:00",
+  "updated_at": "September 19, 2026 at 04:57 PM",
+  "updated_at_iso": "2026-09-19T16:57:25.274670-05:00",
   "item_count": 133,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D11-111P",
       "Description": "Assorted Baking Items",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -158,7 +158,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "61",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "191",
+      "Available Qty.": "181",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D07-156P",
       "Description": "Cream, Heavy Whipping",
       "UOM": "CS",
@@ -321,7 +321,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "31",
       "Item No.": "D07-196P",
       "Description": "Cream, Whipping",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "10",
       "Item No.": "D07-207P",
       "Description": "Creamer, French Vanilla 6/32 oz",
       "UOM": "CS",
@@ -393,7 +393,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "142",
+      "Available Qty.": "137",
       "Item No.": "D25-935P",
       "Description": "Fruit Roll Ups 10/5oz Case",
       "UOM": "CS",
@@ -585,7 +585,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "18",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
       "UOM": "CS",
@@ -595,7 +595,7 @@
       "new_since": "2026-09-19T02:01:05.711952-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -605,7 +605,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "0",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -635,7 +635,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-154P",
       "Description": "Milk, Chocolate 9/1 qt",
       "UOM": "CS",
@@ -955,7 +955,7 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "253",
+      "Available Qty.": "250",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1185,24 +1185,22 @@
       "new_since": "2026-09-19T11:56:08.171765-05:00"
     },
     {
-      "Available Qty.": "1045",
+      "Available Qty.": "1035",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
       "Pack Size": "12/18.5 oz",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-09-18T16:01:18.808694-05:00"
+      "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1122",
+      "Available Qty.": "1112",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-09-18T16:01:18.808694-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "174",
