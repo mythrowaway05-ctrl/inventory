@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 21, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-21T06:01:20.499233-05:00",
-  "item_count": 129,
+  "updated_at": "September 21, 2026 at 06:29 AM",
+  "updated_at_iso": "2026-09-21T06:29:58.498048-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "321",
@@ -328,13 +328,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "D08-030P",
-      "Description": "Dessert Topping",
+      "Available Qty.": "643",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
       "UOM": "CS",
-      "Pack Size": "6/5 cans",
-      "Feature Type": "",
-      "Gross Weight": "23"
+      "Pack Size": "200/12 gm",
+      "Feature Type": "Free Item",
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "320",
@@ -344,15 +344,6 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
-    },
-    {
-      "Available Qty.": "643",
-      "Item No.": "D09-107P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "200/12 gm",
-      "Feature Type": "Free Item",
-      "Gross Weight": "6"
     },
     {
       "Available Qty.": "972",
@@ -400,7 +391,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "128",
+      "Available Qty.": "182",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -490,7 +481,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "744",
+      "Available Qty.": "654",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -1075,7 +1066,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1021",
+      "Available Qty.": "757",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1084,7 +1075,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1104",
+      "Available Qty.": "786",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1093,7 +1084,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "172",
+      "Available Qty.": "82",
       "Item No.": "D03-1100P",
       "Description": "Tea, Sweet 18/16.9 oz",
       "UOM": "CS",
