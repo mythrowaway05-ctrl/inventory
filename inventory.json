@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 21, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-21T16:01:16.972016-05:00",
-  "item_count": 121,
+  "updated_at": "September 21, 2026 at 04:26 PM",
+  "updated_at_iso": "2026-09-21T16:26:29.476926-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "312",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-21T16:01:16.971528-05:00"
     },
     {
       "Available Qty.": "146",
@@ -41,7 +31,7 @@
       "Gross Weight": "1020"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "4",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -197,15 +187,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "323",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "512",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -213,6 +194,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "323",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "488",
@@ -289,26 +279,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D15-752P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/45 lb",
-      "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-09-21T10:01:51.900423-05:00"
-    },
-    {
-      "Available Qty.": "25",
-      "Item No.": "D15-820P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-09-21T10:01:51.900423-05:00"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "D15-801P",
       "Description": "Chicken, Rotisserie",
@@ -337,16 +307,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-778P",
-      "Description": "Chicken, Young",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-09-21T10:01:51.900423-05:00"
-    },
-    {
       "Available Qty.": "245",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
@@ -356,7 +316,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "200",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -365,7 +325,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "241",
+      "Available Qty.": "238",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -383,7 +343,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "620",
+      "Available Qty.": "619",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -464,7 +424,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "669",
+      "Available Qty.": "668",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -563,7 +523,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "40",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -572,7 +532,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "168",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -600,7 +560,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D07-419P",
       "Description": "Milk, Soy, Original 6/.5 gal",
       "UOM": "CS",
@@ -609,7 +569,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1128",
+      "Available Qty.": "1127",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -681,7 +641,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "45",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -825,7 +785,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "72",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -951,7 +911,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "158",
+      "Available Qty.": "157",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -960,7 +920,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "26",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -1070,7 +1030,7 @@
     {
       "Available Qty.": "1365",
       "Item No.": "D04-257P",
-      "Description": "Tortillas",
+      "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
       "Pack Size": "12/6 ct",
       "Feature Type": "",
@@ -1086,7 +1046,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "168",
+      "Available Qty.": "167",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
