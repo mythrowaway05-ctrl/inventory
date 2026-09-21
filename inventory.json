@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 21, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-21T08:01:07.525162-05:00",
-  "item_count": 116,
+  "updated_at": "September 21, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-09-21T09:01:03.538584-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "321",
@@ -31,7 +31,7 @@
       "Gross Weight": "1020"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -157,15 +157,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "350",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "513",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -173,6 +164,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "345",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "489",
@@ -193,7 +193,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1025",
+      "Available Qty.": "1020",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -283,7 +283,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -299,15 +299,6 @@
       "Pack Size": "9/1 Qt",
       "Feature Type": "",
       "Gross Weight": "19"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-196P",
-      "Description": "Cream, Whipping",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "320",
@@ -481,24 +472,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-169P",
-      "Description": "Milk, 1% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-878P",
-      "Description": "Milk, 1% 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44"
-    },
-    {
       "Available Qty.": "509",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -616,7 +589,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "90",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -625,7 +598,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
