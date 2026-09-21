@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 21, 2026 at 04:26 PM",
-  "updated_at_iso": "2026-09-21T16:26:29.476926-05:00",
-  "item_count": 117,
+  "updated_at": "September 21, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-09-21T17:01:05.942427-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "312",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-21T17:01:05.941981-05:00"
     },
     {
       "Available Qty.": "146",
@@ -40,6 +50,16 @@
       "Gross Weight": "30"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-21T17:01:05.941981-05:00"
+    },
+    {
       "Available Qty.": "659",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -67,7 +87,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "969",
+      "Available Qty.": "968",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -112,7 +132,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "391",
+      "Available Qty.": "369",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -168,6 +188,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "13",
+      "Item No.": "D07-511P",
+      "Description": "Cheese, Shredded",
+      "UOM": "CS",
+      "Pack Size": "12/7 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-21T17:01:05.941981-05:00"
+    },
+    {
       "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
@@ -187,7 +217,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "512",
+      "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -196,7 +226,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "323",
+      "Available Qty.": "320",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -205,7 +235,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "488",
+      "Available Qty.": "484",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -279,16 +309,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D15-801P",
-      "Description": "Chicken, Rotisserie",
-      "UOM": "CS",
-      "Pack Size": "1/42 lb",
-      "Feature Type": "",
-      "Gross Weight": "42",
-      "new_since": "2026-09-21T10:01:51.900423-05:00"
-    },
-    {
       "Available Qty.": "781",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
@@ -325,13 +345,23 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "238",
+      "Available Qty.": "237",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D03-483P",
+      "Description": "Cirkul Cartridge, Habiscus",
+      "UOM": "CS",
+      "Pack Size": "1/24 ct",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-09-21T17:01:05.941981-05:00"
     },
     {
       "Available Qty.": "50",
@@ -641,7 +671,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
