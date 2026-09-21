@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T11:01:04.007983-05:00",
+  "scraped_at": "2026-09-21T12:01:11.329954-05:00",
   "po_number": "PO6365117",
   "appointment": {
     "reference_number": "PO6365117",
@@ -7,10 +7,10 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n12",
-    "Total Line Items": "Gross Weight\n1541 lbs",
+    "Total Line Items": "Gross Weight\n1591 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD26-351P\tTeriyaki Sauce, Hawaiian Tropical\t1\t1\tCS\t4\t0.79\t\u00a0\t6/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-398P\tChips\t6\t6\tCS\t17\t0.50\t\u00a0\t6/5.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t72\t72\tBAG\t288\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-207P\tCreamer, French Vanilla\t1\t1\tCS\t15\t0.00\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-704P\tCheese, Pepperjack\t6\t6\tCS\t120\t3.60\t\u00a0\t4/5 lb\tREF\t0.00\tNot Yet Ranked\nD15-903P\tChicken Drumsticks\t2\t2\tCS\t84\t7.98\t\u00a0\t8/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t1\t1\tCS\t50\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t3\t3\tCS\t150\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t18\t18\tCS\t720\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nD25-2043P\tPush Pop, Popsicle\t3\t3\tCS\t23\t1.40\t\u00a0\t10/6 ct\tFROZEN\t0.00\tNot Yet Ranked\nD03-402P\tSweet Tea and Lemonade\t3\t3\tCS\t50\t3.14\t\u00a0\t12/18.5 oz\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD26-351P\tTeriyaki Sauce, Hawaiian Tropical\t1\t1\tCS\t4\t0.79\t\u00a0\t6/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-398P\tChips\t6\t6\tCS\t17\t0.50\t\u00a0\t6/5.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t72\t72\tBAG\t288\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-207P\tCreamer, French Vanilla\t1\t1\tCS\t15\t0.00\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-704P\tCheese, Pepperjack\t6\t6\tCS\t120\t3.60\t\u00a0\t4/5 lb\tREF\t0.00\tNot Yet Ranked\nD15-903P\tChicken Drumsticks\t2\t2\tCS\t84\t7.98\t\u00a0\t8/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t2\t2\tCS\t100\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t3\t3\tCS\t150\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t18\t18\tCS\t720\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nD25-2043P\tPush Pop, Popsicle\t3\t3\tCS\t23\t1.40\t\u00a0\t10/6 ct\tFROZEN\t0.00\tNot Yet Ranked\nD03-402P\tSweet Tea and Lemonade\t3\t3\tCS\t50\t3.14\t\u00a0\t12/18.5 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -107,10 +107,10 @@
     {
       "Item No.": "D28-442P",
       "Description": "Onions",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
       "UOM": "CS",
-      "Gross Weight": "50",
+      "Gross Weight": "100",
       "Packaging Type": "",
       "Pack Size": "16/3lb bag",
       "Handling Requirements": "REF",
