@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 22, 2026 at 05:37 AM",
-  "updated_at_iso": "2026-09-22T05:37:23.653370-05:00",
+  "updated_at": "September 22, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-09-22T06:01:09.406557-05:00",
   "item_count": 130,
   "items": [
     {
@@ -179,7 +179,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D07-079P",
       "Description": "Cheese, Shredded",
       "UOM": "CS",
@@ -199,7 +199,7 @@
       "new_since": "2026-09-21T17:01:05.941981-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D07-104P",
       "Description": "Cheese, String",
       "UOM": "CS",
@@ -384,7 +384,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "9",
       "Item No.": "D07-644P",
       "Description": "Cubed Cheddar Cheese 7/6 oz",
       "UOM": "CS",
@@ -403,7 +403,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "635",
+      "Available Qty.": "631",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -604,7 +604,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D07-323P",
       "Description": "Milk, 2% 6/1 gal",
       "UOM": "CS",
@@ -643,7 +643,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "17",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -1186,7 +1186,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "96",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
