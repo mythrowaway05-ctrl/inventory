@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-09-22T05:01:09.370649-05:00",
-  "item_count": 141,
+  "updated_at": "September 22, 2026 at 05:37 AM",
+  "updated_at_iso": "2026-09-22T05:37:23.653370-05:00",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "312",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "358",
+      "Available Qty.": "258",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -120,16 +120,6 @@
       "Pack Size": "6/34 oz",
       "Feature Type": "",
       "Gross Weight": "15",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1886P",
-      "Description": "Candy, Variety Pack 6/10.2 oz",
-      "UOM": "CS",
-      "Pack Size": "6/10.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
@@ -151,76 +141,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D05-410P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "10/20.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D05-818P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D05-606P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "10/15.4 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D05-414P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "12/10.8 oz Case",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D05-941P",
-      "Description": "Cereal 10/2 oz",
-      "UOM": "CS",
-      "Pack Size": "10/2 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D05-951P",
-      "Description": "Cereal 12/11.5 oz",
-      "UOM": "CS",
-      "Pack Size": "12/11.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D05-952P",
-      "Description": "Cereal 6/12 oz",
-      "UOM": "CS",
-      "Pack Size": "6/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "D05-948P",
       "Description": "Cereal Bars 3/26.7 oz",
@@ -238,16 +158,6 @@
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "17",
-      "Item No.": "D07-646P",
-      "Description": "Cheddar Cheese, Block 12/16 oz",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "13",
@@ -269,7 +179,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "6",
       "Item No.": "D07-079P",
       "Description": "Cheese, Shredded",
       "UOM": "CS",
@@ -289,7 +199,7 @@
       "new_since": "2026-09-21T17:01:05.941981-05:00"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "4",
       "Item No.": "D07-104P",
       "Description": "Cheese, String",
       "UOM": "CS",
@@ -354,7 +264,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "17",
       "Item No.": "D15-1163P",
       "Description": "Chicken Halves",
       "UOM": "CS",
@@ -364,7 +274,7 @@
       "new_since": "2026-09-21T10:01:51.900423-05:00"
     },
     {
-      "Available Qty.": "1017",
+      "Available Qty.": "1015",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -373,7 +283,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "5",
       "Item No.": "D15-655P",
       "Description": "Chicken Thighs",
       "UOM": "CS",
@@ -392,7 +302,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "672",
+      "Available Qty.": "666",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -474,7 +384,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "19",
       "Item No.": "D07-644P",
       "Description": "Cubed Cheddar Cheese 7/6 oz",
       "UOM": "CS",
@@ -548,7 +458,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "179",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -807,7 +717,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "22",
       "Item No.": "D07-645P",
       "Description": "Mozzarella Cheese, Block 12/16 oz",
       "UOM": "CS",
@@ -835,16 +745,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D18-008P",
-      "Description": "Nutritional Drink, Boost",
-      "UOM": "CS",
-      "Pack Size": "24/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
       "Available Qty.": "50",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
@@ -863,7 +763,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "28",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -890,7 +790,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "417",
+      "Available Qty.": "414",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -989,7 +889,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "135",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1007,7 +907,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "50",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1043,7 +943,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "950",
+      "Available Qty.": "948",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1059,16 +959,6 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D26-295P",
-      "Description": "Sauce, Cheese",
-      "UOM": "CS",
-      "Pack Size": "6/10 can",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "74",
