@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-22T01:01:10.267663-05:00",
-  "item_count": 116,
+  "updated_at": "September 22, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-22T02:01:27.272439-05:00",
+  "item_count": 141,
   "items": [
     {
       "Available Qty.": "312",
@@ -113,6 +113,26 @@
       "new_since": "2026-09-21T14:01:06.781485-05:00"
     },
     {
+      "Available Qty.": "6",
+      "Item No.": "D25-1673P",
+      "Description": "Candy, Gushers",
+      "UOM": "CS",
+      "Pack Size": "6/34 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D25-1886P",
+      "Description": "Candy, Variety Pack 6/10.2 oz",
+      "UOM": "CS",
+      "Pack Size": "6/10.2 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "771",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
@@ -129,6 +149,76 @@
       "Pack Size": "24/14.5 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D05-818P",
+      "Description": "Cereal",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D05-410P",
+      "Description": "Cereal",
+      "UOM": "CS",
+      "Pack Size": "10/20.1 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D05-414P",
+      "Description": "Cereal",
+      "UOM": "CS",
+      "Pack Size": "12/10.8 oz Case",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D05-606P",
+      "Description": "Cereal",
+      "UOM": "CS",
+      "Pack Size": "10/15.4 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D05-941P",
+      "Description": "Cereal 10/2 oz",
+      "UOM": "CS",
+      "Pack Size": "10/2 oz",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D05-951P",
+      "Description": "Cereal 12/11.5 oz",
+      "UOM": "CS",
+      "Pack Size": "12/11.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D05-952P",
+      "Description": "Cereal 6/12 oz",
+      "UOM": "CS",
+      "Pack Size": "6/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "6",
@@ -150,6 +240,16 @@
       "Gross Weight": "6"
     },
     {
+      "Available Qty.": "17",
+      "Item No.": "D07-646P",
+      "Description": "Cheddar Cheese, Block 12/16 oz",
+      "UOM": "CS",
+      "Pack Size": "12/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "13",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
@@ -167,6 +267,36 @@
       "Feature Type": "",
       "Gross Weight": "6",
       "new_since": "2026-09-21T17:01:05.941981-05:00"
+    },
+    {
+      "Available Qty.": "26",
+      "Item No.": "D07-079P",
+      "Description": "Cheese, Shredded",
+      "UOM": "CS",
+      "Pack Size": "12/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "26",
+      "Item No.": "D07-1015P",
+      "Description": "Cheese, Shredded",
+      "UOM": "CS",
+      "Pack Size": "12/6oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D07-104P",
+      "Description": "Cheese, String",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "0",
@@ -188,15 +318,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "320",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -204,6 +325,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "320",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "460",
@@ -334,6 +464,26 @@
       "Gross Weight": "5"
     },
     {
+      "Available Qty.": "13",
+      "Item No.": "D07-052P",
+      "Description": "Cottage Cheese",
+      "UOM": "CS",
+      "Pack Size": "12/24 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "36",
+      "Item No.": "D07-644P",
+      "Description": "Cubed Cheddar Cheese 7/6 oz",
+      "UOM": "CS",
+      "Pack Size": "7/6 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "635",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -377,6 +527,16 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "55",
+      "Item No.": "D25-936P",
+      "Description": "Fruit Snacks",
+      "UOM": "CS",
+      "Pack Size": "8/8 oz Case",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "306",
@@ -496,6 +656,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "40",
+      "Item No.": "D07-870P",
+      "Description": "Milk, 1% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "471",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -512,6 +682,26 @@
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "28",
+      "Item No.": "D07-1073P",
+      "Description": "Milk, 2% 50/8 oz",
+      "UOM": "CS",
+      "Pack Size": "50/8 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "32",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D07-323P",
+      "Description": "Milk, 2% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "153",
@@ -533,6 +723,16 @@
       "Gross Weight": "38"
     },
     {
+      "Available Qty.": "27",
+      "Item No.": "D07-1024P",
+      "Description": "Milk, Skim 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "22",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
@@ -549,6 +749,16 @@
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D07-131P",
+      "Description": "Milk, Whole 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 Gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "1",
@@ -597,6 +807,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "26",
+      "Item No.": "D07-645P",
+      "Description": "Mozzarella Cheese, Block 12/16 oz",
+      "UOM": "CS",
+      "Pack Size": "12/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
+    },
+    {
       "Available Qty.": "1150",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
@@ -613,6 +833,16 @@
       "Pack Size": "24/8 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D18-008P",
+      "Description": "Nutritional Drink, Boost",
+      "UOM": "CS",
+      "Pack Size": "24/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "50",
@@ -829,6 +1059,16 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D26-295P",
+      "Description": "Sauce, Cheese",
+      "UOM": "CS",
+      "Pack Size": "6/10 can",
+      "Feature Type": "",
+      "Gross Weight": "40",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "74",
@@ -1054,6 +1294,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "100",
+      "Item No.": "D01-235P",
+      "Description": "Weather Strips",
+      "UOM": "CS",
+      "Pack Size": "1/36 ct",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-22T02:01:27.271857-05:00"
     }
   ]
 }
