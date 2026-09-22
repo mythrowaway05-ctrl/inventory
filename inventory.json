@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-09-22T11:01:11.183849-05:00",
-  "item_count": 116,
+  "updated_at": "September 22, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-09-22T12:01:09.076480-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "312",
@@ -13,7 +13,17 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "139",
+      "Available Qty.": "2",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-09-22T12:01:09.075989-05:00"
+    },
+    {
+      "Available Qty.": "135",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -22,7 +32,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -85,6 +95,16 @@
       "Gross Weight": "27"
     },
     {
+      "Available Qty.": "25",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-22T12:01:09.075989-05:00"
+    },
+    {
       "Available Qty.": "825",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -103,7 +123,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "241",
+      "Available Qty.": "231",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -140,7 +160,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "30",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -158,7 +178,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "288",
+      "Available Qty.": "255",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -221,7 +241,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "357",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -320,7 +340,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2287",
+      "Available Qty.": "2267",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -383,7 +403,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1051",
+      "Available Qty.": "1031",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -428,7 +448,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "19",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -446,7 +466,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "787",
+      "Available Qty.": "777",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -455,7 +475,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -474,7 +494,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "15",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -493,7 +513,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "83",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -512,7 +532,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "17",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -612,7 +632,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "33",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -621,7 +641,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "17",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -729,7 +749,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D15-432P",
       "Description": "Pork Loin Chops",
       "UOM": "CS",
@@ -748,7 +768,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "165",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -766,7 +786,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "21",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -775,7 +795,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "3317",
+      "Available Qty.": "3287",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -784,7 +804,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3293",
+      "Available Qty.": "3283",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -874,7 +894,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "285",
+      "Available Qty.": "275",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -892,7 +912,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "134",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -1045,7 +1065,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "90",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
