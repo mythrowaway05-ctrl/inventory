@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-22T07:01:58.362131-05:00",
-  "item_count": 125,
+  "updated_at": "September 22, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-22T08:01:08.902768-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "312",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "139",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "252",
+      "Available Qty.": "254",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -123,7 +123,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "771",
+      "Available Qty.": "679",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -150,43 +150,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "37",
       "Item No.": "D07-704P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
       "Pack Size": "4/5 lb",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1015P",
-      "Description": "Cheese, Shredded",
-      "UOM": "CS",
-      "Pack Size": "12/6oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-511P",
-      "Description": "Cheese, Shredded",
-      "UOM": "CS",
-      "Pack Size": "12/7 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-21T17:01:05.941981-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-21T10:01:51.900423-05:00"
     },
     {
       "Available Qty.": "56",
@@ -198,15 +168,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "320",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -214,6 +175,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "318",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "460",
@@ -244,7 +214,7 @@
       "new_since": "2026-09-21T10:01:51.900423-05:00"
     },
     {
-      "Available Qty.": "1015",
+      "Available Qty.": "1011",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -308,7 +278,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "240",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -317,7 +287,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "198",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -326,42 +296,13 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "237",
+      "Available Qty.": "231",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "P03-004P",
-      "Description": "Coffee, Ground Westrock Coffee",
-      "UOM": "CS",
-      "Pack Size": "10/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-052P",
-      "Description": "Cottage Cheese",
-      "UOM": "CS",
-      "Pack Size": "12/24 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-644P",
-      "Description": "Cubed Cheddar Cheese 7/6 oz",
-      "UOM": "CS",
-      "Pack Size": "7/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
       "Available Qty.": "316",
@@ -373,7 +314,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "631",
+      "Available Qty.": "426",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -409,16 +350,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-936P",
-      "Description": "Fruit Snacks",
-      "UOM": "CS",
-      "Pack Size": "8/8 oz Case",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
       "Available Qty.": "306",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
@@ -428,7 +359,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "125",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -464,7 +395,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1057",
+      "Available Qty.": "1056",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -473,7 +404,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1101",
+      "Available Qty.": "941",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -509,7 +440,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "20",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -518,7 +449,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "653",
+      "Available Qty.": "563",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -574,7 +505,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "113",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -621,16 +552,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-131P",
-      "Description": "Milk, Whole 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-09-22T02:01:27.271857-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
@@ -659,7 +580,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "133",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -713,7 +634,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "47",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -758,7 +679,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "583",
+      "Available Qty.": "581",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -839,7 +760,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "132",
+      "Available Qty.": "202",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -929,7 +850,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "777",
+      "Available Qty.": "769",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1055,7 +976,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "731",
+      "Available Qty.": "604",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1064,7 +985,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "720",
+      "Available Qty.": "588",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1073,7 +994,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "73",
       "Item No.": "D03-1100P",
       "Description": "Tea, Sweet 18/16.9 oz",
       "UOM": "CS",
@@ -1100,7 +1021,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "1283",
+      "Available Qty.": "1103",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
