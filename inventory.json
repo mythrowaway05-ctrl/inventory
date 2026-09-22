@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 21, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-09-21T22:01:12.474392-05:00",
-  "item_count": 117,
+  "updated_at": "September 21, 2026 at 11:01 PM",
+  "updated_at_iso": "2026-09-21T23:01:11.098362-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "312",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "378",
+      "Available Qty.": "376",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -188,15 +188,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "511",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "320",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -204,6 +195,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "511",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "460",
@@ -334,15 +334,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "316",
-      "Item No.": "P26-050P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
-    },
-    {
       "Available Qty.": "635",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -350,6 +341,15 @@
       "Pack Size": "200/12 gm",
       "Feature Type": "Free Item",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "316",
+      "Item No.": "P26-050P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "960",
@@ -512,16 +512,6 @@
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D07-1056P",
-      "Description": "Milk, 2% 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-21T22:01:12.473856-05:00"
     },
     {
       "Available Qty.": "153",
