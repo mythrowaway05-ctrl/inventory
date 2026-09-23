@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 23, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-09-23T12:01:06.534479-05:00",
-  "item_count": 122,
+  "updated_at": "September 23, 2026 at 12:36 PM",
+  "updated_at_iso": "2026-09-23T12:36:58.144860-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "312",
@@ -19,8 +19,7 @@
       "UOM": "CS",
       "Pack Size": "1/20 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-22T12:01:09.075989-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "280",
@@ -95,14 +94,13 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "17",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
       "Pack Size": "1/30 lb box",
       "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-22T12:01:09.075989-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "821",
@@ -177,15 +175,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "236",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -193,6 +182,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "236",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "458",
@@ -303,7 +301,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "130",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -313,14 +311,13 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D27-773P",
-      "Description": "Corn on the Cob",
-      "UOM": "BAG",
-      "Pack Size": "1/4 lb",
+      "Available Qty.": "416",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "200/12 gm",
       "Feature Type": "Free Item",
-      "Gross Weight": "4",
-      "new_since": "2026-09-23T11:01:12.263046-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "300",
@@ -330,15 +327,6 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
-    },
-    {
-      "Available Qty.": "416",
-      "Item No.": "D09-107P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "200/12 gm",
-      "Feature Type": "Free Item",
-      "Gross Weight": "6"
     },
     {
       "Available Qty.": "960",
@@ -377,7 +365,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "62",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -577,7 +565,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "261",
+      "Available Qty.": "389",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -631,7 +619,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "46",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -767,7 +755,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "802",
+      "Available Qty.": "798",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -785,17 +773,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D23-055P",
-      "Description": "Protein PB and Bean",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb box",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-23T02:00:52.516540-05:00"
-    },
-    {
-      "Available Qty.": "3260",
+      "Available Qty.": "3256",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -804,7 +782,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3238",
+      "Available Qty.": "3234",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -994,7 +972,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "434",
+      "Available Qty.": "432",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1086,7 +1064,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "124",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
