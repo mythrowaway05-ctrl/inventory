@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-22T20:01:06.148340-05:00",
-  "item_count": 119,
+  "updated_at": "September 22, 2026 at 08:04 PM",
+  "updated_at_iso": "2026-09-22T20:04:49.321240-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "312",
@@ -23,7 +23,7 @@
       "new_since": "2026-09-22T16:01:21.799714-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -31,6 +31,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-09-22T12:01:09.075989-05:00"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-22T20:04:49.320734-05:00"
     },
     {
       "Available Qty.": "4",
@@ -59,6 +69,16 @@
       "Pack Size": "1/1020 lb",
       "Feature Type": "",
       "Gross Weight": "1020"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-22T20:04:49.320734-05:00"
     },
     {
       "Available Qty.": "11",
@@ -207,15 +227,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "511",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "231",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -223,6 +234,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "511",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "458",
@@ -505,7 +525,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -562,7 +582,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "22",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -796,15 +816,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-767P",
-      "Description": "Potatoes, Sweet",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb Case",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "3264",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
@@ -832,7 +843,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1006",
+      "Available Qty.": "1074",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
