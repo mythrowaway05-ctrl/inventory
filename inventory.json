@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 23, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-23T08:01:00.472804-05:00",
-  "item_count": 126,
+  "updated_at": "September 23, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-09-23T09:01:13.856666-05:00",
+  "item_count": 123,
   "items": [
     {
       "Available Qty.": "312",
@@ -115,7 +115,7 @@
       "new_since": "2026-09-22T12:01:09.075989-05:00"
     },
     {
-      "Available Qty.": "823",
+      "Available Qty.": "821",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -124,7 +124,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1028",
+      "Available Qty.": "1026",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -133,7 +133,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "120",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -178,22 +178,13 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "33",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "511",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "236",
@@ -203,6 +194,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "511",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "458",
@@ -266,16 +266,6 @@
       "Pack Size": "24/5 oz can",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "27",
-      "Item No.": "D15-1108P",
-      "Description": "Chicken, Rotisserie, Lemon Pepper",
-      "UOM": "CS",
-      "Pack Size": "1/52 lb",
-      "Feature Type": "",
-      "Gross Weight": "52",
-      "new_since": "2026-09-22T15:01:06.561251-05:00"
     },
     {
       "Available Qty.": "778",
@@ -387,7 +377,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "64",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -432,7 +422,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "871",
+      "Available Qty.": "711",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -596,7 +586,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "588",
+      "Available Qty.": "586",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -659,7 +649,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "329",
+      "Available Qty.": "327",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -821,16 +811,6 @@
       "Pack Size": "24/3 oz",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "12",
-      "Item No.": "D25-2044P",
-      "Description": "Rice Cake Minis 6/10 ct",
-      "UOM": "CS",
-      "Pack Size": "6/10 ct",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
       "Available Qty.": "118",
@@ -1024,17 +1004,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D26-979P",
-      "Description": "Sugar 6/4 lb",
-      "UOM": "CS",
-      "Pack Size": "6/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-09-23T02:00:52.516540-05:00"
-    },
-    {
-      "Available Qty.": "566",
+      "Available Qty.": "434",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1043,7 +1013,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "574",
+      "Available Qty.": "442",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1089,7 +1059,7 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "1083",
+      "Available Qty.": "903",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
@@ -1107,7 +1077,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "114",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
