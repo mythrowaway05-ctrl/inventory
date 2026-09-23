@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 22, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-09-22T21:01:17.305038-05:00",
-  "item_count": 120,
+  "updated_at": "September 22, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-09-22T22:01:13.324504-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "312",
@@ -79,16 +79,6 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-09-22T20:04:49.320734-05:00"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D26-598P",
-      "Description": "Assorted Spices and Condiments",
-      "UOM": "CS",
-      "Pack Size": "1/30lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-22T16:01:21.799714-05:00"
     },
     {
       "Available Qty.": "632",
@@ -173,7 +163,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "210",
+      "Available Qty.": "208",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -227,15 +217,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "231",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -243,6 +224,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "231",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "458",
@@ -272,7 +262,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "1009",
+      "Available Qty.": "1006",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -372,7 +362,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "418",
+      "Available Qty.": "416",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -554,7 +544,7 @@
       "new_since": "2026-09-22T02:01:27.271857-05:00"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "78",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -798,7 +788,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "61",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -870,7 +860,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "57",
       "Item No.": "D26-324P",
       "Description": "Sauce, Marinara",
       "UOM": "CS",
