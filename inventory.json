@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 23, 2026 at 07:40 AM",
-  "updated_at_iso": "2026-09-23T07:40:06.882928-05:00",
-  "item_count": 128,
+  "updated_at": "September 23, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-23T08:01:00.472804-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "312",
@@ -13,17 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D11-111P",
-      "Description": "Assorted Baking Items",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-22T16:01:21.799714-05:00"
-    },
-    {
-      "Available Qty.": "2",
+      "Available Qty.": "13",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -31,26 +21,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "20",
       "new_since": "2026-09-22T12:01:09.075989-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-09-22T20:04:49.320734-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1406P",
-      "Description": "Assorted Candy",
-      "UOM": "CS",
-      "Pack Size": "1/14 lbs",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-09-22T17:33:24.151106-05:00"
     },
     {
       "Available Qty.": "280",
@@ -72,7 +42,7 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -135,7 +105,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "25",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -217,15 +187,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "236",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -233,6 +194,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "236",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "458",
@@ -363,15 +333,6 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "300",
-      "Item No.": "P26-050P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
-    },
-    {
       "Available Qty.": "416",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -379,6 +340,15 @@
       "Pack Size": "200/12 gm",
       "Feature Type": "Free Item",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "300",
+      "Item No.": "P26-050P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "960",
@@ -662,7 +632,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "84",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -1054,7 +1024,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D26-979P",
       "Description": "Sugar 6/4 lb",
       "UOM": "CS",
@@ -1163,6 +1133,16 @@
       "Feature Type": "",
       "Gross Weight": "17",
       "new_since": "2026-09-23T02:00:52.516540-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D03-741P",
+      "Description": "Water - Bulk Tote",
+      "UOM": "BULK",
+      "Pack Size": "1/1100 LB",
+      "Feature Type": "",
+      "Gross Weight": "1100",
+      "new_since": "2026-09-23T08:01:00.383360-05:00"
     },
     {
       "Available Qty.": "100",
