@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 23, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-23T10:01:06.356728-05:00",
-  "item_count": 122,
+  "updated_at": "September 23, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-09-23T11:01:12.263592-05:00",
+  "item_count": 123,
   "items": [
     {
       "Available Qty.": "312",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "8",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -77,7 +77,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "483",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "19",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -123,7 +123,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "124",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -150,7 +150,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "207",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -249,7 +249,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "196",
+      "Available Qty.": "383",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -276,7 +276,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "212",
+      "Available Qty.": "788",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -294,7 +294,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "446",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -313,13 +313,14 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "416",
-      "Item No.": "D09-107P",
-      "Description": "Dressing, Ranch",
-      "UOM": "CS",
-      "Pack Size": "200/12 gm",
+      "Available Qty.": "25",
+      "Item No.": "D27-773P",
+      "Description": "Corn on the Cob",
+      "UOM": "BAG",
+      "Pack Size": "1/4 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "6"
+      "Gross Weight": "4",
+      "new_since": "2026-09-23T11:01:12.263046-05:00"
     },
     {
       "Available Qty.": "300",
@@ -329,6 +330,15 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "416",
+      "Item No.": "D09-107P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "200/12 gm",
+      "Feature Type": "Free Item",
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "960",
@@ -421,7 +431,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "6",
       "Item No.": "D02-086P",
       "Description": "Infant Formula, Pure Bliss",
       "UOM": "CS",
@@ -449,7 +459,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "44",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -503,7 +513,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "48",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -530,7 +540,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "32",
       "Item No.": "D07-705P",
       "Description": "Milk, Soy Orangic 12/32 oz",
       "UOM": "CS",
@@ -567,7 +577,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "133",
+      "Available Qty.": "261",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -612,7 +622,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "322",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -748,7 +758,7 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "568",
+      "Available Qty.": "485",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -757,7 +767,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "805",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -775,7 +785,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "4",
       "Item No.": "D23-055P",
       "Description": "Protein PB and Bean",
       "UOM": "CS",
@@ -803,7 +813,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "322",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -812,7 +822,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1074",
+      "Available Qty.": "1142",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -904,7 +914,7 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
-      "Available Qty.": "260",
+      "Available Qty.": "254",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
@@ -976,7 +986,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "235",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
@@ -1086,7 +1096,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "126",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
