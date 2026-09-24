@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 24, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-09-24T08:01:07.485694-05:00",
-  "item_count": 129,
+  "updated_at": "September 24, 2026 at 08:17 AM",
+  "updated_at_iso": "2026-09-24T08:17:26.851690-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "304",
@@ -31,23 +31,13 @@
       "Gross Weight": "1020"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D19-004P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/160 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "160",
-      "new_since": "2026-09-24T04:01:08.787824-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D22-050P",
-      "Description": "Assorted Pet Food - BULK 1/800 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/800 lb",
-      "Feature Type": "",
-      "Gross Weight": "800",
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
@@ -123,16 +113,6 @@
       "Feature Type": "",
       "Gross Weight": "41",
       "new_since": "2026-09-24T04:01:08.787824-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-09-24T08:01:07.485192-05:00"
     },
     {
       "Available Qty.": "811",
@@ -564,7 +544,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "28",
       "Item No.": "D07-1073P",
       "Description": "Milk, 2% 50/8 oz",
       "UOM": "CS",
@@ -573,17 +553,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-118P",
-      "Description": "Milk, Buttermilk 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42",
-      "new_since": "2026-09-24T04:01:08.787824-05:00"
-    },
-    {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D07-338P",
       "Description": "Milk, Buttermilk 9/1 qt",
       "UOM": "CS",
@@ -629,7 +599,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "57",
       "Item No.": "D07-419P",
       "Description": "Milk, Soy, Original 6/.5 gal",
       "UOM": "CS",
