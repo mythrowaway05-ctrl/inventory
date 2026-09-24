@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 24, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-09-24T06:01:33.140939-05:00",
-  "item_count": 136,
+  "updated_at": "September 24, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-09-24T07:01:04.285644-05:00",
+  "item_count": 134,
   "items": [
     {
       "Available Qty.": "304",
@@ -51,16 +51,6 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D19-012P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
-      "new_since": "2026-09-24T04:01:08.787824-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D19-004P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
@@ -68,6 +58,16 @@
       "Pack Size": "1/160 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "160",
+      "new_since": "2026-09-24T04:01:08.787824-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-012P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/230 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "230",
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
@@ -173,7 +173,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "10",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -383,17 +383,7 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D08-030P",
-      "Description": "Dessert Topping",
-      "UOM": "CS",
-      "Pack Size": "6/5 cans",
-      "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-09-24T04:01:08.787824-05:00"
-    },
-    {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D22-063P",
       "Description": "Dog Food",
       "UOM": "CS",
@@ -403,7 +393,7 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
-      "Available Qty.": "416",
+      "Available Qty.": "216",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -467,7 +457,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "20",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -567,7 +557,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "562",
+      "Available Qty.": "472",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -585,7 +575,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "12",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -613,7 +603,7 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "1",
       "Item No.": "D07-118P",
       "Description": "Milk, Buttermilk 9/.5 gal",
       "UOM": "CS",
@@ -633,7 +623,7 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "22",
       "Item No.": "D07-168P",
       "Description": "Milk, Chocolate 12/1 pt",
       "UOM": "CS",
@@ -770,7 +760,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "38",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -915,7 +905,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "753",
+      "Available Qty.": "746",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -985,15 +975,6 @@
       "Pack Size": "24/14 oz can",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "56",
-      "Item No.": "D26-324P",
-      "Description": "Sauce, Marinara",
-      "UOM": "CS",
-      "Pack Size": "100/1 oz cups",
-      "Feature Type": "Free Item",
-      "Gross Weight": "8"
     },
     {
       "Available Qty.": "762",
@@ -1141,7 +1122,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "432",
+      "Available Qty.": "300",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
@@ -1150,7 +1131,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "441",
+      "Available Qty.": "309",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1159,7 +1140,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "0",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1196,7 +1177,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "879",
+      "Available Qty.": "699",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
@@ -1242,7 +1223,7 @@
       "new_since": "2026-09-23T08:01:00.383360-05:00"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "98",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
