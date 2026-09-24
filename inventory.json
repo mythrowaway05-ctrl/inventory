@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 23, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-09-23T20:01:03.093949-05:00",
+  "updated_at": "September 23, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-09-23T21:01:04.496732-05:00",
   "item_count": 116,
   "items": [
     {
@@ -29,16 +29,6 @@
       "Pack Size": "1/1020 lb",
       "Feature Type": "",
       "Gross Weight": "1020"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-014P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/200 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-09-23T15:52:59.615456-05:00"
     },
     {
       "Available Qty.": "629",
@@ -131,7 +121,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "81",
       "Item No.": "P27-045P",
       "Description": "Carrots, Sliced",
       "UOM": "CS",
@@ -176,7 +166,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "453",
+      "Available Qty.": "443",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -294,6 +284,16 @@
       "new_since": "2026-09-23T02:00:52.516540-05:00"
     },
     {
+      "Available Qty.": "5",
+      "Item No.": "D27-773P",
+      "Description": "Corn on the Cob",
+      "UOM": "BAG",
+      "Pack Size": "1/4 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "4",
+      "new_since": "2026-09-23T11:01:12.263046-05:00"
+    },
+    {
       "Available Qty.": "416",
       "Item No.": "D09-107P",
       "Description": "Dressing, Ranch",
@@ -384,7 +384,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1014",
+      "Available Qty.": "1010",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -682,7 +682,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "325",
+      "Available Qty.": "321",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -691,7 +691,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "2044",
+      "Available Qty.": "2047",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -963,7 +963,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "54",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -991,7 +991,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "345",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
@@ -1000,7 +1000,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "883",
+      "Available Qty.": "882",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
@@ -1046,7 +1046,7 @@
       "new_since": "2026-09-23T08:01:00.383360-05:00"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "95",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
