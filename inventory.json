@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 24, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-24T14:01:08.678996-05:00",
-  "item_count": 117,
+  "updated_at": "September 24, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-24T15:01:03.810068-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "294",
@@ -105,6 +105,16 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
+      "Available Qty.": "25",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-24T08:01:07.485192-05:00"
+    },
+    {
       "Available Qty.": "803",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -159,15 +169,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "225",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -175,6 +176,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "225",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "443",
