@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 25, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-09-25T05:01:23.919848-05:00",
-  "item_count": 125,
+  "updated_at": "September 25, 2026 at 05:51 AM",
+  "updated_at_iso": "2026-09-25T05:51:41.231157-05:00",
+  "item_count": 123,
   "items": [
     {
       "Available Qty.": "287",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "15",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -177,15 +177,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "225",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -193,6 +184,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "225",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "433",
@@ -402,7 +402,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "639",
+      "Available Qty.": "635",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -511,16 +511,6 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-1175P",
-      "Description": "Lunchmeat 1/30 lb",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "770",
@@ -668,16 +658,6 @@
       "Pack Size": "24/8 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "8",
-      "Item No.": "D18-008P",
-      "Description": "Nutritional Drink, Boost",
-      "UOM": "CS",
-      "Pack Size": "24/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "41",
