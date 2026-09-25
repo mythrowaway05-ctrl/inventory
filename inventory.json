@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 25, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-25T10:01:14.821418-05:00",
-  "item_count": 115,
+  "updated_at": "September 25, 2026 at 10:41 AM",
+  "updated_at_iso": "2026-09-25T10:41:43.976430-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "280",
@@ -464,7 +464,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "31",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -761,6 +761,16 @@
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "200",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5",
+      "new_since": "2026-09-25T10:41:43.975818-05:00"
     },
     {
       "Available Qty.": "282",
