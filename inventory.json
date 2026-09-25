@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 25, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-25T01:01:04.452413-05:00",
-  "item_count": 117,
+  "updated_at": "September 25, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-25T02:01:20.245256-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "287",
@@ -39,6 +39,16 @@
       "Pack Size": "1/1020 lb",
       "Feature Type": "",
       "Gross Weight": "1020"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-014P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/200 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "200",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "629",
@@ -179,15 +189,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "220",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "511",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -195,6 +196,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "225",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "433",
@@ -443,6 +453,16 @@
       "Gross Weight": "3"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D07-923P",
+      "Description": "Ice Cream Cups",
+      "UOM": "CS",
+      "Pack Size": "48/4 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
       "Available Qty.": "660",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
@@ -471,6 +491,16 @@
       "new_since": "2026-09-24T04:01:08.787824-05:00"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D03-834P",
+      "Description": "Juice, Berry Punch",
+      "UOM": "CS",
+      "Pack Size": "8/59 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "34",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
       "Available Qty.": "35",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
@@ -478,6 +508,26 @@
       "Pack Size": "40/6.75 oz",
       "Feature Type": "",
       "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "34",
+      "Item No.": "D14-101P",
+      "Description": "Juice, Fruit Punch 8/59 oz",
+      "UOM": "CS",
+      "Pack Size": "8/59 oz",
+      "Feature Type": "",
+      "Gross Weight": "34",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
+      "Available Qty.": "14",
+      "Item No.": "D14-003P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "8/59 oz carton",
+      "Feature Type": "",
+      "Gross Weight": "35",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "471",
@@ -489,6 +539,36 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D06-977P",
+      "Description": "Lunchables",
+      "UOM": "CS",
+      "Pack Size": "18/2.44 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D15-1175P",
+      "Description": "Lunchmeat 1/30 lb",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-039P",
+      "Description": "Lunchmeat, Ham",
+      "UOM": "CS",
+      "Pack Size": "8/9 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
+    },
+    {
       "Available Qty.": "770",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
@@ -496,6 +576,16 @@
       "Pack Size": "12/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "41",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "423",
@@ -514,6 +604,16 @@
       "Pack Size": "50/8 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "32"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D07-1117P",
+      "Description": "Milk, 2% Reduced Fat 6/52 oz",
+      "UOM": "CS",
+      "Pack Size": "6/52 oz",
+      "Feature Type": "",
+      "Gross Weight": "22",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "10",
@@ -541,6 +641,16 @@
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "13",
+      "Item No.": "D07-988P",
+      "Description": "Milk, Whole, Lactose Free 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/64 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "28",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "1093",
@@ -605,6 +715,16 @@
       "Pack Size": "24/8 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "13",
+      "Item No.": "D18-008P",
+      "Description": "Nutritional Drink, Boost",
+      "UOM": "CS",
+      "Pack Size": "24/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
       "Available Qty.": "41",
@@ -1023,7 +1143,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "683",
+      "Available Qty.": "693",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
