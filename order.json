@@ -1,18 +1,44 @@
 {
-  "scraped_at": "2026-09-25T04:01:06.668003-05:00",
+  "scraped_at": "2026-09-25T05:01:23.865999-05:00",
   "po_number": "PO6365117",
   "appointment": {
     "reference_number": "PO6365117",
     "pickup_date": "09/30/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n24",
-    "Total Line Items": "Gross Weight\n3389 lbs",
+    "Total Due": "Total Line Items\n27",
+    "Total Line Items": "Gross Weight\n3530 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD12-370P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t140\t25.20\t\u00a0\t1/140 lbs\tDRY\t0.00\tNot Yet Ranked\nD12-381P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t200\t38.00\t\u00a0\t1/200 lb\tDRY\t0.00\tNot Yet Ranked\nD03-1101P\tCitrus Punch\t6\t6\tCS\t62\t1.98\t\u00a0\t15/10 oz\tDRY\t0.00\tNot Yet Ranked\nD22-063P\tDog Food\t38\t38\tCS\t570\t0.00\t\u00a0\t1/15 lb\tDRY\t0.00\tNot Yet Ranked\nD07-168P\tMilk, Chocolate\t1\t1\tCS\t14\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD19-008P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t180\t32.40\t\u00a0\t1/180 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-324P\t8 Piece Cut Chicken\t4\t4\tCS\t200\t9.50\t\u00a0\t8/6 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-644P\tCubed Cheddar Cheese\t2\t2\tCS\t6\t0.57\t\u00a0\t7/6 oz\tREF\t0.00\tNot Yet Ranked\nD07-1001P\tMilk, 2%\t2\t2\tCS\t28\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD15-778P\tChicken, Young\t4\t4\tCS\t160\t3.60\t\u00a0\t1/40 lb\tFROZEN\t0.00\tNot Yet Ranked\nD26-351P\tTeriyaki Sauce, Hawaiian Tropical\t1\t1\tCS\t4\t0.79\t\u00a0\t6/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-398P\tChips\t6\t6\tCS\t17\t0.50\t\u00a0\t6/5.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t72\t72\tBAG\t288\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-207P\tCreamer, French Vanilla\t1\t1\tCS\t15\t0.00\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-704P\tCheese, Pepperjack\t6\t6\tCS\t120\t3.60\t\u00a0\t4/5 lb\tREF\t0.00\tNot Yet Ranked\nD15-903P\tChicken Drumsticks\t2\t2\tCS\t84\t7.98\t\u00a0\t8/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t2\t2\tCS\t100\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t3\t3\tCS\t150\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t20\t20\tCS\t800\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nD25-2043P\tPush Pop, Popsicle\t3\t3\tCS\t23\t1.40\t\u00a0\t10/6 ct\tFROZEN\t0.00\tNot Yet Ranked\nD03-402P\tSweet Tea and Lemonade\t3\t3\tCS\t50\t3.14\t\u00a0\t12/18.5 oz\tDRY\t0.00\tNot Yet Ranked\nD26-324P\tSauce, Marinara\t1\t1\tCS\t8\t0.00\t\u00a0\t100/1 oz cups\tDRY\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t3\t3\tCS\t150\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD03-834P\tJuice, Berry Punch\t1\t1\tCS\t34\t0.00\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD14-003P\tJuice, Orange\t1\t1\tCS\t35\t3.11\t\u00a0\t8/59 oz carton\tREF\t0.00\tNot Yet Ranked\nD12-370P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t140\t25.20\t\u00a0\t1/140 lbs\tDRY\t0.00\tNot Yet Ranked\nD12-381P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t200\t38.00\t\u00a0\t1/200 lb\tDRY\t0.00\tNot Yet Ranked\nD03-1101P\tCitrus Punch\t10\t10\tCS\t104\t1.98\t\u00a0\t15/10 oz\tDRY\t0.00\tNot Yet Ranked\nD22-063P\tDog Food\t38\t38\tCS\t570\t0.00\t\u00a0\t1/15 lb\tDRY\t0.00\tNot Yet Ranked\nD07-168P\tMilk, Chocolate\t1\t1\tCS\t14\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD19-008P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t180\t32.40\t\u00a0\t1/180 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-324P\t8 Piece Cut Chicken\t4\t4\tCS\t200\t9.50\t\u00a0\t8/6 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-644P\tCubed Cheddar Cheese\t2\t2\tCS\t6\t0.57\t\u00a0\t7/6 oz\tREF\t0.00\tNot Yet Ranked\nD07-1001P\tMilk, 2%\t2\t2\tCS\t28\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD15-778P\tChicken, Young\t4\t4\tCS\t160\t3.60\t\u00a0\t1/40 lb\tFROZEN\t0.00\tNot Yet Ranked\nD26-351P\tTeriyaki Sauce, Hawaiian Tropical\t1\t1\tCS\t4\t0.79\t\u00a0\t6/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-398P\tChips\t6\t6\tCS\t17\t0.50\t\u00a0\t6/5.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t72\t72\tBAG\t288\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD07-207P\tCreamer, French Vanilla\t1\t1\tCS\t15\t0.00\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-704P\tCheese, Pepperjack\t6\t6\tCS\t120\t3.60\t\u00a0\t4/5 lb\tREF\t0.00\tNot Yet Ranked\nD15-903P\tChicken Drumsticks\t2\t2\tCS\t84\t7.98\t\u00a0\t8/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t2\t2\tCS\t100\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t3\t3\tCS\t150\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t20\t20\tCS\t800\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nD03-402P\tSweet Tea and Lemonade\t3\t3\tCS\t50\t3.14\t\u00a0\t12/18.5 oz\tDRY\t0.00\tNot Yet Ranked\nD26-324P\tSauce, Marinara\t1\t1\tCS\t8\t0.00\t\u00a0\t100/1 oz cups\tDRY\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t3\t3\tCS\t150\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD25-2043P\tPush Pop, Popsicle\t3\t3\tCS\t23\t1.40\t\u00a0\t10/6 ct\tFROZEN\t0.00\tNot Yet Ranked"
   },
   "items": [
+    {
+      "Item No.": "D03-834P",
+      "Description": "Juice, Berry Punch",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "34",
+      "Packaging Type": "",
+      "Pack Size": "8/59 oz",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D14-003P",
+      "Description": "Juice, Orange",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "35",
+      "Packaging Type": "",
+      "Pack Size": "8/59 oz carton",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
     {
       "Item No.": "D12-370P",
       "Description": "Assorted Personal Hygiene - BULK",
@@ -42,10 +68,10 @@
     {
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch",
-      "Order Qty.": "6",
-      "Accepted Qty.": "6",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
       "UOM": "CS",
-      "Gross Weight": "62",
+      "Gross Weight": "104",
       "Packaging Type": "",
       "Pack Size": "15/10 oz",
       "Handling Requirements": "DRY",
@@ -274,19 +300,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D25-2043P",
-      "Description": "Push Pop, Popsicle",
-      "Order Qty.": "3",
-      "Accepted Qty.": "3",
-      "UOM": "CS",
-      "Gross Weight": "23",
-      "Packaging Type": "",
-      "Pack Size": "10/6 ct",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade",
       "Order Qty.": "3",
@@ -322,6 +335,32 @@
       "Packaging Type": "",
       "Pack Size": "1/50 lb",
       "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "30",
+      "Packaging Type": "",
+      "Pack Size": "1/30 lb box",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D25-2043P",
+      "Description": "Push Pop, Popsicle",
+      "Order Qty.": "3",
+      "Accepted Qty.": "3",
+      "UOM": "CS",
+      "Gross Weight": "23",
+      "Packaging Type": "",
+      "Pack Size": "10/6 ct",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
