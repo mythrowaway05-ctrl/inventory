@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 26, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-26T01:01:02.595235-05:00",
-  "item_count": 116,
+  "updated_at": "September 26, 2026 at 01:53 AM",
+  "updated_at_iso": "2026-09-26T01:53:30.867709-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "274",
@@ -464,7 +464,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "31",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -483,7 +483,7 @@
       "new_since": "2026-09-25T02:01:20.244579-05:00"
     },
     {
-      "Available Qty.": "471",
+      "Available Qty.": "472",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -508,6 +508,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "106",
+      "Item No.": "D07-607P",
+      "Description": "Milk, 2% Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-26T01:53:30.867196-05:00"
     },
     {
       "Available Qty.": "90",
