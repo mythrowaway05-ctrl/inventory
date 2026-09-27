@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 27, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-27T01:01:26.439456-05:00",
+  "updated_at": "September 27, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-27T02:01:03.519872-05:00",
   "item_count": 117,
   "items": [
     {
@@ -481,7 +481,7 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "472",
+      "Available Qty.": "468",
       "Item No.": "D26-676P",
       "Description": "Liquid Pineapple Topping",
       "UOM": "CS",
@@ -514,8 +514,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-26T01:53:30.867196-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "90",
@@ -527,7 +526,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "4",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -761,15 +760,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "497",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -777,6 +767,15 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "487",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "262",
@@ -860,7 +859,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "44",
       "Item No.": "D26-673P",
       "Description": "Sauce, Sweet Curry 4/32 oz",
       "UOM": "CS",
@@ -995,7 +994,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "47",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
