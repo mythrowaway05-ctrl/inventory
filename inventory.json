@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 28, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-09-28T01:01:01.065122-05:00",
-  "item_count": 117,
+  "updated_at": "September 28, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-28T02:01:00.957037-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "272",
@@ -166,15 +166,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "511",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "205",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -182,6 +173,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "511",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "393",
@@ -479,6 +479,16 @@
       "Pack Size": "8/59 oz",
       "Feature Type": "",
       "Gross Weight": "34"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "P26-023P",
+      "Description": "Ketchup",
+      "UOM": "CS",
+      "Pack Size": "16/24 oz",
+      "Feature Type": "",
+      "Gross Weight": "28",
+      "new_since": "2026-09-28T02:01:00.956198-05:00"
     },
     {
       "Available Qty.": "466",
