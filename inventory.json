@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 28, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-09-28T13:01:05.998839-05:00",
-  "item_count": 120,
+  "updated_at": "September 28, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-09-28T14:01:12.399825-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "272",
@@ -266,7 +266,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "200",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -284,7 +284,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "119",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1556",
+      "Available Qty.": "1552",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -329,7 +329,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2164",
+      "Available Qty.": "2163",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -338,22 +338,13 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "110",
       "Item No.": "P06-018P",
       "Description": "Entree, Red Beans and Rice",
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D01-393P",
-      "Description": "Firewood, Bundle 1/15 lb",
-      "UOM": "CS",
-      "Pack Size": "1/15 lb",
-      "Feature Type": "",
-      "Gross Weight": "15"
     },
     {
       "Available Qty.": "217",
@@ -383,7 +374,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "598",
+      "Available Qty.": "595",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -401,7 +392,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "967",
+      "Available Qty.": "961",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -419,7 +410,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "15",
       "Item No.": "D07-923P",
       "Description": "Ice Cream Cups",
       "UOM": "CS",
@@ -511,7 +502,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "387",
+      "Available Qty.": "386",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -529,17 +520,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D07-1256P",
-      "Description": "Milk, Chocolate 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
-      "Available Qty.": "43",
+      "Available Qty.": "40",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -593,7 +574,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "575",
+      "Available Qty.": "573",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -638,22 +619,13 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "247",
+      "Available Qty.": "244",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
       "Pack Size": "12/14 oz bag",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-442P",
-      "Description": "Onions",
-      "UOM": "CS",
-      "Pack Size": "16/3lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "245",
@@ -665,7 +637,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "318",
+      "Available Qty.": "314",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -782,7 +754,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "500",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -791,7 +763,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "266",
+      "Available Qty.": "262",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -809,7 +781,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -828,7 +800,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3135",
+      "Available Qty.": "3133",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -873,7 +845,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "751",
+      "Available Qty.": "748",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -945,7 +917,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1017,16 +989,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D03-553P",
-      "Description": "Tea, Sweet",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
       "Available Qty.": "49",
       "Item No.": "D03-1100P",
       "Description": "Tea, Sweet 18/16.9 oz",
@@ -1034,15 +996,6 @@
       "Pack Size": "18/16.9 oz",
       "Feature Type": "",
       "Gross Weight": "23"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D26-351P",
-      "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
-      "UOM": "CS",
-      "Pack Size": "6/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "4"
     },
     {
       "Available Qty.": "319",
@@ -1054,7 +1007,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "60",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
@@ -1072,7 +1025,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "90",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
