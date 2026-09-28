@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 28, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-09-28T15:01:26.846709-05:00",
-  "item_count": 115,
+  "updated_at": "September 28, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-09-28T16:00:58.809147-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "272",
@@ -94,7 +94,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "3",
       "Item No.": "D13-160P",
       "Description": "Bleach 6/96 oz",
       "UOM": "CS",
@@ -121,7 +121,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "531",
+      "Available Qty.": "525",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -137,6 +137,16 @@
       "Pack Size": "24/14.5 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "29",
+      "Item No.": "D01-394P",
+      "Description": "Cat House w/ Escape Door 1/10 lb",
+      "UOM": "CS",
+      "Pack Size": "1/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-09-28T16:00:58.808617-05:00"
     },
     {
       "Available Qty.": "198",
@@ -191,16 +201,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D15-1163P",
-      "Description": "Chicken Halves",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-09-28T09:01:26.473305-05:00"
     },
     {
       "Available Qty.": "989",
@@ -275,7 +275,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "427",
+      "Available Qty.": "423",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -392,7 +392,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "961",
+      "Available Qty.": "955",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -464,16 +464,6 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D14-1000P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "6/1 gallon",
-      "Feature Type": "",
-      "Gross Weight": "54",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -520,7 +510,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "32",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -565,7 +555,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "356",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -754,7 +744,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "620",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -763,7 +753,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "261",
+      "Available Qty.": "231",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -781,7 +771,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "94",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -872,7 +862,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1971",
+      "Available Qty.": "1966",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -971,7 +961,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "294",
+      "Available Qty.": "284",
       "Item No.": "D03-402P",
       "Description": "Sweet Tea and Lemonade 12/18.5 oz",
       "UOM": "CS",
