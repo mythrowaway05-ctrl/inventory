@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 28, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-09-28T12:01:28.489644-05:00",
+  "updated_at": "September 28, 2026 at 12:53 PM",
+  "updated_at_iso": "2026-09-28T12:53:43.696512-05:00",
   "item_count": 120,
   "items": [
     {
@@ -94,7 +94,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D13-160P",
       "Description": "Bleach 6/96 oz",
       "UOM": "CS",
@@ -175,7 +175,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "393",
+      "Available Qty.": "389",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "175",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -284,7 +284,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "122",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -293,7 +293,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "241",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -311,7 +311,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "287",
+      "Available Qty.": "282",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -320,7 +320,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "932",
+      "Available Qty.": "928",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -347,7 +347,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D01-393P",
       "Description": "Firewood, Bundle 1/15 lb",
       "UOM": "CS",
@@ -356,7 +356,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "219",
+      "Available Qty.": "217",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -365,7 +365,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "12",
       "Item No.": "D03-1091P",
       "Description": "Gatorade, Lower Sugar 4-6/20 oz",
       "UOM": "CS",
@@ -419,7 +419,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "13",
       "Item No.": "D07-923P",
       "Description": "Ice Cream Cups",
       "UOM": "CS",
@@ -473,7 +473,7 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "5",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -539,7 +539,7 @@
       "new_since": "2026-09-28T10:01:27.529641-05:00"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "43",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -647,7 +647,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "0",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -683,7 +683,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "337",
+      "Available Qty.": "335",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -692,7 +692,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "454",
+      "Available Qty.": "453",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -782,7 +782,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "500",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -791,7 +791,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "320",
+      "Available Qty.": "266",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -807,6 +807,16 @@
       "Pack Size": "24/6 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "48",
+      "Item No.": "P28-032P",
+      "Description": "Potatoes, Sweet",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-28T12:53:43.695979-05:00"
     },
     {
       "Available Qty.": "3215",
@@ -890,7 +900,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1975",
+      "Available Qty.": "1971",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -998,26 +1008,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "20",
-      "Item No.": "D03-1078P",
-      "Description": "Tea, Extra Sweet 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "38",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
-      "Available Qty.": "32",
-      "Item No.": "D03-553P",
-      "Description": "Tea, Sweet",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
       "Available Qty.": "293",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
@@ -1025,6 +1015,16 @@
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D03-553P",
+      "Description": "Tea, Sweet",
+      "UOM": "CS",
+      "Pack Size": "12/16 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-09-28T10:01:27.529641-05:00"
     },
     {
       "Available Qty.": "49",
@@ -1036,7 +1036,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D26-351P",
       "Description": "Teriyaki Sauce, Hawaiian Tropical 6/8 oz",
       "UOM": "CS",
@@ -1081,7 +1081,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "115",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
