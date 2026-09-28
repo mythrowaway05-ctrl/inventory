@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 28, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-09-28T10:01:27.530182-05:00",
-  "item_count": 122,
+  "updated_at": "September 28, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-09-28T11:01:06.782921-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "272",
@@ -157,7 +157,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "202",
+      "Available Qty.": "182",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "739",
+      "Available Qty.": "619",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "185",
+      "Available Qty.": "200",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1563",
+      "Available Qty.": "1556",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -473,16 +473,6 @@
       "Gross Weight": "34"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D14-010P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-28T10:01:27.529641-05:00"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
@@ -549,7 +539,7 @@
       "new_since": "2026-09-28T10:01:27.529641-05:00"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "45",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -657,7 +647,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "16",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -684,7 +674,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "12",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -747,7 +737,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "3844",
+      "Available Qty.": "3836",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -792,7 +782,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "695",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -801,7 +791,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "380",
+      "Available Qty.": "320",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -828,7 +818,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3145",
+      "Available Qty.": "3135",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -837,7 +827,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D25-2044P",
       "Description": "Rice Cake Minis 6/10 ct",
       "UOM": "CS",
@@ -856,7 +846,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1173",
+      "Available Qty.": "1159",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1028,7 +1018,7 @@
       "new_since": "2026-09-28T10:01:27.529641-05:00"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "37",
       "Item No.": "D03-553P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1074,7 +1064,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "64",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
