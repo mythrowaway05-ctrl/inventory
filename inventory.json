@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 29, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-09-29T03:01:01.355695-05:00",
+  "updated_at": "September 29, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-09-29T04:01:11.653784-05:00",
   "item_count": 104,
   "items": [
     {
@@ -177,15 +177,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "168",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "501",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -193,6 +184,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "168",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "389",
