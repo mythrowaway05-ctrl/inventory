@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 29, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-09-29T14:01:28.027950-05:00",
-  "item_count": 98,
+  "updated_at": "September 29, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-09-29T15:01:43.104085-05:00",
+  "item_count": 97,
   "items": [
     {
       "Available Qty.": "272",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "15",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -32,7 +32,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D06-346P",
       "Description": "Assorted Frozen Microwavable Meals 1/1020 lb",
       "UOM": "BULK",
@@ -95,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "11",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "25",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -150,7 +150,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "4",
       "Item No.": "D01-394P",
       "Description": "Cat House w/ Escape Door 1/10 lb",
       "UOM": "CS",
@@ -223,7 +223,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "353",
+      "Available Qty.": "278",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -277,7 +277,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "200",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -286,7 +286,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "417",
+      "Available Qty.": "342",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -340,7 +340,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2111",
+      "Available Qty.": "2098",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -358,7 +358,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-2052P",
       "Description": "Fruit By the Foot 1/575 lb",
       "UOM": "BULK",
@@ -368,17 +368,7 @@
       "new_since": "2026-09-29T02:01:15.976204-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-2047P",
-      "Description": "Fruit Roll ups - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/245 lb",
-      "Feature Type": "",
-      "Gross Weight": "245",
-      "new_since": "2026-09-29T02:01:15.976204-05:00"
-    },
-    {
-      "Available Qty.": "196",
+      "Available Qty.": "168",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -396,7 +386,7 @@
       "Gross Weight": "35"
     },
     {
-      "Available Qty.": "511",
+      "Available Qty.": "487",
       "Item No.": "P25-005P",
       "Description": "Graham Crackers",
       "UOM": "CS",
@@ -432,7 +422,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "388",
+      "Available Qty.": "0",
       "Item No.": "D06-901P",
       "Description": "Hot Cheese Topokki Cup, Microwavable",
       "UOM": "CS",
@@ -450,7 +440,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "633",
+      "Available Qty.": "636",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -477,7 +467,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "26",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -502,6 +492,16 @@
       "Pack Size": "16/24 oz",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "79",
+      "Item No.": "D28-1279P",
+      "Description": "Lemons",
+      "UOM": "CS",
+      "Pack Size": "1/45 lb",
+      "Feature Type": "",
+      "Gross Weight": "45",
+      "new_since": "2026-09-29T15:01:43.103474-05:00"
     },
     {
       "Available Qty.": "374",
@@ -641,7 +641,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "0",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -677,7 +677,17 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "48",
+      "Item No.": "D28-136P",
+      "Description": "Papaya",
+      "UOM": "CS",
+      "Pack Size": "1/38lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-09-29T15:01:43.103474-05:00"
+    },
+    {
+      "Available Qty.": "10",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -785,7 +795,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "698",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -830,7 +840,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3102",
+      "Available Qty.": "3081",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -855,26 +865,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D04-257P",
-      "Description": "Tortillas Zero Carb Wrap",
-      "UOM": "CS",
-      "Pack Size": "12/6 ct",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-09-29T06:01:09.459945-05:00"
-    },
-    {
-      "Available Qty.": "76",
-      "Item No.": "P26-043P",
-      "Description": "Turkey Gravy",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-09-29T06:01:09.459945-05:00"
     },
     {
       "Available Qty.": "72",
