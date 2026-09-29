@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T17:01:24.380102-05:00",
+  "scraped_at": "2026-09-29T18:01:02.575299-05:00",
   "po_number": "PO6374447",
   "appointment": {
     "reference_number": "PO6374447",
@@ -7,10 +7,10 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n12",
-    "Total Line Items": "Gross Weight\n721 lbs",
+    "Total Line Items": "Gross Weight\n596 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-1279P\tLemons\t1\t0\tCS\t45\t0.00\tCase\t1/45 lb\tRefrigerated Food\t0.00\tNot Yet Ranked\nD28-1280P\tPeppers\t4\t0\tCS\t80\t0.00\tCase\t1/20 lb\tRefrigerated Food\t0.00\tNot Yet Ranked\nD01-394P\tCat House w/ Escape Door\t4\t4\tCS\t40\t1.90\t\u00a0\t1/10 lb\tDRY\t0.00\tNot Yet Ranked\nD15-1000P\tSausage Links\t6\t6\tCS\t60\t1.90\t\u00a0\t1/10lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD07-923P\tIce Cream Cups\t2\t2\tCS\t16\t1.52\t\u00a0\t48/4 oz\tFROZEN\t0.00\tNot Yet Ranked\nD14-101P\tJuice, Fruit Punch\t1\t1\tCS\t34\t3.06\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD03-1101P\tCitrus Punch\t12\t12\tCS\t125\t1.98\t\u00a0\t15/10 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nDSC05-115P\tSC - Cereal\t1\t1\tCS\t14\t0.00\t\u00a0\t6/32 oz\tDRY\t0.00\tNot Yet Ranked\nDSC05-110P\tSC - Cereal\t1\t1\tCS\t15\t0.00\t\u00a0\t6/34.5 oz\tDRY\t0.00\tNot Yet Ranked\nDSC05-080P\tSC - Cereal\t1\t1\tCS\t152\t0.00\t\u00a0\t6/36 oz\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-1279P\tLemons\t1\t0\tCS\t0\t0.00\t\u00a0\t1/45 lb\tREF\t0.00\tNot Yet Ranked\nD28-1280P\tPeppers\t4\t0\tCS\t0\t0.00\t\u00a0\t1/20 lb\tREF\t0.00\tNot Yet Ranked\nD01-394P\tCat House w/ Escape Door\t4\t4\tCS\t40\t1.90\t\u00a0\t1/10 lb\tDRY\t0.00\tNot Yet Ranked\nD15-1000P\tSausage Links\t6\t6\tCS\t60\t1.90\t\u00a0\t1/10lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t2\t2\tCS\t60\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD07-923P\tIce Cream Cups\t2\t2\tCS\t16\t1.52\t\u00a0\t48/4 oz\tFROZEN\t0.00\tNot Yet Ranked\nD14-101P\tJuice, Fruit Punch\t1\t1\tCS\t34\t3.06\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD03-1101P\tCitrus Punch\t12\t12\tCS\t125\t1.98\t\u00a0\t15/10 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nDSC05-115P\tSC - Cereal\t1\t1\tCS\t14\t0.00\t\u00a0\t6/32 oz\tDRY\t0.00\tNot Yet Ranked\nDSC05-110P\tSC - Cereal\t1\t1\tCS\t15\t0.00\t\u00a0\t6/34.5 oz\tDRY\t0.00\tNot Yet Ranked\nDSC05-080P\tSC - Cereal\t1\t1\tCS\t152\t0.00\t\u00a0\t6/36 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -19,10 +19,10 @@
       "Order Qty.": "1",
       "Accepted Qty.": "0",
       "UOM": "CS",
-      "Gross Weight": "45",
-      "Packaging Type": "Case",
+      "Gross Weight": "0",
+      "Packaging Type": "",
       "Pack Size": "1/45 lb",
-      "Handling Requirements": "Refrigerated Food",
+      "Handling Requirements": "REF",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
@@ -32,10 +32,10 @@
       "Order Qty.": "4",
       "Accepted Qty.": "0",
       "UOM": "CS",
-      "Gross Weight": "80",
-      "Packaging Type": "Case",
+      "Gross Weight": "0",
+      "Packaging Type": "",
       "Pack Size": "1/20 lb",
-      "Handling Requirements": "Refrigerated Food",
+      "Handling Requirements": "REF",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
