@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 29, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-09-29T16:01:14.010167-05:00",
-  "item_count": 114,
+  "updated_at": "September 29, 2026 at 04:11 PM",
+  "updated_at_iso": "2026-09-29T16:11:38.553139-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "272",
@@ -141,6 +141,16 @@
       "Gross Weight": "17"
     },
     {
+      "Available Qty.": "100",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-09-29T16:11:38.552435-05:00"
+    },
+    {
       "Available Qty.": "36",
       "Item No.": "P27-045P",
       "Description": "Carrots, Sliced",
@@ -177,15 +187,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "110",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -193,6 +194,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "382",
@@ -247,6 +257,16 @@
       "Pack Size": "24/5 oz can",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "397",
+      "Item No.": "D15-1108P",
+      "Description": "Chicken, Rotisserie, Lemon Pepper",
+      "UOM": "CS",
+      "Pack Size": "1/52 lb",
+      "Feature Type": "",
+      "Gross Weight": "52",
+      "new_since": "2026-09-29T16:11:38.552435-05:00"
     },
     {
       "Available Qty.": "597",
@@ -474,7 +494,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "76",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -502,16 +522,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "26",
-      "Item No.": "D07-169P",
-      "Description": "Milk, 1% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-29T06:01:09.459945-05:00"
-    },
-    {
       "Available Qty.": "10",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
@@ -531,22 +541,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "28",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-1024P",
-      "Description": "Milk, Skim 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54"
     },
     {
       "Available Qty.": "25",
@@ -648,16 +649,6 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "48",
-      "Item No.": "D28-136P",
-      "Description": "Papaya",
-      "UOM": "CS",
-      "Pack Size": "1/38lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-09-29T15:01:43.103474-05:00"
-    },
-    {
       "Available Qty.": "10",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
@@ -728,6 +719,16 @@
       "Pack Size": "12/18 oz",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "78",
+      "Item No.": "D28-1280P",
+      "Description": "Peppers",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-09-29T16:11:38.552435-05:00"
     },
     {
       "Available Qty.": "303",
@@ -956,6 +957,16 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-09-29T07:01:04.074811-05:00"
+    },
+    {
+      "Available Qty.": "76",
+      "Item No.": "D28-1204P",
+      "Description": "Squash",
+      "UOM": "CS",
+      "Pack Size": "1/38 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-29T16:11:38.552435-05:00"
     },
     {
       "Available Qty.": "185",
