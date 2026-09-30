@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 30, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-09-30T13:01:14.039540-05:00",
-  "item_count": 100,
+  "updated_at": "September 30, 2026 at 01:50 PM",
+  "updated_at_iso": "2026-09-30T13:50:06.968411-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "271",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D13-157P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/750 lbs",
-      "Feature Type": "",
-      "Gross Weight": "750",
-      "new_since": "2026-09-30T12:01:12.211239-05:00"
     },
     {
       "Available Qty.": "1",
@@ -105,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "57",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -114,7 +104,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "6",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -187,7 +177,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "87",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -332,7 +322,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1472",
+      "Available Qty.": "1463",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -369,7 +359,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1937",
+      "Available Qty.": "1931",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -414,7 +404,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "507",
+      "Available Qty.": "505",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -451,7 +441,7 @@
       "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
-      "Available Qty.": "1726",
+      "Available Qty.": "1721",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars",
       "UOM": "CS",
@@ -479,7 +469,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "163",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -515,7 +505,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "55",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -634,7 +624,7 @@
       "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
-      "Available Qty.": "1146",
+      "Available Qty.": "1141",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate",
       "UOM": "CS",
@@ -743,7 +733,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "595",
+      "Available Qty.": "594",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -752,7 +742,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "3704",
+      "Available Qty.": "3699",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -761,7 +751,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "34",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -790,7 +780,7 @@
       "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
-      "Available Qty.": "1991",
+      "Available Qty.": "1986",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -863,7 +853,7 @@
       "new_since": "2026-09-30T11:01:17.944284-05:00"
     },
     {
-      "Available Qty.": "3186",
+      "Available Qty.": "3181",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -872,7 +862,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3073",
+      "Available Qty.": "3068",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -890,7 +880,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1101",
+      "Available Qty.": "1095",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -907,6 +897,236 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "578",
+      "Item No.": "P15-087P",
+      "Description": "Salmon, Canned",
+      "UOM": "CS",
+      "Pack Size": "24/5 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "96",
+      "Item No.": "P26-005P",
+      "Description": "Sauce, Cranberry UNRANKED",
+      "UOM": "CS",
+      "Pack Size": "24/14 oz can",
+      "Feature Type": "",
+      "Gross Weight": "27",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "676",
+      "Item No.": "P26-051P",
+      "Description": "Sauce, Pasta, Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "222",
+      "Item No.": "P26-039P",
+      "Description": "Sauce, Sloppy Joe",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz can",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "42",
+      "Item No.": "D26-673P",
+      "Description": "Sauce, Sweet Curry 4/32 oz",
+      "UOM": "CS",
+      "Pack Size": "4/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "1954",
+      "Item No.": "P15-108P",
+      "Description": "Sausage, Ground Jimmy Dean",
+      "UOM": "CS",
+      "Pack Size": "6/2 lb",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "111",
+      "Item No.": "P06-001P",
+      "Description": "Skillet Dinner, Cheeseburger",
+      "UOM": "CS",
+      "Pack Size": "12/5.8 oz box",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "211",
+      "Item No.": "P15-086P",
+      "Description": "Smoked Sausage, Hot",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D03-186P",
+      "Description": "Soda 12/1.25 L",
+      "UOM": "CS",
+      "Pack Size": "12/1.25 liter",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "487",
+      "Item No.": "P06-007P",
+      "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "205",
+      "Item No.": "P06-028P",
+      "Description": "Soup, Tomato, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.7 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "302",
+      "Item No.": "P06-029P",
+      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.6 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "240",
+      "Item No.": "P27-089P",
+      "Description": "Spinach, Chopped, LS Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "12/13.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "D28-1204P",
+      "Description": "Squash",
+      "UOM": "CS",
+      "Pack Size": "1/38 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-09-29T16:11:38.552435-05:00"
+    },
+    {
+      "Available Qty.": "129",
+      "Item No.": "P11-001P",
+      "Description": "Stuffing, Chicken",
+      "UOM": "CS",
+      "Pack Size": "12/5.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "307",
+      "Item No.": "P11-048P",
+      "Description": "Stuffing, Turkey",
+      "UOM": "CS",
+      "Pack Size": "12/5.25 oz box",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "133",
+      "Item No.": "D03-402P",
+      "Description": "Sweet Tea and Lemonade 12/18.5 oz",
+      "UOM": "CS",
+      "Pack Size": "12/18.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "17",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "125",
+      "Item No.": "D03-730P",
+      "Description": "Tea, Sweet",
+      "UOM": "CS",
+      "Pack Size": "12/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "41",
+      "Item No.": "D03-1100P",
+      "Description": "Tea, Sweet 18/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "18/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "306",
+      "Item No.": "P27-144P",
+      "Description": "Tomatoes, Diced",
+      "UOM": "CS",
+      "Pack Size": "24/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D03-1064P",
+      "Description": "Tonic Water, Zero Sugar 15/1 L",
+      "UOM": "CS",
+      "Pack Size": "15/1 L",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "185",
+      "Item No.": "P26-043P",
+      "Description": "Turkey Gravy",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-09-30T13:50:06.967776-05:00"
+    },
+    {
+      "Available Qty.": "72",
+      "Item No.": "P27-072P",
+      "Description": "Veg, Mixed Vegetables",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "27",
+      "new_since": "2026-09-29T21:01:19.882100-05:00"
     },
     {
       "Available Qty.": "113",
