@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 30, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-09-30T00:01:05.586082-05:00",
+  "updated_at": "September 30, 2026 at 01:01 AM",
+  "updated_at_iso": "2026-09-30T01:01:05.013117-05:00",
   "item_count": 113,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "10",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -178,15 +178,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "90",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -194,6 +185,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "90",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "382",
@@ -250,7 +250,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "397",
+      "Available Qty.": "393",
       "Item No.": "D15-1108P",
       "Description": "Chicken, Rotisserie, Lemon Pepper",
       "UOM": "CS",
@@ -323,7 +323,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1490",
+      "Available Qty.": "1487",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -395,7 +395,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "527",
+      "Available Qty.": "524",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -758,7 +758,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "211",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
