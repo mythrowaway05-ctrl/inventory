@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 30, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-09-30T07:01:07.181724-05:00",
-  "item_count": 122,
+  "updated_at": "September 30, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-09-30T08:01:18.640636-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "272",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-09-29T11:01:17.030948-05:00"
     },
     {
       "Available Qty.": "115",
@@ -141,7 +131,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "100",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -179,7 +169,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "3",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
@@ -270,7 +260,7 @@
       "new_since": "2026-09-29T16:11:38.552435-05:00"
     },
     {
-      "Available Qty.": "597",
+      "Available Qty.": "593",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -342,7 +332,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "9",
       "Item No.": "D28-541P",
       "Description": "Cucumbers 1/34 lb",
       "UOM": "CS",
@@ -516,7 +506,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "58",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -752,7 +742,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "50",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -817,7 +807,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "231",
+      "Available Qty.": "212",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -835,7 +825,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1008,7 +998,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "30",
       "Item No.": "D28-1204P",
       "Description": "Squash",
       "UOM": "CS",
