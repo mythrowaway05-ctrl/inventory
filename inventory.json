@@ -1,6 +1,6 @@
 {
-  "updated_at": "September 29, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-09-29T21:01:19.882748-05:00",
+  "updated_at": "September 29, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-09-29T22:01:05.289392-05:00",
   "item_count": 113,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "12",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -178,15 +178,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "100",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -194,6 +185,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "382",
@@ -458,7 +458,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "31",
       "Item No.": "D14-101P",
       "Description": "Juice, Fruit Punch 8/59 oz",
       "UOM": "CS",
@@ -476,7 +476,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "70",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -703,7 +703,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "61",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -941,7 +941,7 @@
       "new_since": "2026-09-29T07:01:04.074811-05:00"
     },
     {
-      "Available Qty.": "61",
+      "Available Qty.": "54",
       "Item No.": "D28-1204P",
       "Description": "Squash",
       "UOM": "CS",
