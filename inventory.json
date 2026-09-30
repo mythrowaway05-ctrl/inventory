@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 30, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-09-30T03:01:09.587964-05:00",
-  "item_count": 132,
+  "updated_at": "September 30, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-09-30T04:01:12.876389-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "272",
@@ -141,7 +141,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "75",
+      "Available Qty.": "73",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -352,7 +352,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "38",
       "Item No.": "D28-541P",
       "Description": "Cucumbers 1/34 lb",
       "UOM": "CS",
@@ -472,7 +472,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "267",
+      "Available Qty.": "263",
       "Item No.": "D03-1103P",
       "Description": "Hydration Drink, Mix 6/6 ct",
       "UOM": "CS",
@@ -556,7 +556,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "44",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -665,7 +665,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "243",
+      "Available Qty.": "241",
       "Item No.": "D26-321P",
       "Description": "Mustard, Organic 12/8 oz",
       "UOM": "CS",
@@ -792,7 +792,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "9",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -811,7 +811,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "45",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
@@ -875,7 +875,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "96",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1020,7 +1020,7 @@
       "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D03-685P",
       "Description": "Soda 24/16.9 oz",
       "UOM": "CS",
@@ -1100,7 +1100,7 @@
       "new_since": "2026-09-29T07:01:04.074811-05:00"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "22",
       "Item No.": "D28-1204P",
       "Description": "Squash",
       "UOM": "CS",
@@ -1190,17 +1190,7 @@
       "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D12-273P",
-      "Description": "Toothpaste",
-      "UOM": "CS",
-      "Pack Size": "24/2.7 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-30T02:01:51.734559-05:00"
-    },
-    {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D04-257P",
       "Description": "Tortillas Zero Carb Wrap",
       "UOM": "CS",
