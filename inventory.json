@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 30, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-09-30T15:01:12.978403-05:00",
-  "item_count": 119,
+  "updated_at": "September 30, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-09-30T16:01:22.982731-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "271",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-163P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/700 lbs",
-      "Feature Type": "",
-      "Gross Weight": "700",
-      "new_since": "2026-09-30T13:01:14.039007-05:00"
     },
     {
       "Available Qty.": "110",
@@ -122,7 +112,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "100",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -159,15 +149,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "87",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -175,6 +156,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "380",
@@ -286,7 +276,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "77",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -331,7 +321,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1936",
+      "Available Qty.": "1919",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -450,7 +440,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "22",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -459,7 +449,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "15",
       "Item No.": "D14-101P",
       "Description": "Juice, Fruit Punch 8/59 oz",
       "UOM": "CS",
@@ -477,14 +467,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "30",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
       "Pack Size": "1/45 lb",
       "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-09-29T15:01:43.103474-05:00"
+      "Gross Weight": "45"
     },
     {
       "Available Qty.": "194",
@@ -586,7 +575,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "107",
+      "Available Qty.": "87",
       "Item No.": "D26-321P",
       "Description": "Mustard, Organic 12/8 oz",
       "UOM": "CS",
@@ -714,7 +703,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "3704",
+      "Available Qty.": "3684",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -779,7 +768,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "680",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -806,7 +795,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -852,7 +841,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1100",
+      "Available Qty.": "1095",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1041,7 +1030,7 @@
       "new_since": "2026-09-30T13:50:06.967776-05:00"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "121",
       "Item No.": "D03-730P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1051,7 +1040,7 @@
       "new_since": "2026-09-30T13:50:06.967776-05:00"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "38",
       "Item No.": "D03-1100P",
       "Description": "Tea, Sweet 18/16.9 oz",
       "UOM": "CS",
