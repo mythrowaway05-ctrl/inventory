@@ -1,7 +1,7 @@
 {
-  "updated_at": "September 30, 2026 at 01:11 AM",
-  "updated_at_iso": "2026-09-30T01:11:47.395707-05:00",
-  "item_count": 113,
+  "updated_at": "September 30, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-09-30T02:01:51.735228-05:00",
+  "item_count": 132,
   "items": [
     {
       "Available Qty.": "272",
@@ -160,6 +160,16 @@
       "Gross Weight": "27"
     },
     {
+      "Available Qty.": "24",
+      "Item No.": "D27-832P",
+      "Description": "Carrots, Sliced 6/10 Cans",
+      "UOM": "CS",
+      "Pack Size": "6/10 Cans",
+      "Feature Type": "",
+      "Gross Weight": "46",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "198",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -178,15 +188,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "90",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -194,6 +195,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "382",
@@ -314,6 +324,16 @@
       "Gross Weight": "10"
     },
     {
+      "Available Qty.": "61",
+      "Item No.": "D03-314P",
+      "Description": "Club Soda 15/1 L",
+      "UOM": "CS",
+      "Pack Size": "15/1 L",
+      "Feature Type": "",
+      "Gross Weight": "37",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "221",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
@@ -332,6 +352,16 @@
       "Gross Weight": "26"
     },
     {
+      "Available Qty.": "40",
+      "Item No.": "D28-541P",
+      "Description": "Cucumbers 1/34 lb",
+      "UOM": "CS",
+      "Pack Size": "1/34 lb",
+      "Feature Type": "",
+      "Gross Weight": "34",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "280",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
@@ -341,6 +371,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "117",
+      "Item No.": "D09-520P",
+      "Description": "Dressing, Ranch 6/20 oz",
+      "UOM": "CS",
+      "Pack Size": "6/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "926",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -348,6 +388,16 @@
       "Pack Size": "12/0.6 oz",
       "Feature Type": "",
       "Gross Weight": "1"
+    },
+    {
+      "Available Qty.": "102",
+      "Item No.": "D03-1104P",
+      "Description": "Energy Drink Enhancer 12/1.62 oz",
+      "UOM": "CS",
+      "Pack Size": "12/1.62 oz",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
       "Available Qty.": "1935",
@@ -420,6 +470,36 @@
       "Pack Size": "10/1 lb",
       "Feature Type": "",
       "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "287",
+      "Item No.": "D03-1103P",
+      "Description": "Hydration Drink, Mix 6/6 ct",
+      "UOM": "CS",
+      "Pack Size": "6/6 ct",
+      "Feature Type": "",
+      "Gross Weight": "1",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "108",
+      "Item No.": "D03-1102P",
+      "Description": "Hydration Drinks 12/22 oz",
+      "UOM": "CS",
+      "Pack Size": "12/22 oz",
+      "Feature Type": "",
+      "Gross Weight": "19",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "1872",
+      "Item No.": "D25-2046P",
+      "Description": "Hydration Freezer Bars",
+      "UOM": "CS",
+      "Pack Size": "12-16/1.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
       "Available Qty.": "605",
@@ -510,8 +590,7 @@
       "UOM": "CS",
       "Pack Size": "6/1gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-09-29T02:01:15.976204-05:00"
+      "Gross Weight": "54"
     },
     {
       "Available Qty.": "342",
@@ -584,6 +663,16 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "243",
+      "Item No.": "D26-321P",
+      "Description": "Mustard, Organic 12/8 oz",
+      "UOM": "CS",
+      "Pack Size": "12/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
       "Available Qty.": "1146",
@@ -722,6 +811,16 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "46",
+      "Item No.": "D14-125P",
+      "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
+      "UOM": "CS",
+      "Pack Size": "12/32.4 oz",
+      "Feature Type": "",
+      "Gross Weight": "28",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "1993",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -821,6 +920,16 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "38",
+      "Item No.": "D24-022P",
+      "Description": "Rice, White 6/5 lb",
+      "UOM": "CS",
+      "Pack Size": "6/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
       "Available Qty.": "578",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
@@ -899,6 +1008,56 @@
       "Feature Type": "",
       "Gross Weight": "11",
       "new_since": "2026-09-29T07:01:04.074811-05:00"
+    },
+    {
+      "Available Qty.": "13",
+      "Item No.": "D03-186P",
+      "Description": "Soda 12/1.25 L",
+      "UOM": "CS",
+      "Pack Size": "12/1.25 liter",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D03-685P",
+      "Description": "Soda 24/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "24/16.9 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "30",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "98",
+      "Item No.": "D03-991P",
+      "Description": "Soda 4-6/7.5 oz",
+      "UOM": "CS",
+      "Pack Size": "4-6/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "91",
+      "Item No.": "D03-925P",
+      "Description": "Soda, Diet",
+      "UOM": "CS",
+      "Pack Size": "3-8/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "60",
+      "Item No.": "D03-1082P",
+      "Description": "Soda, Zero Sugar 4-6/7.5 oz",
+      "UOM": "CS",
+      "Pack Size": "4-6/7.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
       "Available Qty.": "488",
@@ -1009,6 +1168,36 @@
       "Feature Type": "",
       "Gross Weight": "26",
       "new_since": "2026-09-29T07:01:04.074811-05:00"
+    },
+    {
+      "Available Qty.": "21",
+      "Item No.": "D03-313P",
+      "Description": "Tonic Water 15/1 L",
+      "UOM": "CS",
+      "Pack Size": "15/1 L",
+      "Feature Type": "",
+      "Gross Weight": "37",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D03-1064P",
+      "Description": "Tonic Water, Zero Sugar 15/1 L",
+      "UOM": "CS",
+      "Pack Size": "15/1 L",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
+    },
+    {
+      "Available Qty.": "12",
+      "Item No.": "D12-273P",
+      "Description": "Toothpaste",
+      "UOM": "CS",
+      "Pack Size": "24/2.7 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-09-30T02:01:51.734559-05:00"
     },
     {
       "Available Qty.": "3",
