@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 01, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-10-01T09:01:31.728233-05:00",
-  "item_count": 121,
+  "updated_at": "October 01, 2026 at 10:03 AM",
+  "updated_at_iso": "2026-10-01T10:03:10.706139-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "271",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-10-01T09:01:31.727632-05:00"
     },
     {
       "Available Qty.": "83",
@@ -93,16 +83,6 @@
       "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-10-01T09:01:31.727632-05:00"
     },
     {
       "Available Qty.": "759",
@@ -531,7 +511,7 @@
     {
       "Available Qty.": "20",
       "Item No.": "D07-705P",
-      "Description": "Milk, Soy 12/32 oz",
+      "Description": "Milk, Soy, Organic 12/32 oz",
       "UOM": "CS",
       "Pack Size": "12/32 oz",
       "Feature Type": "",
@@ -783,7 +763,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "164",
+      "Available Qty.": "162",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -819,7 +799,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "6",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
