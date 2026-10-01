@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 01, 2026 at 04:03 PM",
-  "updated_at_iso": "2026-10-01T16:03:04.233097-05:00",
-  "item_count": 118,
+  "updated_at": "October 01, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-01T17:01:04.151625-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "271",
@@ -112,7 +112,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "16",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -373,7 +373,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "155",
+      "Available Qty.": "154",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -409,7 +409,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "595",
+      "Available Qty.": "565",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -454,7 +454,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "14",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -498,15 +498,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1047P",
-      "Description": "Milk, Skim 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "18",
@@ -563,7 +554,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "55",
+      "Available Qty.": "30",
       "Item No.": "D26-321P",
       "Description": "Mustard, Organic 12/8 oz",
       "UOM": "CS",
@@ -609,7 +600,7 @@
       "new_since": "2026-10-01T02:01:11.470474-05:00"
     },
     {
-      "Available Qty.": "194",
+      "Available Qty.": "189",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -708,7 +699,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -762,15 +753,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "69",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -778,6 +760,15 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "69",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "286",
@@ -789,7 +780,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -832,15 +823,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "35",
-      "Item No.": "D24-022P",
-      "Description": "Rice, White 6/5 lb",
-      "UOM": "CS",
-      "Pack Size": "6/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "30"
     },
     {
       "Available Qty.": "578",
