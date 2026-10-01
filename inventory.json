@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 01, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-01T08:01:40.418840-05:00",
-  "item_count": 119,
+  "updated_at": "October 01, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-01T09:01:31.728233-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "271",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-01T09:01:31.727632-05:00"
     },
     {
       "Available Qty.": "83",
@@ -85,6 +95,16 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-10-01T09:01:31.727632-05:00"
+    },
+    {
       "Available Qty.": "759",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -148,15 +168,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "75",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -164,6 +175,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "366",
@@ -256,7 +276,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "100",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -274,7 +294,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "66",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -382,7 +402,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "926",
+      "Available Qty.": "927",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -454,7 +474,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "27",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -511,7 +531,7 @@
     {
       "Available Qty.": "20",
       "Item No.": "D07-705P",
-      "Description": "Milk, Soy Orangic 12/32 oz",
+      "Description": "Milk, Soy 12/32 oz",
       "UOM": "CS",
       "Pack Size": "12/32 oz",
       "Feature Type": "",
@@ -600,7 +620,7 @@
       "new_since": "2026-09-30T12:01:12.211239-05:00"
     },
     {
-      "Available Qty.": "114",
+      "Available Qty.": "118",
       "Item No.": "P05-042P",
       "Description": "Oatmeal, Instant, Maple and Brown Sugar",
       "UOM": "CS",
@@ -664,7 +684,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "419",
+      "Available Qty.": "379",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -709,7 +729,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "22",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
@@ -772,7 +792,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "250",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -799,7 +819,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "9",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
