@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 01, 2026 at 01:09 PM",
-  "updated_at_iso": "2026-10-01T13:09:54.167760-05:00",
+  "updated_at": "October 01, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-01T14:01:12.162476-05:00",
   "item_count": 119,
   "items": [
     {
@@ -20,6 +20,16 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D12-339P",
+      "Description": "Assorted Personal Hygiene - BULK 1/300 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/300 lb",
+      "Feature Type": "",
+      "Gross Weight": "300",
+      "new_since": "2026-10-01T14:01:12.161889-05:00"
     },
     {
       "Available Qty.": "611",
@@ -148,15 +158,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "45",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -164,6 +165,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "366",
@@ -771,7 +781,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "450",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -796,15 +806,6 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-710P",
-      "Description": "Pumpkins, Carving - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/700 lbs",
-      "Feature Type": "",
-      "Gross Weight": "700"
     },
     {
       "Available Qty.": "3150",
@@ -858,8 +859,7 @@
       "UOM": "CS",
       "Pack Size": "24/5 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "85",
@@ -868,8 +868,7 @@
       "UOM": "CS",
       "Pack Size": "24/14 oz can",
       "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "27"
     },
     {
       "Available Qty.": "838",
@@ -878,8 +877,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "23"
     },
     {
       "Available Qty.": "210",
@@ -888,8 +886,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz can",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "41",
@@ -898,8 +895,7 @@
       "UOM": "CS",
       "Pack Size": "4/32 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "1949",
@@ -908,8 +904,7 @@
       "UOM": "CS",
       "Pack Size": "6/2 lb",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "93",
@@ -918,8 +913,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.8 oz box",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "192",
@@ -928,8 +922,7 @@
       "UOM": "CS",
       "Pack Size": "12/14 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "11",
@@ -947,8 +940,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "205",
@@ -957,8 +949,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.7 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "302",
@@ -967,8 +958,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "240",
@@ -977,8 +967,7 @@
       "UOM": "CS",
       "Pack Size": "12/13.5 oz",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "125",
@@ -987,8 +976,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.25 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "300",
@@ -997,8 +985,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "43",
@@ -1017,8 +1004,7 @@
       "UOM": "CS",
       "Pack Size": "12/18.5 oz",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "121",
@@ -1027,8 +1013,7 @@
       "UOM": "CS",
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "38",
@@ -1037,8 +1022,7 @@
       "UOM": "CS",
       "Pack Size": "18/16.9 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "23"
     },
     {
       "Available Qty.": "59",
@@ -1057,8 +1041,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "2",
@@ -1076,8 +1059,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-09-30T13:50:06.967776-05:00"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "65",
