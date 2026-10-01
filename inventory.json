@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 01, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-10-01T04:01:09.426056-05:00",
-  "item_count": 124,
+  "updated_at": "October 01, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-10-01T05:01:12.709320-05:00",
+  "item_count": 123,
   "items": [
     {
       "Available Qty.": "271",
@@ -178,15 +178,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "75",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -194,6 +185,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "366",
@@ -365,16 +365,6 @@
       "Pack Size": "12/15 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-2049P",
-      "Description": "Fruit by the Foot - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/190 lb",
-      "Feature Type": "",
-      "Gross Weight": "190",
-      "new_since": "2026-10-01T02:01:11.470474-05:00"
     },
     {
       "Available Qty.": "150",
