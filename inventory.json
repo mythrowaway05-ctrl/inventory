@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 01, 2026 at 03:03 AM",
-  "updated_at_iso": "2026-10-01T03:03:14.811838-05:00",
+  "updated_at": "October 01, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-10-01T04:01:09.426056-05:00",
   "item_count": 124,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D05-449P",
       "Description": "Assorted Cereal - BULKTOTE 1/100 lb",
       "UOM": "BULK",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-01T02:01:11.470474-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-164P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-01T02:01:11.470474-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D13-162P",
       "Description": "Assorted Cleaning Supplies - BULKT TOTE",
       "UOM": "BULK",
@@ -43,7 +43,7 @@
       "new_since": "2026-10-01T02:01:11.470474-05:00"
     },
     {
-      "Available Qty.": "95",
+      "Available Qty.": "89",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -133,7 +133,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "482",
+      "Available Qty.": "476",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -367,7 +367,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-2049P",
       "Description": "Fruit by the Foot - BULK TOTE",
       "UOM": "BULK",
@@ -839,7 +839,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "15",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
