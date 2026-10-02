@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 02, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-10-02T02:01:06.408681-05:00",
+  "updated_at": "October 02, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-10-02T03:01:07.323671-05:00",
   "item_count": 133,
   "items": [
     {
@@ -43,7 +43,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-190P",
       "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
       "UOM": "BULK",
@@ -62,7 +62,17 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
+      "Item No.": "D01-368P",
+      "Description": "Assorted Non Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/280 lb",
+      "Feature Type": "",
+      "Gross Weight": "280",
+      "new_since": "2026-10-02T01:29:03.236463-05:00"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D01-370P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -72,23 +82,13 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D01-140P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
       "Pack Size": "1/200 lbs",
       "Feature Type": "",
       "Gross Weight": "200",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D01-368P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/280 lb",
-      "Feature Type": "",
-      "Gross Weight": "280",
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
@@ -102,7 +102,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D19-014P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -195,7 +195,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "59",
       "Item No.": "D13-170P",
       "Description": "Bleach 6/43 oz",
       "UOM": "CS",
@@ -298,15 +298,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "22",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -314,6 +305,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "22",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "355",
@@ -343,7 +343,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "124",
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters 1/20 lb",
       "UOM": "CS",
@@ -382,16 +382,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
       "Available Qty.": "650",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
@@ -399,6 +389,16 @@
       "Pack Size": "4/5 lb bags",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
       "Available Qty.": "308",
@@ -531,7 +531,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "54",
       "Item No.": "D22-093P",
       "Description": "Dog Food 4/56 oz",
       "UOM": "CS",
@@ -739,8 +739,7 @@
       "UOM": "CS",
       "Pack Size": "12/42 oz",
       "Feature Type": "",
-      "Gross Weight": "44",
-      "new_since": "2026-10-01T02:01:11.470474-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "194",
@@ -752,7 +751,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "4",
       "Item No.": "D06-768P",
       "Description": "Lunchables",
       "UOM": "CS",
@@ -771,7 +770,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "94",
       "Item No.": "D17-061P",
       "Description": "Margarine Spread",
       "UOM": "CS",
@@ -916,8 +915,7 @@
       "UOM": "CS",
       "Pack Size": "220/1.23 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-01T02:01:11.470474-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "184",
@@ -1064,7 +1062,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "5",
       "Item No.": "D15-268P",
       "Description": "Popcorn Chicken 1/20 lb",
       "UOM": "CS",
@@ -1174,7 +1172,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D19-051P",
       "Description": "Tissue, Mega Pack 16/6 ct",
       "UOM": "CS",
@@ -1190,8 +1188,7 @@
       "UOM": "CS",
       "Pack Size": "24/4 roll",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-01T02:01:11.470474-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "295",
