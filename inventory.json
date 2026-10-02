@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 02, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-02T12:01:11.885089-05:00",
-  "item_count": 128,
+  "updated_at": "October 02, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-02T13:01:12.361828-05:00",
+  "item_count": 126,
   "items": [
     {
-      "Available Qty.": "23",
+      "Available Qty.": "21",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -123,7 +123,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "475",
+      "Available Qty.": "473",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -233,7 +233,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "79",
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters 1/20 lb",
       "UOM": "CS",
@@ -243,7 +243,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "39",
       "Item No.": "D15-849P",
       "Description": "Chicken Tenderloin Fritters",
       "UOM": "CS",
@@ -288,16 +288,6 @@
       "Pack Size": "24/5 oz can",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D15-067P",
-      "Description": "Chicken, Leg Quarters",
-      "UOM": "CS",
-      "Pack Size": "1/40lb",
-      "Feature Type": "Discounted Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
       "Available Qty.": "226",
@@ -345,7 +335,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "58",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -402,7 +392,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "630",
+      "Available Qty.": "620",
       "Item No.": "D22-129P",
       "Description": "Dog Treat 8/4.5 oz",
       "UOM": "CS",
@@ -430,7 +420,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1848",
+      "Available Qty.": "1838",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -485,7 +475,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "491",
+      "Available Qty.": "486",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -674,15 +664,6 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D26-321P",
-      "Description": "Mustard, Organic 12/8 oz",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "7"
     },
     {
       "Available Qty.": "1145",
@@ -892,7 +873,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
