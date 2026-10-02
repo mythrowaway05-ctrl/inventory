@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 02, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-02T16:01:14.670375-05:00",
-  "item_count": 124,
+  "updated_at": "October 02, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-02T17:01:12.651650-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "19",
@@ -188,15 +188,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -204,6 +195,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "329",
@@ -409,6 +409,16 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D09-520P",
+      "Description": "Dressing, Ranch 6/20 oz",
+      "UOM": "CS",
+      "Pack Size": "6/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-10-02T17:01:12.650927-05:00"
     },
     {
       "Available Qty.": "920",
