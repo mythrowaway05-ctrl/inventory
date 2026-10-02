@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 02, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-10-02T05:01:05.211654-05:00",
-  "item_count": 132,
+  "updated_at": "October 02, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-10-02T06:01:04.296031-05:00",
+  "item_count": 126,
   "items": [
     {
-      "Available Qty.": "47",
+      "Available Qty.": "37",
       "Item No.": "D15-773P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -63,16 +63,6 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D01-368P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/280 lb",
-      "Feature Type": "",
-      "Gross Weight": "280",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D01-370P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -89,6 +79,16 @@
       "Pack Size": "1/200 lbs",
       "Feature Type": "",
       "Gross Weight": "200",
+      "new_since": "2026-10-02T01:29:03.236463-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D01-368P",
+      "Description": "Assorted Non Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/280 lb",
+      "Feature Type": "",
+      "Gross Weight": "280",
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
@@ -109,16 +109,6 @@
       "Pack Size": "1/200 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "200",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-012P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/230 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "230",
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
@@ -159,7 +149,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "877",
+      "Available Qty.": "867",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -250,7 +240,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "38",
       "Item No.": "D22-089P",
       "Description": "Cat Litter 2/10 lb",
       "UOM": "CS",
@@ -456,7 +446,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "16",
       "Item No.": "D25-398P",
       "Description": "Chips",
       "UOM": "CS",
@@ -465,7 +455,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "320",
+      "Available Qty.": "312",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -474,7 +464,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "74",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -541,7 +531,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "775",
+      "Available Qty.": "771",
       "Item No.": "D22-129P",
       "Description": "Dog Treat 8/4.5 oz",
       "UOM": "CS",
@@ -705,7 +695,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D14-124P",
       "Description": "Juice, Naked Green Machine",
       "UOM": "CS",
@@ -724,7 +714,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "13",
       "Item No.": "D28-1279P",
       "Description": "Lemons",
       "UOM": "CS",
@@ -751,7 +741,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D06-768P",
       "Description": "Lunchables",
       "UOM": "CS",
@@ -770,7 +760,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "93",
       "Item No.": "D17-061P",
       "Description": "Margarine Spread",
       "UOM": "CS",
@@ -780,7 +770,7 @@
       "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "24",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -797,26 +787,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D07-647P",
-      "Description": "Milk, 2% Reduced Fat",
-      "UOM": "CS",
-      "Pack Size": "6/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-1054P",
-      "Description": "Milk, Almond, Vanilla 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/64 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
     },
     {
       "Available Qty.": "18",
@@ -1035,7 +1005,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "31",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
@@ -1081,7 +1051,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "63",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1151,34 +1121,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "45",
-      "Item No.": "D03-701P",
-      "Description": "Tea, Sweet",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-10-02T01:29:03.236463-05:00"
-    },
-    {
-      "Available Qty.": "26",
-      "Item No.": "D03-1100P",
-      "Description": "Tea, Sweet 18/16.9 oz",
-      "UOM": "CS",
-      "Pack Size": "18/16.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "23"
-    },
-    {
-      "Available Qty.": "52",
-      "Item No.": "P19-005P",
-      "Description": "Toilet Tissue",
-      "UOM": "CS",
-      "Pack Size": "24/4 roll",
-      "Feature Type": "",
-      "Gross Weight": "14"
     },
     {
       "Available Qty.": "295",
