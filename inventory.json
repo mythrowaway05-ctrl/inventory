@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 03, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-03T06:01:08.113576-05:00",
-  "item_count": 145,
+  "updated_at": "October 03, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-03T07:01:07.275553-05:00",
+  "item_count": 144,
   "items": [
     {
       "Available Qty.": "19",
@@ -61,7 +61,7 @@
       "new_since": "2026-10-03T05:01:13.365038-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D16-056P",
       "Description": "Assorted Frozen Food - BULK",
       "UOM": "BULK",
@@ -191,7 +191,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "0",
       "Item No.": "D25-2056P",
       "Description": "Bugles",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D25-1675P",
       "Description": "Cheese Puffs - BULK",
       "UOM": "BULK",
@@ -267,7 +267,7 @@
       "new_since": "2026-10-03T05:01:13.365038-05:00"
     },
     {
-      "Available Qty.": "127",
+      "Available Qty.": "20",
       "Item No.": "D25-1302P",
       "Description": "Chex Mix",
       "UOM": "CS",
@@ -484,7 +484,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "98",
       "Item No.": "D07-614P",
       "Description": "Dip, French Onion",
       "UOM": "CS",
@@ -567,7 +567,7 @@
       "new_since": "2026-10-03T05:01:13.365038-05:00"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "15",
       "Item No.": "D25-1950P",
       "Description": "Fruit by the Foot 8/3 oz",
       "UOM": "CS",
@@ -586,7 +586,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "47",
       "Item No.": "D25-2057P",
       "Description": "Gardettos",
       "UOM": "CS",
@@ -624,16 +624,6 @@
       "new_since": "2026-10-03T05:01:13.365038-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D25-2058P",
-      "Description": "Granola Bars - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/650 lb",
-      "Feature Type": "",
-      "Gross Weight": "650",
-      "new_since": "2026-10-03T05:01:13.365038-05:00"
-    },
-    {
       "Available Qty.": "483",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
@@ -661,7 +651,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "98",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -689,7 +679,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "564",
+      "Available Qty.": "559",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -698,7 +688,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "387",
+      "Available Qty.": "382",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -743,7 +733,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -1034,15 +1024,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -1050,6 +1031,15 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "31",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "281",
