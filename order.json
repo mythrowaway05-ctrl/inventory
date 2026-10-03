@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-10-03T05:01:13.310069-05:00",
+  "scraped_at": "2026-10-03T06:01:08.054668-05:00",
   "po_number": "PO6381406",
   "appointment": {
     "reference_number": "PO6381406",
     "pickup_date": "10/14/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n9",
-    "Total Line Items": "Gross Weight\n1179 lbs",
+    "Total Due": "Total Line Items\n10",
+    "Total Line Items": "Gross Weight\n1819 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD17-061P\tMargarine Spread\t1\t1\tCS\t18\t3.42\t\u00a0\t6/45 oz\tREF\t0.00\tNot Yet Ranked\nD15-267P\tChicken Tender Fritters\t4\t4\tCS\t80\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD14-124P\tJuice, Naked Green Machine\t1\t1\tCS\t6\t1.14\t\u00a0\t8/10 oz\tREF\t0.00\tNot Yet Ranked\nD15-773P\t8 Piece Cut Chicken\t15\t15\tCS\t675\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\tNot Yet Ranked\nD19-012P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t230\t41.40\t\u00a0\t1/230 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD22-089P\tCat Litter\t2\t2\tCS\t52\t0.00\t\u00a0\t2/10 lb\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD17-061P\tMargarine Spread\t1\t1\tCS\t18\t3.42\t\u00a0\t6/45 oz\tREF\t0.00\tNot Yet Ranked\nD15-267P\tChicken Tender Fritters\t1\t1\tCS\t20\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD14-124P\tJuice, Naked Green Machine\t1\t1\tCS\t6\t1.14\t\u00a0\t8/10 oz\tREF\t0.00\tNot Yet Ranked\nD15-773P\t8 Piece Cut Chicken\t15\t15\tCS\t675\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\tNot Yet Ranked\nD19-012P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t230\t41.40\t\u00a0\t1/230 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD22-089P\tCat Litter\t2\t2\tCS\t52\t0.00\t\u00a0\t2/10 lb\tDRY\t0.00\tNot Yet Ranked\nD13-163P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t700\t126.00\t\u00a0\t1/700 lbs\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -29,10 +29,10 @@
     {
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters",
-      "Order Qty.": "4",
-      "Accepted Qty.": "4",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
       "UOM": "CS",
-      "Gross Weight": "80",
+      "Gross Weight": "20",
       "Packaging Type": "",
       "Pack Size": "1/20 lb",
       "Handling Requirements": "FROZEN",
@@ -126,6 +126,19 @@
       "Gross Weight": "52",
       "Packaging Type": "",
       "Pack Size": "2/10 lb",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D13-163P",
+      "Description": "Assorted Cleaning Supplies - BULK TOTE",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "BULK",
+      "Gross Weight": "700",
+      "Packaging Type": "",
+      "Pack Size": "1/700 lbs",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
