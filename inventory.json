@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 03, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-10-03T00:01:03.898692-05:00",
-  "item_count": 125,
+  "updated_at": "October 03, 2026 at 01:01 AM",
+  "updated_at_iso": "2026-10-03T01:01:10.253412-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "19",
@@ -188,15 +188,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "499",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "23",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -204,6 +195,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "499",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "329",
@@ -233,7 +233,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "54",
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters 1/20 lb",
       "UOM": "CS",
@@ -409,16 +409,6 @@
       "Pack Size": "6/16 oz",
       "Feature Type": "",
       "Gross Weight": "7"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D09-520P",
-      "Description": "Dressing, Ranch 6/20 oz",
-      "UOM": "CS",
-      "Pack Size": "6/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-10-02T17:01:12.650927-05:00"
     },
     {
       "Available Qty.": "920",
@@ -846,15 +836,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -862,6 +843,15 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "31",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "281",
