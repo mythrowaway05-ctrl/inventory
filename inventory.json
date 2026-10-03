@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 03, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-10-03T17:01:11.519869-05:00",
-  "item_count": 133,
+  "updated_at": "October 03, 2026 at 05:34 PM",
+  "updated_at_iso": "2026-10-03T17:34:01.967061-05:00",
+  "item_count": 132,
   "items": [
     {
       "Available Qty.": "265",
@@ -20,16 +20,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-059P",
-      "Description": "Assorted Frozen Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
-      "Feature Type": "",
-      "Gross Weight": "225",
-      "new_since": "2026-10-03T05:01:13.365038-05:00"
     },
     {
       "Available Qty.": "0",
@@ -171,7 +161,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "9",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -236,15 +226,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "23",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -252,6 +233,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "329",
@@ -927,15 +917,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "650",
-      "Item No.": "D28-223P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -943,6 +924,15 @@
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "650",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "269",
