@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 05, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-10-05T04:01:04.201897-05:00",
+  "updated_at": "October 05, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-10-05T05:01:12.653644-05:00",
   "item_count": 131,
   "items": [
     {
@@ -229,15 +229,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "22",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "499",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -245,6 +236,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "22",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "329",
@@ -895,15 +895,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "565",
-      "Item No.": "D28-223P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5"
-    },
-    {
       "Available Qty.": "0",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -911,6 +902,15 @@
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "565",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "266",
