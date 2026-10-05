@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 05, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-05T13:01:14.690240-05:00",
-  "item_count": 119,
+  "updated_at": "October 05, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-05T14:01:19.496672-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "256",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "119",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -185,7 +185,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -194,7 +194,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "314",
+      "Available Qty.": "303",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -554,16 +554,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-05T11:47:41.465822-05:00"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "D07-705P",
       "Description": "Milk, Soy, Organic Shelf Stable 12/32 oz",
@@ -798,7 +788,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "676",
+      "Available Qty.": "645",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -816,7 +806,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -861,7 +851,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "575",
+      "Available Qty.": "571",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
       "UOM": "CS",
@@ -915,7 +905,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "171",
       "Item No.": "P15-086P",
       "Description": "Smoked Sausage, Hot",
       "UOM": "CS",
