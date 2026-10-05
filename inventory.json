@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 05, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-10-05T11:01:12.974546-05:00",
-  "item_count": 117,
+  "updated_at": "October 05, 2026 at 11:47 AM",
+  "updated_at_iso": "2026-10-05T11:47:41.467095-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "256",
@@ -112,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "282",
+      "Available Qty.": "272",
       "Item No.": "D25-1673P",
       "Description": "Candy, Gushers",
       "UOM": "CS",
@@ -128,6 +128,16 @@
       "Pack Size": "4-10/6 oz",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "100",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-10-05T11:47:41.465822-05:00"
     },
     {
       "Available Qty.": "92",
@@ -166,15 +176,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "496",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -184,7 +185,16 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "324",
+      "Available Qty.": "3",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "314",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -310,7 +320,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1254",
+      "Available Qty.": "1246",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -337,7 +347,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "270",
+      "Available Qty.": "265",
       "Item No.": "D22-129P",
       "Description": "Dog Treat 8/4.5 oz",
       "UOM": "CS",
@@ -391,7 +401,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "47",
       "Item No.": "D25-2055P",
       "Description": "Fruit Roll ups",
       "UOM": "CS",
@@ -418,7 +428,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "11",
       "Item No.": "D05-932P",
       "Description": "Granola 4/3.2 lb",
       "UOM": "CS",
@@ -427,7 +437,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "297",
+      "Available Qty.": "289",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -544,6 +554,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "31",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-10-05T11:47:41.465822-05:00"
+    },
+    {
       "Available Qty.": "2",
       "Item No.": "D07-705P",
       "Description": "Milk, Soy, Organic Shelf Stable 12/32 oz",
@@ -580,7 +600,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "519",
+      "Available Qty.": "515",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -652,7 +672,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "269",
+      "Available Qty.": "260",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -688,7 +708,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "344",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
