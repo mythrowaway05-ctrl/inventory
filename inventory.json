@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 05, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-05T06:01:07.241797-05:00",
-  "item_count": 131,
+  "updated_at": "October 05, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-05T07:01:07.945262-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "256",
@@ -157,22 +157,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "463",
+      "Available Qty.": "271",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
       "Pack Size": "4-10/6 oz",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "97",
@@ -229,15 +220,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "496",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "22",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -245,6 +227,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "496",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "329",
@@ -382,15 +373,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D03-353P",
-      "Description": "Coffee, Iced",
-      "UOM": "CS",
-      "Pack Size": "6/54 oz",
-      "Feature Type": "",
-      "Gross Weight": "27"
-    },
-    {
       "Available Qty.": "1265",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -409,7 +391,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "35",
       "Item No.": "D07-614P",
       "Description": "Dip, French Onion",
       "UOM": "CS",
@@ -418,7 +400,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "605",
+      "Available Qty.": "295",
       "Item No.": "D22-129P",
       "Description": "Dog Treat 8/4.5 oz",
       "UOM": "CS",
@@ -544,15 +526,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "50",
-      "Item No.": "D07-1072P",
-      "Description": "Half and Half 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D03-1103P",
       "Description": "Hydration Drink, Mix 6/6 ct",
@@ -562,7 +535,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1717",
+      "Available Qty.": "1573",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars",
       "UOM": "CS",
@@ -895,15 +868,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "565",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -911,6 +875,15 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "266",
