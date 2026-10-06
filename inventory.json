@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 06, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-06T13:01:08.491021-05:00",
-  "item_count": 119,
+  "updated_at": "October 06, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-06T14:01:10.231988-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "253",
@@ -95,7 +95,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-170P",
       "Description": "Bleach 6/43 oz",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "25",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -160,6 +160,15 @@
       "Gross Weight": "17"
     },
     {
+      "Available Qty.": "86",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
+    },
+    {
       "Available Qty.": "18",
       "Item No.": "D28-391P",
       "Description": "Carrots",
@@ -168,15 +177,6 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-10-06T02:01:02.202052-05:00"
-    },
-    {
-      "Available Qty.": "86",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "92",
@@ -251,7 +251,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D15-967P",
       "Description": "Chicken Nuggets",
       "UOM": "CS",
@@ -271,7 +271,7 @@
       "new_since": "2026-10-06T02:01:02.202052-05:00"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "10",
       "Item No.": "D15-1177P",
       "Description": "Chicken Patty",
       "UOM": "CS",
@@ -408,7 +408,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "919",
+      "Available Qty.": "915",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
       "UOM": "CS",
@@ -543,7 +543,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "732",
+      "Available Qty.": "728",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -741,7 +741,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -806,7 +806,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "692",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -824,7 +824,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "52",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -939,7 +939,37 @@
       "new_since": "2026-10-06T10:01:12.816502-05:00"
     },
     {
-      "Available Qty.": "720",
+      "Available Qty.": "14",
+      "Item No.": "D03-069P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
+      "new_since": "2026-10-06T14:01:10.231377-05:00"
+    },
+    {
+      "Available Qty.": "157",
+      "Item No.": "D03-1032P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-10-06T14:01:10.231377-05:00"
+    },
+    {
+      "Available Qty.": "32",
+      "Item No.": "D03-681P",
+      "Description": "Soda, Zero Sugar 24/20 oz",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
+      "new_since": "2026-10-06T14:01:10.231377-05:00"
+    },
+    {
+      "Available Qty.": "716",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -979,7 +1009,7 @@
       "new_since": "2026-10-06T10:01:12.816502-05:00"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "75",
       "Item No.": "D28-741P",
       "Description": "Squash",
       "UOM": "CS",
@@ -1049,7 +1079,7 @@
       "new_since": "2026-10-06T10:01:12.816502-05:00"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "0",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
