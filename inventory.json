@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 07, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-07T08:01:21.916995-05:00",
-  "item_count": 122,
+  "updated_at": "October 07, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-07T09:01:11.523014-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "228",
@@ -105,7 +105,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "2",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -151,13 +151,22 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "139",
+      "Available Qty.": "137",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
       "Pack Size": "4-10/6 oz",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "66",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "15",
@@ -169,15 +178,6 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "67",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "93",
       "Item No.": "P27-045P",
       "Description": "Carrots, Sliced",
@@ -187,7 +187,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "401",
+      "Available Qty.": "400",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -269,32 +269,13 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "25",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
       "Pack Size": "8/4 lb",
       "Feature Type": "",
       "Gross Weight": "32"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-1177P",
-      "Description": "Chicken Patty",
-      "UOM": "CS",
-      "Pack Size": "12/23 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D15-267P",
-      "Description": "Chicken Tender Fritters 1/20 lb",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-07T05:01:20.203672-05:00"
     },
     {
       "Available Qty.": "277",
@@ -369,7 +350,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "342",
+      "Available Qty.": "332",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
@@ -433,7 +414,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1656",
+      "Available Qty.": "1631",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -451,7 +432,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "87",
       "Item No.": "D25-2034P",
       "Description": "Gansito, Snack Cake 4/32 ct",
       "UOM": "CS",
@@ -498,7 +479,7 @@
     {
       "Available Qty.": "1498",
       "Item No.": "D25-2046P",
-      "Description": "Hydration Freezer Bars",
+      "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
       "Pack Size": "12-16/1.25 oz",
       "Feature Type": "",
@@ -658,7 +639,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "107",
+      "Available Qty.": "124",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -712,7 +693,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "286",
+      "Available Qty.": "256",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -820,7 +801,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "697",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
