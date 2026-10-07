@@ -1,31 +1,18 @@
 {
-  "scraped_at": "2026-10-07T03:01:07.502393-05:00",
+  "scraped_at": "2026-10-07T04:01:09.302183-05:00",
   "po_number": "PO6381406",
   "appointment": {
     "reference_number": "PO6381406",
     "pickup_date": "10/14/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n16",
-    "Total Line Items": "Gross Weight\n2329 lbs",
+    "Total Due": "Total Line Items\n20",
+    "Total Line Items": "Gross Weight\n2384 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-967P\tChicken Nuggets\t2\t2\tCS\t44\t3.96\t\u00a0\t12/29 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1178P\tChicken Nuggets\t2\t2\tCS\t24\t2.28\t\u00a0\t6/32 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1176P\tChicken Nuggets\t1\t1\tCS\t32\t6.08\t\u00a0\t8/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-1179P\tChicken Wings, Hot\t12\t12\tCS\t336\t5.32\t\u00a0\t7/64 oz\tFROZEN\t0.00\tNot Yet Ranked\nD14-1000P\tJuice, Orange\t1\t1\tCS\t54\t2.16\t\u00a0\t6/1 gallon\tREF\t0.00\tNot Yet Ranked\nD07-328P\tMilk, Whole\t1\t1\tCS\t20\t0.00\t\u00a0\t9/1 qt\tREF\t0.00\tNot Yet Ranked\nD17-061P\tMargarine Spread\t1\t1\tCS\t18\t3.42\t\u00a0\t6/45 oz\tREF\t0.00\tNot Yet Ranked\nD15-267P\tChicken Tender Fritters\t1\t1\tCS\t20\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD14-124P\tJuice, Naked Green Machine\t1\t1\tCS\t6\t1.14\t\u00a0\t8/10 oz\tREF\t0.00\tNot Yet Ranked\nD15-773P\t8 Piece Cut Chicken\t15\t15\tCS\t675\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\tNot Yet Ranked\nD19-012P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t230\t41.40\t\u00a0\t1/230 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD22-089P\tCat Litter\t2\t2\tCS\t52\t0.00\t\u00a0\t2/10 lb\tDRY\t0.00\tNot Yet Ranked\nD13-163P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t700\t126.00\t\u00a0\t1/700 lbs\tDRY\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-1178P\tChicken Nuggets\t2\t2\tCS\t24\t2.28\t\u00a0\t6/32 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-967P\tChicken Nuggets\t2\t2\tCS\t44\t3.96\t\u00a0\t12/29 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1176P\tChicken Nuggets\t1\t1\tCS\t32\t6.08\t\u00a0\t8/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-1179P\tChicken Wings, Hot\t12\t12\tCS\t336\t5.32\t\u00a0\t7/64 oz\tFROZEN\t0.00\tNot Yet Ranked\nD14-1000P\tJuice, Orange\t1\t1\tCS\t54\t2.16\t\u00a0\t6/1 gallon\tREF\t0.00\tNot Yet Ranked\nD07-328P\tMilk, Whole\t1\t1\tCS\t20\t0.00\t\u00a0\t9/1 qt\tREF\t0.00\tNot Yet Ranked\nD17-061P\tMargarine Spread\t1\t1\tCS\t18\t3.42\t\u00a0\t6/45 oz\tREF\t0.00\tNot Yet Ranked\nD15-267P\tChicken Tender Fritters\t1\t1\tCS\t20\t3.80\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD28-218P\tPotatoes\t1\t1\tCS\t50\t0.00\t\u00a0\t10/5 lb\tREF\t0.00\tNot Yet Ranked\nD14-124P\tJuice, Naked Green Machine\t1\t1\tCS\t6\t1.14\t\u00a0\t8/10 oz\tREF\t0.00\tNot Yet Ranked\nD15-773P\t8 Piece Cut Chicken\t15\t15\tCS\t675\t4.05\t\u00a0\t1/45 lb\tFROZEN\t0.00\tNot Yet Ranked\nD19-012P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t230\t41.40\t\u00a0\t1/230 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD22-089P\tCat Litter\t2\t2\tCS\t52\t0.00\t\u00a0\t2/10 lb\tDRY\t0.00\tNot Yet Ranked\nD13-163P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t700\t126.00\t\u00a0\t1/700 lbs\tDRY\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nD15-1180P\tBeef Strip Loin Steak\t1\t1\tCS\t10\t1.90\t\u00a0\t10/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD28-839P\tCactus Leaves\t1\t1\tCS\t35\t0.00\t\u00a0\t1/35 lb\tREF\t0.00\tNot Yet Ranked\nD28-391P\tCarrots\t1\t0\tCS\t0\t0.00\t\u00a0\t1/30 lb\tREF\t0.00\tNot Yet Ranked\nD22-131P\tCat Food\t2\t2\tCS\t10\t0.99\t\u00a0\t12/5.5 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
-    {
-      "Item No.": "D15-967P",
-      "Description": "Chicken Nuggets",
-      "Order Qty.": "2",
-      "Accepted Qty.": "2",
-      "UOM": "CS",
-      "Gross Weight": "44",
-      "Packaging Type": "",
-      "Pack Size": "12/29 oz",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
     {
       "Item No.": "D15-1178P",
       "Description": "Chicken Nuggets",
@@ -35,6 +22,19 @@
       "Gross Weight": "24",
       "Packaging Type": "",
       "Pack Size": "6/32 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D15-967P",
+      "Description": "Chicken Nuggets",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "44",
+      "Packaging Type": "",
+      "Pack Size": "12/29 oz",
       "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
@@ -217,6 +217,58 @@
       "Gross Weight": "28",
       "Packaging Type": "",
       "Pack Size": "12/32.4 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D15-1180P",
+      "Description": "Beef Strip Loin Steak",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "10",
+      "Packaging Type": "",
+      "Pack Size": "10/16 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D28-839P",
+      "Description": "Cactus Leaves",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "35",
+      "Packaging Type": "",
+      "Pack Size": "1/35 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D28-391P",
+      "Description": "Carrots",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "1/30 lb",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D22-131P",
+      "Description": "Cat Food",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "10",
+      "Packaging Type": "",
+      "Pack Size": "12/5.5 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"

@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 07, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-10-07T03:01:07.560397-05:00",
+  "updated_at": "October 07, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-10-07T04:01:09.346709-05:00",
   "item_count": 141,
   "items": [
     {
@@ -53,22 +53,22 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D19-008P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-10-07T02:01:07.675632-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D19-005P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/100 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "100",
+      "new_since": "2026-10-07T02:01:07.675632-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-008P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/180 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "180",
       "new_since": "2026-10-07T02:01:07.675632-05:00"
     },
     {
@@ -269,15 +269,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D28-391P",
-      "Description": "Carrots",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb",
-      "Feature Type": "",
-      "Gross Weight": "30"
-    },
-    {
       "Available Qty.": "73",
       "Item No.": "D28-207P",
       "Description": "Carrots",
@@ -285,6 +276,15 @@
       "Pack Size": "1/50 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "50"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D28-391P",
+      "Description": "Carrots",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb",
+      "Feature Type": "",
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "93",
