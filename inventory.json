@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 07, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-10-07T04:01:09.346709-05:00",
+  "updated_at": "October 07, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-10-07T05:01:20.204323-05:00",
   "item_count": 141,
   "items": [
     {
@@ -53,22 +53,22 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D19-005P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/100 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-10-07T02:01:07.675632-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D19-008P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/180 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "180",
+      "new_since": "2026-10-07T02:01:07.675632-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-005P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/100 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "100",
       "new_since": "2026-10-07T02:01:07.675632-05:00"
     },
     {
@@ -167,16 +167,6 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D15-1180P",
-      "Description": "Beef Strip Loin Steak",
-      "UOM": "CS",
-      "Pack Size": "10/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-10-07T02:01:07.675632-05:00"
-    },
-    {
       "Available Qty.": "54",
       "Item No.": "D22-130P",
       "Description": "Bird Food 4/8 lb",
@@ -242,7 +232,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "89",
       "Item No.": "D28-839P",
       "Description": "Cactus Leaves With Thorns",
       "UOM": "CS",
@@ -269,15 +259,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "73",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D28-391P",
       "Description": "Carrots",
@@ -285,6 +266,15 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "73",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "93",
@@ -296,7 +286,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "448",
+      "Available Qty.": "421",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -379,7 +369,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D15-967P",
       "Description": "Chicken Nuggets",
       "UOM": "CS",
@@ -388,7 +378,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "0",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
@@ -397,13 +387,23 @@
       "Gross Weight": "32"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D15-1177P",
       "Description": "Chicken Patty",
       "UOM": "CS",
       "Pack Size": "12/23 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D15-267P",
+      "Description": "Chicken Tender Fritters 1/20 lb",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-07T05:01:20.203672-05:00"
     },
     {
       "Available Qty.": "277",
@@ -1091,7 +1091,7 @@
       "new_since": "2026-10-06T10:01:12.816502-05:00"
     },
     {
-      "Available Qty.": "127",
+      "Available Qty.": "123",
       "Item No.": "D03-1032P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1141,7 +1141,7 @@
       "new_since": "2026-10-07T02:01:07.675632-05:00"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "188",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
