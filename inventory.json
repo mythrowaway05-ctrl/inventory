@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 08, 2026 at 09:14 AM",
-  "updated_at_iso": "2026-10-08T09:14:32.094804-05:00",
+  "updated_at": "October 08, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-10-08T10:01:14.322238-05:00",
   "item_count": 99,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -73,7 +73,7 @@
       "new_since": "2026-10-08T01:51:21.884695-05:00"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "142",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -200,7 +200,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "9",
       "Item No.": "D28-391P",
       "Description": "Carrots",
       "UOM": "CS",
@@ -245,7 +245,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -299,7 +299,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "25",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
@@ -417,7 +417,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "36",
       "Item No.": "D28-541P",
       "Description": "Cucumbers 1/34 lb",
       "UOM": "CS",
@@ -498,7 +498,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "748",
+      "Available Qty.": "741",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -696,7 +696,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "25",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -768,7 +768,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -777,7 +777,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "25",
       "Item No.": "D28-1280P",
       "Description": "Peppers",
       "UOM": "CS",
