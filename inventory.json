@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 08, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-10-08T01:01:07.204790-05:00",
-  "item_count": 117,
+  "updated_at": "October 08, 2026 at 01:51 AM",
+  "updated_at_iso": "2026-10-08T01:51:21.885253-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "228",
@@ -11,6 +11,76 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-263P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lbs",
+      "Feature Type": "",
+      "Gross Weight": "350",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-264P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/300 lbs",
+      "Feature Type": "",
+      "Gross Weight": "300",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-262P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/275 lbs",
+      "Feature Type": "",
+      "Gross Weight": "275",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-261P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/250 lbs",
+      "Feature Type": "",
+      "Gross Weight": "250",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-260P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/175 lbs",
+      "Feature Type": "",
+      "Gross Weight": "175",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-259P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/225 lbs",
+      "Feature Type": "",
+      "Gross Weight": "225",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
     },
     {
       "Available Qty.": "155",
@@ -140,15 +210,6 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "50",
-      "Item No.": "D28-207P",
-      "Description": "Carrots",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D28-391P",
       "Description": "Carrots",
@@ -156,6 +217,15 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "50",
+      "Item No.": "D28-207P",
+      "Description": "Carrots",
+      "UOM": "BAG",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "89",
@@ -331,7 +401,7 @@
       "new_since": "2026-10-07T02:01:07.675632-05:00"
     },
     {
-      "Available Qty.": "342",
+      "Available Qty.": "410",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -537,6 +607,26 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D07-1075P",
+      "Description": "Milk, Chocolate 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
     },
     {
       "Available Qty.": "912",
