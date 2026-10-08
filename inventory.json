@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 08, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-08T16:01:04.486987-05:00",
-  "item_count": 102,
+  "updated_at": "October 08, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-08T17:01:13.070610-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "219",
@@ -24,22 +24,32 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D04-258P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-10-08T01:51:21.884695-05:00"
-    },
-    {
-      "Available Qty.": "2",
       "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
       "Pack Size": "1/225 lbs",
       "Feature Type": "",
       "Gross Weight": "225",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-262P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/275 lbs",
+      "Feature Type": "",
+      "Gross Weight": "275",
+      "new_since": "2026-10-08T01:51:21.884695-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200",
       "new_since": "2026-10-08T01:51:21.884695-05:00"
     },
     {
@@ -63,16 +73,6 @@
       "new_since": "2026-10-08T01:51:21.884695-05:00"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D04-262P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/275 lbs",
-      "Feature Type": "",
-      "Gross Weight": "275",
-      "new_since": "2026-10-08T01:51:21.884695-05:00"
-    },
-    {
       "Available Qty.": "150",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -80,6 +80,16 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-08T01:01:07.204247-05:00"
     },
     {
       "Available Qty.": "570",
@@ -299,7 +309,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "25",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
@@ -389,7 +399,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "410",
+      "Available Qty.": "478",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -444,7 +454,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1607",
+      "Available Qty.": "1604",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -588,7 +598,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "26",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -715,7 +725,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "275",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -733,7 +743,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "217",
+      "Available Qty.": "214",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -778,7 +788,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -859,7 +869,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "3035",
+      "Available Qty.": "3032",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -868,7 +878,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2834",
+      "Available Qty.": "2831",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -886,13 +896,23 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1183",
+      "Available Qty.": "1180",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D03-1100P",
+      "Description": "Tea, Sweet 18/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "18/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "23",
+      "new_since": "2026-10-08T17:01:13.069918-05:00"
     },
     {
       "Available Qty.": "259",
