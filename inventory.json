@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 09, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-09T13:01:00.021822-05:00",
-  "item_count": 96,
+  "updated_at": "October 09, 2026 at 02:04 PM",
+  "updated_at_iso": "2026-10-09T14:04:36.448021-05:00",
+  "item_count": 98,
   "items": [
     {
       "Available Qty.": "194",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D04-258P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -22,7 +22,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -31,7 +31,7 @@
       "Gross Weight": "225"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D04-261P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -50,13 +50,23 @@
       "new_since": "2026-10-09T02:00:01.650160-05:00"
     },
     {
-      "Available Qty.": "162",
+      "Available Qty.": "252",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-09T02:00:01.650160-05:00"
     },
     {
       "Available Qty.": "1",
@@ -451,6 +461,16 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "70",
+      "Item No.": "D05-932P",
+      "Description": "Granola 4/3.2 lb",
+      "UOM": "CS",
+      "Pack Size": "4/3.2 lb",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-09T14:04:36.447457-05:00"
+    },
+    {
       "Available Qty.": "1685",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
@@ -705,7 +725,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "356",
+      "Available Qty.": "347",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -813,7 +833,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "600",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -841,7 +861,7 @@
       "new_since": "2026-10-09T02:00:01.650160-05:00"
     },
     {
-      "Available Qty.": "2899",
+      "Available Qty.": "2891",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -850,7 +870,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2691",
+      "Available Qty.": "2683",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
