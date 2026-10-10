@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 10, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-10T06:01:04.477822-05:00",
-  "item_count": 129,
+  "updated_at": "October 10, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-10T07:01:02.354961-05:00",
+  "item_count": 127,
   "items": [
     {
       "Available Qty.": "174",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "24",
-      "Item No.": "D11-111P",
-      "Description": "Assorted Baking Items",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-10T02:01:05.301282-05:00"
     },
     {
       "Available Qty.": "2",
@@ -42,15 +32,6 @@
       "new_since": "2026-10-10T02:01:05.301282-05:00"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D04-258P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
-      "Feature Type": "",
-      "Gross Weight": "200"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
@@ -58,6 +39,15 @@
       "Pack Size": "1/225 lbs",
       "Feature Type": "",
       "Gross Weight": "225"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200"
     },
     {
       "Available Qty.": "10",
@@ -235,16 +225,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D12-382P",
-      "Description": "CeraVe Moisturizing Lotion 21/3 ct",
-      "UOM": "CS",
-      "Pack Size": "21/3 ct",
-      "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-10-10T02:01:05.301282-05:00"
-    },
-    {
       "Available Qty.": "106",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -416,7 +396,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "35",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -471,15 +451,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "9",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -487,6 +458,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "52",
@@ -635,7 +615,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "107",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
