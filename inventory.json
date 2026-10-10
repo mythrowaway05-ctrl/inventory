@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 10, 2026 at 10:00 AM",
-  "updated_at_iso": "2026-10-10T10:00:58.766376-05:00",
-  "item_count": 125,
+  "updated_at": "October 10, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-10-10T11:01:10.581571-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "174",
@@ -376,7 +376,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "22",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -595,14 +595,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "84",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-09T11:01:01.388564-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "46",
@@ -621,8 +620,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-09T11:01:01.388564-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "874",
@@ -897,17 +895,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "P28-032P",
-      "Description": "Potatoes, Sweet",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-10T05:01:01.442321-05:00"
-    },
-    {
-      "Available Qty.": "1587",
+      "Available Qty.": "1537",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
