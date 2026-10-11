@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 11, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-10-11T14:01:10.221256-05:00",
-  "item_count": 123,
+  "updated_at": "October 11, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-10-11T15:01:02.589334-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "174",
@@ -355,7 +355,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "0",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -391,7 +391,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1492",
+      "Available Qty.": "1482",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -571,7 +571,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "85",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -878,7 +878,7 @@
       "new_since": "2026-10-11T08:01:03.277986-05:00"
     },
     {
-      "Available Qty.": "1435",
+      "Available Qty.": "1405",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -966,15 +966,6 @@
       "Pack Size": "6/2 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "P06-001P",
-      "Description": "Skillet Dinner, Cheeseburger",
-      "UOM": "CS",
-      "Pack Size": "12/5.8 oz box",
-      "Feature Type": "",
-      "Gross Weight": "6"
     },
     {
       "Available Qty.": "125",
