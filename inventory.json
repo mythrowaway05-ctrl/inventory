@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 11, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-10-11T02:01:18.488222-05:00",
+  "updated_at": "October 11, 2026 at 03:00 AM",
+  "updated_at_iso": "2026-10-11T03:00:59.090902-05:00",
   "item_count": 127,
   "items": [
     {
@@ -24,6 +24,15 @@
     },
     {
       "Available Qty.": "2",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200"
+    },
+    {
+      "Available Qty.": "2",
       "Item No.": "D04-261P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -39,15 +48,6 @@
       "Pack Size": "1/225 lbs",
       "Feature Type": "",
       "Gross Weight": "225"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-258P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
-      "Feature Type": "",
-      "Gross Weight": "200"
     },
     {
       "Available Qty.": "0",
@@ -437,15 +437,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -453,6 +444,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "52",
