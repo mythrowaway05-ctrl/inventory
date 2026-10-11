@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 11, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-10-11T10:01:00.888790-05:00",
-  "item_count": 126,
+  "updated_at": "October 11, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-10-11T11:01:03.968134-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "174",
@@ -30,24 +30,6 @@
       "Pack Size": "1/200 lbs",
       "Feature Type": "",
       "Gross Weight": "200"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-261P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lbs",
-      "Feature Type": "",
-      "Gross Weight": "250"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-259P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
-      "Feature Type": "",
-      "Gross Weight": "225"
     },
     {
       "Available Qty.": "0",
@@ -230,7 +212,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "67",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
@@ -437,15 +419,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -453,6 +426,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "52",
