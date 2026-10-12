@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 12, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-12T13:01:03.158610-05:00",
+  "updated_at": "October 12, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-12T14:01:02.121889-05:00",
   "item_count": 98,
   "items": [
     {
@@ -31,23 +31,13 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-12T12:00:57.552370-05:00"
     },
     {
       "Available Qty.": "545",
@@ -132,7 +122,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "357",
+      "Available Qty.": "354",
       "Item No.": "D25-1673P",
       "Description": "Candy, Gushers",
       "UOM": "CS",
@@ -141,7 +131,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "42",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -159,7 +149,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "224",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -213,7 +203,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "732",
+      "Available Qty.": "722",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -258,7 +248,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "D15-1108P",
       "Description": "Chicken, Rotisserie, Lemon Pepper",
       "UOM": "CS",
@@ -267,7 +257,7 @@
       "Gross Weight": "52"
     },
     {
-      "Available Qty.": "298",
+      "Available Qty.": "288",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -303,13 +293,23 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "94",
       "Item No.": "D03-1101P",
       "Description": "Citrus Punch 15/10 oz",
       "UOM": "CS",
       "Pack Size": "15/10 oz",
       "Feature Type": "",
       "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "256",
+      "Item No.": "D03-1085P",
+      "Description": "Coffee, Cold Brew 6/48 oz",
+      "UOM": "CS",
+      "Pack Size": "6/48 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-12T14:01:02.121262-05:00"
     },
     {
       "Available Qty.": "529",
@@ -321,7 +321,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1025",
+      "Available Qty.": "1019",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -367,7 +367,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1459",
+      "Available Qty.": "1446",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -421,7 +421,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D05-932P",
       "Description": "Granola 4/3.2 lb",
       "UOM": "CS",
@@ -430,7 +430,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1588",
+      "Available Qty.": "1582",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -448,7 +448,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "621",
+      "Available Qty.": "618",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -538,7 +538,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "71",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -547,7 +547,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -576,7 +576,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -648,7 +648,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "101",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -702,7 +702,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "340",
+      "Available Qty.": "336",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -756,7 +756,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -783,7 +783,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1806",
+      "Available Qty.": "1803",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -882,7 +882,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1107",
+      "Available Qty.": "1097",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
