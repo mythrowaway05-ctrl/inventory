@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 12, 2026 at 04:00 PM",
-  "updated_at_iso": "2026-10-12T16:00:59.437733-05:00",
-  "item_count": 100,
+  "updated_at": "October 12, 2026 at 05:00 PM",
+  "updated_at_iso": "2026-10-12T17:00:55.345799-05:00",
+  "item_count": 99,
   "items": [
     {
       "Available Qty.": "157",
@@ -302,7 +302,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "2051",
+      "Available Qty.": "2041",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -557,16 +557,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-10-12T13:01:03.157824-05:00"
-    },
-    {
       "Available Qty.": "23",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -577,7 +567,7 @@
       "new_since": "2026-10-12T11:20:34.480238-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "21",
       "Item No.": "D07-1009P",
       "Description": "Milk, Strawberry 9/.5 gal",
       "UOM": "CS",
@@ -586,7 +576,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "2",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -623,7 +613,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "131",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -686,7 +676,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "30",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -731,7 +721,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "127",
+      "Available Qty.": "112",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -848,7 +838,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "600",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -866,7 +856,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1101",
+      "Available Qty.": "1091",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
