@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 12, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-10-12T01:01:12.339727-05:00",
-  "item_count": 123,
+  "updated_at": "October 12, 2026 at 01:48 AM",
+  "updated_at_iso": "2026-10-12T01:48:11.865798-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "172",
@@ -146,6 +146,16 @@
       "Pack Size": "96/2.8 oz",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-839P",
+      "Description": "Cactus Leaves With Thorns",
+      "UOM": "CS",
+      "Pack Size": "1/35 lb",
+      "Feature Type": "",
+      "Gross Weight": "35",
+      "new_since": "2026-10-12T01:48:11.865244-05:00"
     },
     {
       "Available Qty.": "179",
