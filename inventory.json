@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 12, 2026 at 05:00 PM",
-  "updated_at_iso": "2026-10-12T17:00:55.345799-05:00",
-  "item_count": 99,
+  "updated_at": "October 12, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-10-12T18:01:01.527917-05:00",
+  "item_count": 98,
   "items": [
     {
       "Available Qty.": "157",
@@ -22,7 +22,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "174",
+      "Available Qty.": "204",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "640",
+      "Available Qty.": "635",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "2041",
+      "Available Qty.": "2021",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -340,7 +340,7 @@
       "new_since": "2026-10-12T11:00:55.333100-05:00"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "78",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -421,7 +421,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "8",
       "Item No.": "D05-932P",
       "Description": "Granola 4/3.2 lb",
       "UOM": "CS",
@@ -577,16 +577,6 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D07-1055P",
-      "Description": "Milk, Whole 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-10-12T16:00:59.437138-05:00"
-    },
-    {
-      "Available Qty.": "2",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -676,7 +666,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "20",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -838,7 +828,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "600",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -856,7 +846,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1091",
+      "Available Qty.": "1081",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
