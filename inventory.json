@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 12, 2026 at 12:00 PM",
-  "updated_at_iso": "2026-10-12T12:00:57.630782-05:00",
-  "item_count": 99,
+  "updated_at": "October 12, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-12T13:01:03.158610-05:00",
+  "item_count": 98,
   "items": [
     {
       "Available Qty.": "172",
@@ -22,16 +22,6 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-12T12:00:57.552370-05:00"
-    },
-    {
       "Available Qty.": "174",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -50,7 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "1",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -78,7 +68,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "535",
+      "Available Qty.": "533",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -87,7 +77,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "809",
+      "Available Qty.": "806",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -151,7 +141,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "D03-478P",
       "Description": "Capri Sun",
       "UOM": "CS",
@@ -205,7 +195,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "414",
+      "Available Qty.": "410",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -322,7 +312,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "531",
+      "Available Qty.": "529",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -331,7 +321,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1027",
+      "Available Qty.": "1025",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -340,7 +330,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "4",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -350,7 +340,7 @@
       "new_since": "2026-10-12T11:00:55.333100-05:00"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "83",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -359,7 +349,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "136",
+      "Available Qty.": "132",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -377,7 +367,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1461",
+      "Available Qty.": "1459",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -440,7 +430,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1591",
+      "Available Qty.": "1588",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -548,7 +538,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "67",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -557,14 +547,14 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "20",
-      "Item No.": "D07-608P",
-      "Description": "Milk, 2% 9/.5 gal",
+      "Available Qty.": "10",
+      "Item No.": "D07-1075P",
+      "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
       "Pack Size": "9/.5 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "44",
-      "new_since": "2026-10-12T12:00:57.552370-05:00"
+      "new_since": "2026-10-12T13:01:03.157824-05:00"
     },
     {
       "Available Qty.": "23",
@@ -586,7 +576,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "1",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -595,7 +585,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "864",
+      "Available Qty.": "862",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -604,7 +594,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "205",
+      "Available Qty.": "199",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -613,7 +603,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "139",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -622,7 +612,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "409",
+      "Available Qty.": "407",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -676,7 +666,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "81",
+      "Available Qty.": "80",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -694,7 +684,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "161",
+      "Available Qty.": "159",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -721,7 +711,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "135",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -766,7 +756,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -784,7 +774,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "11",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
@@ -793,7 +783,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1808",
+      "Available Qty.": "1806",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -811,7 +801,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "76",
       "Item No.": "D04-134P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -847,7 +837,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "202",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -856,7 +846,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1176",
+      "Available Qty.": "1111",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -865,7 +855,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "2883",
+      "Available Qty.": "2880",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -874,7 +864,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2585",
+      "Available Qty.": "2579",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -892,7 +882,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1109",
+      "Available Qty.": "1107",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
