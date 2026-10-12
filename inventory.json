@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 12, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-10-12T14:01:02.121889-05:00",
-  "item_count": 98,
+  "updated_at": "October 12, 2026 at 03:00 PM",
+  "updated_at_iso": "2026-10-12T15:00:56.717144-05:00",
+  "item_count": 99,
   "items": [
     {
       "Available Qty.": "172",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D04-258P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -212,7 +212,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "18",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "256",
+      "Available Qty.": "577",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -321,7 +321,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1019",
+      "Available Qty.": "994",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D07-126P",
       "Description": "Cottage Cheese 18/16 oz",
       "UOM": "CS",
@@ -367,7 +367,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1446",
+      "Available Qty.": "1426",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -430,7 +430,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1582",
+      "Available Qty.": "1557",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -529,6 +529,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D07-169P",
+      "Description": "Milk, 1% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-10-12T15:00:56.648473-05:00"
+    },
+    {
       "Available Qty.": "252",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -538,7 +548,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "59",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -547,7 +557,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "5",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -576,7 +586,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -621,7 +631,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "1",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -666,7 +676,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "50",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -783,7 +793,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1803",
+      "Available Qty.": "1799",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -828,7 +838,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "590",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -864,7 +874,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2579",
+      "Available Qty.": "2575",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -882,7 +892,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1097",
+      "Available Qty.": "1072",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
