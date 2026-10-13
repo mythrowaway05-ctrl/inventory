@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 13, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-13T08:01:05.556150-05:00",
-  "item_count": 132,
+  "updated_at": "October 13, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-13T09:01:17.341458-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "157",
@@ -13,23 +13,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "169",
       "Item No.": "D25-744P",
       "Description": "Assorted Candy",
       "UOM": "CS",
       "Pack Size": "1/15 lb box",
       "Feature Type": "",
       "Gross Weight": "15",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
-      "Available Qty.": "11",
-      "Item No.": "D05-897P",
-      "Description": "Assorted Cereal 1/10 lb",
-      "UOM": "CS",
-      "Pack Size": "1/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "10",
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
@@ -49,16 +39,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "14",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-12T11:00:55.333100-05:00"
     },
     {
       "Available Qty.": "545",
@@ -173,7 +153,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "0",
       "Item No.": "D25-2063P",
       "Description": "Candy, Chocolate",
       "UOM": "CS",
@@ -210,23 +190,13 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "224",
+      "Available Qty.": "209",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
       "Pack Size": "12/5.5 oz",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "140",
-      "Item No.": "D05-451P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "6/3.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
       "Available Qty.": "94",
@@ -238,17 +208,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "42",
-      "Item No.": "D25-2064P",
-      "Description": "Chex Mix",
-      "UOM": "CS",
-      "Pack Size": "8/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
-      "Available Qty.": "493",
+      "Available Qty.": "383",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -285,7 +245,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "133",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -393,7 +353,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1788",
+      "Available Qty.": "1768",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -421,7 +381,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "63",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -540,7 +500,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "51",
       "Item No.": "P15-113P",
       "Description": "Ham Steak",
       "UOM": "CS",
@@ -622,7 +582,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D01-397P",
       "Description": "Microwavable Trays 32 oz",
       "UOM": "CS",
@@ -632,7 +592,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D01-396P",
       "Description": "Microwavable Trays 32 oz",
       "UOM": "CS",
@@ -651,7 +611,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "42",
       "Item No.": "D07-419P",
       "Description": "Milk, Soy, Original 6/.5 gal",
       "UOM": "CS",
@@ -661,7 +621,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -868,7 +828,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1736",
+      "Available Qty.": "1731",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -904,7 +864,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "475",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -922,7 +882,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "826",
+      "Available Qty.": "726",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -958,15 +918,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1034",
-      "Item No.": "P24-020P",
-      "Description": "Rice, White",
-      "UOM": "CS",
-      "Pack Size": "22/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "22"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D24-389P",
       "Description": "Rice, White",
@@ -975,6 +926,15 @@
       "Feature Type": "",
       "Gross Weight": "100",
       "new_since": "2026-10-13T02:00:58.133694-05:00"
+    },
+    {
+      "Available Qty.": "1034",
+      "Item No.": "P24-020P",
+      "Description": "Rice, White",
+      "UOM": "CS",
+      "Pack Size": "22/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "22"
     },
     {
       "Available Qty.": "534",
@@ -1147,26 +1107,6 @@
       "new_since": "2026-10-12T09:08:10.859867-05:00"
     },
     {
-      "Available Qty.": "67",
-      "Item No.": "D04-265P",
-      "Description": "Taco Kit",
-      "UOM": "CS",
-      "Pack Size": "10/8.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
-      "Available Qty.": "50",
-      "Item No.": "D04-234P",
-      "Description": "Taco Shells 12/4.6 oz",
-      "UOM": "CS",
-      "Pack Size": "12/4.6 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
       "Available Qty.": "211",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
@@ -1197,7 +1137,7 @@
       "new_since": "2026-10-12T09:08:10.859867-05:00"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "28",
       "Item No.": "P15-112P",
       "Description": "Turkey, Ground 4/4 lb",
       "UOM": "CS",
@@ -1207,7 +1147,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "817",
+      "Available Qty.": "795",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
