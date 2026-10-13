@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 13, 2026 at 06:00 PM",
-  "updated_at_iso": "2026-10-13T18:00:58.852568-05:00",
-  "item_count": 114,
+  "updated_at": "October 13, 2026 at 06:32 PM",
+  "updated_at_iso": "2026-10-13T18:32:06.919376-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "155",
@@ -189,7 +189,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "98",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -989,6 +989,16 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-13T12:01:07.256849-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "P11-001P",
+      "Description": "Stuffing, Chicken",
+      "UOM": "CS",
+      "Pack Size": "12/5.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-10-13T18:32:06.918769-05:00"
     },
     {
       "Available Qty.": "201",
