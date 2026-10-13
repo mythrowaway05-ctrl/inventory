@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 13, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-13T06:01:05.084951-05:00",
-  "item_count": 139,
+  "updated_at": "October 13, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-13T07:01:09.830325-05:00",
+  "item_count": 138,
   "items": [
     {
       "Available Qty.": "157",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "179",
       "Item No.": "D25-744P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -98,7 +98,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "7",
       "Item No.": "D23-092P",
       "Description": "Beans, Garbanzo",
       "UOM": "CS",
@@ -108,7 +108,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D23-091P",
       "Description": "Beans, Great Northern",
       "UOM": "CS",
@@ -183,7 +183,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "26",
       "Item No.": "D25-2063P",
       "Description": "Candy, Chocolate",
       "UOM": "CS",
@@ -248,7 +248,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "42",
       "Item No.": "D25-2064P",
       "Description": "Chex Mix",
       "UOM": "CS",
@@ -258,7 +258,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "510",
+      "Available Qty.": "493",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -313,7 +313,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "23",
       "Item No.": "D15-1176P",
       "Description": "Chicken Nuggets 8/4 lb",
       "UOM": "CS",
@@ -403,7 +403,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1796",
+      "Available Qty.": "1788",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -559,7 +559,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "67",
       "Item No.": "P15-113P",
       "Description": "Ham Steak",
       "UOM": "CS",
@@ -641,16 +641,6 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D01-397P",
-      "Description": "Microwavable Trays 32 oz",
-      "UOM": "CS",
-      "Pack Size": "1/420 ct",
-      "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D01-396P",
       "Description": "Microwavable Trays 32 oz",
@@ -658,6 +648,16 @@
       "Pack Size": "1/498 ct",
       "Feature Type": "",
       "Gross Weight": "30",
+      "new_since": "2026-10-13T02:00:58.133694-05:00"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D01-397P",
+      "Description": "Microwavable Trays 32 oz",
+      "UOM": "CS",
+      "Pack Size": "1/420 ct",
+      "Feature Type": "",
+      "Gross Weight": "25",
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
@@ -679,16 +679,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-13T02:00:58.133694-05:00"
-    },
-    {
       "Available Qty.": "22",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -699,7 +689,7 @@
       "new_since": "2026-10-12T11:20:34.480238-05:00"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "43",
       "Item No.": "D07-419P",
       "Description": "Milk, Soy, Original 6/.5 gal",
       "UOM": "CS",
@@ -898,7 +888,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -1006,7 +996,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D24-003P",
       "Description": "Rice",
       "UOM": "BAG",
@@ -1104,7 +1094,7 @@
       "new_since": "2026-10-12T09:08:10.859867-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "14",
       "Item No.": "D03-719P",
       "Description": "Soda, Diet",
       "UOM": "CS",
@@ -1214,7 +1204,7 @@
       "new_since": "2026-10-12T09:08:10.859867-05:00"
     },
     {
-      "Available Qty.": "178",
+      "Available Qty.": "137",
       "Item No.": "D04-265P",
       "Description": "Taco Kit",
       "UOM": "CS",
@@ -1224,7 +1214,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "50",
       "Item No.": "D04-234P",
       "Description": "Taco Shells 12/4.6 oz",
       "UOM": "CS",
@@ -1274,7 +1264,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "825",
+      "Available Qty.": "817",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1284,7 +1274,7 @@
       "new_since": "2026-10-13T02:00:58.133694-05:00"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "64",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
