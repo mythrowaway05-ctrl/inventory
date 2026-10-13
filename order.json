@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-10-13T04:01:07.446941-05:00",
+  "scraped_at": "2026-10-13T05:01:08.943073-05:00",
   "po_number": "PO6392697",
   "appointment": {
     "reference_number": "PO6392697",
     "pickup_date": "10/21/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n17",
-    "Total Line Items": "Gross Weight\n572 lbs",
+    "Total Due": "Total Line Items\n18",
+    "Total Line Items": "Gross Weight\n584 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-223P\tPotatoes\t5\t5\tBAG\t25\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked\nD03-730P\tTea, Sweet\t1\t1\tCS\t15\t2.77\t\u00a0\t12/16.9 oz\tDRY\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD15-1160P\tCheese Dogs\t4\t4\tCS\t48\t2.28\t\u00a0\t12/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-347P\tLunchables\t6\t6\tCS\t34\t1.06\t\u00a0\t16/4.4 oz\tREF\t0.00\tNot Yet Ranked\nD15-385P\tLunchmeat, Turkey\t4\t3\tCS\t9\t0.57\t\u00a0\t6/6 oz\tFROZEN\t0.00\tNot Yet Ranked\nD23-088P\tPeanut Butter, Extra Crunchy\t1\t1\tCS\t14\t2.60\t\u00a0\t12/16.3 oz\tDRY\t0.00\tNot Yet Ranked\nD25-2059P\tPretzels, Peanut Butter Filled\t12\t12\tCS\t36\t0.57\t\u00a0\t12/3.5 oz\tDRY\t0.00\tNot Yet Ranked\nD03-069P\tSoda\t2\t2\tCS\t64\t2.88\t\u00a0\t24/20 oz\tDRY\t0.00\tNot Yet Ranked\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-1075P\tMilk, Chocolate\t1\t1\tCS\t44\t0.00\t\u00a0\t9/.5 gal\tREF\t0.00\tNot Yet Ranked\nD05-883P\tAssorted Breakfast\t2\t2\tCS\t40\t3.80\t\u00a0\t1/20 lb\tDRY\t0.00\tNot Yet Ranked\nD03-034P\tK-Cups, Assorted\t2\t2\tCS\t20\t1.90\t\u00a0\t1/10 Lb box\tDRY\t0.00\tNot Yet Ranked\nD07-1053P\tMilk, 2%\t1\t0\tCS\t0\t0.00\t\u00a0\t4/1 gal\tREF\t0.00\tNot Yet Ranked\nD26-979P\tSugar\t2\t2\tCS\t50\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\tNot Yet Ranked\nD12-382P\tCeraVe Moisturizing Lotion\t4\t4\tCS\t107\t5.09\t\u00a0\t21/3 ct\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-223P\tPotatoes\t5\t5\tBAG\t25\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked\nD03-730P\tTea, Sweet\t1\t1\tCS\t15\t2.77\t\u00a0\t12/16.9 oz\tDRY\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t1\tCS\t20\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD15-1160P\tCheese Dogs\t4\t4\tCS\t48\t2.28\t\u00a0\t12/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-347P\tLunchables\t6\t6\tCS\t34\t1.06\t\u00a0\t16/4.4 oz\tREF\t0.00\tNot Yet Ranked\nD15-385P\tLunchmeat, Turkey\t3\t3\tCS\t9\t0.57\t\u00a0\t6/6 oz\tFROZEN\t0.00\tNot Yet Ranked\nD23-088P\tPeanut Butter, Extra Crunchy\t1\t1\tCS\t14\t2.60\t\u00a0\t12/16.3 oz\tDRY\t0.00\tNot Yet Ranked\nD25-2059P\tPretzels, Peanut Butter Filled\t12\t12\tCS\t36\t0.57\t\u00a0\t12/3.5 oz\tDRY\t0.00\tNot Yet Ranked\nD03-069P\tSoda\t2\t2\tCS\t64\t2.88\t\u00a0\t24/20 oz\tDRY\t0.00\tNot Yet Ranked\nD17-056P\tCreamer, Non Dairy\t1\t1\tCS\t16\t2.88\t\u00a0\t6/32 oz\tREF\t0.00\tNot Yet Ranked\nD07-1075P\tMilk, Chocolate\t1\t1\tCS\t44\t0.00\t\u00a0\t9/.5 gal\tREF\t0.00\tNot Yet Ranked\nD05-883P\tAssorted Breakfast\t2\t2\tCS\t40\t3.80\t\u00a0\t1/20 lb\tDRY\t0.00\tNot Yet Ranked\nD03-034P\tK-Cups, Assorted\t2\t2\tCS\t20\t1.90\t\u00a0\t1/10 Lb box\tDRY\t0.00\tNot Yet Ranked\nD26-979P\tSugar\t2\t2\tCS\t50\t3.00\t\u00a0\t6/4 lb\tDRY\t0.00\tNot Yet Ranked\nD12-382P\tCeraVe Moisturizing Lotion\t4\t4\tCS\t107\t5.09\t\u00a0\t21/3 ct\tDRY\t0.00\tNot Yet Ranked\nD01-395P\tPlastic Bags\t5\t0\tCS\t0\t0.00\t\u00a0\t1/1000 ct\tDRY\t0.00\tNot Yet Ranked\nD25-1948P\tChex Mix\t6\t6\tCS\t12\t0.37\t\u00a0\t8/2.5 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -94,7 +94,7 @@
     {
       "Item No.": "D15-385P",
       "Description": "Lunchmeat, Turkey",
-      "Order Qty.": "4",
+      "Order Qty.": "3",
       "Accepted Qty.": "3",
       "UOM": "CS",
       "Gross Weight": "9",
@@ -196,19 +196,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2%",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "4/1 gal",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D26-979P",
       "Description": "Sugar",
       "Order Qty.": "2",
@@ -230,6 +217,32 @@
       "Gross Weight": "107",
       "Packaging Type": "",
       "Pack Size": "21/3 ct",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D01-395P",
+      "Description": "Plastic Bags",
+      "Order Qty.": "5",
+      "Accepted Qty.": "0",
+      "UOM": "CS",
+      "Gross Weight": "0",
+      "Packaging Type": "",
+      "Pack Size": "1/1000 ct",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D25-1948P",
+      "Description": "Chex Mix",
+      "Order Qty.": "6",
+      "Accepted Qty.": "6",
+      "UOM": "CS",
+      "Gross Weight": "12",
+      "Packaging Type": "",
+      "Pack Size": "8/2.5 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
