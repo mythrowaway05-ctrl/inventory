@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 14, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-14T13:01:22.960740-05:00",
-  "item_count": 103,
+  "updated_at": "October 14, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-14T14:01:08.805974-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "144",
@@ -31,7 +31,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "499",
+      "Available Qty.": "495",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "527",
+      "Available Qty.": "519",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -76,7 +76,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1056",
+      "Available Qty.": "1052",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground",
       "UOM": "CS",
@@ -94,7 +94,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "631",
+      "Available Qty.": "625",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "819",
+      "Available Qty.": "813",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -121,7 +121,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "98",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -166,7 +166,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "63",
       "Item No.": "P15-083P",
       "Description": "Chicken Fritters, Bone In",
       "UOM": "CS",
@@ -184,7 +184,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "167",
+      "Available Qty.": "163",
       "Item No.": "P15-081P",
       "Description": "Chicken Vienna Sausage",
       "UOM": "CS",
@@ -256,7 +256,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1422",
+      "Available Qty.": "1416",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -265,7 +265,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "532",
+      "Available Qty.": "530",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -292,7 +292,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "815",
+      "Available Qty.": "809",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -301,7 +301,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "83",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -329,7 +329,7 @@
       "new_since": "2026-10-14T02:01:06.729136-05:00"
     },
     {
-      "Available Qty.": "1084",
+      "Available Qty.": "1080",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -428,6 +428,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "12",
+      "Item No.": "D14-1000P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "6/1 gallon",
+      "Feature Type": "",
+      "Gross Weight": "54",
+      "new_since": "2026-10-14T14:01:08.805363-05:00"
+    },
+    {
       "Available Qty.": "104",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -465,7 +475,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "24",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -475,7 +485,7 @@
       "new_since": "2026-10-14T11:01:00.523849-05:00"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "14",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -549,7 +559,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "87",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -594,7 +604,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "307",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -621,7 +631,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "478",
+      "Available Qty.": "476",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -666,7 +676,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1702",
+      "Available Qty.": "1700",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -693,7 +703,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "600",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -711,7 +721,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "182",
+      "Available Qty.": "176",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -747,7 +757,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "974",
+      "Available Qty.": "970",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -792,7 +802,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1704",
+      "Available Qty.": "1700",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -838,7 +848,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "111",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -847,7 +857,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "102",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -929,7 +939,7 @@
       "new_since": "2026-10-14T03:01:01.748149-05:00"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "48",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
