@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 13, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-10-13T20:01:05.035257-05:00",
+  "updated_at": "October 13, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-10-13T21:01:19.344555-05:00",
   "item_count": 113,
   "items": [
     {
@@ -21,6 +21,16 @@
       "Feature Type": "",
       "Gross Weight": "20",
       "new_since": "2026-10-13T16:01:04.253584-05:00"
+    },
+    {
+      "Available Qty.": "27",
+      "Item No.": "D25-1406P",
+      "Description": "Assorted Candy",
+      "UOM": "CS",
+      "Pack Size": "1/14 lbs",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-13T21:01:19.343875-05:00"
     },
     {
       "Available Qty.": "278",
@@ -160,7 +170,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "201",
+      "Available Qty.": "202",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -269,7 +279,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "267",
+      "Available Qty.": "257",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -296,7 +306,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "204",
+      "Available Qty.": "199",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -332,7 +342,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "940",
+      "Available Qty.": "930",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -378,7 +388,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "1330",
+      "Available Qty.": "1318",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -414,7 +424,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1516",
+      "Available Qty.": "1506",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -470,7 +480,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "457",
+      "Available Qty.": "461",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -479,7 +489,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "327",
+      "Available Qty.": "332",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -522,15 +532,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-613P",
-      "Description": "Milk, Whole, Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "823",
@@ -650,7 +651,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "37",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -758,7 +759,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "675",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -794,7 +795,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2431",
+      "Available Qty.": "2421",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -812,7 +813,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1003",
+      "Available Qty.": "1000",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -851,7 +852,7 @@
       "new_since": "2026-10-13T12:01:07.256849-05:00"
     },
     {
-      "Available Qty.": "641",
+      "Available Qty.": "631",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
