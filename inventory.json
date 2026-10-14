@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 14, 2026 at 02:04 PM",
-  "updated_at_iso": "2026-10-14T14:04:54.714741-05:00",
-  "item_count": 104,
+  "updated_at": "October 14, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-10-14T15:01:07.857085-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "144",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
       "Available Qty.": "236",
@@ -92,6 +102,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "25",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
       "Available Qty.": "625",
@@ -211,7 +231,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "236",
+      "Available Qty.": "206",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -292,7 +312,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "809",
+      "Available Qty.": "803",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -365,7 +385,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1437",
+      "Available Qty.": "1436",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -428,7 +448,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "6",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -456,7 +476,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "114",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -483,6 +503,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-10-14T11:01:00.523849-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-217P",
+      "Description": "Milk, Almond Silk Vanilla 6/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "6/.5 gal",
+      "Feature Type": "",
+      "Gross Weight": "28",
+      "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
       "Available Qty.": "14",
@@ -676,7 +706,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1700",
+      "Available Qty.": "1690",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -721,7 +751,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "171",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
