@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 14, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-10-14T15:01:07.857085-05:00",
+  "updated_at": "October 14, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-10-14T16:01:10.013112-05:00",
   "item_count": 107,
   "items": [
     {
@@ -88,7 +88,7 @@
     {
       "Available Qty.": "1052",
       "Item No.": "P15-114P",
-      "Description": "Beef, Ground",
+      "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
       "Feature Type": "",
@@ -240,7 +240,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "609",
+      "Available Qty.": "509",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -294,7 +294,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "853",
+      "Available Qty.": "795",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "803",
+      "Available Qty.": "793",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -358,15 +358,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -374,6 +365,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "440",
@@ -385,7 +385,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1436",
+      "Available Qty.": "1378",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -553,7 +553,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "66",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -562,7 +562,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "332",
+      "Available Qty.": "297",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -616,7 +616,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "0",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -625,7 +625,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "190",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -706,7 +706,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1690",
+      "Available Qty.": "1655",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -733,7 +733,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "100",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -742,7 +742,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "142",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -778,7 +778,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "162",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -878,7 +878,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "82",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -950,7 +950,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "84",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
