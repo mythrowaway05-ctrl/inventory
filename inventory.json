@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 14, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-14T16:01:10.013112-05:00",
-  "item_count": 107,
+  "updated_at": "October 14, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-14T17:01:06.478113-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "144",
@@ -349,22 +349,13 @@
       "new_since": "2026-10-14T02:01:06.729136-05:00"
     },
     {
-      "Available Qty.": "1080",
+      "Available Qty.": "1051",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
     },
     {
       "Available Qty.": "3",
@@ -374,6 +365,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "440",
@@ -553,7 +553,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "59",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -614,15 +614,6 @@
       "Pack Size": "24/11 oz cans",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "P26-003P",
-      "Description": "Pancake Syrup",
-      "UOM": "CS",
-      "Pack Size": "12/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "24"
     },
     {
       "Available Qty.": "190",
@@ -733,7 +724,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
