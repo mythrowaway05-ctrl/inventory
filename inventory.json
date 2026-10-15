@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-10-15T13:01:04.316307-05:00",
-  "item_count": 104,
+  "updated_at": "October 15, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-10-15T14:01:12.493832-05:00",
+  "item_count": 105,
   "items": [
     {
       "Available Qty.": "117",
@@ -85,7 +85,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "624",
+      "Available Qty.": "599",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -94,7 +94,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "812",
+      "Available Qty.": "787",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "872",
+      "Available Qty.": "818",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -330,15 +330,6 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -346,6 +337,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "440",
@@ -384,17 +384,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "22",
-      "Item No.": "D07-925P",
-      "Description": "Heavy Whipping Cream 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "",
-      "Gross Weight": "42",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
-    },
-    {
-      "Available Qty.": "973",
+      "Available Qty.": "974",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -412,7 +402,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "302",
+      "Available Qty.": "286",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -421,7 +411,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "11",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -467,7 +457,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "210",
+      "Available Qty.": "360",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -496,7 +486,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "12",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -515,7 +505,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "770",
+      "Available Qty.": "670",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -643,7 +633,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "213",
+      "Available Qty.": "203",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -733,13 +723,23 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "122",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
       "Pack Size": "12/3.5 oz",
       "Feature Type": "",
       "Gross Weight": "3"
+    },
+    {
+      "Available Qty.": "58",
+      "Item No.": "D28-710P",
+      "Description": "Pumpkins, Carving - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/700 lbs",
+      "Feature Type": "",
+      "Gross Weight": "700",
+      "new_since": "2026-10-15T14:01:12.493172-05:00"
     },
     {
       "Available Qty.": "2521",
@@ -798,7 +798,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "306",
+      "Available Qty.": "304",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -848,7 +848,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "42",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -858,7 +858,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "90",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -908,7 +908,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "2208",
+      "Available Qty.": "1884",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -956,6 +956,16 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-10-15T07:01:04.425829-05:00"
+    },
+    {
+      "Available Qty.": "170",
+      "Item No.": "P27-072P",
+      "Description": "Veg, Mixed Vegetables",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "27",
+      "new_since": "2026-10-15T14:01:12.493172-05:00"
     },
     {
       "Available Qty.": "52",
