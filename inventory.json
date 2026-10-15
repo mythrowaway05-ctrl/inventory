@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 01:45 AM",
-  "updated_at_iso": "2026-10-15T01:45:02.037829-05:00",
-  "item_count": 104,
+  "updated_at": "October 15, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-10-15T02:01:08.644183-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "144",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,6 +23,36 @@
       "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D13-190P",
+      "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/600 lb",
+      "Feature Type": "",
+      "Gross Weight": "600",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D13-163P",
+      "Description": "Assorted Cleaning Supplies - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/700 lbs",
+      "Feature Type": "",
+      "Gross Weight": "700",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-2066P",
+      "Description": "Assorted Cookies - BULK 1/50 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "",
+      "Gross Weight": "50",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
       "Available Qty.": "225",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -30,15 +60,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1689P",
-      "Description": "Assorted Freezer Pops",
-      "UOM": "CS",
-      "Pack Size": "1/25 lb",
-      "Feature Type": "",
-      "Gross Weight": "25"
     },
     {
       "Available Qty.": "489",
@@ -104,7 +125,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "15",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -150,7 +171,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "88",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -159,7 +180,37 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "48",
+      "Item No.": "D25-1698P",
+      "Description": "Cheese Straws, Jalapeno",
+      "UOM": "CS",
+      "Pack Size": "6/4.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "41",
+      "Item No.": "D15-1005P",
+      "Description": "Chicken Breast Fillets",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D15-854P",
+      "Description": "Chicken Breast Fritters",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "4",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -168,7 +219,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "55",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
@@ -177,7 +228,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "358",
+      "Available Qty.": "355",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -202,6 +253,36 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
+    },
+    {
+      "Available Qty.": "16",
+      "Item No.": "D15-1177P",
+      "Description": "Chicken Patty",
+      "UOM": "CS",
+      "Pack Size": "12/23 oz",
+      "Feature Type": "",
+      "Gross Weight": "18",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "74",
+      "Item No.": "D15-267P",
+      "Description": "Chicken Tender Fritters 1/20 lb",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D15-849P",
+      "Description": "Chicken Tenderloin Fritters",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "163",
@@ -231,7 +312,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "204",
+      "Available Qty.": "198",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -285,6 +366,26 @@
       "Gross Weight": "5"
     },
     {
+      "Available Qty.": "32",
+      "Item No.": "D25-847P",
+      "Description": "Cookies",
+      "UOM": "CS",
+      "Pack Size": "12/4.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "71",
+      "Item No.": "D25-2067P",
+      "Description": "Cookies, Lemon Tea 6/4.5 oz",
+      "UOM": "CS",
+      "Pack Size": "6/4.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
       "Available Qty.": "790",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -336,8 +437,7 @@
       "UOM": "CS",
       "Pack Size": "12/1.62 oz",
       "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-10-14T02:01:06.729136-05:00"
+      "Gross Weight": "2"
     },
     {
       "Available Qty.": "1045",
@@ -347,6 +447,26 @@
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "P06-018P",
+      "Description": "Entree, Red Beans and Rice",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D15-1184P",
+      "Description": "Fish Fillets 1/8 lb",
+      "UOM": "CS",
+      "Pack Size": "1/8 lb",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "3",
@@ -401,6 +521,16 @@
       "Pack Size": "10/1 lb",
       "Feature Type": "",
       "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "53",
+      "Item No.": "D07-925P",
+      "Description": "Heavy Whipping Cream 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "",
+      "Gross Weight": "42",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "973",
@@ -467,7 +597,17 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "26",
+      "Item No.": "D07-870P",
+      "Description": "Milk, 1% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "72",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -486,6 +626,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "18",
+      "Item No.": "D07-405P",
+      "Description": "Milk, 2% 12/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "12/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
@@ -496,7 +646,47 @@
       "new_since": "2026-10-14T11:01:00.523849-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "23",
+      "Item No.": "D07-323P",
+      "Description": "Milk, 2% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "45",
+      "Item No.": "D07-607P",
+      "Description": "Milk, 2% Lactose Free 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "93",
+      "Item No.": "D07-926P",
+      "Description": "Milk, Assorted",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "12",
+      "Item No.": "D07-118P",
+      "Description": "Milk, Buttermilk 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 Gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "42",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
+    },
+    {
+      "Available Qty.": "50",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -504,6 +694,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "40",
       "new_since": "2026-10-14T22:01:04.934946-05:00"
+    },
+    {
+      "Available Qty.": "50",
+      "Item No.": "D07-154P",
+      "Description": "Milk, Chocolate 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 qt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "14",
@@ -694,6 +894,16 @@
       "Pack Size": "12/10 crust",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D15-268P",
+      "Description": "Popcorn Chicken 1/20 lb",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "314",
@@ -941,7 +1151,7 @@
       "new_since": "2026-10-14T03:01:01.748149-05:00"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "52",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
