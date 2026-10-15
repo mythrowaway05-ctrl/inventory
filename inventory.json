@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 15, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-10-15T02:01:08.644183-05:00",
+  "updated_at": "October 15, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-10-15T03:01:03.235667-05:00",
   "item_count": 125,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "5",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-190P",
       "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
       "UOM": "BULK",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-163P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -43,7 +43,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-2066P",
       "Description": "Assorted Cookies - BULK 1/50 lb",
       "UOM": "BULK",
@@ -255,7 +255,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "14",
       "Item No.": "D15-1177P",
       "Description": "Chicken Patty",
       "UOM": "CS",
@@ -366,7 +366,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "28",
       "Item No.": "D25-847P",
       "Description": "Cookies",
       "UOM": "CS",
@@ -376,7 +376,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "67",
       "Item No.": "D25-2067P",
       "Description": "Cookies, Lemon Tea 6/4.5 oz",
       "UOM": "CS",
@@ -459,7 +459,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-1184P",
       "Description": "Fish Fillets 1/8 lb",
       "UOM": "CS",
@@ -626,7 +626,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "16",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -869,7 +869,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
@@ -1038,8 +1038,7 @@
       "UOM": "CS",
       "Pack Size": "30/7.5 oz",
       "Feature Type": "Discounted Item",
-      "Gross Weight": "16",
-      "new_since": "2026-10-14T03:01:01.748149-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "638",
@@ -1147,8 +1146,7 @@
       "UOM": "CS",
       "Pack Size": "6/3 lb",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-14T03:01:01.748149-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "52",
