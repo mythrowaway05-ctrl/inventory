@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-10-15T17:01:06.157964-05:00",
-  "item_count": 106,
+  "updated_at": "October 15, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-10-15T18:01:04.407611-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "89",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "214",
+      "Available Qty.": "212",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -49,7 +49,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "777",
+      "Available Qty.": "775",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -85,7 +85,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "571",
+      "Available Qty.": "570",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -94,7 +94,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "787",
+      "Available Qty.": "786",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "74",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -157,7 +157,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "678",
+      "Available Qty.": "677",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -166,7 +166,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "24",
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters 1/20 lb",
       "UOM": "CS",
@@ -185,7 +185,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "578",
+      "Available Qty.": "577",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "775",
+      "Available Qty.": "773",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -449,7 +449,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -478,7 +478,7 @@
       "new_since": "2026-10-15T17:01:06.157236-05:00"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "46",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -496,7 +496,17 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "1",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-10-15T18:01:04.407060-05:00"
+    },
+    {
+      "Available Qty.": "25",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -524,7 +534,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "111",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -533,7 +543,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "162",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -670,7 +680,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -715,7 +725,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "680",
+      "Available Qty.": "675",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -733,7 +743,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "82",
+      "Available Qty.": "63",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -908,7 +918,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "156",
+      "Available Qty.": "146",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
@@ -918,7 +928,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "1824",
+      "Available Qty.": "1820",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
