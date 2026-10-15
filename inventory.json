@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 14, 2026 at 09:00 PM",
-  "updated_at_iso": "2026-10-14T21:00:54.094258-05:00",
+  "updated_at": "October 14, 2026 at 10:01 PM",
+  "updated_at_iso": "2026-10-14T22:01:04.935434-05:00",
   "item_count": 104,
   "items": [
     {
@@ -267,7 +267,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "886",
+      "Available Qty.": "885",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -496,21 +496,21 @@
       "new_since": "2026-10-14T11:01:00.523849-05:00"
     },
     {
+      "Available Qty.": "40",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-10-14T22:01:04.934946-05:00"
+    },
+    {
       "Available Qty.": "14",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-14T11:01:00.523849-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-613P",
-      "Description": "Milk, Whole, Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-10-14T11:01:00.523849-05:00"
@@ -705,7 +705,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "550",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -723,7 +723,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "171",
+      "Available Qty.": "159",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
