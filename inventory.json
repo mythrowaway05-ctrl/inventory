@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 15, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-10-15T03:01:03.235667-05:00",
+  "updated_at": "October 15, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-10-15T04:01:02.164822-05:00",
   "item_count": 125,
   "items": [
     {
@@ -23,7 +23,7 @@
       "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D13-190P",
       "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
       "UOM": "BULK",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D13-163P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -43,7 +43,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D25-2066P",
       "Description": "Assorted Cookies - BULK 1/50 lb",
       "UOM": "BULK",
@@ -255,7 +255,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "16",
       "Item No.": "D15-1177P",
       "Description": "Chicken Patty",
       "UOM": "CS",
@@ -366,7 +366,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "32",
       "Item No.": "D25-847P",
       "Description": "Cookies",
       "UOM": "CS",
@@ -376,7 +376,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "71",
       "Item No.": "D25-2067P",
       "Description": "Cookies, Lemon Tea 6/4.5 oz",
       "UOM": "CS",
@@ -459,7 +459,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D15-1184P",
       "Description": "Fish Fillets 1/8 lb",
       "UOM": "CS",
@@ -469,15 +469,6 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -485,6 +476,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "440",
@@ -626,7 +626,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "18",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -869,7 +869,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "6",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
