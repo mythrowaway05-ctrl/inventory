@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-15T08:01:11.726992-05:00",
-  "item_count": 109,
+  "updated_at": "October 15, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-15T09:01:14.522003-05:00",
+  "item_count": 108,
   "items": [
     {
       "Available Qty.": "124",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "215",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "19",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -141,23 +141,13 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "88",
+      "Available Qty.": "87",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D15-1005P",
-      "Description": "Chicken Breast Fillets",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "5",
@@ -205,7 +195,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "46",
       "Item No.": "D15-267P",
       "Description": "Chicken Tender Fritters 1/20 lb",
       "UOM": "CS",
@@ -224,7 +214,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "579",
+      "Available Qty.": "578",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -314,7 +304,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "772",
+      "Available Qty.": "672",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -414,7 +404,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "589",
+      "Available Qty.": "587",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -423,7 +413,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "27",
       "Item No.": "D07-925P",
       "Description": "Heavy Whipping Cream 9/.5 gal",
       "UOM": "CS",
@@ -460,7 +450,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "86",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -536,7 +526,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D07-118P",
       "Description": "Milk, Buttermilk 9/.5 gal",
       "UOM": "CS",
@@ -738,7 +728,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1655",
+      "Available Qty.": "1630",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -747,7 +737,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "2",
       "Item No.": "D04-134P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -756,7 +746,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "314",
+      "Available Qty.": "313",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -801,7 +791,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2350",
+      "Available Qty.": "2346",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -819,7 +809,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "950",
+      "Available Qty.": "925",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -868,7 +858,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "1700",
+      "Available Qty.": "1698",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
