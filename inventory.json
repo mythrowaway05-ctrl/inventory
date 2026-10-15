@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 12:30 PM",
-  "updated_at_iso": "2026-10-15T12:30:45.828548-05:00",
-  "item_count": 105,
+  "updated_at": "October 15, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-15T13:01:04.316307-05:00",
+  "item_count": 104,
   "items": [
     {
       "Available Qty.": "117",
@@ -83,16 +83,6 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
       "Available Qty.": "624",
@@ -340,15 +330,6 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "6",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -356,6 +337,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "440",
@@ -725,7 +715,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "350",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
