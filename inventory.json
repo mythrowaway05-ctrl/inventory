@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-10-15T14:01:12.493832-05:00",
-  "item_count": 105,
+  "updated_at": "October 15, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-10-15T15:01:09.341252-05:00",
+  "item_count": 102,
   "items": [
     {
       "Available Qty.": "117",
@@ -22,7 +22,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "479",
+      "Available Qty.": "477",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -157,7 +157,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "683",
+      "Available Qty.": "678",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "818",
+      "Available Qty.": "788",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "17",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -284,7 +284,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "74",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -339,7 +339,7 @@
       "Gross Weight": "1180"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
       "UOM": "BULK",
@@ -357,7 +357,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1361",
+      "Available Qty.": "1360",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -420,6 +420,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "95",
+      "Item No.": "P14-003P",
+      "Description": "Juice, Fruit Punch",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-10-15T15:01:09.340607-05:00"
+    },
+    {
       "Available Qty.": "100",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -429,23 +439,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "711",
+      "Available Qty.": "709",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
       "Pack Size": "12/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "7"
-    },
-    {
-      "Available Qty.": "13",
-      "Item No.": "D07-870P",
-      "Description": "Milk, 1% 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "47",
@@ -457,43 +457,13 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "358",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "33",
-      "Item No.": "D07-607P",
-      "Description": "Milk, 2% Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
-    },
-    {
-      "Available Qty.": "27",
-      "Item No.": "D07-926P",
-      "Description": "Milk, Assorted",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
-    },
-    {
-      "Available Qty.": "12",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-14T22:01:04.934946-05:00"
     },
     {
       "Available Qty.": "9",
@@ -705,7 +675,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "680",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -723,7 +693,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "82",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -732,7 +702,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "53",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
@@ -868,7 +838,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "584",
+      "Available Qty.": "583",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -908,7 +878,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "1884",
+      "Available Qty.": "1824",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
