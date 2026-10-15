@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-10-15T09:01:14.522003-05:00",
-  "item_count": 108,
+  "updated_at": "October 15, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-10-15T10:01:55.391459-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "124",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
       "Available Qty.": "215",
@@ -516,7 +506,7 @@
       "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "32",
       "Item No.": "D07-926P",
       "Description": "Milk, Assorted",
       "UOM": "CS",
@@ -544,16 +534,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "40",
       "new_since": "2026-10-14T22:01:04.934946-05:00"
-    },
-    {
-      "Available Qty.": "33",
-      "Item No.": "D07-154P",
-      "Description": "Milk, Chocolate 9/1 qt",
-      "UOM": "CS",
-      "Pack Size": "9/1 qt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-10-15T02:01:08.643602-05:00"
     },
     {
       "Available Qty.": "14",
@@ -956,6 +936,16 @@
       "Feature Type": "",
       "Gross Weight": "6",
       "new_since": "2026-10-15T07:01:04.425829-05:00"
+    },
+    {
+      "Available Qty.": "210",
+      "Item No.": "D03-981P",
+      "Description": "Tea, Bubble",
+      "UOM": "CS",
+      "Pack Size": "6/12 oz",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5",
+      "new_since": "2026-10-15T10:01:55.390890-05:00"
     },
     {
       "Available Qty.": "183",
