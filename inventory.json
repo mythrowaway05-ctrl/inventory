@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 14, 2026 at 11:00 PM",
-  "updated_at_iso": "2026-10-14T23:00:56.788346-05:00",
+  "updated_at": "October 15, 2026 at 12:01 AM",
+  "updated_at_iso": "2026-10-15T00:01:01.773594-05:00",
   "item_count": 104,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-14T15:01:07.856518-05:00"
     },
     {
-      "Available Qty.": "235",
+      "Available Qty.": "225",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -32,7 +32,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "5",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -141,7 +141,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "84",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -159,7 +159,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -267,7 +267,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "885",
+      "Available Qty.": "878",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -303,7 +303,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "789",
+      "Available Qty.": "784",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "51",
       "Item No.": "D03-1104P",
       "Description": "Energy Drink Enhancer 12/1.62 oz",
       "UOM": "CS",
@@ -723,7 +723,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "143",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
