@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 15, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-10-15T20:01:02.540686-05:00",
-  "item_count": 105,
+  "updated_at": "October 15, 2026 at 09:01 PM",
+  "updated_at_iso": "2026-10-15T21:01:08.670112-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "89",
@@ -577,6 +577,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "238",
+      "Item No.": "P05-108P",
+      "Description": "Oatmeal, Quick",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz bag",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-10-15T21:01:08.669385-05:00"
+    },
+    {
       "Available Qty.": "167",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
@@ -751,7 +761,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2337",
+      "Available Qty.": "2317",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
