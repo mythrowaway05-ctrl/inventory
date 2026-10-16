@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 16, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-16T08:01:04.388243-05:00",
-  "item_count": 118,
+  "updated_at": "October 16, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-16T09:01:10.569417-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "84",
@@ -67,7 +67,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1004",
+      "Available Qty.": "1006",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -238,7 +238,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "988",
+      "Available Qty.": "978",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -256,17 +256,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D26-422P",
-      "Description": "Cooking Spray",
-      "UOM": "CS",
-      "Pack Size": "6/17 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
-      "Available Qty.": "42",
+      "Available Qty.": "39",
       "Item No.": "D26-058P",
       "Description": "Cooking Spray",
       "UOM": "CS",
@@ -304,23 +294,13 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "557",
+      "Available Qty.": "555",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
       "Pack Size": "1/26 lb",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D29-160P",
-      "Description": "Dough, Biscuit 1/50 lb",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
       "Available Qty.": "74",
@@ -422,33 +402,13 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "293",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
       "Pack Size": "4/41.4 oz",
       "Feature Type": "",
       "Gross Weight": "12",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D03-235P",
-      "Description": "Hot Chocolate",
-      "UOM": "CS",
-      "Pack Size": "8/41.4 oz",
-      "Feature Type": "",
-      "Gross Weight": "24",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-1110P",
-      "Description": "Hot Chocolate w/ Candy Cane DISPLAY 1/60 ct",
-      "UOM": "CS",
-      "Pack Size": "1/60 ct",
-      "Feature Type": "",
-      "Gross Weight": "42",
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
@@ -546,7 +506,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "17",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -556,7 +516,7 @@
       "new_since": "2026-10-15T17:01:06.157236-05:00"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "41",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -574,7 +534,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "0",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -776,16 +736,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D23-823P",
-      "Description": "Pinto Beans",
-      "UOM": "CS",
-      "Pack Size": "6/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
       "Available Qty.": "1630",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
@@ -804,7 +754,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "566",
+      "Available Qty.": "564",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -822,7 +772,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "15",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -831,7 +781,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
@@ -875,16 +825,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "17",
-      "Item No.": "D15-706P",
-      "Description": "Salami, Cooked",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
       "Available Qty.": "492",
@@ -1004,7 +944,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1809",
+      "Available Qty.": "1789",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -1024,7 +964,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "38",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
@@ -1034,7 +974,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "177",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
