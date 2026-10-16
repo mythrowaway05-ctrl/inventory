@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 16, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-10-16T10:01:02.474553-05:00",
+  "updated_at": "October 16, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-10-16T11:01:03.973936-05:00",
   "item_count": 112,
   "items": [
     {
@@ -139,7 +139,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "351",
+      "Available Qty.": "301",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -256,7 +256,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "D26-058P",
       "Description": "Cooking Spray",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "121",
       "Item No.": "D26-354P",
       "Description": "Cooking Spray w/ Butter Spray 24/8 oz",
       "UOM": "CS",
@@ -285,7 +285,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "11",
       "Item No.": "D17-056P",
       "Description": "Creamer, Non Dairy",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "1016",
+      "Available Qty.": "1012",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -402,13 +402,23 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "193",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
       "Pack Size": "4/41.4 oz",
       "Feature Type": "",
       "Gross Weight": "12",
+      "new_since": "2026-10-16T02:01:03.465875-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D03-1110P",
+      "Description": "Hot Chocolate w/ Candy Cane DISPLAY 1/60 ct",
+      "UOM": "CS",
+      "Pack Size": "1/60 ct",
+      "Feature Type": "",
+      "Gross Weight": "42",
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
@@ -477,7 +487,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "38",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -516,7 +526,7 @@
       "new_since": "2026-10-15T17:01:06.157236-05:00"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "41",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -532,16 +542,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1054P",
-      "Description": "Milk, Almond, Vanilla 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/64 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
       "Available Qty.": "9",
@@ -718,7 +718,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -754,7 +754,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "554",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -772,7 +772,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
       "Item No.": "D25-2059P",
       "Description": "Pretzels, Peanut Butter Filled",
       "UOM": "CS",
@@ -781,7 +781,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
@@ -944,14 +944,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1789",
+      "Available Qty.": "1739",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
       "Pack Size": "6/12 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-10-15T10:01:55.390890-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "60",
