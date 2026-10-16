@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 16, 2026 at 12:05 PM",
-  "updated_at_iso": "2026-10-16T12:05:52.054508-05:00",
-  "item_count": 111,
+  "updated_at": "October 16, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-16T13:01:09.626688-05:00",
+  "item_count": 110,
   "items": [
     {
-      "Available Qty.": "84",
+      "Available Qty.": "76",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "68",
       "Item No.": "D22-131P",
       "Description": "Cat Food 12/5.5 oz",
       "UOM": "CS",
@@ -202,7 +202,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "186",
+      "Available Qty.": "174",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -256,7 +256,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D26-058P",
       "Description": "Cooking Spray",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "121",
+      "Available Qty.": "101",
       "Item No.": "D26-354P",
       "Description": "Cooking Spray w/ Butter Spray 24/8 oz",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "1012",
+      "Available Qty.": "1004",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -571,7 +571,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "154",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -659,11 +659,10 @@
       "UOM": "CS",
       "Pack Size": "30/1 roll",
       "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-10-15T12:30:45.827953-05:00"
+      "Gross Weight": "13"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "149",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -735,7 +734,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1630",
+      "Available Qty.": "1625",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -771,16 +770,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D25-2059P",
-      "Description": "Pretzels, Peanut Butter Filled",
-      "UOM": "CS",
-      "Pack Size": "12/3.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "3"
-    },
-    {
-      "Available Qty.": "2514",
+      "Available Qty.": "2510",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -789,7 +779,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2310",
+      "Available Qty.": "2306",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -807,7 +797,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "925",
+      "Available Qty.": "920",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -825,7 +815,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1043",
+      "Available Qty.": "1039",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -870,7 +860,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "288",
+      "Available Qty.": "280",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -897,7 +887,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "583",
+      "Available Qty.": "575",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -962,7 +952,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "177",
+      "Available Qty.": "173",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
