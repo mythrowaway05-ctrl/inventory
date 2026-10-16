@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 16, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-10-16T05:01:00.056172-05:00",
-  "item_count": 138,
+  "updated_at": "October 16, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-10-16T06:01:06.941370-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "89",
@@ -96,7 +96,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "11",
       "Item No.": "D29-127P",
       "Description": "Biscuits Dough",
       "UOM": "CS",
@@ -142,7 +142,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D05-830P",
       "Description": "Cereal",
       "UOM": "CS",
@@ -152,23 +152,13 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D05-1206P",
       "Description": "Cereal",
       "UOM": "CS",
       "Pack Size": "96/1oz",
       "Feature Type": "",
       "Gross Weight": "5",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D05-925P",
-      "Description": "Cereal 12/11.2 oz",
-      "UOM": "CS",
-      "Pack Size": "12/11.2 oz",
-      "Feature Type": "",
-      "Gross Weight": "11",
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
@@ -181,7 +171,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "0",
       "Item No.": "D15-1185P",
       "Description": "Cheddar Smoked Sausage 6/28 oz",
       "UOM": "CS",
@@ -290,7 +280,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "318",
+      "Available Qty.": "53",
       "Item No.": "D06-363P",
       "Description": "Chili w/ Beans 6/15 oz",
       "UOM": "CS",
@@ -309,7 +299,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "318",
+      "Available Qty.": "43",
       "Item No.": "D06-364P",
       "Description": "Chili w/o Beans 6/15 oz",
       "UOM": "CS",
@@ -346,17 +336,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "60",
-      "Item No.": "D26-058P",
-      "Description": "Cooking Spray",
-      "UOM": "CS",
-      "Pack Size": "24/7 oz",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
-      "Available Qty.": "73",
+      "Available Qty.": "29",
       "Item No.": "D26-422P",
       "Description": "Cooking Spray",
       "UOM": "CS",
@@ -366,7 +346,17 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "55",
+      "Item No.": "D26-058P",
+      "Description": "Cooking Spray",
+      "UOM": "CS",
+      "Pack Size": "24/7 oz",
+      "Feature Type": "",
+      "Gross Weight": "16",
+      "new_since": "2026-10-16T02:01:03.465875-05:00"
+    },
+    {
+      "Available Qty.": "170",
       "Item No.": "D26-354P",
       "Description": "Cooking Spray w/ Butter Spray 24/8 oz",
       "UOM": "CS",
@@ -485,7 +475,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D25-2069P",
       "Description": "Granola Bars 6/21.6 oz",
       "UOM": "CS",
@@ -522,7 +512,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D03-235P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -532,7 +522,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "313",
+      "Available Qty.": "310",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -542,7 +532,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D03-1109P",
       "Description": "Hot Chocolate Gift Pack 6/21.56 oz",
       "UOM": "CS",
@@ -627,7 +617,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D25-2068P",
       "Description": "Larabar 6/19.2 oz",
       "UOM": "CS",
@@ -637,7 +627,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "75",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -647,7 +637,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "0",
       "Item No.": "D06-401P",
       "Description": "Lunchables 8/2.9 oz",
       "UOM": "CS",
@@ -667,7 +657,7 @@
       "new_since": "2026-10-15T17:01:06.157236-05:00"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "0",
       "Item No.": "D15-110P",
       "Description": "Lunchmeat 6/16 oz",
       "UOM": "CS",
@@ -714,7 +704,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "29",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -926,7 +916,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D14-125P",
       "Description": "Pineapple-Coconut Nectar 12/32.4 oz",
       "UOM": "CS",
@@ -935,7 +925,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "0",
       "Item No.": "D23-823P",
       "Description": "Pinto Beans",
       "UOM": "CS",
@@ -963,7 +953,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "674",
+      "Available Qty.": "666",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -990,7 +980,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "8",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
@@ -1036,7 +1026,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "27",
       "Item No.": "D15-706P",
       "Description": "Salami, Cooked",
       "UOM": "CS",
@@ -1076,7 +1066,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "0",
       "Item No.": "D15-1172P",
       "Description": "Sausage Patties 6/11.1 oz",
       "UOM": "CS",
@@ -1186,7 +1176,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "37",
       "Item No.": "D25-584P",
       "Description": "Sunflower Seeds",
       "UOM": "CS",
@@ -1196,7 +1186,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "1819",
+      "Available Qty.": "1820",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -1216,7 +1206,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "40",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
@@ -1236,7 +1226,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "151",
       "Item No.": "D27-332P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
@@ -1296,7 +1286,7 @@
       "new_since": "2026-10-15T07:01:04.425829-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D15-1119P",
       "Description": "Vienna Sausage",
       "UOM": "CS",
