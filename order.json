@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-10-17T01:01:00.515626-05:00",
+  "scraped_at": "2026-10-17T02:01:00.472087-05:00",
   "po_number": "PO6401935",
   "appointment": {
     "reference_number": "PO6401935",
     "pickup_date": "10/28/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n11",
-    "Total Line Items": "Gross Weight\n564 lbs",
+    "Total Due": "Total Line Items\n12",
+    "Total Line Items": "Gross Weight\n1564 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD14-126P\tJuice\t2\t2\tCS\t68\t6.46\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD15-1185P\tCheddar Smoked Sausage\t4\t4\tCS\t44\t2.09\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD29-127P\tBiscuits Dough\t4\t4\tCS\t56\t2.52\t\u00a0\t12/16.3 oz\tREF\t0.00\tNot Yet Ranked\nD26-354P\tCooking Spray w/ Butter Spray\t3\t3\tCS\t51\t3.20\t\u00a0\t24/8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-235P\tHot Chocolate\t2\t2\tCS\t49\t4.39\t\u00a0\t8/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t3\t3\tCS\t36\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-1109P\tHot Chocolate Gift Pack\t3\t3\tCS\t31\t1.93\t\u00a0\t6/21.56 oz\tDRY\t0.00\tNot Yet Ranked\nD25-584P\tSunflower Seeds\t2\t2\tCS\t9\t0.83\t\u00a0\t12/5.35 oz\tDRY\t0.00\tNot Yet Ranked\nD27-332P\tTomatoes, Diced\t12\t12\tCS\t152\t2.29\t\u00a0\t12/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nD28-223P\tPotatoes\t8\t8\tBAG\t40\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD14-126P\tJuice\t2\t2\tCS\t68\t6.46\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD15-1185P\tCheddar Smoked Sausage\t4\t4\tCS\t44\t2.09\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD29-127P\tBiscuits Dough\t4\t4\tCS\t56\t2.52\t\u00a0\t12/16.3 oz\tREF\t0.00\tNot Yet Ranked\nD26-354P\tCooking Spray w/ Butter Spray\t3\t3\tCS\t51\t3.20\t\u00a0\t24/8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-235P\tHot Chocolate\t2\t2\tCS\t49\t4.39\t\u00a0\t8/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t3\t3\tCS\t36\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-1109P\tHot Chocolate Gift Pack\t3\t3\tCS\t31\t1.93\t\u00a0\t6/21.56 oz\tDRY\t0.00\tNot Yet Ranked\nD25-584P\tSunflower Seeds\t2\t2\tCS\t9\t0.83\t\u00a0\t12/5.35 oz\tDRY\t0.00\tNot Yet Ranked\nD27-332P\tTomatoes, Diced\t12\t12\tCS\t152\t2.29\t\u00a0\t12/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nD28-223P\tPotatoes\t8\t8\tBAG\t40\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked\nD13-002P\tAssorted Cleaning Supplies - BULK TOTE\t1\t0\tBULK\t1000\t180.00\tBulk Tote\t1/1000 Lb BULK TOTE\tDry\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -153,6 +153,19 @@
       "Packaging Type": "",
       "Pack Size": "1/5 Lb bag",
       "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D13-002P",
+      "Description": "Assorted Cleaning Supplies - BULK TOTE",
+      "Order Qty.": "1",
+      "Accepted Qty.": "0",
+      "UOM": "BULK",
+      "Gross Weight": "1000",
+      "Packaging Type": "Bulk Tote",
+      "Pack Size": "1/1000 Lb BULK TOTE",
+      "Handling Requirements": "Dry",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
