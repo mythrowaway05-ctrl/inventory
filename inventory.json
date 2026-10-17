@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 17, 2026 at 12:00 AM",
-  "updated_at_iso": "2026-10-17T00:00:59.070438-05:00",
-  "item_count": 107,
+  "updated_at": "October 17, 2026 at 01:01 AM",
+  "updated_at_iso": "2026-10-17T01:01:00.575204-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "76",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200",
+      "new_since": "2026-10-17T01:01:00.574582-05:00"
     },
     {
       "Available Qty.": "198",
@@ -256,16 +266,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D26-354P",
-      "Description": "Cooking Spray w/ Butter Spray 24/8 oz",
-      "UOM": "CS",
-      "Pack Size": "24/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-10-16T02:01:03.465875-05:00"
-    },
-    {
       "Available Qty.": "759",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -309,15 +309,6 @@
       "Pack Size": "12/0.6 oz",
       "Feature Type": "",
       "Gross Weight": "1"
-    },
-    {
-      "Available Qty.": "29",
-      "Item No.": "D03-1104P",
-      "Description": "Energy Drink Enhancer 12/1.62 oz",
-      "UOM": "CS",
-      "Pack Size": "12/1.62 oz",
-      "Feature Type": "",
-      "Gross Weight": "2"
     },
     {
       "Available Qty.": "981",
@@ -392,7 +383,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "174",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -493,7 +484,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "23",
       "Item No.": "D07-878P",
       "Description": "Milk, 1% 9/.5 gal",
       "UOM": "CS",
@@ -763,7 +754,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "917",
+      "Available Qty.": "912",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -889,7 +880,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1712",
+      "Available Qty.": "1612",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -908,7 +899,7 @@
       "new_since": "2026-10-16T02:01:03.465875-05:00"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "25",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
