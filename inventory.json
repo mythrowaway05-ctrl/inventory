@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 17, 2026 at 10:00 AM",
-  "updated_at_iso": "2026-10-17T10:00:59.888321-05:00",
-  "item_count": 107,
+  "updated_at": "October 17, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-10-17T11:01:00.942107-05:00",
+  "item_count": 106,
   "items": [
     {
       "Available Qty.": "76",
@@ -248,7 +248,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "535",
+      "Available Qty.": "530",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -446,7 +446,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "25",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -806,7 +806,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "638",
+      "Available Qty.": "636",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -958,16 +958,6 @@
       "Feature Type": "",
       "Gross Weight": "650",
       "new_since": "2026-10-16T15:16:58.821503-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D03-743P",
-      "Description": "Water -BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 LB",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-10-17T02:01:00.518245-05:00"
     }
   ]
 }
