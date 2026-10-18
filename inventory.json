@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 18, 2026 at 01:01 AM",
-  "updated_at_iso": "2026-10-18T01:01:02.914465-05:00",
-  "item_count": 102,
+  "updated_at": "October 18, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-10-18T02:01:03.229790-05:00",
+  "item_count": 103,
   "items": [
     {
       "Available Qty.": "72",
@@ -20,6 +20,16 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-016P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/130 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "130",
+      "new_since": "2026-10-18T02:01:03.229317-05:00"
     },
     {
       "Available Qty.": "465",
@@ -319,15 +329,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -335,6 +336,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "440",
@@ -859,7 +869,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "13",
       "Item No.": "D27-078P",
       "Description": "Tomatoes, Crushed",
       "UOM": "CS",
