@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 18, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-18T16:01:00.739294-05:00",
-  "item_count": 102,
+  "updated_at": "October 18, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-18T17:01:01.868695-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "66",
@@ -121,7 +121,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -164,15 +164,6 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-267P",
-      "Description": "Chicken Tender Fritters 1/20 lb",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "152",
@@ -319,15 +310,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -335,6 +317,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "440",
@@ -634,7 +625,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -670,7 +661,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "600",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
