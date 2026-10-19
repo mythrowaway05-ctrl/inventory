@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 19, 2026 at 05:03 PM",
-  "updated_at_iso": "2026-10-19T17:03:44.951784-05:00",
-  "item_count": 97,
+  "updated_at": "October 19, 2026 at 06:00 PM",
+  "updated_at_iso": "2026-10-19T18:00:53.251311-05:00",
+  "item_count": 96,
   "items": [
     {
       "Available Qty.": "49",
@@ -22,7 +22,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -30,16 +30,6 @@
       "Feature Type": "",
       "Gross Weight": "30",
       "new_since": "2026-10-19T12:59:13.988551-05:00"
-    },
-    {
-      "Available Qty.": "9",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
       "Available Qty.": "444",
@@ -250,7 +240,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "586",
+      "Available Qty.": "654",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -268,7 +258,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "134",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -296,7 +286,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "880",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -422,7 +412,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -467,7 +457,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "94",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -557,7 +547,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "53",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -692,7 +682,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "818",
+      "Available Qty.": "815",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -771,7 +761,7 @@
       "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "15",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
