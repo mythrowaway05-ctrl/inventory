@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 19, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-19T12:01:10.861960-05:00",
-  "item_count": 96,
+  "updated_at": "October 19, 2026 at 12:59 PM",
+  "updated_at_iso": "2026-10-19T12:59:13.989089-05:00",
+  "item_count": 97,
   "items": [
     {
       "Available Qty.": "49",
@@ -22,7 +22,17 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-19T12:59:13.988551-05:00"
+    },
+    {
+      "Available Qty.": "9",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -221,7 +231,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "64",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -257,7 +267,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "417",
+      "Available Qty.": "411",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -284,7 +294,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "910",
+      "Available Qty.": "904",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -819,7 +829,7 @@
       "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
-      "Available Qty.": "1307",
+      "Available Qty.": "1302",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
