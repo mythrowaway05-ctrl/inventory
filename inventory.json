@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 19, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-19T08:01:03.267856-05:00",
-  "item_count": 102,
+  "updated_at": "October 19, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-19T09:01:02.892791-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "66",
@@ -49,7 +49,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "765",
+      "Available Qty.": "760",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -58,7 +58,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "272",
+      "Available Qty.": "270",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -211,7 +211,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "494",
+      "Available Qty.": "492",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -220,7 +220,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "67",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -247,7 +247,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D25-2067P",
       "Description": "Cookies, Lemon Tea 6/4.5 oz",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "new_since": "2026-10-19T03:00:58.338569-05:00"
     },
     {
-      "Available Qty.": "743",
+      "Available Qty.": "733",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "479",
+      "Available Qty.": "477",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -347,7 +347,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1320",
+      "Available Qty.": "1310",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -365,7 +365,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "557",
+      "Available Qty.": "554",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -408,15 +408,6 @@
       "Pack Size": "12/19 oz",
       "Feature Type": "",
       "Gross Weight": "16"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "P14-005P",
-      "Description": "Juice, Apple",
-      "UOM": "CS",
-      "Pack Size": "40/6.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
     },
     {
       "Available Qty.": "90",
@@ -464,7 +455,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "348",
+      "Available Qty.": "344",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -536,7 +527,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "51",
       "Item No.": "P05-042P",
       "Description": "Oatmeal, Instant, Maple and Brown Sugar",
       "UOM": "CS",
@@ -590,7 +581,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "294",
+      "Available Qty.": "290",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -626,7 +617,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2913",
+      "Available Qty.": "2903",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -716,7 +707,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "844",
+      "Available Qty.": "840",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -824,7 +815,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "185",
+      "Available Qty.": "181",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
@@ -914,7 +905,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D03-846P",
       "Description": "Water - BULK",
       "UOM": "BULK",
