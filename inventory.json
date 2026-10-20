@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 20, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-10-20T05:01:02.981292-05:00",
-  "item_count": 102,
+  "updated_at": "October 20, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-10-20T06:01:04.102937-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "49",
@@ -66,16 +66,6 @@
       "Pack Size": "12/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-728P",
-      "Description": "Beef Franks",
-      "UOM": "CS",
-      "Pack Size": "1/10 lb box",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-10-20T01:53:08.437552-05:00"
     },
     {
       "Available Qty.": "0",
@@ -306,7 +296,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "854",
+      "Available Qty.": "841",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -324,15 +314,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -340,6 +321,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "439",
@@ -432,7 +422,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -560,7 +550,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -687,7 +677,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "680",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
