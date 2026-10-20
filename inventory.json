@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 20, 2026 at 04:00 AM",
-  "updated_at_iso": "2026-10-20T04:00:53.048154-05:00",
+  "updated_at": "October 20, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-10-20T05:01:02.981292-05:00",
   "item_count": 102,
   "items": [
     {
@@ -68,7 +68,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-728P",
       "Description": "Beef Franks",
       "UOM": "CS",
@@ -133,7 +133,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "838",
+      "Available Qty.": "835",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -251,7 +251,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "441",
+      "Available Qty.": "435",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -432,7 +432,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-986P",
       "Description": "Lunchmeat",
       "UOM": "CS",
@@ -459,7 +459,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "116",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -560,7 +560,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -633,7 +633,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "469",
+      "Available Qty.": "467",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -687,7 +687,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "680",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -714,7 +714,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2230",
+      "Available Qty.": "2226",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -871,7 +871,7 @@
       "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
-      "Available Qty.": "1164",
+      "Available Qty.": "1158",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
