@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 20, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-10-20T11:01:05.180547-05:00",
-  "item_count": 97,
+  "updated_at": "October 20, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-10-20T12:01:10.876725-05:00",
+  "item_count": 98,
   "items": [
     {
-      "Available Qty.": "49",
+      "Available Qty.": "37",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -93,6 +93,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-10-20T12:01:10.876220-05:00"
     },
     {
       "Available Qty.": "557",
@@ -186,7 +196,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "133",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -249,7 +259,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "703",
+      "Available Qty.": "701",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -258,7 +268,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "60",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -331,7 +341,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1277",
+      "Available Qty.": "1270",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -511,7 +521,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -602,7 +612,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -620,7 +630,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1564",
+      "Available Qty.": "1557",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -629,7 +639,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "275",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -638,7 +648,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "680",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -683,7 +693,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "806",
+      "Available Qty.": "799",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -698,18 +708,16 @@
       "UOM": "CS",
       "Pack Size": "24/5 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1015",
+      "Available Qty.": "1010",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "23",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "23"
     },
     {
       "Available Qty.": "291",
@@ -718,8 +726,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz can",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "1624",
@@ -728,8 +735,7 @@
       "UOM": "CS",
       "Pack Size": "6/2 lb",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "12",
@@ -738,8 +744,7 @@
       "UOM": "CS",
       "Pack Size": "12/14 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "632",
@@ -748,8 +753,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "245",
@@ -758,8 +762,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz can",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "15",
@@ -768,8 +771,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "78",
@@ -778,8 +780,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "558",
@@ -788,8 +789,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.7 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "736",
@@ -798,8 +798,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.6 oz cans",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "181",
@@ -808,8 +807,7 @@
       "UOM": "CS",
       "Pack Size": "12/13.5 oz",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "131",
@@ -818,8 +816,7 @@
       "UOM": "CS",
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1029",
@@ -828,8 +825,7 @@
       "UOM": "CS",
       "Pack Size": "6/12 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "42",
@@ -838,8 +834,7 @@
       "UOM": "CS",
       "Pack Size": "24/4 roll",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "167",
@@ -848,8 +843,7 @@
       "UOM": "CS",
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "75",
@@ -858,8 +852,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "712",
@@ -868,8 +861,7 @@
       "UOM": "CS",
       "Pack Size": "6/3 lb",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "117",
@@ -878,8 +870,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-10-19T12:01:10.861331-05:00"
+      "Gross Weight": "27"
     },
     {
       "Available Qty.": "5",
@@ -892,7 +883,7 @@
       "new_since": "2026-10-19T17:01:02.333653-05:00"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "14",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
