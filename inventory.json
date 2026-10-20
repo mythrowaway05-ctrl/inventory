@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 20, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-10-20T17:01:02.718227-05:00",
+  "updated_at": "October 20, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-10-20T18:01:02.060424-05:00",
   "item_count": 99,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "0",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -52,7 +52,7 @@
       "new_since": "2026-10-20T17:01:02.717746-05:00"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "14",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -125,7 +125,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "10",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -541,7 +541,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "23",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -749,7 +749,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1619",
+      "Available Qty.": "1604",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -758,7 +758,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "0",
       "Item No.": "D07-1118P",
       "Description": "Shredded Cheese, Cheddar 6/8 oz",
       "UOM": "CS",
