@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 20, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-10-20T10:01:12.346792-05:00",
-  "item_count": 99,
+  "updated_at": "October 20, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-10-20T11:01:05.180547-05:00",
+  "item_count": 97,
   "items": [
     {
       "Available Qty.": "49",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "221",
+      "Available Qty.": "219",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -113,7 +113,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "763",
+      "Available Qty.": "760",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -132,7 +132,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -159,7 +159,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "610",
+      "Available Qty.": "607",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -231,7 +231,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "432",
+      "Available Qty.": "392",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -258,7 +258,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "66",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -304,15 +304,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -320,6 +311,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "439",
@@ -340,7 +340,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "103",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -358,7 +358,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "128",
+      "Available Qty.": "88",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -428,26 +428,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "60",
-      "Item No.": "D07-1001P",
-      "Description": "Milk, 2% 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-10-20T01:53:08.437552-05:00"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D07-343P",
-      "Description": "Milk, Whole 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-10-20T01:53:08.437552-05:00"
     },
     {
       "Available Qty.": "642",
@@ -522,7 +502,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "201",
+      "Available Qty.": "199",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -531,7 +511,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -658,7 +638,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "685",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -842,7 +822,7 @@
       "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
-      "Available Qty.": "1129",
+      "Available Qty.": "1029",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -882,7 +862,7 @@
       "new_since": "2026-10-19T12:01:10.861331-05:00"
     },
     {
-      "Available Qty.": "713",
+      "Available Qty.": "712",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -912,7 +892,7 @@
       "new_since": "2026-10-19T17:01:02.333653-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "20",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
