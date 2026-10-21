@@ -1,18 +1,83 @@
 {
-  "scraped_at": "2026-10-21T02:01:09.488270-05:00",
+  "scraped_at": "2026-10-21T03:01:03.967083-05:00",
   "po_number": "PO6401935",
   "appointment": {
     "reference_number": "PO6401935",
     "pickup_date": "10/28/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n18",
-    "Total Line Items": "Gross Weight\n1728 lbs",
+    "Total Due": "Total Line Items\n23",
+    "Total Line Items": "Gross Weight\n2243 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD14-126P\tJuice\t1\t1\tCS\t34\t6.46\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD15-1185P\tCheddar Smoked Sausage\t4\t4\tCS\t44\t2.09\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD29-127P\tBiscuits Dough\t4\t4\tCS\t56\t2.52\t\u00a0\t12/16.3 oz\tREF\t0.00\tNot Yet Ranked\nD26-354P\tCooking Spray w/ Butter Spray\t3\t3\tCS\t51\t3.20\t\u00a0\t24/8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-235P\tHot Chocolate\t2\t2\tCS\t49\t4.39\t\u00a0\t8/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t3\t3\tCS\t36\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-1109P\tHot Chocolate Gift Pack\t3\t3\tCS\t31\t1.93\t\u00a0\t6/21.56 oz\tDRY\t0.00\tNot Yet Ranked\nD25-584P\tSunflower Seeds\t2\t2\tCS\t9\t0.83\t\u00a0\t12/5.35 oz\tDRY\t0.00\tNot Yet Ranked\nD27-332P\tTomatoes, Diced\t12\t12\tCS\t152\t2.29\t\u00a0\t12/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked\nD28-223P\tPotatoes\t8\t8\tBAG\t40\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked\nD13-002P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t1000\t180.00\t\u00a0\t1/1000 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-728P\tBeef Franks\t2\t2\tCS\t20\t1.80\t\u00a0\t1/10 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t1\t1\tCS\t50\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t1\t1\tCS\t50\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD07-1001P\tMilk, 2%\t2\t2\tCS\t28\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t0\tCS\t20\t0.00\tCan\t1/20 lb\tFrozen Food\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t1\t0\tCS\t30\t0.00\tCase\t1/30 lb box\tFrozen Food\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD05-883P\tAssorted Breakfast\t2\t2\tCS\t40\t3.80\t\u00a0\t1/20 lb\tDRY\t0.00\tNot Yet Ranked\nD19-008P\tAssorted Paper Goods - BULK TOTE\t1\t1\tBULK\t180\t32.40\t\u00a0\t1/180 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD25-2071P\tCandy\t10\t10\tCS\t20\t0.38\t\u00a0\t6/4 oz\tDRY\t0.00\tNot Yet Ranked\nD19-052P\tFoam Plates\t6\t6\tCS\t115\t3.65\t\u00a0\t16/130 ct\tDRY\t0.00\tNot Yet Ranked\nD12-372P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t180\t34.20\t\u00a0\t1/180 lb\tDRY\t0.00\tNot Yet Ranked\nD14-126P\tJuice\t1\t1\tCS\t34\t6.46\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD15-1185P\tCheddar Smoked Sausage\t4\t4\tCS\t44\t2.09\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD29-127P\tBiscuits Dough\t4\t4\tCS\t56\t2.52\t\u00a0\t12/16.3 oz\tREF\t0.00\tNot Yet Ranked\nD26-354P\tCooking Spray w/ Butter Spray\t3\t3\tCS\t51\t3.20\t\u00a0\t24/8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-235P\tHot Chocolate\t2\t2\tCS\t49\t4.39\t\u00a0\t8/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t3\t3\tCS\t36\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-1109P\tHot Chocolate Gift Pack\t3\t3\tCS\t31\t1.93\t\u00a0\t6/21.56 oz\tDRY\t0.00\tNot Yet Ranked\nD25-584P\tSunflower Seeds\t2\t2\tCS\t9\t0.83\t\u00a0\t12/5.35 oz\tDRY\t0.00\tNot Yet Ranked\nD27-332P\tTomatoes, Diced\t12\t12\tCS\t152\t2.29\t\u00a0\t12/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD28-223P\tPotatoes\t8\t8\tBAG\t40\t0.00\t\u00a0\t1/5 Lb bag\tREF\t0.00\tNot Yet Ranked\nD13-002P\tAssorted Cleaning Supplies - BULK TOTE\t1\t1\tBULK\t1000\t180.00\t\u00a0\t1/1000 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-728P\tBeef Franks\t2\t2\tCS\t20\t1.80\t\u00a0\t1/10 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t1\t1\tCS\t50\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t1\t1\tCS\t50\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD07-1001P\tMilk, 2%\t2\t2\tCS\t28\t0.00\t\u00a0\t12/1 pt\tREF\t0.00\tNot Yet Ranked\nD04-162P\tAssorted Bread and Bakery\t1\t0\tCS\t0\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD04-001P\tBread, Assorted\t1\t1\tCS\t30\t0.00\t\u00a0\t1/30 lb box\tFROZEN\t0.00\tNot Yet Ranked\nD14-125P\tPineapple-Coconut Nectar\t1\t1\tCS\t28\t5.40\t\u00a0\t12/32.4 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
+    {
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "40",
+      "Packaging Type": "",
+      "Pack Size": "1/20 lb",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D19-008P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "BULK",
+      "Gross Weight": "180",
+      "Packaging Type": "",
+      "Pack Size": "1/180 Lb BULK TOTE",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D25-2071P",
+      "Description": "Candy",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
+      "UOM": "CS",
+      "Gross Weight": "20",
+      "Packaging Type": "",
+      "Pack Size": "6/4 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D19-052P",
+      "Description": "Foam Plates",
+      "Order Qty.": "6",
+      "Accepted Qty.": "6",
+      "UOM": "CS",
+      "Gross Weight": "115",
+      "Packaging Type": "",
+      "Pack Size": "16/130 ct",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D12-372P",
+      "Description": "Assorted Personal Hygiene - BULK",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "BULK",
+      "Gross Weight": "180",
+      "Packaging Type": "",
+      "Pack Size": "1/180 lb",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
     {
       "Item No.": "D14-126P",
       "Description": "Juice",
@@ -131,19 +196,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D14-125P",
-      "Description": "Pineapple-Coconut Nectar",
-      "Order Qty.": "1",
-      "Accepted Qty.": "1",
-      "UOM": "CS",
-      "Gross Weight": "28",
-      "Packaging Type": "",
-      "Pack Size": "12/32.4 oz",
-      "Handling Requirements": "DRY",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "Order Qty.": "8",
@@ -227,10 +279,10 @@
       "Order Qty.": "1",
       "Accepted Qty.": "0",
       "UOM": "CS",
-      "Gross Weight": "20",
-      "Packaging Type": "Can",
+      "Gross Weight": "0",
+      "Packaging Type": "",
       "Pack Size": "1/20 lb",
-      "Handling Requirements": "Frozen Food",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
@@ -238,12 +290,25 @@
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "Order Qty.": "1",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "1",
       "UOM": "CS",
       "Gross Weight": "30",
-      "Packaging Type": "Case",
+      "Packaging Type": "",
       "Pack Size": "1/30 lb box",
-      "Handling Requirements": "Frozen Food",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D14-125P",
+      "Description": "Pineapple-Coconut Nectar",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "28",
+      "Packaging Type": "",
+      "Pack Size": "12/32.4 oz",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
