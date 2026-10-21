@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 21, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-10-21T09:01:16.018662-05:00",
-  "item_count": 102,
+  "updated_at": "October 21, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-10-21T10:01:03.186418-05:00",
+  "item_count": 101,
   "items": [
     {
       "Available Qty.": "17",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "236",
+      "Available Qty.": "226",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -58,16 +58,6 @@
       "Pack Size": "1/850 lb",
       "Feature Type": "",
       "Gross Weight": "850",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D26-598P",
-      "Description": "Assorted Spices and Condiments",
-      "UOM": "CS",
-      "Pack Size": "1/30lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
@@ -153,7 +143,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "763",
+      "Available Qty.": "761",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -162,7 +152,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "389",
+      "Available Qty.": "391",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -190,7 +180,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -208,7 +198,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "293",
+      "Available Qty.": "289",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -217,7 +207,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "604",
+      "Available Qty.": "603",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -253,7 +243,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "145",
+      "Available Qty.": "141",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -307,7 +297,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -317,7 +307,7 @@
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
-      "Available Qty.": "678",
+      "Available Qty.": "677",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -326,7 +316,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "10",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -416,7 +406,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "66",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -434,7 +424,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "350",
+      "Available Qty.": "349",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -479,7 +469,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "299",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
       "UOM": "CS",
@@ -533,7 +523,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1024",
+      "Available Qty.": "1023",
       "Item No.": "P18-001P",
       "Description": "Nutrition Shake, Vanilla",
       "UOM": "CS",
@@ -569,7 +559,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -650,7 +640,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2841",
+      "Available Qty.": "2840",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -677,7 +667,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "235",
+      "Available Qty.": "234",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -686,7 +676,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "690",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -877,7 +867,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "139",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
@@ -922,7 +912,7 @@
       "Gross Weight": "650"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "20",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
