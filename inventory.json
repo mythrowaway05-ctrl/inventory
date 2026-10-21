@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 21, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-21T12:01:06.592699-05:00",
+  "updated_at": "October 21, 2026 at 01:00 PM",
+  "updated_at_iso": "2026-10-21T13:00:57.016921-05:00",
   "item_count": 103,
   "items": [
     {
@@ -61,7 +61,7 @@
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "9",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -161,16 +161,6 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-2071P",
-      "Description": "Candy 6/4 oz",
-      "UOM": "CS",
-      "Pack Size": "6/4 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
-    },
-    {
       "Available Qty.": "41",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -198,7 +188,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "289",
+      "Available Qty.": "291",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -243,7 +233,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "141",
+      "Available Qty.": "143",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -316,7 +306,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "12",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -343,7 +333,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "780",
+      "Available Qty.": "785",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -596,7 +586,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "62",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -659,6 +649,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "10",
+      "Item No.": "D23-088P",
+      "Description": "Peanut Butter, Extra Crunchy",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-21T13:00:56.844538-05:00"
+    },
+    {
       "Available Qty.": "145",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
@@ -686,7 +686,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "690",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -868,7 +868,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "102",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
@@ -904,7 +904,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "269",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -913,7 +913,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "169",
+      "Available Qty.": "184",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
