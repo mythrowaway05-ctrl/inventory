@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 21, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-10-21T07:01:05.317954-05:00",
-  "item_count": 105,
+  "updated_at": "October 21, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-10-21T08:01:07.531396-05:00",
+  "item_count": 102,
   "items": [
     {
       "Available Qty.": "17",
@@ -11,26 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D11-111P",
-      "Description": "Assorted Baking Items",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
       "Available Qty.": "236",
@@ -49,16 +29,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-008P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
       "Available Qty.": "1",
@@ -91,7 +61,7 @@
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -220,7 +190,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "5",
       "Item No.": "D15-776P",
       "Description": "Chicken Breast Tenderloins",
       "UOM": "CS",
@@ -319,7 +289,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "369",
+      "Available Qty.": "349",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -337,17 +307,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-1114P",
-      "Description": "Cookies",
-      "UOM": "CS",
-      "Pack Size": "32/6 oz.",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-21T02:01:09.532717-05:00"
-    },
-    {
-      "Available Qty.": "95",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -609,7 +569,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -726,7 +686,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "675",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -752,6 +712,16 @@
       "Feature Type": "",
       "Gross Weight": "5",
       "new_since": "2026-10-21T02:01:09.532717-05:00"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D28-710P",
+      "Description": "Pumpkins, Carving - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/700 lbs",
+      "Feature Type": "",
+      "Gross Weight": "700",
+      "new_since": "2026-10-21T08:01:07.530788-05:00"
     },
     {
       "Available Qty.": "2458",
