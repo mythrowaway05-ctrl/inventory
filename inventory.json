@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 21, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-21T16:01:04.535401-05:00",
-  "item_count": 110,
+  "updated_at": "October 21, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-21T17:01:11.933765-05:00",
+  "item_count": 109,
   "items": [
     {
       "Available Qty.": "17",
@@ -61,6 +61,16 @@
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-21T17:01:11.933155-05:00"
+    },
+    {
       "Available Qty.": "416",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -106,7 +116,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "981",
+      "Available Qty.": "979",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -232,7 +242,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "502",
+      "Available Qty.": "500",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -259,7 +269,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "341",
+      "Available Qty.": "339",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -277,17 +287,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D26-354P",
-      "Description": "Cooking Spray w/ Butter Spray 24/8 oz",
-      "UOM": "CS",
-      "Pack Size": "24/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "160",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -302,15 +302,6 @@
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
       "Pack Size": "24/15 oz cans",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "12",
-      "Item No.": "D22-133P",
-      "Description": "Dog Food 1/26 lb",
-      "UOM": "CS",
-      "Pack Size": "1/26 lb",
       "Feature Type": "",
       "Gross Weight": "26"
     },
@@ -342,15 +333,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -358,6 +340,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "436",
@@ -396,17 +387,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D03-235P",
-      "Description": "Hot Chocolate",
-      "UOM": "CS",
-      "Pack Size": "8/41.4 oz",
-      "Feature Type": "",
-      "Gross Weight": "24",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "69",
+      "Available Qty.": "59",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -460,7 +441,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "116",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -488,23 +469,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "13",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
       "Pack Size": "12/.5 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "44",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1001P",
-      "Description": "Milk, 2% 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
       "new_since": "2026-10-21T16:01:04.534888-05:00"
     },
     {
@@ -689,7 +660,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -836,6 +807,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D25-169P",
+      "Description": "Snacks, Assorted - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/300 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "300",
+      "new_since": "2026-10-21T17:01:11.933155-05:00"
+    },
+    {
       "Available Qty.": "3",
       "Item No.": "D03-1092P",
       "Description": "Soda 4-6/12 oz",
@@ -909,7 +890,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "957",
+      "Available Qty.": "945",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -934,6 +915,16 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "56",
+      "Item No.": "D27-166P",
+      "Description": "Tomatoes, Whole",
+      "UOM": "CS",
+      "Pack Size": "6/10 can",
+      "Feature Type": "",
+      "Gross Weight": "43",
+      "new_since": "2026-10-21T17:01:11.933155-05:00"
     },
     {
       "Available Qty.": "41",
