@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 22, 2026 at 01:51 AM",
-  "updated_at_iso": "2026-10-22T01:51:18.230570-05:00",
+  "updated_at": "October 22, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-10-22T02:01:01.437342-05:00",
   "item_count": 133,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "30",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "234",
+      "Available Qty.": "226",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -327,17 +327,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D08-045P",
-      "Description": "Cookies",
-      "UOM": "CS",
-      "Pack Size": "70/2.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D25-1260P",
       "Description": "Cookies",
       "UOM": "CS",
@@ -345,6 +335,16 @@
       "Feature Type": "",
       "Gross Weight": "11",
       "new_since": "2026-10-21T02:01:09.532717-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D08-045P",
+      "Description": "Cookies",
+      "UOM": "CS",
+      "Pack Size": "70/2.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
       "Available Qty.": "20",
@@ -376,7 +376,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "0",
       "Item No.": "D25-867P",
       "Description": "Crunch N Munch",
       "UOM": "CS",
@@ -423,15 +423,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -439,6 +430,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "436",
@@ -629,7 +629,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "4",
       "Item No.": "D07-328P",
       "Description": "Milk, Whole 9/1 qt",
       "UOM": "CS",
@@ -840,7 +840,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "0",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -905,7 +905,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "400",
+      "Available Qty.": "380",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -925,7 +925,7 @@
       "new_since": "2026-10-21T02:01:09.532717-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "12",
       "Item No.": "D08-326P",
       "Description": "Pudding, Chocolate 6-12/3.25 oz",
       "UOM": "CS",
