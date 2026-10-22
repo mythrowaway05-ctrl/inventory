@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 06:04 PM",
-  "updated_at_iso": "2026-10-22T18:04:46.926741-05:00",
-  "item_count": 113,
+  "updated_at": "October 22, 2026 at 06:54 PM",
+  "updated_at_iso": "2026-10-22T18:54:58.617334-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "11",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "246",
+      "Available Qty.": "242",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-22T15:01:27.260753-05:00"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "26",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -122,6 +122,16 @@
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D29-127P",
+      "Description": "Biscuits Dough",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-22T18:54:58.616755-05:00"
     },
     {
       "Available Qty.": "278",
@@ -342,15 +352,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D25-2061P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1180 lbs",
-      "Feature Type": "",
-      "Gross Weight": "1180"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D25-2060P",
       "Description": "Fun Pops - BULK TOTE",
@@ -358,6 +359,15 @@
       "Pack Size": "1/960 lbs",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2061P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/1180 lbs",
+      "Feature Type": "",
+      "Gross Weight": "1180"
     },
     {
       "Available Qty.": "436",
@@ -679,15 +689,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2815",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
@@ -696,6 +697,15 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-22T01:51:18.229895-05:00"
+    },
+    {
+      "Available Qty.": "2815",
+      "Item No.": "P23-009P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -945,23 +955,23 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "889",
+      "Available Qty.": "2",
+      "Item No.": "D25-584P",
+      "Description": "Sunflower Seeds",
+      "UOM": "CS",
+      "Pack Size": "12/5.35 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-10-22T18:54:58.616755-05:00"
+    },
+    {
+      "Available Qty.": "689",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
       "Pack Size": "6/12 oz",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "43",
-      "Item No.": "D03-628P",
-      "Description": "Tea, Sugar Free",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
       "Available Qty.": "98",
