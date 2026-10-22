@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 22, 2026 at 11:07 AM",
-  "updated_at_iso": "2026-10-22T11:07:41.385356-05:00",
+  "updated_at": "October 22, 2026 at 12:04 PM",
+  "updated_at_iso": "2026-10-22T12:04:33.687793-05:00",
   "item_count": 112,
   "items": [
     {
-      "Available Qty.": "17",
+      "Available Qty.": "11",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-22T11:07:41.384744-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "5",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "236",
+      "Available Qty.": "266",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -197,7 +197,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "241",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -206,7 +206,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "603",
+      "Available Qty.": "573",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -242,7 +242,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "141",
       "Item No.": "P15-068P",
       "Description": "Chicken, Whole Individually Frozen",
       "UOM": "CS",
@@ -466,8 +466,7 @@
       "UOM": "CS",
       "Pack Size": "12/42 oz",
       "Feature Type": "",
-      "Gross Weight": "44",
-      "new_since": "2026-10-21T12:01:06.592150-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "671",
@@ -498,16 +497,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-405P",
-      "Description": "Milk, 2% 12/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "12/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -528,7 +517,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "611",
+      "Available Qty.": "603",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -555,7 +544,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "254",
+      "Available Qty.": "252",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -655,7 +644,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "21",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -700,6 +689,15 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "2815",
+      "Item No.": "P23-009P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
+    },
+    {
       "Available Qty.": "15",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
@@ -708,15 +706,6 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "2815",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -745,6 +734,16 @@
       "Pack Size": "20/1 lb",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "1125",
+      "Item No.": "D29-161P",
+      "Description": "Pizza Crust",
+      "UOM": "CS",
+      "Pack Size": "16/20.3 oz",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-22T12:04:33.687267-05:00"
     },
     {
       "Available Qty.": "223",
@@ -893,7 +892,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "49",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -1008,8 +1007,7 @@
       "UOM": "CS",
       "Pack Size": "12/24 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-21T12:01:06.592150-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "3",
