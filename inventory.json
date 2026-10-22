@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-22T06:01:03.092399-05:00",
-  "item_count": 124,
+  "updated_at": "October 22, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-22T07:01:04.849758-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "17",
@@ -150,7 +150,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "361",
+      "Available Qty.": "321",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -287,7 +287,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "305",
+      "Available Qty.": "49",
       "Item No.": "D03-1085P",
       "Description": "Coffee, Cold Brew 6/48 oz",
       "UOM": "CS",
@@ -305,7 +305,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -360,15 +360,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -376,6 +367,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "436",
@@ -387,7 +387,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1223",
+      "Available Qty.": "1219",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -405,7 +405,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "502",
+      "Available Qty.": "492",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -414,7 +414,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "40",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -423,7 +423,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "972",
+      "Available Qty.": "900",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -506,7 +506,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -526,7 +526,7 @@
       "new_since": "2026-10-21T14:47:57.778244-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "13",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -546,7 +546,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "6",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -565,17 +565,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D26-120P",
-      "Description": "Mix, Cake",
-      "UOM": "CS",
-      "Pack Size": "12/14.18 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "73",
+      "Available Qty.": "72",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -584,7 +574,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "75",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -630,7 +620,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "81",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
@@ -639,7 +629,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "43",
       "Item No.": "P05-042P",
       "Description": "Oatmeal, Instant, Maple and Brown Sugar",
       "UOM": "CS",
@@ -684,7 +674,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "60",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -738,15 +728,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2815",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
@@ -755,6 +736,15 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-22T01:51:18.229895-05:00"
+    },
+    {
+      "Available Qty.": "2815",
+      "Item No.": "P23-009P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "0",
@@ -822,23 +812,13 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "954",
+      "Available Qty.": "950",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
       "Pack Size": "8/8 ct",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D08-326P",
-      "Description": "Pudding, Chocolate 6-12/3.25 oz",
-      "UOM": "CS",
-      "Pack Size": "6-12/3.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
       "Available Qty.": "0",
@@ -914,7 +894,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1594",
+      "Available Qty.": "1590",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -923,7 +903,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-185P",
       "Description": "Snacks, Assorted - BULK",
       "UOM": "BULK",
@@ -998,16 +978,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "193",
-      "Item No.": "D03-1107P",
-      "Description": "Sparkling Tea, Flavored 12/12 oz",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
       "Available Qty.": "179",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
@@ -1017,7 +987,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "114",
+      "Available Qty.": "110",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
@@ -1035,7 +1005,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "43",
       "Item No.": "D03-628P",
       "Description": "Tea, Sugar Free",
       "UOM": "CS",
@@ -1045,7 +1015,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "98",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
@@ -1073,27 +1043,7 @@
       "new_since": "2026-10-21T17:01:11.933155-05:00"
     },
     {
-      "Available Qty.": "41",
-      "Item No.": "D03-313P",
-      "Description": "Tonic Water 15/1 L",
-      "UOM": "CS",
-      "Pack Size": "15/1 L",
-      "Feature Type": "",
-      "Gross Weight": "37",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "9",
-      "Item No.": "D03-1064P",
-      "Description": "Tonic Water, Zero Sugar 15/1 L",
-      "UOM": "CS",
-      "Pack Size": "15/1 L",
-      "Feature Type": "",
-      "Gross Weight": "36",
-      "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "70",
+      "Available Qty.": "68",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
@@ -1102,7 +1052,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "707",
+      "Available Qty.": "703",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1120,7 +1070,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "184",
+      "Available Qty.": "178",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
@@ -1130,7 +1080,7 @@
       "new_since": "2026-10-21T12:01:06.592150-05:00"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D03-846P",
       "Description": "Water - BULK",
       "UOM": "BULK",
