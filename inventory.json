@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 22, 2026 at 09:08 AM",
-  "updated_at_iso": "2026-10-22T09:08:02.595916-05:00",
+  "updated_at": "October 22, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-10-22T10:01:06.621834-05:00",
   "item_count": 111,
   "items": [
     {
-      "Available Qty.": "17",
+      "Available Qty.": "11",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -122,7 +122,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "741",
+      "Available Qty.": "739",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -131,7 +131,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "281",
+      "Available Qty.": "280",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -240,7 +240,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "488",
+      "Available Qty.": "484",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -249,7 +249,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "2",
       "Item No.": "D06-019P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -305,7 +305,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "12",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -386,7 +386,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "31",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -404,7 +404,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "344",
+      "Available Qty.": "342",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -413,7 +413,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "243",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -440,7 +440,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "115",
+      "Available Qty.": "104",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -478,7 +478,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -488,7 +488,7 @@
       "new_since": "2026-10-21T16:01:04.534888-05:00"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -518,7 +518,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "611",
+      "Available Qty.": "603",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -609,7 +609,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "46",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -645,7 +645,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "21",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -746,7 +746,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "700",
+      "Available Qty.": "690",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -755,7 +755,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "422",
+      "Available Qty.": "418",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -764,7 +764,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "400",
+      "Available Qty.": "397",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -783,7 +783,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2438",
+      "Available Qty.": "2436",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -792,7 +792,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2137",
+      "Available Qty.": "2135",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -883,7 +883,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "52",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -919,7 +919,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "104",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
@@ -928,7 +928,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "915",
+      "Available Qty.": "889",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
