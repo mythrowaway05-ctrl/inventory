@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 12:00 AM",
-  "updated_at_iso": "2026-10-22T00:00:54.833206-05:00",
-  "item_count": 108,
+  "updated_at": "October 22, 2026 at 01:01 AM",
+  "updated_at_iso": "2026-10-22T01:01:02.833573-05:00",
+  "item_count": 109,
   "items": [
     {
       "Available Qty.": "17",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "239",
+      "Available Qty.": "234",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -142,7 +142,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "368",
+      "Available Qty.": "361",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -296,7 +296,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "2",
       "Item No.": "D22-133P",
       "Description": "Dog Food 1/26 lb",
       "UOM": "CS",
@@ -387,7 +387,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "54",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -441,7 +441,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "116",
+      "Available Qty.": "115",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -467,6 +467,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D07-405P",
+      "Description": "Milk, 2% 12/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "12/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-10-21T16:01:04.534888-05:00"
     },
     {
       "Available Qty.": "0",
