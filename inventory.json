@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 01:12 PM",
-  "updated_at_iso": "2026-10-22T13:12:30.669053-05:00",
-  "item_count": 112,
+  "updated_at": "October 22, 2026 at 02:12 PM",
+  "updated_at_iso": "2026-10-22T14:12:45.207383-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "11",
@@ -13,7 +13,17 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
+      "Item No.": "D11-111P",
+      "Description": "Assorted Baking Items",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
+    },
+    {
+      "Available Qty.": "8",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,7 +33,7 @@
       "new_since": "2026-10-22T11:07:41.384744-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "41",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -33,7 +43,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "296",
+      "Available Qty.": "326",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -51,16 +61,6 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-22T11:07:41.384744-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D22-041P",
       "Description": "Assorted Pet Food - BULK 1/960 lb",
@@ -68,6 +68,16 @@
       "Pack Size": "1/960 lb",
       "Feature Type": "",
       "Gross Weight": "960"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D26-598P",
+      "Description": "Assorted Spices and Condiments",
+      "UOM": "CS",
+      "Pack Size": "1/30lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
       "Available Qty.": "416",
@@ -115,7 +125,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "979",
+      "Available Qty.": "975",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -131,6 +141,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "12",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
       "Available Qty.": "529",
@@ -197,7 +217,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "241",
+      "Available Qty.": "237",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -206,7 +226,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "573",
+      "Available Qty.": "569",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -224,7 +244,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "509",
+      "Available Qty.": "503",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -251,7 +271,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "500",
+      "Available Qty.": "496",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -325,7 +345,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "12",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -406,7 +426,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "31",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -599,7 +619,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "175",
+      "Available Qty.": "168",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -726,7 +746,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1518",
+      "Available Qty.": "1516",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -791,7 +811,17 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2436",
+      "Available Qty.": "6",
+      "Item No.": "D28-710P",
+      "Description": "Pumpkins, Carving - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/700 lbs",
+      "Feature Type": "",
+      "Gross Weight": "700",
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
+    },
+    {
+      "Available Qty.": "2434",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -800,7 +830,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2135",
+      "Available Qty.": "2133",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -818,7 +848,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "728",
+      "Available Qty.": "726",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -834,6 +864,16 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "84",
+      "Item No.": "P26-005P",
+      "Description": "Sauce, Cranberry UNRANKED",
+      "UOM": "CS",
+      "Pack Size": "24/14 oz can",
+      "Feature Type": "",
+      "Gross Weight": "27",
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
       "Available Qty.": "991",
@@ -854,7 +894,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1590",
+      "Available Qty.": "1585",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -982,7 +1022,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "703",
+      "Available Qty.": "699",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
