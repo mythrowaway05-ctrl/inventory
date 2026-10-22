@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-10-22T07:01:04.849758-05:00",
-  "item_count": 119,
+  "updated_at": "October 22, 2026 at 07:45 AM",
+  "updated_at_iso": "2026-10-22T07:45:37.482316-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "17",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "12",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -57,16 +57,6 @@
       "Pack Size": "1/850 lb",
       "Feature Type": "",
       "Gross Weight": "850"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-21T17:01:11.933155-05:00"
     },
     {
       "Available Qty.": "416",
@@ -150,7 +140,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "321",
+      "Available Qty.": "273",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -287,15 +277,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "49",
-      "Item No.": "D03-1085P",
-      "Description": "Coffee, Cold Brew 6/48 oz",
-      "UOM": "CS",
-      "Pack Size": "6/48 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "709",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
@@ -305,7 +286,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "190",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -360,6 +341,15 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
+    },
+    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -367,15 +357,6 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
     },
     {
       "Available Qty.": "436",
@@ -423,7 +404,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "900",
+      "Available Qty.": "756",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -506,7 +487,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -514,16 +495,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "44",
       "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-168P",
-      "Description": "Milk, Chocolate 12/1 pt",
-      "UOM": "CS",
-      "Pack Size": "12/1 pt",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-10-21T14:47:57.778244-05:00"
     },
     {
       "Available Qty.": "13",
@@ -647,7 +618,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "37",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -728,16 +699,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D23-204P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz jar",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
       "Available Qty.": "2815",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
@@ -747,7 +708,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "15",
+      "Item No.": "D23-204P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz jar",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-22T01:51:18.229895-05:00"
+    },
+    {
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -784,7 +755,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "525",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -802,7 +773,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "398",
+      "Available Qty.": "390",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -819,16 +790,6 @@
       "Pack Size": "8/8 ct",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-710P",
-      "Description": "Pumpkins, Carving - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/700 lbs",
-      "Feature Type": "",
-      "Gross Weight": "700",
-      "new_since": "2026-10-21T08:01:07.530788-05:00"
     },
     {
       "Available Qty.": "2438",
@@ -901,26 +862,6 @@
       "Pack Size": "6/2 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-185P",
-      "Description": "Snacks, Assorted - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 lb BULK",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-169P",
-      "Description": "Snacks, Assorted - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/300 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-10-21T17:01:11.933155-05:00"
     },
     {
       "Available Qty.": "2",
@@ -1033,16 +974,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D27-166P",
-      "Description": "Tomatoes, Whole",
-      "UOM": "CS",
-      "Pack Size": "6/10 can",
-      "Feature Type": "",
-      "Gross Weight": "43",
-      "new_since": "2026-10-21T17:01:11.933155-05:00"
-    },
-    {
       "Available Qty.": "68",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
@@ -1089,7 +1020,7 @@
       "Gross Weight": "650"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "20",
       "Item No.": "D01-235P",
       "Description": "Weather Strips",
       "UOM": "CS",
