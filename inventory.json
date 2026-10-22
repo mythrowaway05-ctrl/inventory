@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-10-22T15:01:27.261406-05:00",
-  "item_count": 116,
+  "updated_at": "October 22, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-10-22T16:00:12.713441-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "11",
@@ -13,17 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D11-111P",
-      "Description": "Assorted Baking Items",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-22T14:12:45.206818-05:00"
-    },
-    {
-      "Available Qty.": "10",
+      "Available Qty.": "159",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -33,7 +23,7 @@
       "new_since": "2026-10-22T15:01:27.260753-05:00"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "30",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -70,7 +60,7 @@
       "Gross Weight": "960"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "8",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -141,16 +131,6 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
       "Available Qty.": "529",
@@ -289,16 +269,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D06-019P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "12/40 oz",
-      "Feature Type": "",
-      "Gross Weight": "34",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
       "Available Qty.": "388",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
@@ -345,7 +315,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "4",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -372,15 +342,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -388,6 +349,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "436",
@@ -426,7 +396,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "21",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -444,7 +414,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "342",
+      "Available Qty.": "338",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -453,7 +423,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "243",
+      "Available Qty.": "239",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -480,7 +450,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "70",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -709,6 +679,15 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "2815",
+      "Item No.": "P23-009P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
+    },
+    {
       "Available Qty.": "15",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
@@ -717,15 +696,6 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "2815",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -783,7 +753,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "418",
+      "Available Qty.": "414",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -802,7 +772,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "950",
+      "Available Qty.": "928",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -811,7 +781,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D28-710P",
       "Description": "Pumpkins, Carving - BULK",
       "UOM": "BULK",
@@ -821,7 +791,7 @@
       "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
-      "Available Qty.": "2434",
+      "Available Qty.": "2428",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -830,7 +800,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "2133",
+      "Available Qty.": "2127",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -866,7 +836,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "78",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -894,7 +864,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1585",
+      "Available Qty.": "1579",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
