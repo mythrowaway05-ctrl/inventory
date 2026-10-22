@@ -1,16 +1,26 @@
 {
-  "updated_at": "October 22, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-10-22T10:01:06.621834-05:00",
-  "item_count": 111,
+  "updated_at": "October 22, 2026 at 11:07 AM",
+  "updated_at_iso": "2026-10-22T11:07:41.385356-05:00",
+  "item_count": 112,
   "items": [
     {
-      "Available Qty.": "11",
+      "Available Qty.": "17",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-22T11:07:41.384744-05:00"
     },
     {
       "Available Qty.": "10",
@@ -23,7 +33,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "226",
+      "Available Qty.": "236",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -39,6 +49,16 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
+    },
+    {
+      "Available Qty.": "4",
+      "Item No.": "D16-006P",
+      "Description": "Assorted Mixed Foods",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-10-22T11:07:41.384744-05:00"
     },
     {
       "Available Qty.": "1",
@@ -131,7 +151,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "280",
+      "Available Qty.": "281",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -240,7 +260,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "484",
+      "Available Qty.": "488",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -249,7 +269,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "6",
       "Item No.": "D06-019P",
       "Description": "Chili with Beans",
       "UOM": "CS",
@@ -305,7 +325,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "16",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -323,22 +343,13 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "768",
+      "Available Qty.": "764",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
     },
     {
       "Available Qty.": "3",
@@ -348,6 +359,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "436",
@@ -386,7 +406,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "39",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -413,7 +433,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "243",
+      "Available Qty.": "245",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -478,7 +498,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-405P",
       "Description": "Milk, 2% 12/.5 gal",
       "UOM": "CS",
@@ -486,16 +506,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "44",
       "new_since": "2026-10-21T16:01:04.534888-05:00"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
       "Available Qty.": "2",
@@ -518,7 +528,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "603",
+      "Available Qty.": "611",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -609,7 +619,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -645,7 +655,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "23",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -746,7 +756,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "690",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -764,7 +774,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "397",
+      "Available Qty.": "400",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -883,7 +893,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "54",
       "Item No.": "P06-009P",
       "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
       "UOM": "CS",
@@ -919,7 +929,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "260",
       "Item No.": "P11-048P",
       "Description": "Stuffing, Turkey",
       "UOM": "CS",
