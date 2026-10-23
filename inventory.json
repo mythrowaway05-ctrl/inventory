@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 23, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-10-23T14:01:08.397774-05:00",
-  "item_count": 96,
+  "updated_at": "October 23, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-10-23T15:01:08.734273-05:00",
+  "item_count": 95,
   "items": [
     {
-      "Available Qty.": "168",
+      "Available Qty.": "228",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -132,7 +132,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "214",
+      "Available Qty.": "218",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -334,22 +334,13 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "705",
+      "Available Qty.": "697",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
     },
     {
       "Available Qty.": "3",
@@ -359,6 +350,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "436",
@@ -600,7 +600,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "152",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -699,7 +699,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -744,7 +744,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "520",
+      "Available Qty.": "700",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -824,15 +824,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "65",
-      "Item No.": "P26-043P",
-      "Description": "Turkey Gravy",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19"
     },
     {
       "Available Qty.": "699",
