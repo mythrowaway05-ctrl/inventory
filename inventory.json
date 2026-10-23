@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 07:01 PM",
-  "updated_at_iso": "2026-10-22T19:01:05.345526-05:00",
-  "item_count": 114,
+  "updated_at": "October 22, 2026 at 08:01 PM",
+  "updated_at_iso": "2026-10-22T20:01:11.432949-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "11",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "242",
+      "Available Qty.": "240",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-22T15:01:27.260753-05:00"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "24",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "356",
+      "Available Qty.": "361",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -112,16 +112,6 @@
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D29-127P",
-      "Description": "Biscuits Dough",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-22T18:54:58.616755-05:00"
     },
     {
       "Available Qty.": "278",
@@ -387,7 +377,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "492",
+      "Available Qty.": "491",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -396,7 +386,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "20",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -468,7 +458,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "7",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -679,6 +669,15 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "2815",
+      "Item No.": "P23-009P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "15"
+    },
+    {
       "Available Qty.": "15",
       "Item No.": "D23-204P",
       "Description": "Peanut Butter, Creamy",
@@ -687,15 +686,6 @@
       "Feature Type": "",
       "Gross Weight": "14",
       "new_since": "2026-10-22T01:51:18.229895-05:00"
-    },
-    {
-      "Available Qty.": "2815",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -873,7 +863,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D25-169P",
       "Description": "Snacks, Assorted - BULK TOTE",
       "UOM": "BULK",
@@ -953,16 +943,6 @@
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-584P",
-      "Description": "Sunflower Seeds",
-      "UOM": "CS",
-      "Pack Size": "12/5.35 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-22T18:54:58.616755-05:00"
     },
     {
       "Available Qty.": "689",
