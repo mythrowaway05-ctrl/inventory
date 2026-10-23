@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 22, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-10-22T21:01:01.148911-05:00",
-  "item_count": 112,
+  "updated_at": "October 22, 2026 at 09:38 PM",
+  "updated_at_iso": "2026-10-22T21:38:26.107851-05:00",
+  "item_count": 110,
   "items": [
     {
       "Available Qty.": "11",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "220",
+      "Available Qty.": "170",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -141,7 +141,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "281",
+      "Available Qty.": "280",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -386,7 +386,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "15",
       "Item No.": "D03-624P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -458,7 +458,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "3",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -475,16 +475,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D07-1047P",
-      "Description": "Milk, Skim 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
       "Available Qty.": "6",
@@ -762,7 +752,7 @@
       "new_since": "2026-10-22T01:51:18.229895-05:00"
     },
     {
-      "Available Qty.": "928",
+      "Available Qty.": "918",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -863,16 +853,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D25-169P",
-      "Description": "Snacks, Assorted - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/300 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-10-22T19:01:05.344912-05:00"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "D03-1092P",
       "Description": "Soda 4-6/12 oz",
@@ -945,7 +925,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "689",
+      "Available Qty.": "674",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
