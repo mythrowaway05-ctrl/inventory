@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 23, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-23T06:01:07.092267-05:00",
-  "item_count": 150,
+  "updated_at": "October 23, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-10-23T07:01:07.579029-05:00",
+  "item_count": 140,
   "items": [
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -33,7 +33,7 @@
       "new_since": "2026-10-22T15:01:27.260753-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -70,13 +70,13 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
+      "Item No.": "D26-598P",
+      "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
-      "Pack Size": "1/30 lbs",
+      "Pack Size": "1/30lbs",
       "Feature Type": "",
       "Gross Weight": "30",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
+      "new_since": "2026-10-22T14:12:45.206818-05:00"
     },
     {
       "Available Qty.": "416",
@@ -142,7 +142,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "4",
       "Item No.": "D15-176P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -180,7 +180,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "238",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -365,7 +365,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "4",
       "Item No.": "D26-059P",
       "Description": "Cooking Spray NOT RANKED",
       "UOM": "CS",
@@ -503,17 +503,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D03-1111P",
-      "Description": "Hot Chocolaate 12/6.8 oz",
-      "UOM": "CS",
-      "Pack Size": "12/6.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
-      "Available Qty.": "43",
+      "Available Qty.": "19",
       "Item No.": "D03-765P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -551,7 +541,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "338",
+      "Available Qty.": "334",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -560,7 +550,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "239",
+      "Available Qty.": "235",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -578,7 +568,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "22",
       "Item No.": "D14-101P",
       "Description": "Juice, Fruit Punch 8/59 oz",
       "UOM": "CS",
@@ -597,7 +587,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "65",
+      "Available Qty.": "66",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -606,7 +596,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D06-137P",
       "Description": "Lunchables",
       "UOM": "CS",
@@ -643,7 +633,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "25",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -670,16 +660,6 @@
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D07-988P",
-      "Description": "Milk, Whole, Lactose Free 6/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "6/64 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
       "Available Qty.": "603",
@@ -709,16 +689,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "20",
-      "Item No.": "D11-147P",
-      "Description": "Mix, Double Fudge Brownie 12/17.6 oz",
-      "UOM": "CS",
-      "Pack Size": "12/17.6 oz",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
       "Available Qty.": "432",
       "Item No.": "P11-061P",
       "Description": "Mix, Fudge Brownie",
@@ -726,16 +696,6 @@
       "Pack Size": "12/8 oz",
       "Feature Type": "",
       "Gross Weight": "8",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D11-148P",
-      "Description": "Mix, Fudge Brownie 12/18.3 oz",
-      "UOM": "CS",
-      "Pack Size": "12/18.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "15",
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
@@ -838,26 +798,6 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "D19-058P",
-      "Description": "Paper Towels 10/3 ct",
-      "UOM": "CS",
-      "Pack Size": "10/3 ct",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
-      "Available Qty.": "14",
-      "Item No.": "D19-000P",
-      "Description": "Paper Towels, 2 Ply (15 lb box)",
-      "UOM": "CS",
-      "Pack Size": "1/30 rolls",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
       "Available Qty.": "21",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
@@ -903,6 +843,15 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D23-204P",
+      "Description": "Peanut Butter, Creamy",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz jar",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
       "Available Qty.": "2815",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
@@ -910,15 +859,6 @@
       "Pack Size": "12/18 oz",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "14",
-      "Item No.": "D23-204P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz jar",
-      "Feature Type": "",
-      "Gross Weight": "14"
     },
     {
       "Available Qty.": "0",
@@ -958,7 +898,7 @@
       "new_since": "2026-10-22T12:04:33.687267-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D25-2073P",
       "Description": "Pork Skins, Old Fashion 6/4.5 oz",
       "UOM": "CS",
@@ -1014,33 +954,13 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "9",
-      "Item No.": "D23-055P",
-      "Description": "Protein PB and Bean",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb box",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
-      "Available Qty.": "915",
+      "Available Qty.": "900",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
       "Pack Size": "8/8 ct",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D08-047P",
-      "Description": "Pudding",
-      "UOM": "CS",
-      "Pack Size": "48/3.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
       "Available Qty.": "0",
@@ -1098,7 +1018,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "72",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -1133,16 +1053,6 @@
       "Pack Size": "6/2 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D15-455P",
-      "Description": "Smoked Sausage 6/13.5 oz",
-      "UOM": "CS",
-      "Pack Size": "6/13.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
       "Available Qty.": "2",
@@ -1247,16 +1157,6 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "D25-1736P",
-      "Description": "Tater Tots 6/28 oz",
-      "UOM": "CS",
-      "Pack Size": "6/28 oz",
-      "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-10-23T06:01:07.091559-05:00"
-    },
-    {
       "Available Qty.": "666",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
@@ -1275,7 +1175,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "5",
       "Item No.": "D19-056P",
       "Description": "Toilet Tissue 12/4 ct",
       "UOM": "CS",
@@ -1285,7 +1185,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "29",
       "Item No.": "D19-055P",
       "Description": "Toilet Tissue 3/6 ct",
       "UOM": "CS",
@@ -1295,7 +1195,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "107",
+      "Available Qty.": "81",
       "Item No.": "D19-054P",
       "Description": "Toilet Tissue 4/12 ct",
       "UOM": "CS",
@@ -1305,7 +1205,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "0",
       "Item No.": "D19-053P",
       "Description": "Toilet Tissue 4/12 ct",
       "UOM": "CS",
@@ -1315,7 +1215,7 @@
       "new_since": "2026-10-23T06:01:07.091559-05:00"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "35",
       "Item No.": "D19-057P",
       "Description": "Toilet Tissue 4/9 ct",
       "UOM": "CS",
