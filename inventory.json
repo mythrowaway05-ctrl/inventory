@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 23, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-10-23T18:01:05.940039-05:00",
+  "updated_at": "October 23, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-10-23T19:01:08.598899-05:00",
   "item_count": 116,
   "items": [
     {
@@ -198,15 +198,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "46",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -288,7 +279,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "375",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -325,13 +316,23 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "649",
+      "Available Qty.": "647",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D22-133P",
+      "Description": "Dog Food 1/26 lb",
+      "UOM": "CS",
+      "Pack Size": "1/26 lb",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-10-23T19:01:08.598208-05:00"
     },
     {
       "Available Qty.": "875",
@@ -343,7 +344,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "692",
+      "Available Qty.": "689",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -379,7 +380,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1201",
+      "Available Qty.": "1195",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -536,7 +537,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "48",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -699,7 +700,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2804",
+      "Available Qty.": "2799",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -726,7 +727,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1497",
+      "Available Qty.": "1493",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -771,7 +772,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "0",
       "Item No.": "D27-833P",
       "Description": "Potatoes, Sliced 12/15 oz",
       "UOM": "CS",
@@ -965,7 +966,7 @@
       "new_since": "2026-10-23T16:01:10.161069-05:00"
     },
     {
-      "Available Qty.": "282",
+      "Available Qty.": "276",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
