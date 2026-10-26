@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 26, 2026 at 05:12 AM",
-  "updated_at_iso": "2026-10-26T05:12:49.011602-05:00",
+  "updated_at": "October 26, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-10-26T06:01:04.773218-05:00",
   "item_count": 135,
   "items": [
     {
@@ -383,15 +383,6 @@
       "new_since": "2026-10-26T03:01:09.016912-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-2060P",
-      "Description": "Fun Pops - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/960 lbs",
-      "Feature Type": "",
-      "Gross Weight": "960"
-    },
-    {
       "Available Qty.": "3",
       "Item No.": "D25-2061P",
       "Description": "Fun Pops - BULK TOTE",
@@ -399,6 +390,15 @@
       "Pack Size": "1/1180 lbs",
       "Feature Type": "",
       "Gross Weight": "1180"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D25-2060P",
+      "Description": "Fun Pops - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/960 lbs",
+      "Feature Type": "",
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "435",
