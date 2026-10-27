@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 27, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-10-27T14:01:23.390721-05:00",
-  "item_count": 122,
+  "updated_at": "October 27, 2026 at 02:17 PM",
+  "updated_at_iso": "2026-10-27T14:17:03.051213-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "133",
@@ -13,7 +13,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "51",
       "Item No.": "D16-013P",
       "Description": "Assorted Canned Foods 10",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-10-27T13:01:22.190769-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "25",
       "Item No.": "D16-020P",
       "Description": "Assorted Canned Goods",
       "UOM": "CS",
@@ -151,7 +151,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -169,7 +169,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "100",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -360,7 +360,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "478",
+      "Available Qty.": "470",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -406,7 +406,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "70",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -553,7 +553,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "9",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -671,7 +671,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -714,8 +714,7 @@
       "UOM": "CS",
       "Pack Size": "20/16 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "485",
@@ -724,8 +723,7 @@
       "UOM": "CS",
       "Pack Size": "20/16 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "96",
@@ -734,8 +732,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "421",
@@ -744,8 +741,7 @@
       "UOM": "CS",
       "Pack Size": "96/1.38 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "2731",
@@ -754,8 +750,7 @@
       "UOM": "CS",
       "Pack Size": "12/18 oz",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "10",
@@ -764,8 +759,7 @@
       "UOM": "CS",
       "Pack Size": "12/16.3 oz",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "118",
@@ -774,8 +768,7 @@
       "UOM": "CS",
       "Pack Size": "12/20 oz",
       "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "1456",
@@ -784,8 +777,7 @@
       "UOM": "CS",
       "Pack Size": "20/1 lb",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "952",
@@ -794,8 +786,7 @@
       "UOM": "CS",
       "Pack Size": "16/20.3 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "193",
@@ -804,8 +795,7 @@
       "UOM": "CS",
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "372",
@@ -814,8 +804,7 @@
       "UOM": "CS",
       "Pack Size": "24/6 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "296",
@@ -824,8 +813,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb Case",
       "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "371",
@@ -834,11 +822,10 @@
       "UOM": "CS",
       "Pack Size": "12/16.9 oz",
       "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "13"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "115",
       "Item No.": "D25-2070P",
       "Description": "Protein Chips, Variety Pack - DISPLAY",
       "UOM": "CS",
@@ -854,8 +841,7 @@
       "UOM": "CS",
       "Pack Size": "8/8 ct",
       "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "2355",
@@ -864,8 +850,7 @@
       "UOM": "CS",
       "Pack Size": "24/3 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "1862",
@@ -874,8 +859,7 @@
       "UOM": "CS",
       "Pack Size": "24/3 oz",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "128",
@@ -884,8 +868,7 @@
       "UOM": "CS",
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "610",
@@ -894,18 +877,7 @@
       "UOM": "CS",
       "Pack Size": "22/1 lb",
       "Feature Type": "",
-      "Gross Weight": "22",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-706P",
-      "Description": "Salami, Cooked",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-10-27T02:01:07.422270-05:00"
+      "Gross Weight": "22"
     },
     {
       "Available Qty.": "485",
@@ -1007,7 +979,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "173",
+      "Available Qty.": "171",
       "Item No.": "P27-089P",
       "Description": "Spinach, Chopped, LS Low Sodium",
       "UOM": "CS",
