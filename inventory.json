@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 27, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-10-27T08:01:09.494538-05:00",
+  "updated_at": "October 27, 2026 at 08:47 AM",
+  "updated_at_iso": "2026-10-27T08:47:26.265482-05:00",
   "item_count": 129,
   "items": [
     {
@@ -141,7 +141,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "43",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -150,7 +150,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "162",
+      "Available Qty.": "161",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -204,7 +204,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "0",
       "Item No.": "D07-082P",
       "Description": "Cheese, Block",
       "UOM": "CS",
@@ -333,7 +333,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "150",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -349,6 +349,16 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D22-133P",
+      "Description": "Dog Food 1/26 lb",
+      "UOM": "CS",
+      "Pack Size": "1/26 lb",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
       "Available Qty.": "872",
@@ -543,7 +553,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "27",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -582,17 +592,7 @@
       "new_since": "2026-10-26T20:01:04.375320-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-10-27T02:01:07.422270-05:00"
-    },
-    {
-      "Available Qty.": "48",
+      "Available Qty.": "38",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -701,7 +701,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "28",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -787,7 +787,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -867,7 +867,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "343",
+      "Available Qty.": "341",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
