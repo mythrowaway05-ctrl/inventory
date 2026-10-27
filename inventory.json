@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 27, 2026 at 08:47 AM",
-  "updated_at_iso": "2026-10-27T08:47:26.265482-05:00",
-  "item_count": 129,
+  "updated_at": "October 27, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-10-27T09:01:07.370835-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "4",
@@ -141,7 +141,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "41",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -232,7 +232,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "2",
       "Item No.": "D15-903P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -333,7 +333,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "200",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -342,7 +342,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "599",
+      "Available Qty.": "591",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -397,7 +397,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1151",
+      "Available Qty.": "1143",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -553,7 +553,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "17",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -701,7 +701,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -777,7 +777,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "2753",
+      "Available Qty.": "2743",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -787,7 +787,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -844,16 +844,6 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15",
-      "new_since": "2026-10-26T14:16:06.066429-05:00"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D28-223P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5",
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
@@ -917,7 +907,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "2039",
+      "Available Qty.": "2025",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -937,7 +927,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "642",
+      "Available Qty.": "626",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1027,7 +1017,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "209",
+      "Available Qty.": "201",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
@@ -1077,7 +1067,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "15",
       "Item No.": "D15-404P",
       "Description": "Spicy Chicken Sandwich 12/5 oz",
       "UOM": "CS",
