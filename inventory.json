@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 26, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-10-26T22:01:01.931824-05:00",
-  "item_count": 113,
+  "updated_at": "October 26, 2026 at 11:01 PM",
+  "updated_at_iso": "2026-10-26T23:01:08.772350-05:00",
+  "item_count": 114,
   "items": [
     {
-      "Available Qty.": "106",
+      "Available Qty.": "105",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -182,6 +182,16 @@
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D15-776P",
+      "Description": "Chicken Breast Tenderloins",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-26T23:01:08.771637-05:00"
     },
     {
       "Available Qty.": "35",
@@ -436,7 +446,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "35",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -967,7 +977,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "325",
+      "Available Qty.": "301",
       "Item No.": "D03-981P",
       "Description": "Tea, Bubble",
       "UOM": "CS",
@@ -1007,7 +1017,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "691",
+      "Available Qty.": "690",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1046,7 +1056,7 @@
       "Gross Weight": "650"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "22",
       "Item No.": "D03-357P",
       "Description": "Water 12/50.7 oz",
       "UOM": "CS",
