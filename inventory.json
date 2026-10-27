@@ -1,8 +1,18 @@
 {
-  "updated_at": "October 27, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-27T16:01:08.186749-05:00",
+  "updated_at": "October 27, 2026 at 05:01 PM",
+  "updated_at_iso": "2026-10-27T17:01:09.421258-05:00",
   "item_count": 121,
   "items": [
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-27T17:01:09.420635-05:00"
+    },
     {
       "Available Qty.": "131",
       "Item No.": "D05-883P",
@@ -23,7 +33,7 @@
       "new_since": "2026-10-27T13:01:22.190769-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "25",
       "Item No.": "D16-020P",
       "Description": "Assorted Canned Goods",
       "UOM": "CS",
@@ -31,6 +41,16 @@
       "Feature Type": "",
       "Gross Weight": "20",
       "new_since": "2026-10-27T12:06:05.125986-05:00"
+    },
+    {
+      "Available Qty.": "25",
+      "Item No.": "D27-755P",
+      "Description": "Assorted Canned Vegetables",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-10-27T17:01:09.420635-05:00"
     },
     {
       "Available Qty.": "316",
@@ -115,7 +135,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "6",
       "Item No.": "D28-554P",
       "Description": "Bell Peppers 1/35 lb",
       "UOM": "CS",
@@ -170,7 +190,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "48",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -198,7 +218,7 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "13",
       "Item No.": "D01-398P",
       "Description": "Charcoal 6/4 lb",
       "UOM": "CS",
@@ -388,16 +408,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "22",
-      "Item No.": "D28-550P",
-      "Description": "Green Beans 1/28 lb",
-      "UOM": "CS",
-      "Pack Size": "1/28 lb",
-      "Feature Type": "",
-      "Gross Weight": "28",
-      "new_since": "2026-10-27T11:04:02.942722-05:00"
-    },
-    {
       "Available Qty.": "1126",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
@@ -480,7 +490,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "35",
       "Item No.": "D28-551P",
       "Description": "Jicama 1/36 lb",
       "UOM": "CS",
@@ -618,7 +628,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "188",
+      "Available Qty.": "185",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -688,16 +698,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "24"
-    },
-    {
-      "Available Qty.": "20",
-      "Item No.": "D28-552P",
-      "Description": "Papaya 1/35 lb",
-      "UOM": "CS",
-      "Pack Size": "1/35 lb",
-      "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-10-27T11:04:02.942722-05:00"
     },
     {
       "Available Qty.": "56",
@@ -772,7 +772,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1456",
+      "Available Qty.": "1455",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -826,7 +826,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "100",
       "Item No.": "D25-2070P",
       "Description": "Protein Chips, Variety Pack - DISPLAY",
       "UOM": "CS",
