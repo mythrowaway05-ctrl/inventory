@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 27, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-10-27T07:01:07.759597-05:00",
-  "item_count": 132,
+  "updated_at": "October 27, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-10-27T08:01:09.494538-05:00",
+  "item_count": 129,
   "items": [
     {
-      "Available Qty.": "12",
+      "Available Qty.": "4",
       "Item No.": "D15-324P",
       "Description": "8 Piece Cut Chicken",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "1",
       "Item No.": "D25-2075P",
       "Description": "Breaded Mozzarella Sticks 8/10 oz",
       "UOM": "CS",
@@ -141,7 +141,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "23",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -204,7 +204,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "58",
       "Item No.": "D07-082P",
       "Description": "Cheese, Block",
       "UOM": "CS",
@@ -212,16 +212,6 @@
       "Feature Type": "",
       "Gross Weight": "6",
       "new_since": "2026-10-27T02:01:07.422270-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-776P",
-      "Description": "Chicken Breast Tenderloins",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-26T23:01:08.771637-05:00"
     },
     {
       "Available Qty.": "35",
@@ -261,7 +251,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "8",
       "Item No.": "D15-813P",
       "Description": "Chicken Thighs",
       "UOM": "CS",
@@ -377,26 +367,6 @@
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-052P",
-      "Description": "Foam Plates 16/130 ct",
-      "UOM": "CS",
-      "Pack Size": "16/130 ct",
-      "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-10-27T06:01:00.692774-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D06-394P",
-      "Description": "Fried Chicken Meal 12/8.8 oz",
-      "UOM": "CS",
-      "Pack Size": "12/8.8 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-27T02:01:07.422270-05:00"
     },
     {
       "Available Qty.": "3",
@@ -536,7 +506,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "39",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -573,7 +543,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "17",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -612,7 +582,7 @@
       "new_since": "2026-10-26T20:01:04.375320-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -622,7 +592,7 @@
       "new_since": "2026-10-27T02:01:07.422270-05:00"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "48",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -847,7 +817,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "10",
       "Item No.": "D06-821P",
       "Description": "Pizza",
       "UOM": "CS",
@@ -857,7 +827,7 @@
       "new_since": "2026-10-27T02:01:07.422270-05:00"
     },
     {
-      "Available Qty.": "1006",
+      "Available Qty.": "952",
       "Item No.": "D29-161P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -977,7 +947,7 @@
       "new_since": "2026-10-26T14:16:06.066429-05:00"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "29",
       "Item No.": "D15-706P",
       "Description": "Salami, Cooked",
       "UOM": "CS",
@@ -1037,7 +1007,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "8",
       "Item No.": "D15-380P",
       "Description": "Sausage, Smoked",
       "UOM": "CS",
@@ -1097,7 +1067,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "499",
+      "Available Qty.": "498",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1107,7 +1077,7 @@
       "new_since": "2026-10-26T12:01:10.639957-05:00"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "27",
       "Item No.": "D15-404P",
       "Description": "Spicy Chicken Sandwich 12/5 oz",
       "UOM": "CS",
