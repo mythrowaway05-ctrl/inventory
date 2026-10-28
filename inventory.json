@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 28, 2026 at 04:00 PM",
-  "updated_at_iso": "2026-10-28T16:00:53.633933-05:00",
-  "item_count": 113,
+  "updated_at": "October 28, 2026 at 04:27 PM",
+  "updated_at_iso": "2026-10-28T16:27:54.888950-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "13",
@@ -13,7 +13,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "25",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
       "UOM": "CS",
@@ -41,7 +41,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "363",
+      "Available Qty.": "359",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -68,7 +68,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "658",
+      "Available Qty.": "654",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -293,7 +293,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1106",
+      "Available Qty.": "1174",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -311,7 +311,7 @@
       "Gross Weight": "4"
     },
     {
-      "Available Qty.": "529",
+      "Available Qty.": "524",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -356,7 +356,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1066",
+      "Available Qty.": "1061",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -474,7 +474,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "655",
+      "Available Qty.": "654",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -502,16 +502,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-28T11:00:54.535569-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
@@ -522,7 +512,7 @@
       "new_since": "2026-10-28T13:01:07.404590-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "6",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -631,7 +621,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "568",
+      "Available Qty.": "564",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -748,7 +738,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "86",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -929,7 +919,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "201",
+      "Available Qty.": "197",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
