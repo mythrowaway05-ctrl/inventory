@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T05:11:02.701445-05:00",
+  "scraped_at": "2026-10-28T06:01:22.129640-05:00",
   "po_number": "PO6410945",
   "appointment": {
     "reference_number": "PO6410945",
@@ -7,10 +7,10 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n45",
-    "Total Line Items": "Gross Weight\n5630 lbs",
+    "Total Line Items": "Gross Weight\n5465 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-554P\tBell Peppers\t6\t6\tCS\t210\t0.00\t\u00a0\t1/35 lb\tREF\t0.00\tNot Yet Ranked\nD25-2073P\tPork Skins, Old Fashion\t2\t2\tCS\t5\t0.46\t\u00a0\t6/4.5 oz\tDRY\t0.00\tNot Yet Ranked\nD06-137P\tLunchables\t3\t3\tCS\t18\t1.08\t\u00a0\t8/2.8 oz\tREF\t0.00\tNot Yet Ranked\nD19-064P\tPlastic Forks\t13\t13\tCS\t73\t1.06\t\u00a0\t6/140 ct\tDRY\t0.00\tNot Yet Ranked\nD19-061P\tPlastic Cups w/ Lids\t10\t10\tCS\t36\t0.68\t\u00a0\t12/6 ct\tDRY\t0.00\tNot Yet Ranked\nD03-1111P\tHot Chocolaate\t6\t6\tCS\t40\t1.25\t\u00a0\t12/6.8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-765P\tHot Chocolate\t20\t20\tCS\t100\t0.90\t\u00a0\t6/11.04 oz\tDRY\t0.00\tNot Yet Ranked\nD05-883P\tAssorted Breakfast\t6\t6\tCS\t120\t3.80\t\u00a0\t1/20 lb\tDRY\t0.00\tNot Yet Ranked\nDS06-003P\tChili\t2\t2\tCS\t25\t0.00\t\u00a0\t12/15 oz can\tDRY\t0.00\tNot Yet Ranked\nD13-194P\tOven Cleaner\t6\t6\tCS\t43\t1.37\t\u00a0\t6/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t6\t6\tBAG\t24\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD25-825P\tBreakfast Biscuit\t10\t10\tCS\t88\t1.58\t\u00a0\t8/14.08 oz\tDRY\t0.00\tNot Yet Ranked\nD01-399P\tN95 Face Mask\t4\t4\tCS\t24\t1.14\t\u00a0\t6/50 ct\tDRY\t0.00\tNot Yet Ranked\nD06-821P\tPizza\t10\t10\tCS\t120\t2.16\t\u00a0\t12/12 inch\tFROZEN\t0.00\tNot Yet Ranked\nD25-1736P\tTater Tots\t2\t2\tCS\t21\t1.89\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD19-060P\tPaper Plates\t10\t10\tCS\t128\t2.43\t\u00a0\t3/120 ct\tDRY\t0.00\tNot Yet Ranked\nD19-062P\tPaper Plates\t35\t35\tCS\t315\t1.71\t\u00a0\t3/84 ct\tDRY\t0.00\tNot Yet Ranked\nD19-059P\tPaper Plates\t5\t5\tCS\t53\t2.01\t\u00a0\t6/52 ct\tDRY\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t5\t5\tCS\t250\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD19-063P\tPaper Plates\t5\t5\tCS\t42\t1.60\t\u00a0\t8/20 ct\tDRY\t0.00\tNot Yet Ranked\nD06-900P\tSharp Cheddar, Mac and Cheese w/ Bacon\t5\t5\tCS\t12\t0.46\t\u00a0\t6/4 oz\tDRY\t0.00\tNot Yet Ranked\nDS06-016P\tSkillet Dinner, Cheeseburger\t1\t1\tCS\t9\t0.00\t\u00a0\t24/5.8 oz\tDRY\t0.00\tNot Yet Ranked\nD19-055P\tToilet Tissue\t30\t30\tCS\t174\t1.10\t\u00a0\t3/6 ct\tDRY\t0.00\tNot Yet Ranked\nD19-058P\tPaper Towels\t24\t24\tCS\t307\t2.43\t\u00a0\t10/3 ct\tDRY\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t21\t21\tCS\t840\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nP03-009P\tPrime Hydration, Kiwi Berry\t1\t1\tCS\t13\t1.52\t\u00a0\t12/16.9 oz\tDRY\t0.00\tNot Yet Ranked\nDS06-021P\tBeans, Baked\t10\t10\tCS\t120\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\tNot Yet Ranked\nD19-054P\tToilet Tissue\t12\t12\tCS\t110\t1.75\t\u00a0\t4/12 ct\tDRY\t0.00\tNot Yet Ranked\nD19-057P\tToilet Tissue\t12\t12\tCS\t131\t2.07\t\u00a0\t4/9 ct\tDRY\t0.00\tNot Yet Ranked\nD04-266P\tGarlic Bread, Four cheese\t2\t2\tCS\t14\t1.33\t\u00a0\t6/8 ct\tFROZEN\t0.00\tNot Yet Ranked\nD15-340P\tBeef, Ground\t2\t2\tCS\t24\t2.16\t\u00a0\t12/1 lb\tFROZEN\t0.00\tNot Yet Ranked\nD25-2075P\tBreaded Mozzarella Sticks\t2\t2\tCS\t12\t1.18\t\u00a0\t8/10 oz\tFROZEN\t0.00\tNot Yet Ranked\nD07-082P\tCheese, Block\t50\t50\tCS\t320\t1.15\t\u00a0\t12/8 oz blocks\tREF\t0.00\tNot Yet Ranked\nD15-623P\tChicken Wings\t1\t1\tCS\t42\t7.56\t\u00a0\t4/10 lb.\tFROZEN\t0.00\tNot Yet Ranked\nD03-357P\tWater\t8\t8\tCS\t330\t3.71\t\u00a0\t12/50.7 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t14\t14\tCS\t168\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-914P\tLemonade, Raspberry\t8\t8\tCS\t178\t2.00\t\u00a0\t6/52 oz\tREF\t0.00\tNot Yet Ranked\nDS23-006P\tGreen Beans, Low Sodium\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\tNot Yet Ranked\nD05-956P\tCereal\t4\t4\tCS\t32\t1.52\t\u00a0\t4/23.9 oz\tDRY\t0.00\tNot Yet Ranked\nD15-404P\tSpicy Chicken Sandwich\t20\t20\tCS\t75\t0.71\t\u00a0\t12/5 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-324P\t8 Piece Cut Chicken\t8\t8\tCS\t400\t9.50\t\u00a0\t8/6 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-552P\tPapaya\t1\t1\tCS\t35\t0.00\t\u00a0\t1/35 lb\tREF\t0.00\tNot Yet Ranked\nD15-050P\tAsst. Canned Meats\t18\t18\tCS\t360\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\tNot Yet Ranked\nD28-808P\tCantaloupe\t2\t2\tCS\t64\t0.00\t\u00a0\t1/32 lbs\tREF\t0.00\tNot Yet Ranked\nD03-764P\tHot Chocolate/ Sugar Free\t4\t4\tCS\t17\t0.76\t\u00a0\t8/5.84 oz\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD28-554P\tBell Peppers\t6\t6\tCS\t210\t0.00\t\u00a0\t1/35 lb\tREF\t0.00\tNot Yet Ranked\nD25-2073P\tPork Skins, Old Fashion\t2\t2\tCS\t5\t0.46\t\u00a0\t6/4.5 oz\tDRY\t0.00\tNot Yet Ranked\nD06-137P\tLunchables\t3\t3\tCS\t18\t1.08\t\u00a0\t8/2.8 oz\tREF\t0.00\tNot Yet Ranked\nD19-064P\tPlastic Forks\t13\t13\tCS\t73\t1.06\t\u00a0\t6/140 ct\tDRY\t0.00\tNot Yet Ranked\nD19-061P\tPlastic Cups w/ Lids\t10\t10\tCS\t36\t0.68\t\u00a0\t12/6 ct\tDRY\t0.00\tNot Yet Ranked\nD03-1111P\tHot Chocolaate\t6\t6\tCS\t40\t1.25\t\u00a0\t12/6.8 oz\tDRY\t0.00\tNot Yet Ranked\nD03-765P\tHot Chocolate\t20\t20\tCS\t100\t0.90\t\u00a0\t6/11.04 oz\tDRY\t0.00\tNot Yet Ranked\nD05-883P\tAssorted Breakfast\t6\t6\tCS\t120\t3.80\t\u00a0\t1/20 lb\tDRY\t0.00\tNot Yet Ranked\nDS06-003P\tChili\t2\t2\tCS\t25\t0.00\t\u00a0\t12/15 oz can\tDRY\t0.00\tNot Yet Ranked\nD13-194P\tOven Cleaner\t6\t6\tCS\t43\t1.37\t\u00a0\t6/14.5 oz\tDRY\t0.00\tNot Yet Ranked\nD27-773P\tCorn on the Cob\t6\t6\tBAG\t24\t0.00\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD25-825P\tBreakfast Biscuit\t10\t10\tCS\t88\t1.58\t\u00a0\t8/14.08 oz\tDRY\t0.00\tNot Yet Ranked\nD01-399P\tN95 Face Mask\t4\t4\tCS\t24\t1.14\t\u00a0\t6/50 ct\tDRY\t0.00\tNot Yet Ranked\nD06-821P\tPizza\t10\t10\tCS\t120\t2.16\t\u00a0\t12/12 inch\tFROZEN\t0.00\tNot Yet Ranked\nD25-1736P\tTater Tots\t2\t2\tCS\t21\t1.89\t\u00a0\t6/28 oz\tFROZEN\t0.00\tNot Yet Ranked\nD19-060P\tPaper Plates\t10\t10\tCS\t128\t2.43\t\u00a0\t3/120 ct\tDRY\t0.00\tNot Yet Ranked\nD19-062P\tPaper Plates\t35\t35\tCS\t315\t1.71\t\u00a0\t3/84 ct\tDRY\t0.00\tNot Yet Ranked\nD19-059P\tPaper Plates\t5\t5\tCS\t53\t2.01\t\u00a0\t6/52 ct\tDRY\t0.00\tNot Yet Ranked\nD28-442P\tOnions\t5\t5\tCS\t250\t0.00\t\u00a0\t16/3lb bag\tREF\t0.00\tNot Yet Ranked\nD19-063P\tPaper Plates\t5\t5\tCS\t42\t1.60\t\u00a0\t8/20 ct\tDRY\t0.00\tNot Yet Ranked\nD06-900P\tSharp Cheddar, Mac and Cheese w/ Bacon\t5\t5\tCS\t12\t0.46\t\u00a0\t6/4 oz\tDRY\t0.00\tNot Yet Ranked\nDS06-016P\tSkillet Dinner, Cheeseburger\t1\t1\tCS\t9\t0.00\t\u00a0\t24/5.8 oz\tDRY\t0.00\tNot Yet Ranked\nD19-055P\tToilet Tissue\t30\t30\tCS\t174\t1.10\t\u00a0\t3/6 ct\tDRY\t0.00\tNot Yet Ranked\nD19-058P\tPaper Towels\t24\t24\tCS\t307\t2.43\t\u00a0\t10/3 ct\tDRY\t0.00\tNot Yet Ranked\nD28-767P\tPotatoes, Sweet\t21\t21\tCS\t840\t0.00\t\u00a0\t1/40 lb Case\tREF\t0.00\tNot Yet Ranked\nP03-009P\tPrime Hydration, Kiwi Berry\t1\t1\tCS\t13\t1.52\t\u00a0\t12/16.9 oz\tDRY\t0.00\tNot Yet Ranked\nDS06-021P\tBeans, Baked\t5\t5\tCS\t60\t0.00\t\u00a0\t12/16 oz\tDRY\t0.00\tNot Yet Ranked\nD19-054P\tToilet Tissue\t12\t12\tCS\t110\t1.75\t\u00a0\t4/12 ct\tDRY\t0.00\tNot Yet Ranked\nD19-057P\tToilet Tissue\t12\t12\tCS\t131\t2.07\t\u00a0\t4/9 ct\tDRY\t0.00\tNot Yet Ranked\nD04-266P\tGarlic Bread, Four cheese\t2\t2\tCS\t14\t1.33\t\u00a0\t6/8 ct\tFROZEN\t0.00\tNot Yet Ranked\nD15-340P\tBeef, Ground\t2\t2\tCS\t24\t2.16\t\u00a0\t12/1 lb\tFROZEN\t0.00\tNot Yet Ranked\nD25-2075P\tBreaded Mozzarella Sticks\t2\t2\tCS\t12\t1.18\t\u00a0\t8/10 oz\tFROZEN\t0.00\tNot Yet Ranked\nD07-082P\tCheese, Block\t50\t50\tCS\t320\t1.15\t\u00a0\t12/8 oz blocks\tREF\t0.00\tNot Yet Ranked\nD15-623P\tChicken Wings\t1\t1\tCS\t42\t7.56\t\u00a0\t4/10 lb.\tFROZEN\t0.00\tNot Yet Ranked\nD03-357P\tWater\t8\t8\tCS\t330\t3.71\t\u00a0\t12/50.7 oz\tDRY\t0.00\tNot Yet Ranked\nD03-624P\tHot Chocolate\t14\t14\tCS\t168\t2.16\t\u00a0\t4/41.4 oz\tDRY\t0.00\tNot Yet Ranked\nD03-914P\tLemonade, Raspberry\t4\t4\tCS\t89\t2.00\t\u00a0\t6/52 oz\tREF\t0.00\tNot Yet Ranked\nDS23-006P\tGreen Beans, Low Sodium\t4\t4\tCS\t108\t0.00\t\u00a0\t24/15 oz\tDRY\t0.00\tNot Yet Ranked\nD05-956P\tCereal\t2\t2\tCS\t16\t1.52\t\u00a0\t4/23.9 oz\tDRY\t0.00\tNot Yet Ranked\nD15-404P\tSpicy Chicken Sandwich\t20\t20\tCS\t75\t0.71\t\u00a0\t12/5 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-324P\t8 Piece Cut Chicken\t8\t8\tCS\t400\t9.50\t\u00a0\t8/6 lb\tFROZEN\t0.00\tNot Yet Ranked\nD28-552P\tPapaya\t1\t1\tCS\t35\t0.00\t\u00a0\t1/35 lb\tREF\t0.00\tNot Yet Ranked\nD15-050P\tAsst. Canned Meats\t18\t18\tCS\t360\t3.80\t\u00a0\t1/20 lb bx\tDRY\t0.00\tNot Yet Ranked\nD28-808P\tCantaloupe\t2\t2\tCS\t64\t0.00\t\u00a0\t1/32 lbs\tREF\t0.00\tNot Yet Ranked\nD03-764P\tHot Chocolate/ Sugar Free\t4\t4\tCS\t17\t0.76\t\u00a0\t8/5.84 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -354,10 +354,10 @@
     {
       "Item No.": "DS06-021P",
       "Description": "Beans, Baked",
-      "Order Qty.": "10",
-      "Accepted Qty.": "10",
+      "Order Qty.": "5",
+      "Accepted Qty.": "5",
       "UOM": "CS",
-      "Gross Weight": "120",
+      "Gross Weight": "60",
       "Packaging Type": "",
       "Pack Size": "12/16 oz",
       "Handling Requirements": "DRY",
@@ -484,10 +484,10 @@
     {
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry",
-      "Order Qty.": "8",
-      "Accepted Qty.": "8",
+      "Order Qty.": "4",
+      "Accepted Qty.": "4",
       "UOM": "CS",
-      "Gross Weight": "178",
+      "Gross Weight": "89",
       "Packaging Type": "",
       "Pack Size": "6/52 oz",
       "Handling Requirements": "REF",
@@ -510,10 +510,10 @@
     {
       "Item No.": "D05-956P",
       "Description": "Cereal",
-      "Order Qty.": "4",
-      "Accepted Qty.": "4",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
       "UOM": "CS",
-      "Gross Weight": "32",
+      "Gross Weight": "16",
       "Packaging Type": "",
       "Pack Size": "4/23.9 oz",
       "Handling Requirements": "DRY",
