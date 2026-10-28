@@ -1,8 +1,18 @@
 {
-  "updated_at": "October 28, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-10-28T17:01:00.574642-05:00",
-  "item_count": 112,
+  "updated_at": "October 28, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-10-28T18:01:04.602401-05:00",
+  "item_count": 113,
   "items": [
+    {
+      "Available Qty.": "2",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-10-28T18:01:04.601837-05:00"
+    },
     {
       "Available Qty.": "13",
       "Item No.": "D16-020P",
@@ -19,8 +29,7 @@
       "UOM": "CS",
       "Pack Size": "24/15 oz",
       "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-10-27T17:01:09.420635-05:00"
+      "Gross Weight": "25"
     },
     {
       "Available Qty.": "273",
@@ -86,15 +95,6 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D15-340P",
-      "Description": "Beef, Ground",
-      "UOM": "CS",
-      "Pack Size": "12/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "12"
-    },
-    {
       "Available Qty.": "907",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
@@ -149,7 +149,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -257,15 +257,6 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "40",
-      "Item No.": "P15-068P",
-      "Description": "Chicken, Whole Individually Frozen",
-      "UOM": "CS",
-      "Pack Size": "4/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "17"
-    },
-    {
       "Available Qty.": "486",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
@@ -275,7 +266,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "1024",
+      "Available Qty.": "1032",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -318,6 +309,16 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P26-050P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-10-28T18:01:04.601837-05:00"
     },
     {
       "Available Qty.": "872",
@@ -383,7 +384,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "136",
+      "Available Qty.": "134",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -483,7 +484,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "13",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -512,7 +513,7 @@
       "new_since": "2026-10-28T13:01:07.404590-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -531,7 +532,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "533",
+      "Available Qty.": "539",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -621,7 +622,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "564",
+      "Available Qty.": "566",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -738,6 +739,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "80",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5",
+      "new_since": "2026-10-28T18:01:04.601837-05:00"
+    },
+    {
       "Available Qty.": "86",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
@@ -766,7 +777,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "305",
+      "Available Qty.": "311",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
