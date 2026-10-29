@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 29, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-29T12:01:06.729151-05:00",
-  "item_count": 117,
+  "updated_at": "October 29, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-29T13:01:19.041510-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "40",
@@ -24,7 +24,7 @@
       "new_since": "2026-10-29T12:01:06.728474-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "18",
       "Item No.": "D16-013P",
       "Description": "Assorted Canned Foods 10",
       "UOM": "CS",
@@ -34,17 +34,7 @@
       "new_since": "2026-10-29T09:48:19.365052-05:00"
     },
     {
-      "Available Qty.": "22",
-      "Item No.": "D16-020P",
-      "Description": "Assorted Canned Goods",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb. box",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
-    },
-    {
-      "Available Qty.": "25",
+      "Available Qty.": "3",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
       "UOM": "CS",
@@ -145,17 +135,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-10-29T09:48:19.365052-05:00"
-    },
-    {
-      "Available Qty.": "434",
+      "Available Qty.": "424",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -164,7 +144,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "674",
+      "Available Qty.": "664",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -173,7 +153,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "202",
+      "Available Qty.": "198",
       "Item No.": "P26-054P",
       "Description": "Broth, Chicken",
       "UOM": "CS",
@@ -429,7 +409,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "8",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -755,7 +735,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "313",
+      "Available Qty.": "294",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -775,7 +755,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "84",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -863,7 +843,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "928",
+      "Available Qty.": "924",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -954,7 +934,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "12",
       "Item No.": "D28-1310P",
       "Description": "Squash, Acorn",
       "UOM": "CS",
@@ -964,7 +944,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "32",
       "Item No.": "D28-1311P",
       "Description": "Squash, Butternut",
       "UOM": "CS",
@@ -974,7 +954,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D28-250P",
       "Description": "Squash, Spaghetti 1/35 lb",
       "UOM": "CS",
@@ -984,7 +964,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "7",
       "Item No.": "D28-1308P",
       "Description": "Squash, Sunshine",
       "UOM": "CS",
