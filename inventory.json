@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 29, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-10-29T09:01:07.648832-05:00",
-  "item_count": 114,
+  "updated_at": "October 29, 2026 at 09:48 AM",
+  "updated_at_iso": "2026-10-29T09:48:19.431339-05:00",
+  "item_count": 118,
   "items": [
     {
-      "Available Qty.": "45",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -12,6 +12,36 @@
       "Feature Type": "Free Item",
       "Gross Weight": "40",
       "new_since": "2026-10-29T05:01:06.677970-05:00"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D16-013P",
+      "Description": "Assorted Canned Foods 10",
+      "UOM": "CS",
+      "Pack Size": "6/10 Cans",
+      "Feature Type": "",
+      "Gross Weight": "47",
+      "new_since": "2026-10-29T09:48:19.365052-05:00"
+    },
+    {
+      "Available Qty.": "25",
+      "Item No.": "D16-020P",
+      "Description": "Assorted Canned Goods",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb. box",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-29T05:01:06.677970-05:00"
+    },
+    {
+      "Available Qty.": "25",
+      "Item No.": "D27-755P",
+      "Description": "Assorted Canned Vegetables",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-10-29T09:48:19.365052-05:00"
     },
     {
       "Available Qty.": "234",
@@ -103,6 +133,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-10-29T09:48:19.365052-05:00"
     },
     {
       "Available Qty.": "434",
@@ -286,7 +326,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "38",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -323,7 +363,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -351,7 +391,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D28-550P",
       "Description": "Green Beans 1/28 lb",
       "UOM": "CS",
@@ -394,8 +434,7 @@
       "UOM": "CS",
       "Pack Size": "9/1 qt",
       "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-10-28T09:01:11.135090-05:00"
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "386",
@@ -488,7 +527,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "59",
       "Item No.": "D07-210P",
       "Description": "Milk, Strawberry 12/14 oz",
       "UOM": "CS",
@@ -588,7 +627,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "566",
+      "Available Qty.": "556",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -665,7 +704,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -715,17 +754,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "322",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-10-29T09:01:07.648173-05:00"
-    },
-    {
-      "Available Qty.": "35",
+      "Available Qty.": "33",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -733,6 +762,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "5",
       "new_since": "2026-10-28T18:01:04.601837-05:00"
+    },
+    {
+      "Available Qty.": "321",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-10-29T09:01:07.648173-05:00"
     },
     {
       "Available Qty.": "324",
@@ -745,7 +784,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "117",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -924,7 +963,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "20",
       "Item No.": "D28-1310P",
       "Description": "Squash, Acorn",
       "UOM": "CS",
@@ -934,7 +973,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "39",
       "Item No.": "D28-1311P",
       "Description": "Squash, Butternut",
       "UOM": "CS",
@@ -944,7 +983,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "16",
       "Item No.": "D28-250P",
       "Description": "Squash, Spaghetti 1/35 lb",
       "UOM": "CS",
@@ -954,7 +993,7 @@
       "new_since": "2026-10-29T05:01:06.677970-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "19",
       "Item No.": "D28-1308P",
       "Description": "Squash, Sunshine",
       "UOM": "CS",
