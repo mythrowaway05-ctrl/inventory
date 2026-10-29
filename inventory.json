@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 28, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-10-28T18:01:04.602401-05:00",
-  "item_count": 113,
+  "updated_at": "October 28, 2026 at 07:01 PM",
+  "updated_at_iso": "2026-10-28T19:01:18.226708-05:00",
+  "item_count": 92,
   "items": [
     {
       "Available Qty.": "2",
@@ -14,15 +14,6 @@
       "new_since": "2026-10-28T18:01:04.601837-05:00"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D16-020P",
-      "Description": "Assorted Canned Goods",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb. box",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "25",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
@@ -32,7 +23,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "273",
+      "Available Qty.": "270",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -257,7 +248,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "486",
+      "Available Qty.": "471",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -647,188 +638,6 @@
       "Pack Size": "30/1 roll",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "169",
-      "Item No.": "P21-008P",
-      "Description": "Pasta, Elbow Macaroni, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "21"
-    },
-    {
-      "Available Qty.": "476",
-      "Item No.": "P21-003P",
-      "Description": "Pasta, Spaghetti, Whole Wheat",
-      "UOM": "CS",
-      "Pack Size": "20/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "83",
-      "Item No.": "P10-083P",
-      "Description": "Peaches, Diced in Juice",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "417",
-      "Item No.": "P25-004P",
-      "Description": "Peanut Butter Crackers",
-      "UOM": "CS",
-      "Pack Size": "96/1.38 oz",
-      "Feature Type": "",
-      "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "2693",
-      "Item No.": "P23-009P",
-      "Description": "Peanut Butter, Creamy",
-      "UOM": "CS",
-      "Pack Size": "12/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D23-088P",
-      "Description": "Peanut Butter, Extra Crunchy",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "114",
-      "Item No.": "P10-084P",
-      "Description": "Pineapple Chunks in Juice",
-      "UOM": "CS",
-      "Pack Size": "12/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "1429",
-      "Item No.": "P23-101P",
-      "Description": "Pinto Beans, Dry",
-      "UOM": "CS",
-      "Pack Size": "20/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "898",
-      "Item No.": "D29-161P",
-      "Description": "Pizza Crust",
-      "UOM": "CS",
-      "Pack Size": "16/20.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "178",
-      "Item No.": "P23-085P",
-      "Description": "Pork and Beans",
-      "UOM": "CS",
-      "Pack Size": "12/16 oz can",
-      "Feature Type": "",
-      "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "80",
-      "Item No.": "D28-223P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-10-28T18:01:04.601837-05:00"
-    },
-    {
-      "Available Qty.": "86",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-10-28T02:01:25.737549-05:00"
-    },
-    {
-      "Available Qty.": "324",
-      "Item No.": "P27-123P",
-      "Description": "Potatoes, Mashed, Instant",
-      "UOM": "CS",
-      "Pack Size": "24/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "200",
-      "Item No.": "D28-767P",
-      "Description": "Potatoes, Sweet",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb Case",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "311",
-      "Item No.": "P03-009P",
-      "Description": "Prime Hydration, Kiwi Berry",
-      "UOM": "CS",
-      "Pack Size": "12/16.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "861",
-      "Item No.": "P04-002P",
-      "Description": "Protein Waffles, Chocolate Chip",
-      "UOM": "CS",
-      "Pack Size": "8/8 ct",
-      "Feature Type": "",
-      "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "2289",
-      "Item No.": "P06-084P",
-      "Description": "Ramen Noodles, Beef",
-      "UOM": "CS",
-      "Pack Size": "24/3 oz",
-      "Feature Type": "",
-      "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "1791",
-      "Item No.": "P06-083P",
-      "Description": "Ramen Noodles, Chicken",
-      "UOM": "CS",
-      "Pack Size": "24/3 oz",
-      "Feature Type": "",
-      "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "126",
-      "Item No.": "P06-167P",
-      "Description": "Rice, Chicken Flavored",
-      "UOM": "CS",
-      "Pack Size": "12/6.25 oz pouch",
-      "Feature Type": "",
-      "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "602",
-      "Item No.": "P24-020P",
-      "Description": "Rice, White",
-      "UOM": "CS",
-      "Pack Size": "22/1 lb",
-      "Feature Type": "",
-      "Gross Weight": "22"
     },
     {
       "Available Qty.": "483",
