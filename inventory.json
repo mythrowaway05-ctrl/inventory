@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 29, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-10-29T02:01:02.282109-05:00",
+  "updated_at": "October 29, 2026 at 02:50 AM",
+  "updated_at_iso": "2026-10-29T02:50:34.494223-05:00",
   "item_count": 111,
   "items": [
     {
@@ -14,7 +14,7 @@
       "new_since": "2026-10-28T18:01:04.601837-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "21",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "254",
+      "Available Qty.": "259",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "40",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -293,7 +293,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "P26-050P",
       "Description": "Dressing, Ranch",
       "UOM": "CS",
@@ -366,7 +366,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "89",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -385,7 +385,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "677",
+      "Available Qty.": "682",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -476,7 +476,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -550,7 +550,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "181",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -672,7 +672,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D23-088P",
       "Description": "Peanut Butter, Extra Crunchy",
       "UOM": "CS",
@@ -682,7 +682,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "114",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -738,8 +738,7 @@
       "UOM": "CS",
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-10-28T02:01:25.737549-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "324",
@@ -752,7 +751,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "145",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -772,7 +771,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "860",
+      "Available Qty.": "861",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -1021,7 +1020,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D03-846P",
       "Description": "Water - BULK",
       "UOM": "BULK",
