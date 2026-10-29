@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 28, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-10-28T21:01:17.743048-05:00",
-  "item_count": 110,
+  "updated_at": "October 28, 2026 at 10:00 PM",
+  "updated_at_iso": "2026-10-28T22:00:54.561474-05:00",
+  "item_count": 111,
   "items": [
     {
       "Available Qty.": "2",
@@ -14,7 +14,7 @@
       "new_since": "2026-10-28T18:01:04.601837-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "25",
       "Item No.": "D27-755P",
       "Description": "Assorted Canned Vegetables",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "269",
+      "Available Qty.": "259",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "40",
       "Item No.": "D27-773P",
       "Description": "Corn on the Cob",
       "UOM": "BAG",
@@ -457,7 +457,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "0",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -486,7 +486,7 @@
       "new_since": "2026-10-28T13:01:07.404590-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -496,7 +496,7 @@
       "new_since": "2026-10-28T11:00:54.535569-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -505,7 +505,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "539",
+      "Available Qty.": "537",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -732,7 +732,7 @@
       "new_since": "2026-10-28T18:01:04.601837-05:00"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "22",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -752,7 +752,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "150",
+      "Available Qty.": "145",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -782,7 +782,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "2289",
+      "Available Qty.": "2287",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -792,7 +792,7 @@
       "new_since": "2026-10-28T20:25:39.205297-05:00"
     },
     {
-      "Available Qty.": "1791",
+      "Available Qty.": "1789",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -885,6 +885,16 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "P06-009P",
+      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-10-28T22:00:54.499212-05:00"
+    },
+    {
       "Available Qty.": "519",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
@@ -921,7 +931,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "195",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
