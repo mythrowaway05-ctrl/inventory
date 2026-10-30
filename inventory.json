@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 30, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-10-30T05:01:03.832101-05:00",
-  "item_count": 135,
+  "updated_at": "October 30, 2026 at 05:36 AM",
+  "updated_at_iso": "2026-10-30T05:36:42.748575-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "47",
@@ -10,8 +10,7 @@
       "UOM": "CS",
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "10",
@@ -22,16 +21,6 @@
       "Feature Type": "",
       "Gross Weight": "47",
       "new_since": "2026-10-29T09:48:19.365052-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D05-449P",
-      "Description": "Assorted Cereal - BULKTOTE 1/100 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/100 lb",
-      "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
       "Available Qty.": "0",
@@ -63,63 +52,12 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D19-005P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/100 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-008P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-009P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/150 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "150",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-014P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/200 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D19-041P",
-      "Description": "Assorted Personal Hygiene - BULKTOTE 1/150 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/150 lb",
-      "Feature Type": "",
-      "Gross Weight": "150",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "1",
       "Item No.": "D22-041P",
       "Description": "Assorted Pet Food - BULK 1/960 lb",
       "UOM": "BULK",
       "Pack Size": "1/960 lb",
       "Feature Type": "",
-      "Gross Weight": "960",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "960"
     },
     {
       "Available Qty.": "1",
@@ -132,7 +70,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "173",
+      "Available Qty.": "161",
       "Item No.": "D12-384P",
       "Description": "Baby Wipes 9/40 ct",
       "UOM": "CS",
@@ -251,7 +189,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D28-207P",
       "Description": "Carrots",
       "UOM": "BAG",
@@ -306,7 +244,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "11",
       "Item No.": "D07-927P",
       "Description": "Cheese, Pepperjack",
       "UOM": "CS",
@@ -345,15 +283,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "2112",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -362,6 +291,15 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-10-30T02:01:05.559458-05:00"
+    },
+    {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "399",
@@ -436,14 +374,13 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "12",
       "Item No.": "D03-309P",
       "Description": "Coffee, Iced Flavored 6/.5 gal",
       "UOM": "CS",
       "Pack Size": "6/.5 gal",
       "Feature Type": "",
-      "Gross Weight": "28",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "28"
     },
     {
       "Available Qty.": "10",
@@ -471,8 +408,7 @@
       "UOM": "CS",
       "Pack Size": "8/5 lb",
       "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "872",
@@ -490,8 +426,7 @@
       "UOM": "CS",
       "Pack Size": "6/5 lb",
       "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "360",
@@ -559,7 +494,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "960",
+      "Available Qty.": "935",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -643,7 +578,7 @@
       "new_since": "2026-10-29T11:01:25.199543-05:00"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "11",
       "Item No.": "D03-834P",
       "Description": "Juice, Berry Punch",
       "UOM": "CS",
@@ -681,7 +616,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D06-976P",
       "Description": "Lunchables, Pizza",
       "UOM": "CS",
@@ -1124,8 +1059,7 @@
       "UOM": "CS",
       "Pack Size": "1/35 lb",
       "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "35"
     },
     {
       "Available Qty.": "8",
@@ -1134,8 +1068,7 @@
       "UOM": "CS",
       "Pack Size": "1/35 lb",
       "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-10-29T05:01:06.677970-05:00"
+      "Gross Weight": "35"
     },
     {
       "Available Qty.": "183",
