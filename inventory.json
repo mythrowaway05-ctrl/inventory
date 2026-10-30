@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 30, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-10-30T09:01:03.855603-05:00",
-  "item_count": 121,
+  "updated_at": "October 30, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-10-30T10:01:04.532412-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "48",
@@ -13,14 +13,13 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "0",
       "Item No.": "D16-013P",
       "Description": "Assorted Canned Foods 10",
       "UOM": "CS",
       "Pack Size": "6/10 Cans",
       "Feature Type": "",
-      "Gross Weight": "47",
-      "new_since": "2026-10-29T09:48:19.365052-05:00"
+      "Gross Weight": "47"
     },
     {
       "Available Qty.": "228",
@@ -151,7 +150,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "187",
+      "Available Qty.": "184",
       "Item No.": "P26-054P",
       "Description": "Broth, Chicken",
       "UOM": "CS",
@@ -234,7 +233,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1083",
+      "Available Qty.": "1033",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -244,7 +243,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "0",
       "Item No.": "D25-2078P",
       "Description": "Chex Mix, Chocolate Bar 5/6.78 oz",
       "UOM": "CS",
@@ -263,6 +262,15 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "2112",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -271,15 +279,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "393",
@@ -354,7 +353,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D03-309P",
       "Description": "Coffee, Iced Flavored 6/.5 gal",
       "UOM": "CS",
@@ -399,7 +398,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "363",
+      "Available Qty.": "359",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -424,16 +423,6 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "123",
-      "Item No.": "D27-834P",
-      "Description": "Green Beans, French Cut",
-      "UOM": "CS",
-      "Pack Size": "6/28 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
       "Available Qty.": "51",
@@ -464,7 +453,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "927",
+      "Available Qty.": "877",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -474,7 +463,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -547,7 +536,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "58",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -573,6 +562,16 @@
       "Pack Size": "12/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "59",
+      "Item No.": "D07-1050P",
+      "Description": "Milk, 1% 9/1 qt",
+      "UOM": "CS",
+      "Pack Size": "9/1 quart",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-10-30T10:01:04.531820-05:00"
     },
     {
       "Available Qty.": "633",
@@ -712,7 +711,7 @@
       "new_since": "2026-10-30T08:01:04.835394-05:00"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "45",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -802,14 +801,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "110",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-10-29T09:01:07.648173-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "309",
@@ -821,7 +819,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "2",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -993,7 +991,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D28-250P",
       "Description": "Squash, Spaghetti 1/35 lb",
       "UOM": "CS",
@@ -1029,16 +1027,6 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D03-981P",
-      "Description": "Tea, Bubble",
-      "UOM": "CS",
-      "Pack Size": "6/12 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
       "Available Qty.": "42",
       "Item No.": "D03-1078P",
       "Description": "Tea, Extra Sweet 4/1 gal",
@@ -1067,7 +1055,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "44",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
@@ -1101,16 +1089,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D01-235P",
-      "Description": "Weather Strips",
-      "UOM": "CS",
-      "Pack Size": "1/36 ct",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
     }
   ]
 }
