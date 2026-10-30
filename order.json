@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T11:01:06.310944-05:00",
+  "scraped_at": "2026-10-30T11:53:32.622090-05:00",
   "po_number": "PO6420208",
   "appointment": {
     "reference_number": "PO6420208",
@@ -7,10 +7,10 @@
   },
   "summary": {
     "Total Due": "Total Line Items\n9",
-    "Total Line Items": "Gross Weight\n770 lbs",
+    "Total Line Items": "Gross Weight\n820 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD04-081P\tRolls, Cinnamon\t5\t5\tCS\t50\t1.80\t\u00a0\t12/12.4 oz\tREF\t0.00\tNot Yet Ranked\nD06-902P\tSausage Egg and Cheese Sandwich\t8\t8\tCS\t56\t1.33\t\u00a0\t6/4 ct\tREF\t0.00\tNot Yet Ranked\nD15-1186P\tDrumsticks\t6\t6\tCS\t180\t5.70\t\u00a0\t6/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD03-834P\tJuice, Berry Punch\t8\t8\tCS\t272\t0.00\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD28-936P\tApples\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD12-384P\tBaby Wipes\t12\t12\tCS\t74\t1.18\t\u00a0\t9/40 ct\tDRY\t0.00\tNot Yet Ranked\nDS06-010P\tBeef Stew\t2\t2\tCS\t28\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\tNot Yet Ranked\nD03-249P\tLemonade\t2\t2\tCS\t52\t4.68\t\u00a0\t20/1 pt\tREF\t0.00\tNot Yet Ranked\nD06-976P\tLunchables, Pizza\t3\t3\tCS\t18\t0.00\t\u00a0\t16/4.3 oz\tREF\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD04-081P\tRolls, Cinnamon\t5\t5\tCS\t50\t1.80\t\u00a0\t12/12.4 oz\tREF\t0.00\tNot Yet Ranked\nD06-902P\tSausage Egg and Cheese Sandwich\t8\t8\tCS\t56\t1.33\t\u00a0\t6/4 ct\tREF\t0.00\tNot Yet Ranked\nD15-1186P\tDrumsticks\t6\t6\tCS\t180\t5.70\t\u00a0\t6/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD03-834P\tJuice, Berry Punch\t8\t8\tCS\t272\t0.00\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nD28-936P\tApples\t1\t1\tCS\t40\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD12-384P\tBaby Wipes\t20\t20\tCS\t124\t1.18\t\u00a0\t9/40 ct\tDRY\t0.00\tNot Yet Ranked\nDS06-010P\tBeef Stew\t2\t2\tCS\t28\t0.00\t\u00a0\t12/15 oz\tDRY\t0.00\tNot Yet Ranked\nD03-249P\tLemonade\t2\t2\tCS\t52\t4.68\t\u00a0\t20/1 pt\tREF\t0.00\tNot Yet Ranked\nD06-976P\tLunchables, Pizza\t3\t3\tCS\t18\t0.00\t\u00a0\t16/4.3 oz\tREF\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -81,10 +81,10 @@
     {
       "Item No.": "D12-384P",
       "Description": "Baby Wipes",
-      "Order Qty.": "12",
-      "Accepted Qty.": "12",
+      "Order Qty.": "20",
+      "Accepted Qty.": "20",
       "UOM": "CS",
-      "Gross Weight": "74",
+      "Gross Weight": "124",
       "Packaging Type": "",
       "Pack Size": "9/40 ct",
       "Handling Requirements": "DRY",
