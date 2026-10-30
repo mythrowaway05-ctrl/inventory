@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 30, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-30T06:01:03.618750-05:00",
-  "item_count": 129,
+  "updated_at": "October 30, 2026 at 07:00 AM",
+  "updated_at_iso": "2026-10-30T07:00:59.285407-05:00",
+  "item_count": 124,
   "items": [
     {
-      "Available Qty.": "45",
+      "Available Qty.": "47",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "D16-013P",
       "Description": "Assorted Canned Foods 10",
       "UOM": "CS",
@@ -70,7 +70,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "127",
       "Item No.": "D12-384P",
       "Description": "Baby Wipes 9/40 ct",
       "UOM": "CS",
@@ -244,17 +244,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-927P",
-      "Description": "Cheese, Pepperjack",
-      "UOM": "CS",
-      "Pack Size": "11/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "1192",
+      "Available Qty.": "1184",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -264,7 +254,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "107",
       "Item No.": "D25-2078P",
       "Description": "Chex Mix, Chocolate Bar 5/6.78 oz",
       "UOM": "CS",
@@ -283,6 +273,15 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "2112",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -291,15 +290,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "399",
@@ -356,7 +346,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "258",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -383,16 +373,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D27-773P",
-      "Description": "Corn on the Cob",
-      "UOM": "BAG",
-      "Pack Size": "1/4 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "4",
-      "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
       "Available Qty.": "516",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -402,7 +382,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "33",
       "Item No.": "D26-681P",
       "Description": "Deli Pickles, Kosher",
       "UOM": "CS",
@@ -420,7 +400,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -429,7 +409,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "356",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -466,7 +446,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "57",
+      "Available Qty.": "53",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -504,7 +484,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "8",
       "Item No.": "D07-012P",
       "Description": "Half and Half 9/1 qt",
       "UOM": "CS",
@@ -566,16 +546,6 @@
       "Pack Size": "12/19 oz",
       "Feature Type": "",
       "Gross Weight": "16"
-    },
-    {
-      "Available Qty.": "9",
-      "Item No.": "D28-551P",
-      "Description": "Jicama 1/36 lb",
-      "UOM": "CS",
-      "Pack Size": "1/36 lb",
-      "Feature Type": "",
-      "Gross Weight": "36",
-      "new_since": "2026-10-29T11:01:25.199543-05:00"
     },
     {
       "Available Qty.": "0",
@@ -743,7 +713,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "6",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -762,7 +732,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "47",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
@@ -798,7 +768,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "412",
+      "Available Qty.": "410",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -871,7 +841,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "78",
+      "Available Qty.": "28",
       "Item No.": "D28-767P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1053,15 +1023,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D28-1311P",
-      "Description": "Squash, Butternut",
-      "UOM": "CS",
-      "Pack Size": "1/35 lb",
-      "Feature Type": "",
-      "Gross Weight": "35"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D28-250P",
       "Description": "Squash, Spaghetti 1/35 lb",
@@ -1145,7 +1106,7 @@
       "Gross Weight": "19"
     },
     {
-      "Available Qty.": "671",
+      "Available Qty.": "669",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1170,15 +1131,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-846P",
-      "Description": "Water - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/650 lb",
-      "Feature Type": "",
-      "Gross Weight": "650"
     },
     {
       "Available Qty.": "3",
