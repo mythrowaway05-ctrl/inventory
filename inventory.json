@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 30, 2026 at 04:01 PM",
-  "updated_at_iso": "2026-10-30T16:01:08.398694-05:00",
-  "item_count": 113,
+  "updated_at": "October 30, 2026 at 04:15 PM",
+  "updated_at_iso": "2026-10-30T16:15:20.541363-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "48",
@@ -370,7 +370,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -562,6 +562,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-10-30T11:53:32.808679-05:00"
+    },
+    {
+      "Available Qty.": "30",
+      "Item No.": "D07-871P",
+      "Description": "Milk, Skim 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/0.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "42",
+      "new_since": "2026-10-30T16:15:20.540836-05:00"
     },
     {
       "Available Qty.": "526",
