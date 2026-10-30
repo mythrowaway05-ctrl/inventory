@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 30, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-30T12:01:00.840083-05:00",
-  "item_count": 115,
+  "updated_at": "October 30, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-10-30T13:01:03.370490-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "48",
@@ -11,6 +11,16 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-10-29T17:00:55.931956-05:00"
     },
     {
       "Available Qty.": "40",
@@ -60,7 +70,7 @@
       "new_since": "2026-10-30T02:01:05.559458-05:00"
     },
     {
-      "Available Qty.": "72",
+      "Available Qty.": "62",
       "Item No.": "D12-384P",
       "Description": "Baby Wipes 9/40 ct",
       "UOM": "CS",
@@ -243,6 +253,15 @@
       "Gross Weight": "22"
     },
     {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "2111",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -251,15 +270,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-10-30T02:01:05.559458-05:00"
-    },
-    {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
     },
     {
       "Available Qty.": "393",
@@ -334,7 +344,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "1",
       "Item No.": "D03-309P",
       "Description": "Coffee, Iced Flavored 6/.5 gal",
       "UOM": "CS",
@@ -370,7 +380,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -871,7 +881,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "217",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -880,7 +890,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D06-902P",
       "Description": "Sausage Egg and Cheese Sandwich",
       "UOM": "CS",
