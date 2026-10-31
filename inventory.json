@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 31, 2026 at 08:00 AM",
-  "updated_at_iso": "2026-10-31T08:00:58.485978-05:00",
-  "item_count": 131,
+  "updated_at": "October 31, 2026 at 09:00 AM",
+  "updated_at_iso": "2026-10-31T09:00:52.922339-05:00",
+  "item_count": 128,
   "items": [
     {
-      "Available Qty.": "48",
+      "Available Qty.": "46",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -40,7 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -69,16 +69,7 @@
       "Gross Weight": "960"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D22-075P",
-      "Description": "Assorted Pet Items - BULKTOTE 1/250 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lb",
-      "Feature Type": "",
-      "Gross Weight": "250"
-    },
-    {
-      "Available Qty.": "16",
+      "Available Qty.": "0",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -161,16 +152,6 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D25-2075P",
-      "Description": "Breaded Mozzarella Sticks 8/10 oz",
-      "UOM": "CS",
-      "Pack Size": "8/10 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-10-31T08:00:58.468917-05:00"
-    },
-    {
       "Available Qty.": "423",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -234,16 +215,6 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D05-956P",
-      "Description": "Cereal 4/23.9 oz",
-      "UOM": "CS",
-      "Pack Size": "4/23.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-31T08:00:58.468917-05:00"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D01-398P",
       "Description": "Charcoal 6/4 lb",
@@ -271,7 +242,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "925",
+      "Available Qty.": "915",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -415,7 +386,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -646,7 +617,7 @@
       "new_since": "2026-10-30T16:15:20.540836-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -1030,7 +1001,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "12",
       "Item No.": "P06-115P",
       "Description": "Soup, Chicken and Rice, EZO Easy Open",
       "UOM": "CS",
