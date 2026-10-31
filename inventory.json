@@ -1,6 +1,6 @@
 {
-  "updated_at": "October 31, 2026 at 07:00 AM",
-  "updated_at_iso": "2026-10-31T07:00:53.047990-05:00",
+  "updated_at": "October 31, 2026 at 08:00 AM",
+  "updated_at_iso": "2026-10-31T08:00:58.485978-05:00",
   "item_count": 131,
   "items": [
     {
@@ -40,7 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -161,6 +161,16 @@
       "Gross Weight": "27"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D25-2075P",
+      "Description": "Breaded Mozzarella Sticks 8/10 oz",
+      "UOM": "CS",
+      "Pack Size": "8/10 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-10-31T08:00:58.468917-05:00"
+    },
+    {
       "Available Qty.": "423",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -197,7 +207,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "115",
       "Item No.": "D26-326P",
       "Description": "Caramel Syrup 6/22 oz",
       "UOM": "CS",
@@ -224,24 +234,14 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D05-830P",
-      "Description": "Cereal",
+      "Available Qty.": "2",
+      "Item No.": "D05-956P",
+      "Description": "Cereal 4/23.9 oz",
       "UOM": "CS",
-      "Pack Size": "60/2oz Cup",
+      "Pack Size": "4/23.9 oz",
       "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-10-30T11:01:06.375121-05:00"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D05-902P",
-      "Description": "Cereal, Cocoa Puffs",
-      "UOM": "CS",
-      "Pack Size": "96/1 oz",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "8",
+      "new_since": "2026-10-31T08:00:58.468917-05:00"
     },
     {
       "Available Qty.": "8",
@@ -289,15 +289,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "2085",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "97",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -305,6 +296,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "2085",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "383",
@@ -506,7 +506,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "2",
       "Item No.": "D03-1003P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -516,7 +516,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "5",
       "Item No.": "D03-738P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -974,7 +974,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D26-134P",
       "Description": "Sauce, Hot, Korean",
       "UOM": "CS",
@@ -1066,7 +1066,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "5",
       "Item No.": "D26-335P",
       "Description": "Spicy Brown Mustard 12/12 oz",
       "UOM": "CS",
@@ -1194,7 +1194,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D25-868P",
       "Description": "Water Chestnut",
       "UOM": "CS",
