@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 31, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-10-31T11:01:05.964664-05:00",
-  "item_count": 128,
+  "updated_at": "October 31, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-10-31T12:01:20.940414-05:00",
+  "item_count": 127,
   "items": [
     {
-      "Available Qty.": "0",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -350,7 +350,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D03-309P",
       "Description": "Coffee, Iced Flavored 6/.5 gal",
       "UOM": "CS",
@@ -487,7 +487,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "2",
       "Item No.": "D03-738P",
       "Description": "Hot Chocolate",
       "UOM": "CS",
@@ -602,8 +602,7 @@
       "UOM": "CS",
       "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-10-30T11:53:32.808679-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "26",
@@ -942,16 +941,6 @@
       "Pack Size": "24/14 oz can",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D26-134P",
-      "Description": "Sauce, Hot, Korean",
-      "UOM": "CS",
-      "Pack Size": "6/10 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "924",
