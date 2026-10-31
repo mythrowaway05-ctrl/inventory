@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 31, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-10-31T15:01:00.179203-05:00",
-  "item_count": 128,
+  "updated_at": "October 31, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-10-31T16:01:34.238053-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "48",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -38,16 +38,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "0",
@@ -242,7 +232,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "840",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -833,7 +823,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "3",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -851,7 +841,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "278",
+      "Available Qty.": "268",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -922,16 +912,6 @@
       "Pack Size": "24/5 oz",
       "Feature Type": "",
       "Gross Weight": "8"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D26-295P",
-      "Description": "Sauce, Cheese",
-      "UOM": "CS",
-      "Pack Size": "6/10 can",
-      "Feature Type": "",
-      "Gross Weight": "40",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "37",
@@ -1025,7 +1005,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D26-335P",
       "Description": "Spicy Brown Mustard 12/12 oz",
       "UOM": "CS",
