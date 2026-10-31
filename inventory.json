@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 31, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-10-31T12:01:20.940414-05:00",
+  "updated_at": "October 31, 2026 at 01:00 PM",
+  "updated_at_iso": "2026-10-31T13:00:58.172842-05:00",
   "item_count": 127,
   "items": [
     {
-      "Available Qty.": "48",
+      "Available Qty.": "43",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -615,7 +615,7 @@
       "new_since": "2026-10-30T16:15:20.540836-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -833,7 +833,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "49",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
