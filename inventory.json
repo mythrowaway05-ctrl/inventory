@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 31, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-10-31T05:01:03.990760-05:00",
-  "item_count": 138,
+  "updated_at": "October 31, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-10-31T06:01:02.126129-05:00",
+  "item_count": 132,
   "items": [
     {
       "Available Qty.": "48",
@@ -40,7 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -78,7 +78,7 @@
       "Gross Weight": "250"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "16",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -88,7 +88,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D26-334P",
       "Description": "Banana Peppers, Glass Jars 12/12 oz",
       "UOM": "CS",
@@ -361,26 +361,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D06-348P",
-      "Description": "Chili w/o Beans 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D06-019P",
-      "Description": "Chili with Beans",
-      "UOM": "CS",
-      "Pack Size": "12/40 oz",
-      "Feature Type": "",
-      "Gross Weight": "34",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
       "Available Qty.": "258",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
@@ -406,16 +386,6 @@
       "Pack Size": "6/.5 gal",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "27",
-      "Item No.": "D26-422P",
-      "Description": "Cooking Spray",
-      "UOM": "CS",
-      "Pack Size": "6/17 oz. cans",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "515",
@@ -463,7 +433,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D19-052P",
       "Description": "Foam Plates 16/130 ct",
       "UOM": "CS",
@@ -676,7 +646,7 @@
       "new_since": "2026-10-30T16:15:20.540836-05:00"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -875,7 +845,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D25-1140P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -885,17 +855,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D25-128P",
-      "Description": "Popcorn, Microwave",
-      "UOM": "CS",
-      "Pack Size": "12/3 pk.",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D25-1197P",
       "Description": "Popcorn, Microwave, Butter",
       "UOM": "CS",
@@ -950,7 +910,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D25-322P",
       "Description": "Pudding",
       "UOM": "CS",
@@ -1005,7 +965,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D26-295P",
       "Description": "Sauce, Cheese",
       "UOM": "CS",
@@ -1024,7 +984,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D26-134P",
       "Description": "Sauce, Hot, Korean",
       "UOM": "CS",
@@ -1061,7 +1021,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D25-2079P",
       "Description": "Slim Jim 6/120 ct",
       "UOM": "CS",
@@ -1116,7 +1076,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "9",
       "Item No.": "D26-335P",
       "Description": "Spicy Brown Mustard 12/12 oz",
       "UOM": "CS",
@@ -1160,16 +1120,6 @@
       "Pack Size": "12/5.25 oz box",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D25-036P",
-      "Description": "Sunflower Seeds",
-      "UOM": "CS",
-      "Pack Size": "12/5.25 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "91",
@@ -1244,16 +1194,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D15-143P",
-      "Description": "Vienna Sausage",
-      "UOM": "CS",
-      "Pack Size": "48/4.6 oz can",
-      "Feature Type": "",
-      "Gross Weight": "18",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
       "Available Qty.": "1",
       "Item No.": "D03-439P",
       "Description": "Water - BULK TOTE",
@@ -1264,7 +1204,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "1",
       "Item No.": "D25-868P",
       "Description": "Water Chestnut",
       "UOM": "CS",
