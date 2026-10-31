@@ -1,10 +1,10 @@
 {
-  "updated_at": "October 31, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-10-31T04:01:03.182618-05:00",
-  "item_count": 140,
+  "updated_at": "October 31, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-10-31T05:01:03.990760-05:00",
+  "item_count": 138,
   "items": [
     {
-      "Available Qty.": "47",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "14",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -22,7 +22,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "305",
+      "Available Qty.": "285",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -50,7 +50,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D01-373P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -78,7 +78,7 @@
       "Gross Weight": "250"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "20",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -88,17 +88,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "31",
-      "Item No.": "D26-598P",
-      "Description": "Assorted Spices and Condiments",
-      "UOM": "CS",
-      "Pack Size": "1/30lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
-      "Available Qty.": "3",
+      "Available Qty.": "2",
       "Item No.": "D26-334P",
       "Description": "Banana Peppers, Glass Jars 12/12 oz",
       "UOM": "CS",
@@ -308,7 +298,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "2091",
+      "Available Qty.": "2085",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -335,7 +325,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "462",
+      "Available Qty.": "456",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -942,7 +932,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "303",
+      "Available Qty.": "283",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -1078,16 +1068,6 @@
       "Pack Size": "6/120 ct",
       "Feature Type": "",
       "Gross Weight": "16",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-1779P",
-      "Description": "Slim Jim, Chicken Stick 7/3.92 oz",
-      "UOM": "CS",
-      "Pack Size": "7/3.92 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
@@ -1284,7 +1264,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "22",
       "Item No.": "D25-868P",
       "Description": "Water Chestnut",
       "UOM": "CS",
