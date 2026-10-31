@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 31, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-10-31T06:01:02.126129-05:00",
-  "item_count": 132,
+  "updated_at": "October 31, 2026 at 07:00 AM",
+  "updated_at_iso": "2026-10-31T07:00:53.047990-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "48",
@@ -40,7 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -88,7 +88,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D26-334P",
       "Description": "Banana Peppers, Glass Jars 12/12 oz",
       "UOM": "CS",
@@ -289,15 +289,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "2085",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -305,6 +296,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "383",
@@ -526,7 +526,7 @@
       "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
-      "Available Qty.": "458",
+      "Available Qty.": "453",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -646,7 +646,7 @@
       "new_since": "2026-10-30T16:15:20.540836-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "3",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -843,16 +843,6 @@
       "Pack Size": "16/20.3 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-1140P",
-      "Description": "Popcorn",
-      "UOM": "CS",
-      "Pack Size": "36/2.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
     },
     {
       "Available Qty.": "0",
