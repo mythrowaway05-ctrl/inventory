@@ -1,7 +1,7 @@
 {
-  "updated_at": "October 31, 2026 at 09:00 PM",
-  "updated_at_iso": "2026-10-31T21:00:54.487690-05:00",
-  "item_count": 125,
+  "updated_at": "October 31, 2026 at 10:00 PM",
+  "updated_at_iso": "2026-10-31T22:00:59.055057-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "48",
@@ -610,8 +610,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-10-30T21:01:06.722043-05:00"
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "526",
@@ -822,7 +821,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "73",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -838,6 +837,16 @@
       "Pack Size": "24/6 oz",
       "Feature Type": "",
       "Gross Weight": "11"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D28-767P",
+      "Description": "Potatoes, Sweet",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb Case",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-10-31T22:00:59.054460-05:00"
     },
     {
       "Available Qty.": "247",
