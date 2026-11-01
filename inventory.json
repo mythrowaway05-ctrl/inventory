@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 01, 2026 at 03:00 AM",
-  "updated_at_iso": "2026-11-01T03:00:48.811113-05:00",
-  "item_count": 125,
+  "updated_at": "November 01, 2026 at 03:27 AM",
+  "updated_at_iso": "2026-11-01T03:27:06.768002-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "48",
@@ -46,8 +46,7 @@
       "UOM": "BULK",
       "Pack Size": "1/458 lb",
       "Feature Type": "",
-      "Gross Weight": "458",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "458"
     },
     {
       "Available Qty.": "1",
@@ -65,8 +64,7 @@
       "UOM": "CS",
       "Pack Size": "1/30 lbs",
       "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "30"
     },
     {
       "Available Qty.": "0",
@@ -75,8 +73,7 @@
       "UOM": "CS",
       "Pack Size": "12/12 oz",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "371",
@@ -340,7 +337,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "12",
       "Item No.": "D03-309P",
       "Description": "Coffee, Iced Flavored 6/.5 gal",
       "UOM": "CS",
@@ -400,8 +397,7 @@
       "UOM": "CS",
       "Pack Size": "16/130 ct",
       "Feature Type": "",
-      "Gross Weight": "19",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "19"
     },
     {
       "Available Qty.": "404",
@@ -473,8 +469,7 @@
       "UOM": "CS",
       "Pack Size": "6/36.5 oz",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "2",
@@ -483,8 +478,7 @@
       "UOM": "CS",
       "Pack Size": "5/38.27 oz",
       "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "442",
@@ -557,6 +551,16 @@
       "Pack Size": "20/1 pt",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "3",
+      "Item No.": "D06-137P",
+      "Description": "Lunchables",
+      "UOM": "CS",
+      "Pack Size": "8/2.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-01T03:27:06.767406-05:00"
     },
     {
       "Available Qty.": "647",
@@ -808,8 +812,7 @@
       "UOM": "CS",
       "Pack Size": "36/3.3 oz bags",
       "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "9"
     },
     {
       "Available Qty.": "145",
@@ -873,8 +876,7 @@
       "UOM": "CS",
       "Pack Size": "48/3.5 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "2234",
@@ -964,8 +966,7 @@
       "UOM": "CS",
       "Pack Size": "6/120 ct",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "574",
@@ -1127,8 +1128,7 @@
       "UOM": "BULK",
       "Pack Size": "1/1000 Lb - BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "1000",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "1000"
     },
     {
       "Available Qty.": "0",
@@ -1137,8 +1137,7 @@
       "UOM": "CS",
       "Pack Size": "12/8 oz",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-10-31T03:01:01.546615-05:00"
+      "Gross Weight": "8"
     }
   ]
 }
