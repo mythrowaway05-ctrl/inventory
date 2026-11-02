@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 02, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-11-02T17:01:07.494643-05:00",
-  "item_count": 121,
+  "updated_at": "November 02, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-11-02T18:01:05.255841-05:00",
+  "item_count": 118,
   "items": [
     {
-      "Available Qty.": "33",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -31,7 +31,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "11",
       "Item No.": "D25-1405P",
       "Description": "Assorted Snacks",
       "UOM": "CS",
@@ -68,7 +68,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "635",
+      "Available Qty.": "634",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -104,7 +104,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "389",
+      "Available Qty.": "388",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -113,7 +113,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "632",
+      "Available Qty.": "631",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -185,7 +185,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "309",
+      "Available Qty.": "283",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -203,15 +203,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1970",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -219,6 +210,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "376",
@@ -248,7 +248,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "240",
+      "Available Qty.": "239",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -329,7 +329,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "62",
       "Item No.": "D03-651P",
       "Description": "Energy Drink",
       "UOM": "CS",
@@ -339,7 +339,7 @@
       "new_since": "2026-11-02T11:00:55.965425-05:00"
     },
     {
-      "Available Qty.": "300",
+      "Available Qty.": "299",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -393,7 +393,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "739",
+      "Available Qty.": "726",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -510,17 +510,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-118P",
-      "Description": "Milk, Buttermilk 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 Gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42",
-      "new_since": "2026-11-02T12:00:53.595229-05:00"
-    },
-    {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -558,7 +548,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "41",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -586,7 +576,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "304",
+      "Available Qty.": "303",
       "Item No.": "P11-061P",
       "Description": "Mix, Fudge Brownie",
       "UOM": "CS",
@@ -712,7 +702,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "404",
+      "Available Qty.": "403",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -881,16 +871,6 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D06-902P",
-      "Description": "Sausage Egg and Cheese Sandwich",
-      "UOM": "CS",
-      "Pack Size": "6/4 ct",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-02T17:01:07.493966-05:00"
-    },
-    {
       "Available Qty.": "1476",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
@@ -901,7 +881,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "12",
       "Item No.": "D03-681P",
       "Description": "Soda, Zero Sugar 24/20 oz",
       "UOM": "CS",
@@ -961,7 +941,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "471",
+      "Available Qty.": "472",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -991,17 +971,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-250P",
-      "Description": "Squash, Spaghetti 1/35 lb",
-      "UOM": "CS",
-      "Pack Size": "1/35 lb",
-      "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-11-02T10:01:15.677819-05:00"
-    },
-    {
-      "Available Qty.": "168",
+      "Available Qty.": "166",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
