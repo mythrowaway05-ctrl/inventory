@@ -1,16 +1,26 @@
 {
-  "updated_at": "November 02, 2026 at 03:00 PM",
-  "updated_at_iso": "2026-11-02T15:00:58.181388-05:00",
-  "item_count": 118,
+  "updated_at": "November 02, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-11-02T16:00:55.907073-05:00",
+  "item_count": 119,
   "items": [
     {
-      "Available Qty.": "43",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D13-165P",
+      "Description": "Assorted Cleaning Supplies - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/950 lbs",
+      "Feature Type": "",
+      "Gross Weight": "950",
+      "new_since": "2026-11-02T16:00:55.906465-05:00"
     },
     {
       "Available Qty.": "212",
@@ -130,7 +140,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "69",
       "Item No.": "D26-326P",
       "Description": "Caramel Syrup 6/22 oz",
       "UOM": "CS",
@@ -175,7 +185,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "309",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -329,7 +339,7 @@
       "new_since": "2026-11-02T11:00:55.965425-05:00"
     },
     {
-      "Available Qty.": "307",
+      "Available Qty.": "304",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -510,7 +520,7 @@
       "new_since": "2026-11-02T12:00:53.595229-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -548,7 +558,7 @@
       "Gross Weight": "42"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "49",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -881,7 +891,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "16",
       "Item No.": "D03-681P",
       "Description": "Soda, Zero Sugar 24/20 oz",
       "UOM": "CS",
