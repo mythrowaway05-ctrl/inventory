@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 03, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-11-03T07:01:05.613950-05:00",
-  "item_count": 128,
+  "updated_at": "November 03, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-11-03T08:01:01.842844-05:00",
+  "item_count": 126,
   "items": [
     {
-      "Available Qty.": "47",
+      "Available Qty.": "46",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -39,16 +39,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-009P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/150 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "150",
-      "new_since": "2026-11-03T06:00:57.563106-05:00"
     },
     {
       "Available Qty.": "0",
@@ -106,7 +96,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "858",
+      "Available Qty.": "857",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -205,7 +195,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "127",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -223,15 +213,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1970",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "97",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -241,7 +222,16 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "426",
+      "Available Qty.": "1970",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "424",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -259,7 +249,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "440",
+      "Available Qty.": "438",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -268,7 +258,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "P15-008P",
       "Description": "Chicken, Canned",
       "UOM": "CS",
@@ -277,7 +267,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "390",
+      "Available Qty.": "389",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -524,15 +514,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "100",
-      "Item No.": "D03-249P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "20/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
       "Available Qty.": "53",
       "Item No.": "D03-593P",
       "Description": "Lemonade",
@@ -541,6 +522,15 @@
       "Feature Type": "",
       "Gross Weight": "44",
       "new_since": "2026-11-03T03:01:08.833427-05:00"
+    },
+    {
+      "Available Qty.": "100",
+      "Item No.": "D03-249P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "20/1 pt",
+      "Feature Type": "",
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "643",
@@ -570,23 +560,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "16",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
       "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
       "Gross Weight": "14",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D07-323P",
-      "Description": "Milk, 2% 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
       "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
@@ -727,7 +707,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D13-194P",
       "Description": "Oven Cleaner 6/14.5 oz",
       "UOM": "CS",
@@ -746,7 +726,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D19-063P",
       "Description": "Paper Plates 8/20 ct",
       "UOM": "CS",
@@ -801,7 +781,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2573",
+      "Available Qty.": "2572",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -819,7 +799,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1409",
+      "Available Qty.": "1408",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
