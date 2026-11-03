@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 03, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-11-03T04:01:18.926771-05:00",
-  "item_count": 126,
+  "updated_at": "November 03, 2026 at 05:00 AM",
+  "updated_at_iso": "2026-11-03T05:00:56.865732-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "47",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-158P",
       "Description": "Assorted Cleaning Supplies - BULK",
       "UOM": "BULK",
@@ -23,7 +23,7 @@
       "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "156",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -303,7 +303,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "43",
       "Item No.": "D25-2081P",
       "Description": "Cookies 4/18.9 oz",
       "UOM": "CS",
@@ -349,7 +349,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "52",
       "Item No.": "D03-651P",
       "Description": "Energy Drink",
       "UOM": "CS",
@@ -368,7 +368,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "35",
       "Item No.": "D03-337P",
       "Description": "Gatorade 12/20 oz",
       "UOM": "CS",
@@ -387,7 +387,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2450",
+      "Available Qty.": "2400",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -433,7 +433,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "707",
+      "Available Qty.": "705",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -449,16 +449,6 @@
       "Pack Size": "8/16 oz can",
       "Feature Type": "",
       "Gross Weight": "9"
-    },
-    {
-      "Available Qty.": "8",
-      "Item No.": "D25-2082P",
-      "Description": "Hot Chips DISLAY 48/2.75 oz",
-      "UOM": "CS",
-      "Pack Size": "48/2.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
       "Available Qty.": "419",
@@ -772,7 +762,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "405",
+      "Available Qty.": "403",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -835,7 +825,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "198",
+      "Available Qty.": "183",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
