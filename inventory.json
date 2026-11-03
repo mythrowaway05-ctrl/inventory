@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 02, 2026 at 09:01 PM",
-  "updated_at_iso": "2026-11-02T21:01:02.119841-05:00",
-  "item_count": 117,
+  "updated_at": "November 02, 2026 at 10:00 PM",
+  "updated_at_iso": "2026-11-02T22:00:54.301405-05:00",
+  "item_count": 116,
   "items": [
     {
       "Available Qty.": "47",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "206",
+      "Available Qty.": "181",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -203,15 +203,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1970",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "97",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -219,6 +210,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1970",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "376",
@@ -357,7 +357,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "984",
+      "Available Qty.": "980",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -539,7 +539,7 @@
       "new_since": "2026-11-02T12:00:53.595229-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "5",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -931,7 +931,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "471",
+      "Available Qty.": "466",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1078,15 +1078,6 @@
       "Feature Type": "",
       "Gross Weight": "1200",
       "new_since": "2026-11-02T17:01:07.493966-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-439P",
-      "Description": "Water - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 Lb - BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "1000"
     }
   ]
 }
