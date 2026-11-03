@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 03, 2026 at 05:00 AM",
-  "updated_at_iso": "2026-11-03T05:00:56.865732-05:00",
-  "item_count": 125,
+  "updated_at": "November 03, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-03T06:00:57.642408-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "47",
@@ -39,6 +39,16 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-009P",
+      "Description": "Assorted Paper Goods - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/150 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "150",
+      "new_since": "2026-11-03T06:00:57.563106-05:00"
     },
     {
       "Available Qty.": "0",
@@ -213,15 +223,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "97",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1970",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -229,6 +230,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "97",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "426",
@@ -303,7 +313,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "33",
       "Item No.": "D25-2081P",
       "Description": "Cookies 4/18.9 oz",
       "UOM": "CS",
@@ -387,7 +397,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2400",
+      "Available Qty.": "2390",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -514,6 +524,15 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "100",
+      "Item No.": "D03-249P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "20/1 pt",
+      "Feature Type": "",
+      "Gross Weight": "26"
+    },
+    {
       "Available Qty.": "53",
       "Item No.": "D03-593P",
       "Description": "Lemonade",
@@ -522,15 +541,6 @@
       "Feature Type": "",
       "Gross Weight": "44",
       "new_since": "2026-11-03T03:01:08.833427-05:00"
-    },
-    {
-      "Available Qty.": "100",
-      "Item No.": "D03-249P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "20/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "26"
     },
     {
       "Available Qty.": "643",
@@ -717,6 +727,16 @@
       "Gross Weight": "13"
     },
     {
+      "Available Qty.": "5",
+      "Item No.": "D13-194P",
+      "Description": "Oven Cleaner 6/14.5 oz",
+      "UOM": "CS",
+      "Pack Size": "6/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-11-03T06:00:57.563106-05:00"
+    },
+    {
       "Available Qty.": "24",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
@@ -724,6 +744,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D19-063P",
+      "Description": "Paper Plates 8/20 ct",
+      "UOM": "CS",
+      "Pack Size": "8/20 ct",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-11-03T06:00:57.563106-05:00"
     },
     {
       "Available Qty.": "12",
@@ -780,7 +810,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "96",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -816,7 +846,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "288",
+      "Available Qty.": "280",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -852,7 +882,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1551",
+      "Available Qty.": "1545",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -951,7 +981,7 @@
       "new_since": "2026-11-02T11:00:55.965425-05:00"
     },
     {
-      "Available Qty.": "969",
+      "Available Qty.": "968",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -1041,7 +1071,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "129",
       "Item No.": "P11-001P",
       "Description": "Stuffing, Chicken",
       "UOM": "CS",
@@ -1101,7 +1131,7 @@
       "new_since": "2026-11-02T10:01:15.677819-05:00"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "76",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
@@ -1121,7 +1151,7 @@
       "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
-      "Available Qty.": "35",
+      "Available Qty.": "34",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
