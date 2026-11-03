@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 03, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-11-03T15:01:21.876165-05:00",
-  "item_count": 121,
+  "updated_at": "November 03, 2026 at 04:01 PM",
+  "updated_at_iso": "2026-11-03T16:01:02.763462-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "48",
@@ -51,7 +51,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -71,7 +71,7 @@
       "new_since": "2026-11-02T17:01:07.493966-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "7",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -81,7 +81,7 @@
       "new_since": "2026-11-03T13:51:05.278358-05:00"
     },
     {
-      "Available Qty.": "334",
+      "Available Qty.": "324",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -108,7 +108,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "624",
+      "Available Qty.": "614",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -126,7 +126,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "857",
+      "Available Qty.": "843",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -144,7 +144,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "11",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -271,7 +271,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "392",
+      "Available Qty.": "367",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -352,7 +352,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -370,7 +370,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "274",
+      "Available Qty.": "268",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -379,7 +379,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "25",
       "Item No.": "D03-337P",
       "Description": "Gatorade 12/20 oz",
       "UOM": "CS",
@@ -544,7 +544,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "639",
+      "Available Qty.": "636",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -562,16 +562,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "D07-1024P",
-      "Description": "Milk, Skim 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54"
-    },
-    {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -710,7 +701,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "420",
+      "Available Qty.": "418",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -720,7 +711,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "126",
+      "Available Qty.": "121",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -730,7 +721,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "454",
+      "Available Qty.": "453",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
       "UOM": "CS",
@@ -780,7 +771,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "1382",
+      "Available Qty.": "1377",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -820,7 +811,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "178",
+      "Available Qty.": "176",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -840,7 +831,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "2174",
+      "Available Qty.": "2172",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -850,7 +841,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "1519",
+      "Available Qty.": "1517",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -880,7 +871,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "527",
+      "Available Qty.": "522",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -910,7 +901,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "890",
+      "Available Qty.": "885",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -919,7 +910,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "188",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -1001,7 +992,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "514",
+      "Available Qty.": "511",
       "Item No.": "D03-1084P",
       "Description": "Sparkling Water, Flavored 8/12 oz",
       "UOM": "CS",
@@ -1116,16 +1107,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "663",
-      "Item No.": "D15-818P",
-      "Description": "Young Chickens",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-11-03T11:02:05.597263-05:00"
     }
   ]
 }
