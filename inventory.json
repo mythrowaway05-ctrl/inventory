@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 03, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-11-03T03:01:08.834148-05:00",
-  "item_count": 129,
+  "updated_at": "November 03, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-11-03T04:01:18.926771-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "47",
@@ -23,26 +23,6 @@
       "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D13-004P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/500 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-162P",
-      "Description": "Assorted Cleaning Supplies - BULKT TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/650 lbs",
-      "Feature Type": "",
-      "Gross Weight": "650",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
-    },
-    {
       "Available Qty.": "176",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -59,16 +39,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D01-240P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lbs",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
     },
     {
       "Available Qty.": "0",
@@ -554,15 +524,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "100",
-      "Item No.": "D03-249P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "20/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
       "Available Qty.": "53",
       "Item No.": "D03-593P",
       "Description": "Lemonade",
@@ -571,6 +532,15 @@
       "Feature Type": "",
       "Gross Weight": "44",
       "new_since": "2026-11-03T03:01:08.833427-05:00"
+    },
+    {
+      "Available Qty.": "100",
+      "Item No.": "D03-249P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "20/1 pt",
+      "Feature Type": "",
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "643",
