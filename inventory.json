@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 03, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-11-03T09:01:22.584863-05:00",
-  "item_count": 118,
+  "updated_at": "November 03, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-03T10:01:04.389301-05:00",
+  "item_count": 117,
   "items": [
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "1",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -32,7 +32,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "87",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
@@ -185,7 +185,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "88",
       "Item No.": "D25-1948P",
       "Description": "Chex Mix 8/2.5 oz",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "new_since": "2026-11-02T11:00:55.965425-05:00"
     },
     {
-      "Available Qty.": "294",
+      "Available Qty.": "288",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -358,7 +358,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2258",
+      "Available Qty.": "2223",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -542,7 +542,7 @@
       "new_since": "2026-11-02T12:00:53.595229-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -649,16 +649,6 @@
       "Pack Size": "12/14 oz bag",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D13-194P",
-      "Description": "Oven Cleaner 6/14.5 oz",
-      "UOM": "CS",
-      "Pack Size": "6/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-03T06:00:57.563106-05:00"
     },
     {
       "Available Qty.": "20",
