@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 04, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-11-04T13:01:10.425674-05:00",
-  "item_count": 113,
+  "updated_at": "November 04, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-11-04T14:01:33.221824-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "48",
@@ -95,7 +95,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "811",
+      "Available Qty.": "799",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -194,7 +194,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1884",
+      "Available Qty.": "1864",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -203,7 +203,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "342",
+      "Available Qty.": "339",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -266,7 +266,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "426",
+      "Available Qty.": "410",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "238",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -320,7 +320,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1788",
+      "Available Qty.": "1688",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -329,7 +329,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "931",
+      "Available Qty.": "915",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -410,7 +410,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "549",
+      "Available Qty.": "537",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -437,7 +437,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "188",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
       "UOM": "CS",
@@ -482,7 +482,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "129",
+      "Available Qty.": "92",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -492,7 +492,7 @@
       "new_since": "2026-11-04T11:01:21.642966-05:00"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "17",
       "Item No.": "D07-381P",
       "Description": "Milk, Chocolate 4/1 gal",
       "UOM": "CS",
@@ -512,7 +512,7 @@
       "new_since": "2026-11-04T13:01:10.425060-05:00"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "19",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -558,7 +558,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "302",
+      "Available Qty.": "286",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -693,7 +693,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2522",
+      "Available Qty.": "2510",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -801,7 +801,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "606",
+      "Available Qty.": "596",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -828,7 +828,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "847",
+      "Available Qty.": "835",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -957,16 +957,6 @@
       "new_since": "2026-11-03T18:01:10.227196-05:00"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "P11-048P",
-      "Description": "Stuffing, Turkey",
-      "UOM": "CS",
-      "Pack Size": "12/5.25 oz box",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-03T18:01:10.227196-05:00"
-    },
-    {
       "Available Qty.": "36",
       "Item No.": "P27-154P",
       "Description": "Sweet Potatoes, Light Syrup",
@@ -1006,7 +996,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "13",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
