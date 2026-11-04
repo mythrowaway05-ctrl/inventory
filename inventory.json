@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 04, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-04T02:01:02.928916-05:00",
-  "item_count": 119,
+  "updated_at": "November 04, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-11-04T03:01:00.856881-05:00",
+  "item_count": 134,
   "items": [
     {
       "Available Qty.": "0",
@@ -21,6 +21,16 @@
       "Pack Size": "1/40 lb",
       "Feature Type": "Free Item",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "748",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "51",
@@ -53,6 +63,16 @@
       "new_since": "2026-11-03T13:51:05.278358-05:00"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D13-168P",
+      "Description": "Assorted Cleaning Supplies - BULKTOTE 1/350 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lb",
+      "Feature Type": "",
+      "Gross Weight": "350",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
       "Available Qty.": "169",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -62,7 +82,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "119",
+      "Available Qty.": "126",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
@@ -145,6 +165,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "8",
+      "Item No.": "D06-217P",
+      "Description": "Black Bean and Corn Salad",
+      "UOM": "CS",
+      "Pack Size": "2/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
       "Available Qty.": "278",
       "Item No.": "P23-092P",
       "Description": "Black Beans, Dry Bag",
@@ -152,6 +182,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D08-214P",
+      "Description": "Blueberry Pie Filling",
+      "UOM": "CS",
+      "Pack Size": "8/21oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "0",
@@ -200,7 +240,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "20",
       "Item No.": "D26-326P",
       "Description": "Caramel Syrup 6/22 oz",
       "UOM": "CS",
@@ -335,6 +375,26 @@
       "Gross Weight": "5"
     },
     {
+      "Available Qty.": "5",
+      "Item No.": "D26-161P",
+      "Description": "Cooking Spray",
+      "UOM": "CS",
+      "Pack Size": "12/6 oz. can",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D26-250P",
+      "Description": "Cooking Spray",
+      "UOM": "CS",
+      "Pack Size": "12/5 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
       "Available Qty.": "446",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -342,6 +402,16 @@
       "Pack Size": "24/15 oz cans",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "138",
+      "Item No.": "D09-003P",
+      "Description": "Dressing, Ranch",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "855",
@@ -378,6 +448,16 @@
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D26-451P",
+      "Description": "Fountain and Shake Syrup",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal bottles",
+      "Feature Type": "Free Item",
+      "Gross Weight": "46",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "25",
@@ -461,6 +541,16 @@
       "Pack Size": "8/16 oz can",
       "Feature Type": "",
       "Gross Weight": "9"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D03-515P",
+      "Description": "Hot Chocolate",
+      "UOM": "CS",
+      "Pack Size": "54/11.04 oz",
+      "Feature Type": "",
+      "Gross Weight": "45",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "337",
@@ -812,7 +902,17 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "12",
+      "Item No.": "D27-835P",
+      "Description": "Potatoes, Sliced",
+      "UOM": "CS",
+      "Pack Size": "2/10 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
+      "Available Qty.": "149",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -820,6 +920,26 @@
       "Feature Type": "",
       "Gross Weight": "13",
       "new_since": "2026-11-03T12:01:22.575075-05:00"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D23-055P",
+      "Description": "Protein PB and Bean",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb box",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D18-217P",
+      "Description": "Protein Shake, Flavored 6/19.7 oz",
+      "UOM": "CS",
+      "Pack Size": "6/19.7 oz",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "813",
@@ -932,6 +1052,16 @@
       "new_since": "2026-11-03T18:01:10.227196-05:00"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "D03-681P",
+      "Description": "Soda, Zero Sugar 24/20 oz",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
       "Available Qty.": "966",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
@@ -1042,6 +1172,16 @@
       "new_since": "2026-11-03T18:01:10.227196-05:00"
     },
     {
+      "Available Qty.": "7",
+      "Item No.": "D25-1145P",
+      "Description": "Sunflower Seeds",
+      "UOM": "CS",
+      "Pack Size": "6/16 oz bag",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
+    },
+    {
       "Available Qty.": "36",
       "Item No.": "P27-154P",
       "Description": "Sweet Potatoes, Light Syrup",
@@ -1089,6 +1229,16 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D25-878P",
+      "Description": "Tortilla Chips",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "16",
