@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 04, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-11-04T03:01:00.856881-05:00",
+  "updated_at": "November 04, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-11-04T04:01:01.531323-05:00",
   "item_count": 134,
   "items": [
     {
@@ -14,7 +14,7 @@
       "new_since": "2026-11-03T17:01:06.644270-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "36",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -53,7 +53,7 @@
       "new_since": "2026-11-03T09:01:22.584228-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -63,7 +63,7 @@
       "new_since": "2026-11-03T13:51:05.278358-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-168P",
       "Description": "Assorted Cleaning Supplies - BULKTOTE 1/350 lb",
       "UOM": "BULK",
@@ -385,7 +385,7 @@
       "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "7",
       "Item No.": "D26-250P",
       "Description": "Cooking Spray",
       "UOM": "CS",
@@ -432,7 +432,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "43",
       "Item No.": "D03-651P",
       "Description": "Energy Drink",
       "UOM": "CS",
@@ -466,8 +466,7 @@
       "UOM": "CS",
       "Pack Size": "12/20 oz",
       "Feature Type": "",
-      "Gross Weight": "17",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
+      "Gross Weight": "17"
     },
     {
       "Available Qty.": "401",
@@ -479,14 +478,13 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1924",
+      "Available Qty.": "1922",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
       "Pack Size": "6/5.6 oz",
       "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
+      "Gross Weight": "3"
     },
     {
       "Available Qty.": "943",
@@ -622,8 +620,7 @@
       "UOM": "CS",
       "Pack Size": "9/.5 gal",
       "Feature Type": "",
-      "Gross Weight": "44",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
+      "Gross Weight": "44"
     },
     {
       "Available Qty.": "29",
@@ -932,7 +929,7 @@
       "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "4",
       "Item No.": "D18-217P",
       "Description": "Protein Shake, Flavored 6/19.7 oz",
       "UOM": "CS",
@@ -972,7 +969,7 @@
       "new_since": "2026-11-03T12:01:22.575075-05:00"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "63",
       "Item No.": "D03-130P",
       "Description": "Raspberry Chamomile Tea 12/18.5 oz. btls.",
       "UOM": "CS",
@@ -1088,8 +1085,7 @@
       "UOM": "CS",
       "Pack Size": "24/10.5 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-11-03T03:01:08.833427-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "472",
@@ -1172,7 +1168,7 @@
       "new_since": "2026-11-03T18:01:10.227196-05:00"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D25-1145P",
       "Description": "Sunflower Seeds",
       "UOM": "CS",
@@ -1231,7 +1227,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D25-878P",
       "Description": "Tortilla Chips",
       "UOM": "CS",
