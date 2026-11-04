@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 04, 2026 at 12:09 PM",
-  "updated_at_iso": "2026-11-04T12:09:59.412176-05:00",
-  "item_count": 112,
+  "updated_at": "November 04, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-11-04T13:01:10.425674-05:00",
+  "item_count": 113,
   "items": [
     {
-      "Available Qty.": "43",
+      "Available Qty.": "48",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "813",
+      "Available Qty.": "811",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -194,7 +194,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1892",
+      "Available Qty.": "1884",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -203,7 +203,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "346",
+      "Available Qty.": "342",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -284,7 +284,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -302,7 +302,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "252",
+      "Available Qty.": "248",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -329,7 +329,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "933",
+      "Available Qty.": "931",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -365,7 +365,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "543",
+      "Available Qty.": "555",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -492,7 +492,27 @@
       "new_since": "2026-11-04T11:01:21.642966-05:00"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "42",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-11-04T13:01:10.425060-05:00"
+    },
+    {
+      "Available Qty.": "54",
+      "Item No.": "D07-1024P",
+      "Description": "Milk, Skim 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-11-04T13:01:10.425060-05:00"
+    },
+    {
+      "Available Qty.": "51",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -538,7 +558,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "303",
+      "Available Qty.": "302",
       "Item No.": "P10-046P",
       "Description": "Mixed Fruit in Juice",
       "UOM": "CS",
@@ -610,7 +630,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "336",
+      "Available Qty.": "334",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -637,7 +657,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "121",
+      "Available Qty.": "112",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -655,7 +675,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "375",
       "Item No.": "P10-083P",
       "Description": "Peaches, Diced in Juice",
       "UOM": "CS",
@@ -691,7 +711,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1343",
+      "Available Qty.": "1341",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -718,23 +738,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "246",
+      "Available Qty.": "486",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
       "Pack Size": "24/6 oz",
       "Feature Type": "",
       "Gross Weight": "11"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D27-835P",
-      "Description": "Potatoes, Sliced",
-      "UOM": "CS",
-      "Pack Size": "2/10 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "144",
@@ -746,7 +756,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "769",
+      "Available Qty.": "765",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -987,7 +997,7 @@
       "new_since": "2026-11-03T18:01:10.227196-05:00"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "482",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
@@ -1014,7 +1024,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "155",
+      "Available Qty.": "324",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
