@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 04, 2026 at 03:01 PM",
-  "updated_at_iso": "2026-11-04T15:01:03.032747-05:00",
-  "item_count": 113,
+  "updated_at": "November 04, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-11-04T16:00:49.053499-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "48",
@@ -48,6 +48,16 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D25-1405P",
+      "Description": "Assorted Snacks",
+      "UOM": "CS",
+      "Pack Size": "1/30 lbs",
+      "Feature Type": "",
+      "Gross Weight": "30",
+      "new_since": "2026-11-04T16:00:49.053011-05:00"
     },
     {
       "Available Qty.": "314",
@@ -194,7 +204,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1864",
+      "Available Qty.": "1858",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -473,7 +483,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "41",
       "Item No.": "D07-169P",
       "Description": "Milk, 1% 4/1 gal",
       "UOM": "CS",
@@ -512,7 +522,7 @@
       "new_since": "2026-11-04T13:01:10.425060-05:00"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "50",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -520,16 +530,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "54",
       "new_since": "2026-11-04T13:01:10.425060-05:00"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-11-04T12:09:59.411493-05:00"
     },
     {
       "Available Qty.": "473",
@@ -746,6 +746,16 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "700",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5",
+      "new_since": "2026-11-04T16:00:49.053011-05:00"
     },
     {
       "Available Qty.": "486",
