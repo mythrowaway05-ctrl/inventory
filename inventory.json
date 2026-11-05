@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 05, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-11-05T09:01:03.959293-05:00",
-  "item_count": 122,
+  "updated_at": "November 05, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-05T10:01:02.125283-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "51",
@@ -186,7 +186,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "2",
       "Item No.": "D25-2085P",
       "Description": "Cheddar Puffs - BULK 1/230 lb",
       "UOM": "BULK",
@@ -205,7 +205,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1860",
+      "Available Qty.": "1851",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -360,7 +360,7 @@
       "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
-      "Available Qty.": "1258",
+      "Available Qty.": "1255",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -387,7 +387,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "445",
+      "Available Qty.": "540",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -443,7 +443,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "4",
       "Item No.": "D15-1187P",
       "Description": "Ham, Off Bone",
       "UOM": "CS",
@@ -782,7 +782,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "575",
+      "Available Qty.": "572",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -809,7 +809,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "26",
       "Item No.": "D01-401P",
       "Description": "Plastic Bowls 1/400 ct",
       "UOM": "CS",
@@ -1105,16 +1105,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D25-868P",
-      "Description": "Water Chestnut",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-11-05T07:01:04.643966-05:00"
     }
   ]
 }
