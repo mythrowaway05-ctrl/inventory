@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 05, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-11-05T12:01:00.817681-05:00",
-  "item_count": 119,
+  "updated_at": "November 05, 2026 at 01:16 PM",
+  "updated_at_iso": "2026-11-05T13:16:26.838005-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "51",
@@ -112,7 +112,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "598",
+      "Available Qty.": "594",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -130,7 +130,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "36",
       "Item No.": "D25-1673P",
       "Description": "Candy, Gushers",
       "UOM": "CS",
@@ -294,7 +294,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "185",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -321,7 +321,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "544",
+      "Available Qty.": "534",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -350,7 +350,7 @@
       "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
-      "Available Qty.": "1247",
+      "Available Qty.": "1197",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -377,7 +377,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "536",
+      "Available Qty.": "520",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -559,11 +559,10 @@
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-11-04T13:01:10.425060-05:00"
+      "Gross Weight": "54"
     },
     {
-      "Available Qty.": "366",
+      "Available Qty.": "361",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -781,7 +780,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "22",
       "Item No.": "D01-401P",
       "Description": "Plastic Bowls 1/400 ct",
       "UOM": "CS",
@@ -800,7 +799,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "110",
+      "Item No.": "D28-223P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5",
+      "new_since": "2026-11-04T16:00:49.053011-05:00"
+    },
+    {
+      "Available Qty.": "3",
       "Item No.": "D28-581P",
       "Description": "Potatoes - BULK",
       "UOM": "BULK",
@@ -918,7 +927,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1432",
+      "Available Qty.": "1428",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
