@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 04, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-11-04T20:01:10.607003-05:00",
-  "item_count": 114,
+  "updated_at": "November 04, 2026 at 09:00 PM",
+  "updated_at_iso": "2026-11-04T21:00:58.349776-05:00",
+  "item_count": 113,
   "items": [
     {
-      "Available Qty.": "48",
+      "Available Qty.": "23",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -492,7 +492,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "0",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -728,7 +728,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "680",
+      "Available Qty.": "280",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -989,16 +989,6 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D25-878P",
-      "Description": "Tortilla Chips",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-11-04T03:01:00.856312-05:00"
     },
     {
       "Available Qty.": "13",
