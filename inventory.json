@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 05, 2026 at 04:09 PM",
-  "updated_at_iso": "2026-11-05T16:09:57.754087-05:00",
-  "item_count": 120,
+  "updated_at": "November 05, 2026 at 04:44 PM",
+  "updated_at_iso": "2026-11-05T16:44:56.432374-05:00",
+  "item_count": 119,
   "items": [
-    {
-      "Available Qty.": "692",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "51",
       "Item No.": "P10-003P",
@@ -20,6 +11,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "692",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "137",
@@ -358,7 +358,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "188",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
@@ -468,7 +468,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "36",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -496,15 +496,6 @@
       "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D03-249P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "20/1 pt",
-      "Feature Type": "",
-      "Gross Weight": "26"
-    },
-    {
       "Available Qty.": "629",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
@@ -521,16 +512,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D07-706P",
-      "Description": "Milk, Flavored 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
       "Available Qty.": "8",
@@ -661,7 +642,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -789,7 +770,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D28-580P",
       "Description": "Potatoes - BULK",
       "UOM": "BULK",
@@ -799,7 +780,7 @@
       "new_since": "2026-11-05T16:09:57.753469-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "3",
       "Item No.": "D28-581P",
       "Description": "Potatoes - BULK",
       "UOM": "BULK",
@@ -890,7 +871,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "9",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -926,7 +907,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "132",
+      "Available Qty.": "259",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
@@ -934,6 +915,16 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-05T15:01:03.061943-05:00"
+    },
+    {
+      "Available Qty.": "450",
+      "Item No.": "D03-080P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "18/12 oz",
+      "Feature Type": "Discounted Item",
+      "Gross Weight": "16",
+      "new_since": "2026-11-05T16:44:56.431788-05:00"
     },
     {
       "Available Qty.": "965",
@@ -1062,7 +1053,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "10",
       "Item No.": "P26-043P",
       "Description": "Turkey Gravy",
       "UOM": "CS",
