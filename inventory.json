@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 05, 2026 at 04:44 PM",
-  "updated_at_iso": "2026-11-05T16:44:56.432374-05:00",
-  "item_count": 119,
+  "updated_at": "November 05, 2026 at 05:00 PM",
+  "updated_at_iso": "2026-11-05T17:00:59.147048-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "51",
@@ -121,7 +121,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "130",
+      "Available Qty.": "125",
       "Item No.": "P26-054P",
       "Description": "Broth, Chicken",
       "UOM": "CS",
@@ -311,7 +311,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "514",
+      "Available Qty.": "504",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -340,7 +340,7 @@
       "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
-      "Available Qty.": "1197",
+      "Available Qty.": "1187",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -367,14 +367,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "515",
+      "Available Qty.": "475",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
       "Pack Size": "12/32 oz",
       "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-11-04T17:00:58.558111-05:00"
+      "Gross Weight": "25"
     },
     {
       "Available Qty.": "330",
@@ -670,7 +669,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "384",
+      "Available Qty.": "364",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -742,23 +741,13 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "655",
+      "Available Qty.": "654",
       "Item No.": "D29-161P",
       "Description": "Pizza Crust",
       "UOM": "CS",
       "Pack Size": "16/20.3 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D01-401P",
-      "Description": "Plastic Bowls 1/400 ct",
-      "UOM": "CS",
-      "Pack Size": "1/400 ct",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
       "Available Qty.": "84",
@@ -768,16 +757,6 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "3",
-      "Item No.": "D28-580P",
-      "Description": "Potatoes - BULK",
-      "UOM": "BULK",
-      "Pack Size": "100/5 lbs",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-05T16:09:57.753469-05:00"
     },
     {
       "Available Qty.": "3",
@@ -817,7 +796,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2112",
+      "Available Qty.": "2092",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -826,7 +805,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1449",
+      "Available Qty.": "1424",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -898,7 +877,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1424",
+      "Available Qty.": "1414",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
