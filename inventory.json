@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 06, 2026 at 03:49 AM",
-  "updated_at_iso": "2026-11-06T03:49:06.769736-05:00",
+  "updated_at": "November 06, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-11-06T04:01:12.493699-05:00",
   "item_count": 155,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D13-163P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -32,7 +32,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D13-157P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -42,7 +42,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D13-164P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -70,7 +70,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D01-358P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -80,7 +80,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "3",
       "Item No.": "D01-240P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -90,7 +90,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D19-005P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
@@ -100,7 +100,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D19-006P",
       "Description": "Assorted Paper Goods - BULK TOTE",
       "UOM": "BULK",
@@ -266,8 +266,7 @@
       "UOM": "CS",
       "Pack Size": "6/34 oz",
       "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "15"
     },
     {
       "Available Qty.": "124",
@@ -447,8 +446,7 @@
       "UOM": "CS",
       "Pack Size": "6/9 oz",
       "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "51",
@@ -476,8 +474,7 @@
       "UOM": "CS",
       "Pack Size": "4/3 lb",
       "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "13"
     },
     {
       "Available Qty.": "1056",
@@ -543,14 +540,13 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D25-2083P",
       "Description": "Gushers 6/30 oz",
       "UOM": "CS",
       "Pack Size": "6/30 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "357",
@@ -641,8 +637,7 @@
       "UOM": "BULK",
       "Pack Size": "1/615 lb",
       "Feature Type": "",
-      "Gross Weight": "615",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "615"
     },
     {
       "Available Qty.": "193",
@@ -778,8 +773,7 @@
       "UOM": "BAG",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "243",
@@ -797,8 +791,7 @@
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "",
-      "Gross Weight": "50",
-      "new_since": "2026-11-05T04:01:03.543510-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "274",
