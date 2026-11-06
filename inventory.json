@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 05, 2026 at 07:00 PM",
-  "updated_at_iso": "2026-11-05T19:00:58.987941-05:00",
+  "updated_at": "November 05, 2026 at 08:00 PM",
+  "updated_at_iso": "2026-11-05T20:00:52.766108-05:00",
   "item_count": 118,
   "items": [
-    {
-      "Available Qty.": "692",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "51",
       "Item No.": "P10-003P",
@@ -20,6 +11,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "692",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "134",
@@ -101,16 +101,6 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
-    },
-    {
-      "Available Qty.": "13",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-11-05T19:00:58.987340-05:00"
     },
     {
       "Available Qty.": "338",
@@ -249,7 +239,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "902",
+      "Available Qty.": "896",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -312,7 +302,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "176",
+      "Available Qty.": "166",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -377,7 +367,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "472",
+      "Available Qty.": "460",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -386,7 +376,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "330",
+      "Available Qty.": "320",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -521,6 +511,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D07-1001P",
+      "Description": "Milk, 2% 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-11-05T20:00:52.765511-05:00"
     },
     {
       "Available Qty.": "8",
@@ -679,7 +679,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "364",
+      "Available Qty.": "359",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -833,7 +833,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "96",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -896,7 +896,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "251",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
@@ -1024,7 +1024,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "16",
       "Item No.": "P19-005P",
       "Description": "Toilet Tissue",
       "UOM": "CS",
