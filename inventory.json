@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 06, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-11-06T04:01:12.493699-05:00",
-  "item_count": 155,
+  "updated_at": "November 06, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-11-06T05:01:13.471546-05:00",
+  "item_count": 148,
   "items": [
     {
       "Available Qty.": "692",
@@ -22,36 +22,6 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D13-163P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/700 lbs",
-      "Feature Type": "",
-      "Gross Weight": "700",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-157P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/750 lbs",
-      "Feature Type": "",
-      "Gross Weight": "750",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-164P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/800 lbs",
-      "Feature Type": "",
-      "Gross Weight": "800",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "134",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
@@ -70,17 +40,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D01-358P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/160 lb",
-      "Feature Type": "",
-      "Gross Weight": "160",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D01-240P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -90,27 +50,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D19-005P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/100 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "100",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D19-006P",
-      "Description": "Assorted Paper Goods - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/140 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "140",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D20-003P",
       "Description": "Assorted Personal Hygeine Items - BULK TOTE 1/580 lb",
       "UOM": "BULK",
@@ -184,7 +124,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "43",
       "Item No.": "D29-127P",
       "Description": "Biscuits Dough",
       "UOM": "CS",
@@ -213,7 +153,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "54",
       "Item No.": "D15-176P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -250,7 +190,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "0",
       "Item No.": "D07-707P",
       "Description": "Butter, Salted",
       "UOM": "CS",
@@ -332,7 +272,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "286",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -413,7 +353,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -449,7 +389,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "36",
       "Item No.": "D03-884P",
       "Description": "Gatorade",
       "UOM": "CS",
@@ -640,16 +580,6 @@
       "Gross Weight": "615"
     },
     {
-      "Available Qty.": "193",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "36",
       "Item No.": "D03-830P",
       "Description": "Lemonade",
@@ -657,6 +587,16 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
+    },
+    {
+      "Available Qty.": "193",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36",
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
@@ -670,7 +610,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "112",
+      "Available Qty.": "111",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -690,17 +630,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "28",
-      "Item No.": "D06-218P",
-      "Description": "Lunchables",
-      "UOM": "CS",
-      "Pack Size": "12/1.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "34",
+      "Available Qty.": "11",
       "Item No.": "D15-110P",
       "Description": "Lunchmeat 6/16 oz",
       "UOM": "CS",
@@ -710,7 +640,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "46",
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -767,7 +697,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "45",
       "Item No.": "D11-119P",
       "Description": "Mix, Cake",
       "UOM": "BAG",
@@ -785,7 +715,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "4",
       "Item No.": "D11-149P",
       "Description": "Mix, Donut 1/50 lb",
       "UOM": "CS",
@@ -993,7 +923,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "3",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -1032,7 +962,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "100",
+      "Available Qty.": "98",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1105,7 +1035,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "79",
       "Item No.": "D28-463P",
       "Description": "Romaine Hearts",
       "UOM": "CS",
@@ -1115,7 +1045,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "15",
       "Item No.": "D15-706P",
       "Description": "Salami",
       "UOM": "CS",
@@ -1161,7 +1091,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "10",
       "Item No.": "D15-1189P",
       "Description": "Sausage, Breakfast",
       "UOM": "CS",
@@ -1200,7 +1130,7 @@
       "new_since": "2026-11-05T15:01:03.061943-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "25",
       "Item No.": "D15-444P",
       "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
       "UOM": "CS",
@@ -1210,7 +1140,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "576",
+      "Available Qty.": "574",
       "Item No.": "D03-080P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1220,7 +1150,7 @@
       "new_since": "2026-11-05T16:44:56.431788-05:00"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "257",
       "Item No.": "D03-170P",
       "Description": "Soda 12/16.9 oz",
       "UOM": "CS",
@@ -1368,7 +1298,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "53",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1414,7 +1344,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
