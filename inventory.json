@@ -1,8 +1,18 @@
 {
-  "updated_at": "November 06, 2026 at 06:00 AM",
-  "updated_at_iso": "2026-11-06T06:00:54.505249-05:00",
-  "item_count": 144,
+  "updated_at": "November 06, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-11-06T07:01:02.250225-05:00",
+  "item_count": 147,
   "items": [
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-936P",
+      "Description": "Apples",
+      "UOM": "CS",
+      "Pack Size": "1/40 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-11-06T07:01:02.249107-05:00"
+    },
     {
       "Available Qty.": "51",
       "Item No.": "P10-003P",
@@ -70,6 +80,16 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D12-384P",
+      "Description": "Baby Wipes 9/40 ct",
+      "UOM": "CS",
+      "Pack Size": "9/40 ct",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-06T07:01:02.249107-05:00"
+    },
+    {
       "Available Qty.": "264",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -124,16 +144,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "23",
-      "Item No.": "D29-127P",
-      "Description": "Biscuits Dough",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "278",
       "Item No.": "P23-092P",
       "Description": "Black Beans, Dry Bag",
@@ -153,7 +163,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "0",
       "Item No.": "D15-176P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -244,15 +254,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1843",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "77",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -260,6 +261,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1843",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "286",
@@ -323,6 +333,16 @@
       "Pack Size": "10/8 oz",
       "Feature Type": "",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D25-2081P",
+      "Description": "Cookies 4/18.9 oz",
+      "UOM": "CS",
+      "Pack Size": "4/18.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-06T07:01:02.249107-05:00"
     },
     {
       "Available Qty.": "373",
@@ -434,7 +454,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "441",
+      "Available Qty.": "420",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -488,7 +508,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "325",
+      "Available Qty.": "328",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -570,16 +590,6 @@
       "Gross Weight": "615"
     },
     {
-      "Available Qty.": "36",
-      "Item No.": "D03-830P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "6/52 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "193",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
@@ -590,7 +600,17 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "26",
+      "Item No.": "D03-830P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "6/52 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
+    },
+    {
+      "Available Qty.": "76",
       "Item No.": "D28-567P",
       "Description": "Lettuce, Iceburg",
       "UOM": "CS",
@@ -600,7 +620,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "106",
+      "Available Qty.": "103",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -610,7 +630,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "78",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -620,7 +640,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "0",
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -658,7 +678,7 @@
       "new_since": "2026-11-05T20:00:52.765511-05:00"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "30",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -677,7 +697,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "44",
       "Item No.": "D11-119P",
       "Description": "Mix, Cake",
       "UOM": "BAG",
@@ -785,7 +805,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "40",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -903,6 +923,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
+    },
+    {
       "Available Qty.": "3",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
@@ -910,16 +940,6 @@
       "Pack Size": "1/5 Lb bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
@@ -942,7 +962,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "75",
+      "Available Qty.": "90",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1015,7 +1035,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "66",
       "Item No.": "D28-463P",
       "Description": "Romaine Hearts",
       "UOM": "CS",
@@ -1090,7 +1110,7 @@
       "new_since": "2026-11-05T15:01:03.061943-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "0",
       "Item No.": "D15-444P",
       "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
       "UOM": "CS",
@@ -1258,7 +1278,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "47",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1304,7 +1324,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
@@ -1330,6 +1350,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D25-868P",
+      "Description": "Water Chestnut",
+      "UOM": "CS",
+      "Pack Size": "12/8 oz",
+      "Feature Type": "",
+      "Gross Weight": "8",
+      "new_since": "2026-11-05T07:01:04.643966-05:00"
     }
   ]
 }
