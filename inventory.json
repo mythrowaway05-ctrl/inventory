@@ -1,18 +1,8 @@
 {
-  "updated_at": "November 06, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-11-06T07:01:02.250225-05:00",
-  "item_count": 147,
+  "updated_at": "November 06, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-11-06T08:01:02.454658-05:00",
+  "item_count": 143,
   "items": [
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-936P",
-      "Description": "Apples",
-      "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-11-06T07:01:02.249107-05:00"
-    },
     {
       "Available Qty.": "51",
       "Item No.": "P10-003P",
@@ -23,7 +13,7 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "692",
+      "Available Qty.": "685",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -78,16 +68,6 @@
       "Feature Type": "",
       "Gross Weight": "700",
       "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D12-384P",
-      "Description": "Baby Wipes 9/40 ct",
-      "UOM": "CS",
-      "Pack Size": "9/40 ct",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-06T07:01:02.249107-05:00"
     },
     {
       "Available Qty.": "264",
@@ -209,7 +189,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "121",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -335,16 +315,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-2081P",
-      "Description": "Cookies 4/18.9 oz",
-      "UOM": "CS",
-      "Pack Size": "4/18.9 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-06T07:01:02.249107-05:00"
-    },
-    {
       "Available Qty.": "373",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
@@ -436,7 +406,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "899",
+      "Available Qty.": "895",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -454,7 +424,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "420",
+      "Available Qty.": "419",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -620,7 +590,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "90",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -678,7 +648,7 @@
       "new_since": "2026-11-05T20:00:52.765511-05:00"
     },
     {
-      "Available Qty.": "30",
+      "Available Qty.": "24",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -805,7 +775,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "43",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -962,7 +932,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "98",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1035,7 +1005,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "61",
       "Item No.": "D28-463P",
       "Description": "Romaine Hearts",
       "UOM": "CS",
@@ -1063,7 +1033,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "833",
+      "Available Qty.": "829",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1205,7 +1175,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "654",
+      "Available Qty.": "651",
       "Item No.": "P06-029P",
       "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
       "UOM": "CS",
@@ -1278,7 +1248,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "37",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1350,16 +1320,6 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D25-868P",
-      "Description": "Water Chestnut",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-11-05T07:01:04.643966-05:00"
     }
   ]
 }
