@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 06, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-11-06T12:01:14.656712-05:00",
-  "item_count": 126,
+  "updated_at": "November 06, 2026 at 01:10 PM",
+  "updated_at_iso": "2026-11-06T13:10:19.315512-05:00",
+  "item_count": 123,
   "items": [
-    {
-      "Available Qty.": "47",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "679",
       "Item No.": "P10-090P",
@@ -20,6 +11,15 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "47",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "96/4.5 oz cups",
+      "Feature Type": "",
+      "Gross Weight": "29"
     },
     {
       "Available Qty.": "124",
@@ -276,7 +276,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "352",
+      "Available Qty.": "349",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -294,7 +294,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "9",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "142",
+      "Available Qty.": "138",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -357,7 +357,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "895",
+      "Available Qty.": "892",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -402,7 +402,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "885",
+      "Available Qty.": "881",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -465,7 +465,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "506",
+      "Available Qty.": "500",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -511,16 +511,6 @@
       "Gross Weight": "615"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D03-830P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "6/52 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "189",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
@@ -531,7 +521,17 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "15",
+      "Item No.": "D03-830P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "6/52 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
+    },
+    {
+      "Available Qty.": "2",
       "Item No.": "D28-567P",
       "Description": "Lettuce, Iceburg",
       "UOM": "CS",
@@ -541,7 +541,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "31",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -579,17 +579,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -716,7 +706,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "20",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -780,7 +770,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "163",
+      "Available Qty.": "162",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -789,7 +779,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2481",
+      "Available Qty.": "2475",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -834,7 +824,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D28-581P",
       "Description": "Potatoes - BULK",
       "UOM": "BULK",
@@ -844,7 +834,7 @@
       "new_since": "2026-11-06T12:01:14.656080-05:00"
     },
     {
-      "Available Qty.": "477",
+      "Available Qty.": "471",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -853,7 +843,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "74",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -908,23 +898,13 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "569",
+      "Available Qty.": "565",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "32",
-      "Item No.": "D28-463P",
-      "Description": "Romaine Hearts",
-      "UOM": "CS",
-      "Pack Size": "8/3 ct",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
       "Available Qty.": "470",
@@ -1056,7 +1036,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "447",
+      "Available Qty.": "441",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1090,16 +1070,6 @@
       "Pack Size": "24/15 oz",
       "Feature Type": "",
       "Gross Weight": "23"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D03-701P",
-      "Description": "Tea, Sweet",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
       "Available Qty.": "16",
