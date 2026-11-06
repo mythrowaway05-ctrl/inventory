@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 05, 2026 at 06:00 PM",
-  "updated_at_iso": "2026-11-05T18:00:54.132973-05:00",
+  "updated_at": "November 05, 2026 at 07:00 PM",
+  "updated_at_iso": "2026-11-05T19:00:58.987941-05:00",
   "item_count": 118,
   "items": [
-    {
-      "Available Qty.": "51",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "692",
       "Item No.": "P10-090P",
@@ -22,7 +13,16 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "51",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "96/4.5 oz cups",
+      "Feature Type": "",
+      "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "134",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -31,7 +31,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "83",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
@@ -101,6 +101,16 @@
       "Pack Size": "24/16 oz",
       "Feature Type": "",
       "Gross Weight": "27"
+    },
+    {
+      "Available Qty.": "13",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-11-05T19:00:58.987340-05:00"
     },
     {
       "Available Qty.": "338",
@@ -176,16 +186,6 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D25-1948P",
-      "Description": "Chex Mix 8/2.5 oz",
-      "UOM": "CS",
-      "Pack Size": "8/2.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-11-05T18:00:54.132371-05:00"
-    },
-    {
       "Available Qty.": "11",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -213,7 +213,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "295",
+      "Available Qty.": "291",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -240,7 +240,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "313",
+      "Available Qty.": "312",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -276,7 +276,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "373",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -312,7 +312,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "179",
+      "Available Qty.": "176",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -350,7 +350,7 @@
       "new_since": "2026-11-05T04:01:03.543510-05:00"
     },
     {
-      "Available Qty.": "1187",
+      "Available Qty.": "1177",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -359,7 +359,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "903",
+      "Available Qty.": "899",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -377,7 +377,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "475",
+      "Available Qty.": "472",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -579,7 +579,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "123",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
