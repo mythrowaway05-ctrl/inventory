@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 06, 2026 at 01:10 PM",
-  "updated_at_iso": "2026-11-06T13:10:19.315512-05:00",
-  "item_count": 123,
+  "updated_at": "November 06, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-11-06T14:01:01.231666-05:00",
+  "item_count": 126,
   "items": [
     {
       "Available Qty.": "679",
@@ -20,6 +20,26 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D13-190P",
+      "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/600 lb",
+      "Feature Type": "",
+      "Gross Weight": "600",
+      "new_since": "2026-11-06T14:01:01.230919-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D13-162P",
+      "Description": "Assorted Cleaning Supplies - BULKT TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/650 lbs",
+      "Feature Type": "",
+      "Gross Weight": "650",
+      "new_since": "2026-11-06T14:01:01.230919-05:00"
     },
     {
       "Available Qty.": "124",
@@ -231,7 +251,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "420",
+      "Available Qty.": "418",
       "Item No.": "P15-104P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -294,7 +314,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -348,7 +368,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "1001",
+      "Available Qty.": "991",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -511,16 +531,6 @@
       "Gross Weight": "615"
     },
     {
-      "Available Qty.": "189",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "15",
       "Item No.": "D03-830P",
       "Description": "Lemonade",
@@ -531,7 +541,17 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "189",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
+    },
+    {
+      "Available Qty.": "4",
       "Item No.": "D28-567P",
       "Description": "Lettuce, Iceburg",
       "UOM": "CS",
@@ -541,7 +561,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "31",
+      "Available Qty.": "33",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -706,7 +726,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "7",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -843,7 +863,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "74",
+      "Available Qty.": "64",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -871,7 +891,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2080",
+      "Available Qty.": "2074",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -880,7 +900,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1409",
+      "Available Qty.": "1403",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1106,6 +1126,16 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D15-1188P",
+      "Description": "Turkeys",
+      "UOM": "CS",
+      "Pack Size": "2/20-24 lb",
+      "Feature Type": "",
+      "Gross Weight": "44",
+      "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
       "Available Qty.": "313",
