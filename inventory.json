@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 06, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-11-06T05:01:13.471546-05:00",
-  "item_count": 148,
+  "updated_at": "November 06, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-06T06:00:54.505249-05:00",
+  "item_count": 144,
   "items": [
-    {
-      "Available Qty.": "692",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "51",
       "Item No.": "P10-003P",
@@ -20,6 +11,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "692",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "134",
@@ -124,7 +124,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "23",
       "Item No.": "D29-127P",
       "Description": "Biscuits Dough",
       "UOM": "CS",
@@ -153,7 +153,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "42",
       "Item No.": "D15-176P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -188,16 +188,6 @@
       "Pack Size": "12/32 oz",
       "Feature Type": "",
       "Gross Weight": "24"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-707P",
-      "Description": "Butter, Salted",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
       "Available Qty.": "21",
@@ -353,7 +343,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -389,7 +379,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "36",
+      "Available Qty.": "0",
       "Item No.": "D03-884P",
       "Description": "Gatorade",
       "UOM": "CS",
@@ -600,7 +590,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "77",
       "Item No.": "D28-567P",
       "Description": "Lettuce, Iceburg",
       "UOM": "CS",
@@ -610,7 +600,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "106",
       "Item No.": "D28-872P",
       "Description": "Lettuce, Romaine",
       "UOM": "CS",
@@ -630,17 +620,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D15-110P",
-      "Description": "Lunchmeat 6/16 oz",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "46",
+      "Available Qty.": "8",
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -678,7 +658,7 @@
       "new_since": "2026-11-05T20:00:52.765511-05:00"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "33",
       "Item No.": "D07-1075P",
       "Description": "Milk, Chocolate 9/.5 gal",
       "UOM": "CS",
@@ -962,7 +942,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "75",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1035,23 +1015,13 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "69",
       "Item No.": "D28-463P",
       "Description": "Romaine Hearts",
       "UOM": "CS",
       "Pack Size": "8/3 ct",
       "Feature Type": "",
       "Gross Weight": "10",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
-      "Available Qty.": "15",
-      "Item No.": "D15-706P",
-      "Description": "Salami",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
@@ -1091,16 +1061,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "10",
-      "Item No.": "D15-1189P",
-      "Description": "Sausage, Breakfast",
-      "UOM": "CS",
-      "Pack Size": "6/11.1 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-11-06T03:49:06.769135-05:00"
-    },
-    {
       "Available Qty.": "1414",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
@@ -1130,7 +1090,7 @@
       "new_since": "2026-11-05T15:01:03.061943-05:00"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "19",
       "Item No.": "D15-444P",
       "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
       "UOM": "CS",
@@ -1140,7 +1100,7 @@
       "new_since": "2026-11-06T03:49:06.769135-05:00"
     },
     {
-      "Available Qty.": "574",
+      "Available Qty.": "572",
       "Item No.": "D03-080P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1150,7 +1110,7 @@
       "new_since": "2026-11-05T16:44:56.431788-05:00"
     },
     {
-      "Available Qty.": "257",
+      "Available Qty.": "255",
       "Item No.": "D03-170P",
       "Description": "Soda 12/16.9 oz",
       "UOM": "CS",
@@ -1344,7 +1304,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
