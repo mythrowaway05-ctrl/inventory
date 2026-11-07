@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 07, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-11-07T07:01:02.584563-05:00",
-  "item_count": 123,
+  "updated_at": "November 07, 2026 at 08:01 AM",
+  "updated_at_iso": "2026-11-07T08:01:00.262919-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "47",
@@ -32,7 +32,7 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "67",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -122,7 +122,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "336",
+      "Available Qty.": "306",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
       "UOM": "CS",
@@ -131,7 +131,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "580",
+      "Available Qty.": "550",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -275,7 +275,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "331",
+      "Available Qty.": "211",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -309,15 +309,6 @@
       "Pack Size": "24/12 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "72",
-      "Item No.": "P06-003P",
-      "Description": "Entree, Mac and Cheese",
-      "UOM": "CS",
-      "Pack Size": "24/7.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "301",
@@ -366,7 +357,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "889",
+      "Available Qty.": "769",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -447,7 +438,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D07-648P",
       "Description": "Ice Cream - BULK",
       "UOM": "BULK",
@@ -474,7 +465,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "284",
+      "Available Qty.": "274",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -483,7 +474,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "23",
       "Item No.": "P14-003P",
       "Description": "Juice, Fruit Punch",
       "UOM": "CS",
@@ -594,7 +585,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "222",
+      "Available Qty.": "192",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -639,7 +630,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "80",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -765,7 +756,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2425",
+      "Available Qty.": "2365",
       "Item No.": "P23-009P",
       "Description": "Peanut Butter, Creamy",
       "UOM": "CS",
@@ -810,15 +801,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "40",
-      "Item No.": "D28-223P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5"
-    },
-    {
       "Available Qty.": "454",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
@@ -855,7 +837,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2067",
+      "Available Qty.": "2007",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -864,7 +846,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1340",
+      "Available Qty.": "1320",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -901,17 +883,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "P26-005P",
-      "Description": "Sauce, Cranberry UNRANKED",
-      "UOM": "CS",
-      "Pack Size": "24/14 oz can",
-      "Feature Type": "",
-      "Gross Weight": "27",
-      "new_since": "2026-11-06T16:53:40.680898-05:00"
-    },
-    {
-      "Available Qty.": "812",
+      "Available Qty.": "782",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -980,7 +952,7 @@
       "new_since": "2026-11-07T06:00:57.340531-05:00"
     },
     {
-      "Available Qty.": "963",
+      "Available Qty.": "943",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
       "UOM": "CS",
@@ -1020,7 +992,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "787",
+      "Available Qty.": "747",
       "Item No.": "P06-028P",
       "Description": "Soup, Tomato, RS Reduced Sodium",
       "UOM": "CS",
@@ -1040,7 +1012,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "399",
+      "Available Qty.": "339",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1087,16 +1059,6 @@
       "Pack Size": "24/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "26",
-      "new_since": "2026-11-06T16:53:40.680898-05:00"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "P26-043P",
-      "Description": "Turkey Gravy",
-      "UOM": "CS",
-      "Pack Size": "24/10.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "19",
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
