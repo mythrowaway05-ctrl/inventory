@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 07, 2026 at 10:17 AM",
-  "updated_at_iso": "2026-11-07T10:17:00.630995-05:00",
-  "item_count": 120,
+  "updated_at": "November 07, 2026 at 11:00 AM",
+  "updated_at_iso": "2026-11-07T11:00:59.475465-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "47",
@@ -50,7 +50,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "257",
+      "Available Qty.": "255",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -311,6 +311,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "P06-003P",
+      "Description": "Entree, Mac and Cheese",
+      "UOM": "CS",
+      "Pack Size": "24/7.25 oz",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-07T11:00:59.474863-05:00"
+    },
+    {
       "Available Qty.": "300",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
@@ -411,7 +421,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "356",
+      "Available Qty.": "355",
       "Item No.": "P15-101P",
       "Description": "Ham, Canned",
       "UOM": "CS",
@@ -510,7 +520,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "58",
+      "Available Qty.": "54",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -622,7 +632,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "99",
+      "Available Qty.": "98",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -739,7 +749,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "396",
+      "Available Qty.": "395",
       "Item No.": "P21-003P",
       "Description": "Pasta, Spaghetti, Whole Wheat",
       "UOM": "CS",
@@ -856,7 +866,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1320",
+      "Available Qty.": "1330",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -874,7 +884,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "542",
+      "Available Qty.": "543",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1062,7 +1072,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "471",
+      "Available Qty.": "470",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
       "UOM": "CS",
