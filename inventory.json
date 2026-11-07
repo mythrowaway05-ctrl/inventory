@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 07, 2026 at 05:01 PM",
-  "updated_at_iso": "2026-11-07T17:01:00.177489-05:00",
+  "updated_at": "November 07, 2026 at 06:00 PM",
+  "updated_at_iso": "2026-11-07T18:00:59.501274-05:00",
   "item_count": 122,
   "items": [
     {
@@ -48,6 +48,16 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D26-334P",
+      "Description": "Banana Peppers, Glass Jars 12/12 oz",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "16",
+      "new_since": "2026-11-07T18:00:59.484738-05:00"
     },
     {
       "Available Qty.": "255",
@@ -557,16 +567,6 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
-      "Available Qty.": "25",
-      "Item No.": "D07-381P",
-      "Description": "Milk, Chocolate 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-11-07T16:00:57.698254-05:00"
-    },
-    {
       "Available Qty.": "51",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -605,7 +605,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "45",
       "Item No.": "D11-119P",
       "Description": "Mix, Cake",
       "UOM": "BAG",
