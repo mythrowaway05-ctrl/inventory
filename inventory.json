@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 07, 2026 at 05:00 AM",
-  "updated_at_iso": "2026-11-07T05:00:58.341007-05:00",
+  "updated_at": "November 07, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-07T06:00:57.341116-05:00",
   "item_count": 125,
   "items": [
-    {
-      "Available Qty.": "661",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "47",
       "Item No.": "P10-003P",
@@ -22,14 +13,13 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
+      "Available Qty.": "661",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
-      "Pack Size": "1/20 lb",
+      "Pack Size": "12/14.5 oz",
       "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "1",
@@ -39,26 +29,6 @@
       "Pack Size": "1/1000 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "1000",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-189P",
-      "Description": "Assorted Cleaning Supplies - BULKTOTE 1/450 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/450 lb",
-      "Feature Type": "",
-      "Gross Weight": "450",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D13-188P",
-      "Description": "Assorted Cleaning Supplies - BULKTOTE 1/550 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/550 lb",
-      "Feature Type": "",
-      "Gross Weight": "550",
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
@@ -78,16 +48,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D19-016P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/130 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "130",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
       "Available Qty.": "257",
@@ -142,6 +102,16 @@
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D29-127P",
+      "Description": "Biscuits Dough",
+      "UOM": "CS",
+      "Pack Size": "12/16.3 oz",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-11-07T06:00:57.340531-05:00"
     },
     {
       "Available Qty.": "278",
@@ -216,7 +186,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "17",
       "Item No.": "D22-134P",
       "Description": "Cat Litter 6/7 lb",
       "UOM": "CS",
@@ -234,15 +204,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "75",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1780",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -250,6 +211,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "270",
@@ -279,7 +249,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "291",
+      "Available Qty.": "290",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -369,6 +339,16 @@
       "Gross Weight": "5"
     },
     {
+      "Available Qty.": "9",
+      "Item No.": "D03-337P",
+      "Description": "Gatorade 12/20 oz",
+      "UOM": "CS",
+      "Pack Size": "12/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "17",
+      "new_since": "2026-11-07T06:00:57.340531-05:00"
+    },
+    {
       "Available Qty.": "395",
       "Item No.": "P25-005P",
       "Description": "Graham Crackers",
@@ -387,7 +367,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "379",
+      "Available Qty.": "370",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -549,7 +529,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "58",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
       "UOM": "CS",
@@ -576,7 +556,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "49",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -867,7 +847,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "98",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -990,7 +970,17 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "2",
+      "Item No.": "D15-444P",
+      "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-11-07T06:00:57.340531-05:00"
+    },
+    {
+      "Available Qty.": "92",
       "Item No.": "D03-080P",
       "Description": "Soda",
       "UOM": "CS",
@@ -998,6 +988,16 @@
       "Feature Type": "Discounted Item",
       "Gross Weight": "16",
       "new_since": "2026-11-06T16:53:40.680898-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D03-170P",
+      "Description": "Soda 12/16.9 oz",
+      "UOM": "CS",
+      "Pack Size": "12/16.9 oz",
+      "Feature Type": "",
+      "Gross Weight": "15",
+      "new_since": "2026-11-07T06:00:57.340531-05:00"
     },
     {
       "Available Qty.": "963",
