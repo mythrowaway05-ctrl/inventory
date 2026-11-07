@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 07, 2026 at 09:00 AM",
-  "updated_at_iso": "2026-11-07T09:00:53.269707-05:00",
-  "item_count": 119,
+  "updated_at": "November 07, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-07T10:01:12.658370-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "47",
@@ -311,7 +311,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "301",
+      "Available Qty.": "300",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -420,7 +420,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "183",
+      "Available Qty.": "182",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
       "UOM": "CS",
@@ -557,7 +557,17 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "25",
+      "Item No.": "D07-603P",
+      "Description": "Milk, Whole 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-11-06T11:30:22.370421-05:00"
+    },
+    {
+      "Available Qty.": "96",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
