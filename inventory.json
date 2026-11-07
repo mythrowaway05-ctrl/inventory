@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 07, 2026 at 06:00 AM",
-  "updated_at_iso": "2026-11-07T06:00:57.341116-05:00",
-  "item_count": 125,
+  "updated_at": "November 07, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-11-07T07:01:02.584563-05:00",
+  "item_count": 123,
   "items": [
     {
       "Available Qty.": "47",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D13-002P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
       "UOM": "BULK",
@@ -104,16 +104,6 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D29-127P",
-      "Description": "Biscuits Dough",
-      "UOM": "CS",
-      "Pack Size": "12/16.3 oz",
-      "Feature Type": "",
-      "Gross Weight": "14",
-      "new_since": "2026-11-07T06:00:57.340531-05:00"
-    },
-    {
       "Available Qty.": "278",
       "Item No.": "P23-092P",
       "Description": "Black Beans, Dry Bag",
@@ -168,7 +158,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "110",
+      "Available Qty.": "105",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -339,7 +329,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "5",
       "Item No.": "D03-337P",
       "Description": "Gatorade 12/20 oz",
       "UOM": "CS",
@@ -367,7 +357,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "370",
+      "Available Qty.": "360",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -394,7 +384,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "359",
+      "Available Qty.": "349",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -556,7 +546,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "49",
+      "Available Qty.": "52",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -649,7 +639,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "83",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -820,7 +810,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "160",
+      "Available Qty.": "40",
       "Item No.": "D28-223P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -829,7 +819,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "459",
+      "Available Qty.": "454",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -911,7 +901,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "1",
       "Item No.": "P26-005P",
       "Description": "Sauce, Cranberry UNRANKED",
       "UOM": "CS",
@@ -968,16 +958,6 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-06T16:53:40.680898-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D15-444P",
-      "Description": "Smoked Sausage, Jalapeno Cheddar 12/14 oz",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-11-07T06:00:57.340531-05:00"
     },
     {
       "Available Qty.": "92",
@@ -1149,7 +1129,7 @@
       "new_since": "2026-11-06T20:27:50.721272-05:00"
     },
     {
-      "Available Qty.": "284",
+      "Available Qty.": "279",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
