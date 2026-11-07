@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 07, 2026 at 11:00 AM",
-  "updated_at_iso": "2026-11-07T11:00:59.475465-05:00",
+  "updated_at": "November 07, 2026 at 12:00 PM",
+  "updated_at_iso": "2026-11-07T12:00:59.927998-05:00",
   "item_count": 121,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "661",
+      "Available Qty.": "621",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -68,7 +68,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "449",
+      "Available Qty.": "429",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "758",
+      "Available Qty.": "750",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -131,7 +131,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "550",
+      "Available Qty.": "530",
       "Item No.": "P05-121P",
       "Description": "Breakfast Bar, Blueberry Nutrigrain",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "653",
+      "Available Qty.": "638",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -330,7 +330,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D03-337P",
       "Description": "Gatorade 12/20 oz",
       "UOM": "CS",
@@ -358,7 +358,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "260",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -529,7 +529,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "614",
+      "Available Qty.": "607",
       "Item No.": "P06-022P",
       "Description": "Macaroni and Beef, EZO Easy Open",
       "UOM": "CS",
@@ -573,8 +573,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "36",
-      "new_since": "2026-11-06T11:30:22.370421-05:00"
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "91",
@@ -632,7 +631,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "78",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -722,7 +721,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "563",
+      "Available Qty.": "528",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -767,7 +766,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "155",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -830,7 +829,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "85",
+      "Available Qty.": "71",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -839,7 +838,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "98",
+      "Available Qty.": "78",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
@@ -857,7 +856,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2007",
+      "Available Qty.": "1999",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -866,7 +865,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1330",
+      "Available Qty.": "1322",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -884,7 +883,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "543",
+      "Available Qty.": "523",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -942,7 +941,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "237",
+      "Available Qty.": "217",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
@@ -1032,7 +1031,7 @@
       "new_since": "2026-11-06T16:53:40.680898-05:00"
     },
     {
-      "Available Qty.": "339",
+      "Available Qty.": "299",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
