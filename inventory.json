@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 07, 2026 at 03:00 PM",
-  "updated_at_iso": "2026-11-07T15:00:52.078870-05:00",
-  "item_count": 121,
+  "updated_at": "November 07, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-11-07T16:00:57.698799-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "47",
@@ -557,6 +557,16 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
+      "Available Qty.": "25",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-11-07T16:00:57.698254-05:00"
+    },
+    {
       "Available Qty.": "51",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
@@ -576,7 +586,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "0",
       "Item No.": "D07-613P",
       "Description": "Milk, Whole, Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -730,7 +740,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "351",
+      "Available Qty.": "350",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
