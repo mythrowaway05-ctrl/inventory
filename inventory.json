@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 08, 2026 at 01:00 PM",
-  "updated_at_iso": "2026-11-08T13:00:56.190849-05:00",
-  "item_count": 122,
+  "updated_at": "November 08, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-11-08T14:01:08.067464-05:00",
+  "item_count": 121,
   "items": [
-    {
-      "Available Qty.": "42",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "621",
       "Item No.": "P10-090P",
@@ -20,6 +11,15 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "42",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "96/4.5 oz cups",
+      "Feature Type": "",
+      "Gross Weight": "29"
     },
     {
       "Available Qty.": "0",
@@ -308,15 +308,6 @@
       "Pack Size": "24/12 oz",
       "Feature Type": "",
       "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "P06-003P",
-      "Description": "Entree, Mac and Cheese",
-      "UOM": "CS",
-      "Pack Size": "24/7.25 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "300",
@@ -707,7 +698,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -843,7 +834,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "85",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
