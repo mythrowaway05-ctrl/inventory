@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 08, 2026 at 01:00 AM",
-  "updated_at_iso": "2026-11-08T01:00:54.705795-05:00",
-  "item_count": 120,
+  "updated_at": "November 08, 2026 at 02:01 AM",
+  "updated_at_iso": "2026-11-08T02:01:11.934264-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "42",
@@ -194,7 +194,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1780",
+      "Available Qty.": "1777",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -239,7 +239,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "290",
+      "Available Qty.": "300",
       "Item No.": "P15-109P",
       "Description": "Chicken, Whole, Lemon Pepper 4/4.25 lb",
       "UOM": "CS",
@@ -793,7 +793,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1301",
+      "Available Qty.": "1299",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -818,6 +818,16 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-580P",
+      "Description": "Potatoes - BULK",
+      "UOM": "BULK",
+      "Pack Size": "100/5 lbs",
+      "Feature Type": "",
+      "Gross Weight": "500",
+      "new_since": "2026-11-08T02:01:11.933622-05:00"
     },
     {
       "Available Qty.": "454",
