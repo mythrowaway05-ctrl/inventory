@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 08, 2026 at 03:00 AM",
-  "updated_at_iso": "2026-11-08T03:00:46.721998-05:00",
-  "item_count": 125,
+  "updated_at": "November 08, 2026 at 04:00 AM",
+  "updated_at_iso": "2026-11-08T04:00:54.305219-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "42",
@@ -38,8 +38,7 @@
       "UOM": "BULK",
       "Pack Size": "1/1000 Lb BULK TOTE",
       "Feature Type": "",
-      "Gross Weight": "1000",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
+      "Gross Weight": "1000"
     },
     {
       "Available Qty.": "1",
@@ -205,16 +204,6 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D05-830P",
-      "Description": "Cereal",
-      "UOM": "CS",
-      "Pack Size": "60/2oz Cup",
-      "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-11-08T03:00:46.721480-05:00"
-    },
-    {
       "Available Qty.": "10",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -224,15 +213,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "75",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1777",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -240,6 +220,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "270",
@@ -433,7 +422,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "795",
+      "Available Qty.": "790",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -593,8 +582,7 @@
       "UOM": "CS",
       "Pack Size": "6/64 oz",
       "Feature Type": "Free Item",
-      "Gross Weight": "28",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
+      "Gross Weight": "28"
     },
     {
       "Available Qty.": "46",
@@ -603,8 +591,7 @@
       "UOM": "CS",
       "Pack Size": "4/1gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "23",
@@ -622,8 +609,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-11-07T03:00:57.129641-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "323",
