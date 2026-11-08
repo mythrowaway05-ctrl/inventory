@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 08, 2026 at 09:00 AM",
-  "updated_at_iso": "2026-11-08T09:00:54.171145-05:00",
+  "updated_at": "November 08, 2026 at 10:00 AM",
+  "updated_at_iso": "2026-11-08T10:00:50.982898-05:00",
   "item_count": 122,
   "items": [
     {
@@ -545,7 +545,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "2",
       "Item No.": "D07-1001P",
       "Description": "Milk, 2% 12/1 pt",
       "UOM": "CS",
@@ -555,7 +555,7 @@
       "new_since": "2026-11-08T03:00:46.721480-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "48",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -573,7 +573,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "23",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -708,7 +708,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -825,7 +825,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "12",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -844,7 +844,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "85",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
