@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 08, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-08T02:01:11.934264-05:00",
-  "item_count": 121,
+  "updated_at": "November 08, 2026 at 03:00 AM",
+  "updated_at_iso": "2026-11-08T03:00:46.721998-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "42",
@@ -22,6 +22,16 @@
       "Gross Weight": "14"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D13-190P",
+      "Description": "Assorted Cleaning Supplies - BULK 1/600 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/600 lb",
+      "Feature Type": "",
+      "Gross Weight": "600",
+      "new_since": "2026-11-08T03:00:46.721480-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D13-002P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
@@ -30,6 +40,16 @@
       "Feature Type": "",
       "Gross Weight": "1000",
       "new_since": "2026-11-07T03:00:57.129641-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D13-168P",
+      "Description": "Assorted Cleaning Supplies - BULKTOTE 1/350 lb",
+      "UOM": "BULK",
+      "Pack Size": "1/350 lb",
+      "Feature Type": "",
+      "Gross Weight": "350",
+      "new_since": "2026-11-08T03:00:46.721480-05:00"
     },
     {
       "Available Qty.": "67",
@@ -185,6 +205,16 @@
       "Gross Weight": "43"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D05-830P",
+      "Description": "Cereal",
+      "UOM": "CS",
+      "Pack Size": "60/2oz Cup",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-11-08T03:00:46.721480-05:00"
+    },
+    {
       "Available Qty.": "10",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -194,15 +224,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1777",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "75",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -210,6 +231,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1777",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "270",
@@ -275,7 +305,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "211",
+      "Available Qty.": "214",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -367,7 +397,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "769",
+      "Available Qty.": "774",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -412,7 +442,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "50",
       "Item No.": "D25-2083P",
       "Description": "Gushers 6/30 oz",
       "UOM": "CS",
@@ -547,6 +577,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D07-1001P",
+      "Description": "Milk, 2% 12/1 pt",
+      "UOM": "CS",
+      "Pack Size": "12/1 pt",
+      "Feature Type": "Free Item",
+      "Gross Weight": "14",
+      "new_since": "2026-11-08T03:00:46.721480-05:00"
+    },
+    {
       "Available Qty.": "48",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
@@ -613,7 +653,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "6",
       "Item No.": "D11-149P",
       "Description": "Mix, Donut 1/50 lb",
       "UOM": "CS",
