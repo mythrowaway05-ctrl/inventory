@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 07, 2026 at 10:01 PM",
-  "updated_at_iso": "2026-11-07T22:01:01.178653-05:00",
-  "item_count": 122,
+  "updated_at": "November 07, 2026 at 10:29 PM",
+  "updated_at_iso": "2026-11-07T22:29:27.927068-05:00",
+  "item_count": 121,
   "items": [
     {
-      "Available Qty.": "47",
+      "Available Qty.": "42",
       "Item No.": "P10-003P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -50,16 +50,6 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D26-334P",
-      "Description": "Banana Peppers, Glass Jars 12/12 oz",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-11-07T18:00:59.484738-05:00"
-    },
-    {
       "Available Qty.": "255",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -96,7 +86,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "634",
+      "Available Qty.": "629",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -150,7 +140,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "119",
+      "Available Qty.": "114",
       "Item No.": "P26-054P",
       "Description": "Broth, Chicken",
       "UOM": "CS",
@@ -368,7 +358,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "260",
+      "Available Qty.": "100",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -557,7 +547,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "48",
       "Item No.": "D07-1054P",
       "Description": "Milk, Almond, Vanilla 6/.5 gal",
       "UOM": "CS",
@@ -567,7 +557,7 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
-      "Available Qty.": "51",
+      "Available Qty.": "46",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -577,7 +567,7 @@
       "new_since": "2026-11-07T03:00:57.129641-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "13",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
@@ -713,7 +703,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -839,7 +829,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "85",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -848,7 +838,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "0",
       "Item No.": "P03-009P",
       "Description": "Prime Hydration, Kiwi Berry",
       "UOM": "CS",
