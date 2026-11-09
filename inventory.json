@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 09, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-11-09T13:01:01.816348-05:00",
-  "item_count": 112,
+  "updated_at": "November 09, 2026 at 02:00 PM",
+  "updated_at_iso": "2026-11-09T14:00:55.989457-05:00",
+  "item_count": 114,
   "items": [
     {
-      "Available Qty.": "42",
+      "Available Qty.": "17",
       "Item No.": "P10-003P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -13,7 +13,7 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "320",
+      "Available Qty.": "345",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -58,7 +58,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "419",
+      "Available Qty.": "417",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "53",
+      "Available Qty.": "51",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -184,7 +184,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1775",
+      "Available Qty.": "1772",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -265,16 +265,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-418P",
-      "Description": "Dip, Ranch",
-      "UOM": "CS",
-      "Pack Size": "18/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "22",
-      "new_since": "2026-11-09T11:00:49.067532-05:00"
-    },
-    {
       "Available Qty.": "841",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -293,7 +283,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "244",
+      "Available Qty.": "238",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -311,13 +301,23 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "103",
+      "Available Qty.": "97",
       "Item No.": "D05-831P",
       "Description": "Granola",
       "UOM": "CS",
       "Pack Size": "4/3 lb",
       "Feature Type": "",
       "Gross Weight": "13"
+    },
+    {
+      "Available Qty.": "200",
+      "Item No.": "D25-836P",
+      "Description": "Granola Bars",
+      "UOM": "CS",
+      "Pack Size": "6/5.6 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-11-09T14:00:55.988899-05:00"
     },
     {
       "Available Qty.": "746",
@@ -338,7 +338,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "308",
+      "Available Qty.": "306",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -356,7 +356,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "739",
+      "Available Qty.": "733",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -491,7 +491,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "26",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -499,6 +499,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-11-09T11:00:49.067532-05:00"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D07-1075P",
+      "Description": "Milk, Chocolate 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-11-09T14:00:55.988899-05:00"
     },
     {
       "Available Qty.": "46",
@@ -510,7 +520,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "116",
       "Item No.": "D07-343P",
       "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
@@ -520,7 +530,17 @@
       "new_since": "2026-11-09T11:00:49.067532-05:00"
     },
     {
-      "Available Qty.": "988",
+      "Available Qty.": "24",
+      "Item No.": "D07-1055P",
+      "Description": "Milk, Whole 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-11-09T14:00:55.988899-05:00"
+    },
+    {
+      "Available Qty.": "990",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -565,7 +585,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "155",
+      "Available Qty.": "995",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -745,7 +765,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "923",
+      "Available Qty.": "927",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -845,7 +865,7 @@
       "Gross Weight": "23"
     },
     {
-      "Available Qty.": "385",
+      "Available Qty.": "387",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -854,7 +874,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1383",
+      "Available Qty.": "1384",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -872,7 +892,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "212",
+      "Available Qty.": "208",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
