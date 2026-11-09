@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 09, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-11-09T10:01:02.167998-05:00",
-  "item_count": 113,
+  "updated_at": "November 09, 2026 at 11:00 AM",
+  "updated_at_iso": "2026-11-09T11:00:49.140403-05:00",
+  "item_count": 114,
   "items": [
-    {
-      "Available Qty.": "620",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "42",
       "Item No.": "P10-003P",
@@ -20,6 +11,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "620",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "60",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "55",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -274,6 +274,16 @@
       "Gross Weight": "26"
     },
     {
+      "Available Qty.": "12",
+      "Item No.": "D07-418P",
+      "Description": "Dip, Ranch",
+      "UOM": "CS",
+      "Pack Size": "18/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "22",
+      "new_since": "2026-11-09T11:00:49.067532-05:00"
+    },
+    {
       "Available Qty.": "851",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -283,7 +293,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "0",
       "Item No.": "D15-1186P",
       "Description": "Drumsticks 6/5 lb",
       "UOM": "CS",
@@ -364,7 +374,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "759",
+      "Available Qty.": "739",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -499,13 +509,24 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "46",
-      "Item No.": "D07-1054P",
-      "Description": "Milk, Almond, Vanilla 6/.5 gal",
+      "Available Qty.": "52",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
-      "Pack Size": "6/64 oz",
+      "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "28"
+      "Gross Weight": "38",
+      "new_since": "2026-11-09T11:00:49.067532-05:00"
+    },
+    {
+      "Available Qty.": "61",
+      "Item No.": "D07-323P",
+      "Description": "Milk, 2% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-11-09T11:00:49.067532-05:00"
     },
     {
       "Available Qty.": "46",
@@ -517,13 +538,14 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "23",
-      "Item No.": "D07-603P",
-      "Description": "Milk, Whole 4/1 gal",
+      "Available Qty.": "187",
+      "Item No.": "D07-343P",
+      "Description": "Milk, Whole 12/1 pt",
       "UOM": "CS",
-      "Pack Size": "4/1 gal",
+      "Pack Size": "12/1 pt",
       "Feature Type": "Free Item",
-      "Gross Weight": "36"
+      "Gross Weight": "14",
+      "new_since": "2026-11-09T11:00:49.067532-05:00"
     },
     {
       "Available Qty.": "312",
@@ -679,7 +701,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "84",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -742,7 +764,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "541",
+      "Available Qty.": "538",
       "Item No.": "D29-161P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -758,15 +780,6 @@
       "Pack Size": "12/16 oz can",
       "Feature Type": "",
       "Gross Weight": "15"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "419",
@@ -859,7 +872,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1385",
+      "Available Qty.": "1383",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -985,7 +998,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "620",
+      "Available Qty.": "619",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
