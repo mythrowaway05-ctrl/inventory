@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 09, 2026 at 04:00 AM",
-  "updated_at_iso": "2026-11-09T04:00:55.299462-05:00",
-  "item_count": 117,
+  "updated_at": "November 09, 2026 at 05:00 AM",
+  "updated_at_iso": "2026-11-09T05:00:53.343437-05:00",
+  "item_count": 119,
   "items": [
     {
       "Available Qty.": "42",
@@ -193,15 +193,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "75",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1775",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -209,6 +200,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "75",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "270",
@@ -805,6 +805,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-08T09:00:54.170614-05:00"
+    },
+    {
       "Available Qty.": "419",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
@@ -866,6 +876,16 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D28-463P",
+      "Description": "Romaine Hearts",
+      "UOM": "CS",
+      "Pack Size": "8/3 ct",
+      "Feature Type": "",
+      "Gross Weight": "10",
+      "new_since": "2026-11-09T05:00:53.342878-05:00"
     },
     {
       "Available Qty.": "470",
