@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 09, 2026 at 08:00 AM",
-  "updated_at_iso": "2026-11-09T08:00:58.121010-05:00",
-  "item_count": 119,
+  "updated_at": "November 09, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-11-09T09:01:15.546302-05:00",
+  "item_count": 114,
   "items": [
-    {
-      "Available Qty.": "42",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "620",
       "Item No.": "P10-090P",
@@ -22,13 +13,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D13-002P",
-      "Description": "Assorted Cleaning Supplies - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 Lb BULK TOTE",
+      "Available Qty.": "42",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
-      "Gross Weight": "1000"
+      "Gross Weight": "29"
     },
     {
       "Available Qty.": "60",
@@ -319,15 +310,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D03-337P",
-      "Description": "Gatorade 12/20 oz",
-      "UOM": "CS",
-      "Pack Size": "12/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "17"
-    },
-    {
       "Available Qty.": "395",
       "Item No.": "P25-005P",
       "Description": "Graham Crackers",
@@ -344,15 +326,6 @@
       "Pack Size": "4/3 lb",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-836P",
-      "Description": "Granola Bars",
-      "UOM": "CS",
-      "Pack Size": "6/5.6 oz",
-      "Feature Type": "",
-      "Gross Weight": "3"
     },
     {
       "Available Qty.": "754",
@@ -499,15 +472,6 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D28-872P",
-      "Description": "Lettuce, Romaine",
-      "UOM": "CS",
-      "Pack Size": "12/3 ct",
-      "Feature Type": "Free Item",
-      "Gross Weight": "12"
-    },
-    {
       "Available Qty.": "54",
       "Item No.": "P13-009P",
       "Description": "Liquid Laundry Detergent",
@@ -544,7 +508,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "46",
       "Item No.": "D07-1047P",
       "Description": "Milk, Skim 4/1 gal",
       "UOM": "CS",
@@ -553,22 +517,13 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "23",
       "Item No.": "D07-603P",
       "Description": "Milk, Whole 4/1 gal",
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "36"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-613P",
-      "Description": "Milk, Whole, Lactose Free 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "312",
@@ -688,7 +643,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -811,8 +766,7 @@
       "UOM": "CS",
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-11-08T09:00:54.170614-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "419",
@@ -824,7 +778,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -1050,7 +1004,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "10",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
