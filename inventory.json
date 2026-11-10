@@ -1,17 +1,16 @@
 {
-  "updated_at": "November 10, 2026 at 06:00 AM",
-  "updated_at_iso": "2026-11-10T06:00:56.662306-05:00",
-  "item_count": 118,
+  "updated_at": "November 10, 2026 at 07:04 AM",
+  "updated_at_iso": "2026-11-10T07:04:47.820489-05:00",
+  "item_count": 117,
   "items": [
     {
-      "Available Qty.": "1",
-      "Item No.": "D28-936P",
-      "Description": "Apples",
+      "Available Qty.": "324",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
-      "Pack Size": "1/40 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "40",
-      "new_since": "2026-11-10T05:00:54.919123-05:00"
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "17",
@@ -21,15 +20,6 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
-    },
-    {
-      "Available Qty.": "324",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
     },
     {
       "Available Qty.": "0",
@@ -142,7 +132,7 @@
       "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
-      "Available Qty.": "756",
+      "Available Qty.": "752",
       "Item No.": "P15-119P",
       "Description": "Bologna, Garlic",
       "UOM": "CS",
@@ -152,7 +142,7 @@
       "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
-      "Available Qty.": "324",
+      "Available Qty.": "320",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
@@ -316,7 +306,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "173",
+      "Available Qty.": "169",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -334,7 +324,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "122",
+      "Available Qty.": "102",
       "Item No.": "P15-118P",
       "Description": "Franks, Chicken/Pork",
       "UOM": "CS",
@@ -344,7 +334,7 @@
       "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
-      "Available Qty.": "226",
+      "Available Qty.": "212",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -371,7 +361,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "727",
+      "Available Qty.": "723",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -425,7 +415,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "245",
+      "Available Qty.": "183",
       "Item No.": "P15-113P",
       "Description": "Ham Steak",
       "UOM": "CS",
@@ -462,7 +452,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "4",
       "Item No.": "D07-648P",
       "Description": "Ice Cream - BULK",
       "UOM": "BULK",
@@ -516,7 +506,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "173",
+      "Available Qty.": "171",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -552,7 +542,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "16",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -654,7 +644,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "69",
+      "Available Qty.": "55",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -744,7 +734,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "54",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -789,7 +779,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "542",
+      "Available Qty.": "541",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -915,7 +905,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1379",
+      "Available Qty.": "1377",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
