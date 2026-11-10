@@ -1,10 +1,10 @@
 {
-  "updated_at": "November 10, 2026 at 05:00 AM",
-  "updated_at_iso": "2026-11-10T05:00:54.921773-05:00",
-  "item_count": 119,
+  "updated_at": "November 10, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-10T06:00:56.662306-05:00",
+  "item_count": 118,
   "items": [
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D28-936P",
       "Description": "Apples",
       "UOM": "CS",
@@ -325,16 +325,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1119P",
-      "Description": "Dip, White Cheese Queso 3/5 lb",
-      "UOM": "CS",
-      "Pack Size": "3/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-11-10T03:01:44.633731-05:00"
-    },
-    {
       "Available Qty.": "821",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -344,7 +334,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "122",
       "Item No.": "P15-118P",
       "Description": "Franks, Chicken/Pork",
       "UOM": "CS",
@@ -562,7 +552,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -618,7 +608,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "512",
+      "Available Qty.": "506",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
