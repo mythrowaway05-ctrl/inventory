@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 10, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-10T02:01:27.018311-05:00",
-  "item_count": 110,
+  "updated_at": "November 10, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-11-10T03:01:44.634281-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "324",
@@ -122,6 +122,36 @@
       "Gross Weight": "40"
     },
     {
+      "Available Qty.": "568",
+      "Item No.": "P15-063P",
+      "Description": "Bologna",
+      "UOM": "CS",
+      "Pack Size": "12/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
+      "Available Qty.": "756",
+      "Item No.": "P15-119P",
+      "Description": "Bologna, Garlic",
+      "UOM": "CS",
+      "Pack Size": "12/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
+      "Available Qty.": "324",
+      "Item No.": "P15-120P",
+      "Description": "Bologna, Thick Cut",
+      "UOM": "CS",
+      "Pack Size": "12/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
       "Available Qty.": "281",
       "Item No.": "P05-122P",
       "Description": "Breakfast Bar, Apple Cinnamon Nutrigrain",
@@ -176,6 +206,16 @@
       "Gross Weight": "43"
     },
     {
+      "Available Qty.": "408",
+      "Item No.": "P06-026P",
+      "Description": "Cheddar Broccoli Flavored Rice Pouch",
+      "UOM": "CS",
+      "Pack Size": "12/6.25 oz pouch",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
       "Available Qty.": "12",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
@@ -185,15 +225,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "64",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1756",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -201,6 +232,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "64",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "267",
@@ -275,6 +315,16 @@
       "Gross Weight": "26"
     },
     {
+      "Available Qty.": "71",
+      "Item No.": "D07-1119P",
+      "Description": "Dip, White Cheese Queso 3/5 lb",
+      "UOM": "CS",
+      "Pack Size": "3/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "16",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
       "Available Qty.": "821",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -282,6 +332,16 @@
       "Pack Size": "12/0.6 oz",
       "Feature Type": "",
       "Gross Weight": "1"
+    },
+    {
+      "Available Qty.": "134",
+      "Item No.": "P15-118P",
+      "Description": "Franks, Chicken/Pork",
+      "UOM": "CS",
+      "Pack Size": "12/1 lb",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
       "Available Qty.": "226",
@@ -363,6 +423,16 @@
       "Pack Size": "6/30 oz",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "245",
+      "Item No.": "P15-113P",
+      "Description": "Ham Steak",
+      "UOM": "CS",
+      "Pack Size": "12/1.5 lb",
+      "Feature Type": "",
+      "Gross Weight": "18",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
       "Available Qty.": "323",
@@ -538,6 +608,16 @@
       "Gross Weight": "8"
     },
     {
+      "Available Qty.": "512",
+      "Item No.": "P11-032P",
+      "Description": "Mix, Corn Muffin",
+      "UOM": "CS",
+      "Pack Size": "12/12.5 oz box",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-10T03:01:44.633731-05:00"
+    },
+    {
       "Available Qty.": "6",
       "Item No.": "D11-149P",
       "Description": "Mix, Donut 1/50 lb",
@@ -601,7 +681,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "33",
+      "Available Qty.": "213",
       "Item No.": "P05-043P",
       "Description": "Oatmeal, Instant, Cinn/Apple",
       "UOM": "CS",
