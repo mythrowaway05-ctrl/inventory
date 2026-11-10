@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 10, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-11-10T10:01:00.142781-05:00",
+  "updated_at": "November 10, 2026 at 11:00 AM",
+  "updated_at_iso": "2026-11-10T11:00:54.352810-05:00",
   "item_count": 112,
   "items": [
     {
@@ -85,7 +85,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "727",
+      "Available Qty.": "717",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "39",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -132,7 +132,7 @@
       "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
-      "Available Qty.": "319",
+      "Available Qty.": "309",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
@@ -269,7 +269,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "569",
+      "Available Qty.": "564",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -287,7 +287,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "168",
+      "Available Qty.": "158",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -305,7 +305,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "69",
       "Item No.": "P15-118P",
       "Description": "Franks, Chicken/Pork",
       "UOM": "CS",
@@ -342,7 +342,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "722",
+      "Available Qty.": "712",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -360,7 +360,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "267",
+      "Available Qty.": "255",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -396,7 +396,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "173",
+      "Available Qty.": "163",
       "Item No.": "P15-113P",
       "Description": "Ham Steak",
       "UOM": "CS",
@@ -529,8 +529,7 @@
       "UOM": "CS",
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-11-09T11:00:49.067532-05:00"
+      "Gross Weight": "38"
     },
     {
       "Available Qty.": "982",
@@ -651,7 +650,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "378",
+      "Available Qty.": "368",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -687,7 +686,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "301",
       "Item No.": "P21-016P",
       "Description": "Pasta, Egg Noodle",
       "UOM": "CS",
@@ -723,7 +722,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "152",
       "Item No.": "P25-004P",
       "Description": "Peanut Butter Crackers",
       "UOM": "CS",
@@ -750,7 +749,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1248",
+      "Available Qty.": "1238",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -840,7 +839,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "463",
+      "Available Qty.": "458",
       "Item No.": "P15-087P",
       "Description": "Salmon, Canned",
       "UOM": "CS",
@@ -993,7 +992,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "10",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
