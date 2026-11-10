@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 10, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-11-10T13:01:21.012691-05:00",
-  "item_count": 113,
+  "updated_at": "November 10, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-11-10T14:01:42.199686-05:00",
+  "item_count": 111,
   "items": [
-    {
-      "Available Qty.": "17",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "324",
       "Item No.": "P10-090P",
@@ -22,14 +13,13 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "6",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
+      "Available Qty.": "17",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-11-10T13:01:21.012114-05:00"
+      "Pack Size": "96/4.5 oz cups",
+      "Feature Type": "",
+      "Gross Weight": "29"
     },
     {
       "Available Qty.": "19",
@@ -170,7 +160,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "564",
+      "Available Qty.": "518",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -226,15 +216,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1748",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "24",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -244,7 +225,16 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "264",
+      "Available Qty.": "1743",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "259",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -271,7 +261,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "889",
+      "Available Qty.": "879",
       "Item No.": "P06-061P",
       "Description": "Chili w/Beans",
       "UOM": "CS",
@@ -316,7 +306,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "56",
       "Item No.": "P15-118P",
       "Description": "Franks, Chicken/Pork",
       "UOM": "CS",
@@ -471,7 +461,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "254",
+      "Available Qty.": "249",
       "Item No.": "P14-005P",
       "Description": "Juice, Apple",
       "UOM": "CS",
@@ -534,7 +524,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "21",
+      "Available Qty.": "20",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -543,7 +533,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "982",
+      "Available Qty.": "972",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -814,7 +804,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1932",
+      "Available Qty.": "1928",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -823,7 +813,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1111",
+      "Available Qty.": "1107",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -832,7 +822,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "477",
+      "Available Qty.": "471",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -841,7 +831,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "519",
+      "Available Qty.": "587",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -976,15 +966,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "P27-154P",
-      "Description": "Sweet Potatoes, Light Syrup",
-      "UOM": "CS",
-      "Pack Size": "24/15 oz",
-      "Feature Type": "",
-      "Gross Weight": "23"
-    },
-    {
       "Available Qty.": "454",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
@@ -994,7 +975,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "579",
+      "Available Qty.": "599",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1012,7 +993,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "272",
+      "Available Qty.": "266",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
