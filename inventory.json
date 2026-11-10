@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 10, 2026 at 09:00 AM",
-  "updated_at_iso": "2026-11-10T09:00:55.682548-05:00",
-  "item_count": 114,
+  "updated_at": "November 10, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-10T10:01:00.142781-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "17",
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "4",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -103,7 +103,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "38",
       "Item No.": "P13-010P",
       "Description": "Bleach",
       "UOM": "CS",
@@ -112,7 +112,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "568",
+      "Available Qty.": "558",
       "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -187,7 +187,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "16",
       "Item No.": "D22-134P",
       "Description": "Cat Litter 6/7 lb",
       "UOM": "CS",
@@ -196,7 +196,7 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "408",
+      "Available Qty.": "405",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
@@ -224,7 +224,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "1753",
+      "Available Qty.": "1748",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -287,7 +287,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "169",
+      "Available Qty.": "168",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -305,7 +305,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "102",
+      "Available Qty.": "79",
       "Item No.": "P15-118P",
       "Description": "Franks, Chicken/Pork",
       "UOM": "CS",
@@ -315,7 +315,7 @@
       "new_since": "2026-11-10T03:01:44.633731-05:00"
     },
     {
-      "Available Qty.": "212",
+      "Available Qty.": "207",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -342,7 +342,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "723",
+      "Available Qty.": "722",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -378,7 +378,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "696",
+      "Available Qty.": "695",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -523,7 +523,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "21",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -531,25 +531,6 @@
       "Feature Type": "Free Item",
       "Gross Weight": "38",
       "new_since": "2026-11-09T11:00:49.067532-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-11-09T14:00:55.988899-05:00"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D07-1047P",
-      "Description": "Milk, Skim 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
     },
     {
       "Available Qty.": "982",
@@ -579,7 +560,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "506",
+      "Available Qty.": "498",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -607,7 +588,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1226",
+      "Available Qty.": "1224",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -670,7 +651,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "384",
+      "Available Qty.": "378",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -679,7 +660,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "48",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -715,7 +696,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "54",
+      "Available Qty.": "53",
       "Item No.": "P21-008P",
       "Description": "Pasta, Elbow Macaroni, Dry",
       "UOM": "CS",
@@ -778,7 +759,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "535",
+      "Available Qty.": "533",
       "Item No.": "D29-161P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -805,7 +786,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "95",
+      "Available Qty.": "100",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -814,7 +795,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "718",
+      "Available Qty.": "714",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -823,7 +804,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1953",
+      "Available Qty.": "1952",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -832,7 +813,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1112",
+      "Available Qty.": "1111",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -850,7 +831,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "527",
+      "Available Qty.": "526",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -967,7 +948,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "297",
+      "Available Qty.": "294",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1003,7 +984,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "599",
+      "Available Qty.": "579",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
@@ -1012,7 +993,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "8",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
