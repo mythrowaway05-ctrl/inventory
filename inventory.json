@@ -1,16 +1,17 @@
 {
-  "updated_at": "November 10, 2026 at 04:02 AM",
-  "updated_at_iso": "2026-11-10T04:02:30.760013-05:00",
-  "item_count": 118,
+  "updated_at": "November 10, 2026 at 05:00 AM",
+  "updated_at_iso": "2026-11-10T05:00:54.921773-05:00",
+  "item_count": 119,
   "items": [
     {
-      "Available Qty.": "324",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
+      "Available Qty.": "2",
+      "Item No.": "D28-936P",
+      "Description": "Apples",
       "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
+      "Pack Size": "1/40 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-11-10T05:00:54.919123-05:00"
     },
     {
       "Available Qty.": "17",
@@ -20,6 +21,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "324",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "0",
@@ -225,15 +235,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "1756",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "64",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -241,6 +242,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1756",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "267",
@@ -315,7 +325,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "0",
       "Item No.": "D07-1119P",
       "Description": "Dip, White Cheese Queso 3/5 lb",
       "UOM": "CS",
