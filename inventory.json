@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 11, 2026 at 05:03 AM",
-  "updated_at_iso": "2026-11-11T05:03:12.579302-05:00",
-  "item_count": 135,
+  "updated_at": "November 11, 2026 at 06:01 AM",
+  "updated_at_iso": "2026-11-11T06:01:03.523629-05:00",
+  "item_count": 133,
   "items": [
-    {
-      "Available Qty.": "324",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "17",
       "Item No.": "P10-003P",
@@ -20,6 +11,15 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
+    },
+    {
+      "Available Qty.": "324",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
       "Available Qty.": "50",
@@ -42,26 +42,6 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D01-374P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/470 lb",
-      "Feature Type": "",
-      "Gross Weight": "470",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D01-369P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/320 lb",
-      "Feature Type": "",
-      "Gross Weight": "320",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D01-372P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
@@ -81,7 +61,27 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
+      "Item No.": "D01-369P",
+      "Description": "Assorted Non Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/320 lb",
+      "Feature Type": "",
+      "Gross Weight": "320",
+      "new_since": "2026-11-11T03:00:57.736873-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D01-374P",
+      "Description": "Assorted Non Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/470 lb",
+      "Feature Type": "",
+      "Gross Weight": "470",
+      "new_since": "2026-11-11T03:00:57.736873-05:00"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D19-016P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -131,7 +131,7 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "17",
       "Item No.": "D05-957P",
       "Description": "Banana Oatmeal, DISPLAY 12/8 oz",
       "UOM": "CS",
@@ -267,7 +267,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "159",
+      "Available Qty.": "157",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -322,15 +322,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "24",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1739",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -338,6 +329,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "230",
@@ -376,16 +376,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "14",
-      "Item No.": "D25-483P",
-      "Description": "Chips",
-      "UOM": "CS",
-      "Pack Size": "8/13 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "7",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
       "Available Qty.": "552",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
@@ -395,7 +385,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "166",
+      "Available Qty.": "165",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -423,7 +413,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "205",
+      "Available Qty.": "164",
       "Item No.": "D06-344P",
       "Description": "Cup Noodles, Fajita Chicken 8/2.12 oz",
       "UOM": "CS",
@@ -433,7 +423,7 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "84",
+      "Available Qty.": "83",
       "Item No.": "D09-062P",
       "Description": "Dressing, Honey Mustard UNRANKED",
       "UOM": "CS",
@@ -452,7 +442,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "226",
+      "Available Qty.": "224",
       "Item No.": "D03-207P",
       "Description": "Energy Drink",
       "UOM": "CS",
@@ -462,7 +452,7 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "60",
+      "Available Qty.": "52",
       "Item No.": "D13-195P",
       "Description": "Fabric Softener 12/8 oz",
       "UOM": "CS",
@@ -679,7 +669,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "9",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
@@ -760,7 +750,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "200",
+      "Available Qty.": "181",
       "Item No.": "D26-378P",
       "Description": "Mole, Mexican Sauce 12/8.25 oz",
       "UOM": "CS",
@@ -833,7 +823,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "26",
       "Item No.": "D26-490P",
       "Description": "Orange Marmalade 12/13.5 oz Glass Jars",
       "UOM": "CS",
@@ -969,7 +959,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "11",
       "Item No.": "D25-220P",
       "Description": "Pretzels",
       "UOM": "CS",
@@ -1004,16 +994,6 @@
       "Pack Size": "24/3 oz",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D25-2087P",
-      "Description": "Rice Krispie Treats 8/5.6 oz",
-      "UOM": "CS",
-      "Pack Size": "8/5.6 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
       "Available Qty.": "474",
@@ -1088,7 +1068,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "2791",
+      "Available Qty.": "2691",
       "Item No.": "D03-083P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1180,7 +1160,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "153",
+      "Available Qty.": "138",
       "Item No.": "D25-1535P",
       "Description": "Teddy Grahams 6/10 oz",
       "UOM": "CS",
