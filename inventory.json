@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 11, 2026 at 01:00 PM",
-  "updated_at_iso": "2026-11-11T13:00:54.487008-05:00",
+  "updated_at": "November 11, 2026 at 01:13 PM",
+  "updated_at_iso": "2026-11-11T13:13:30.877221-05:00",
   "item_count": 121,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "124",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -59,7 +59,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "406",
+      "Available Qty.": "408",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -173,8 +173,7 @@
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-11-10T13:01:21.012114-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "95",
@@ -276,7 +275,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "43",
       "Item No.": "D25-2080P",
       "Description": "Chips, Variety Pack 4/18 ct",
       "UOM": "CS",
