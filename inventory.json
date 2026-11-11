@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 11, 2026 at 07:01 AM",
-  "updated_at_iso": "2026-11-11T07:01:02.877391-05:00",
-  "item_count": 133,
+  "updated_at": "November 11, 2026 at 08:00 AM",
+  "updated_at_iso": "2026-11-11T08:00:51.727541-05:00",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "17",
@@ -13,7 +13,7 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "324",
+      "Available Qty.": "323",
       "Item No.": "P10-090P",
       "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
@@ -52,22 +52,22 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D01-377P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 lb",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D01-369P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
       "Pack Size": "1/320 lb",
       "Feature Type": "",
       "Gross Weight": "320",
+      "new_since": "2026-11-11T03:00:57.736873-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D01-377P",
+      "Description": "Assorted Non Food - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/500 lb",
+      "Feature Type": "",
+      "Gross Weight": "500",
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
@@ -131,16 +131,6 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "17",
-      "Item No.": "D05-957P",
-      "Description": "Banana Oatmeal, DISPLAY 12/8 oz",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
       "Available Qty.": "918",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
@@ -159,7 +149,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "409",
+      "Available Qty.": "406",
       "Item No.": "P23-107P",
       "Description": "Beans, Black, Dry",
       "UOM": "CS",
@@ -168,7 +158,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "540",
+      "Available Qty.": "538",
       "Item No.": "P23-073P",
       "Description": "Beans, Pinto",
       "UOM": "CS",
@@ -267,7 +257,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "157",
+      "Available Qty.": "155",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -376,7 +366,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "552",
+      "Available Qty.": "550",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -385,7 +375,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "152",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -404,7 +394,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "124",
+      "Available Qty.": "118",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -413,17 +403,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "164",
-      "Item No.": "D06-344P",
-      "Description": "Cup Noodles, Fajita Chicken 8/2.12 oz",
-      "UOM": "CS",
-      "Pack Size": "8/2.12 oz",
-      "Feature Type": "",
-      "Gross Weight": "2",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
-      "Available Qty.": "83",
+      "Available Qty.": "78",
       "Item No.": "D09-062P",
       "Description": "Dressing, Honey Mustard UNRANKED",
       "UOM": "CS",
@@ -452,7 +432,7 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "52",
+      "Available Qty.": "41",
       "Item No.": "D13-195P",
       "Description": "Fabric Softener 12/8 oz",
       "UOM": "CS",
@@ -462,7 +442,7 @@
       "new_since": "2026-11-11T03:00:57.736873-05:00"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "196",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -489,7 +469,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "2297",
+      "Available Qty.": "2292",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -588,7 +568,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "416",
+      "Available Qty.": "415",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -597,7 +577,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "436",
+      "Available Qty.": "435",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -633,7 +613,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "120",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -732,7 +712,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1200",
+      "Available Qty.": "1198",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -750,7 +730,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "176",
       "Item No.": "D26-378P",
       "Description": "Mole, Mexican Sauce 12/8.25 oz",
       "UOM": "CS",
@@ -823,7 +803,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "26",
+      "Available Qty.": "24",
       "Item No.": "D26-490P",
       "Description": "Orange Marmalade 12/13.5 oz Glass Jars",
       "UOM": "CS",
@@ -842,7 +822,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "478",
+      "Available Qty.": "475",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -914,7 +894,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1225",
+      "Available Qty.": "1223",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -932,7 +912,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "899",
+      "Available Qty.": "898",
       "Item No.": "P23-085P",
       "Description": "Pork and Beans",
       "UOM": "CS",
@@ -959,16 +939,6 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "11",
-      "Item No.": "D25-220P",
-      "Description": "Pretzels",
-      "UOM": "CS",
-      "Pack Size": "10/5 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-11T03:00:57.736873-05:00"
-    },
-    {
       "Available Qty.": "712",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
@@ -978,7 +948,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1910",
+      "Available Qty.": "1909",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -987,7 +957,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1077",
+      "Available Qty.": "1076",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -1005,7 +975,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "625",
+      "Available Qty.": "623",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1023,7 +993,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "761",
+      "Available Qty.": "759",
       "Item No.": "P26-051P",
       "Description": "Sauce, Pasta, Low Sodium",
       "UOM": "CS",
@@ -1106,7 +1076,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "413",
+      "Available Qty.": "412",
       "Item No.": "P06-142P",
       "Description": "Soup, Cream of Chicken",
       "UOM": "CS",
@@ -1142,7 +1112,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "284",
+      "Available Qty.": "282",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1160,7 +1130,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "138",
+      "Available Qty.": "110",
       "Item No.": "D25-1535P",
       "Description": "Teddy Grahams 6/10 oz",
       "UOM": "CS",
