@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 12, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-11-12T03:01:03.146720-05:00",
-  "item_count": 137,
+  "updated_at": "November 12, 2026 at 03:59 AM",
+  "updated_at_iso": "2026-11-12T03:59:26.042642-05:00",
+  "item_count": 133,
   "items": [
     {
       "Available Qty.": "314",
@@ -20,26 +20,6 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-262P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/275 lbs",
-      "Feature Type": "",
-      "Gross Weight": "275",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-263P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/350 lbs",
-      "Feature Type": "",
-      "Gross Weight": "350",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
       "Available Qty.": "2",
@@ -63,22 +43,32 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D04-258P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "2",
       "Item No.": "D04-260P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
       "Pack Size": "1/175 lbs",
       "Feature Type": "",
       "Gross Weight": "175",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-262P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/275 lbs",
+      "Feature Type": "",
+      "Gross Weight": "275",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-258P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/200 lbs",
+      "Feature Type": "",
+      "Gross Weight": "200",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -130,31 +120,11 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D01-377P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/500 lb",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
       "Available Qty.": "0",
       "Item No.": "D01-240P",
       "Description": "Assorted Non Food - BULK",
       "UOM": "BULK",
       "Pack Size": "1/300 lbs",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D12-339P",
-      "Description": "Assorted Personal Hygiene - BULK 1/300 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lb",
       "Feature Type": "",
       "Gross Weight": "300",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
@@ -177,16 +147,6 @@
       "Pack Size": "1/500 lb",
       "Feature Type": "",
       "Gross Weight": "500",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D26-598P",
-      "Description": "Assorted Spices and Condiments",
-      "UOM": "CS",
-      "Pack Size": "1/30lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -316,7 +276,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "27",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -370,15 +330,6 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "19",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1569",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -386,6 +337,15 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "19",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "137",
@@ -424,7 +384,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "34",
+      "Available Qty.": "28",
       "Item No.": "D25-2088P",
       "Description": "Chips, Variety Pack 2/42 ct",
       "UOM": "CS",
@@ -453,7 +413,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "106",
+      "Available Qty.": "102",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -691,7 +651,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "60",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -799,7 +759,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "32",
+      "Available Qty.": "28",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -853,7 +813,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "0",
       "Item No.": "D28-442P",
       "Description": "Onions",
       "UOM": "CS",
@@ -935,7 +895,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D22-044P",
       "Description": "Pet Items - BULK",
       "UOM": "BULK",
