@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-11-12T05:00:57.249543-05:00",
+  "scraped_at": "2026-11-12T06:00:59.853187-05:00",
   "po_number": "PO6430183",
   "appointment": {
     "reference_number": "PO6430183",
     "pickup_date": "11/18/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n15",
-    "Total Line Items": "Gross Weight\n1607 lbs",
+    "Total Due": "Total Line Items\n18",
+    "Total Line Items": "Gross Weight\n1711 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD07-216P\tCoffee Creamer\t8\t8\tCS\t48\t1.14\t\u00a0\t6/24 ct\tDRY\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t1\t1\tCS\t50\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked\nD15-295P\tLunchmeat, Turkey Breast\t2\t2\tCS\t8\t0.72\t\u00a0\t8/6 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-110P\tLunchmeat\t1\t1\tCS\t7\t1.21\t\u00a0\t6/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-176P\tBologna\t3\t3\tCS\t15\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1189P\tSausage, Breakfast\t5\t5\tCS\t21\t0.79\t\u00a0\t6/11.1 oz\tFROZEN\t0.00\tNot Yet Ranked\nD13-195P\tFabric Softener\t20\t20\tCS\t148\t1.41\t\u00a0\t12/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-1535P\tTeddy Grahams\t5\t5\tCS\t19\t0.68\t\u00a0\t6/10 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD15-1186P\tDrumsticks\t2\t2\tCS\t60\t5.70\t\u00a0\t6/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-444P\tSmoked Sausage, Jalapeno Cheddar\t10\t10\tCS\t104\t1.98\t\u00a0\t12/14 oz\tFROZEN\t0.00\tNot Yet Ranked\nD03-884P\tGatorade\t21\t21\tCS\t441\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD07-1119P\tDip, White Cheese Queso\t1\t1\tCS\t16\t0.00\t\u00a0\t3/5 lb\tREF\t0.00\tNot Yet Ranked\nD13-189P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t450\t85.50\t\u00a0\t1/450 lb\tDRY\t0.00\tNot Yet Ranked\nD12-370P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t140\t25.20\t\u00a0\t1/140 lbs\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD07-216P\tCoffee Creamer\t8\t8\tCS\t48\t1.14\t\u00a0\t6/24 ct\tDRY\t0.00\tNot Yet Ranked\nD28-015P\tCabbage\t1\t1\tCS\t50\t0.00\t\u00a0\t1/50 lb\tREF\t0.00\tNot Yet Ranked\nD15-295P\tLunchmeat, Turkey Breast\t1\t1\tCS\t4\t0.72\t\u00a0\t8/6 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-176P\tBologna\t1\t1\tCS\t5\t0.90\t\u00a0\t12/14 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1189P\tSausage, Breakfast\t5\t5\tCS\t21\t0.79\t\u00a0\t6/11.1 oz\tFROZEN\t0.00\tNot Yet Ranked\nD13-195P\tFabric Softener\t20\t20\tCS\t148\t1.41\t\u00a0\t12/8 oz\tDRY\t0.00\tNot Yet Ranked\nD25-1535P\tTeddy Grahams\t5\t5\tCS\t19\t0.68\t\u00a0\t6/10 oz\tDRY\t0.00\tNot Yet Ranked\nP28-032P\tPotatoes, Sweet\t2\t2\tCS\t80\t0.00\t\u00a0\t1/40 lb\tREF\t0.00\tNot Yet Ranked\nD15-1186P\tDrumsticks\t2\t2\tCS\t60\t5.70\t\u00a0\t6/5 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-444P\tSmoked Sausage, Jalapeno Cheddar\t10\t10\tCS\t104\t1.98\t\u00a0\t12/14 oz\tFROZEN\t0.00\tNot Yet Ranked\nD03-884P\tGatorade\t10\t10\tCS\t210\t3.78\t\u00a0\t24/12 oz\tDRY\t0.00\tNot Yet Ranked\nD07-1119P\tDip, White Cheese Queso\t1\t1\tCS\t16\t0.00\t\u00a0\t3/5 lb\tREF\t0.00\tNot Yet Ranked\nD13-189P\tAssorted Cleaning Supplies - BULKTOTE\t1\t1\tBULK\t450\t85.50\t\u00a0\t1/450 lb\tDRY\t0.00\tNot Yet Ranked\nD12-370P\tAssorted Personal Hygiene - BULK\t1\t1\tBULK\t140\t25.20\t\u00a0\t1/140 lbs\tDRY\t0.00\tNot Yet Ranked\nD07-418P\tDip, Ranch\t1\t1\tCS\t22\t3.96\t\u00a0\t18/16 oz\tREF\t0.00\tNot Yet Ranked\nD15-1188P\tTurkeys\t6\t6\tCS\t264\t8.36\t\u00a0\t2/20-24 lb\tFROZEN\t0.00\tNot Yet Ranked\nDS10-001P\tMixed Fruit, In Juice\t2\t2\tCS\t55\t0.00\t\u00a0\t24/15 oz cans\tDRY\t0.00\tNot Yet Ranked\nD25-2090P\tFlavored Popcorn\t3\t3\tCS\t15\t0.95\t\u00a0\t64/1 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -42,10 +42,10 @@
     {
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
-      "Order Qty.": "2",
-      "Accepted Qty.": "2",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
       "UOM": "CS",
-      "Gross Weight": "8",
+      "Gross Weight": "4",
       "Packaging Type": "",
       "Pack Size": "8/6 oz",
       "Handling Requirements": "FROZEN",
@@ -53,25 +53,12 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D15-110P",
-      "Description": "Lunchmeat",
+      "Item No.": "D15-176P",
+      "Description": "Bologna",
       "Order Qty.": "1",
       "Accepted Qty.": "1",
       "UOM": "CS",
-      "Gross Weight": "7",
-      "Packaging Type": "",
-      "Pack Size": "6/16 oz",
-      "Handling Requirements": "FROZEN",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
-      "Item No.": "D15-176P",
-      "Description": "Bologna",
-      "Order Qty.": "3",
-      "Accepted Qty.": "3",
-      "UOM": "CS",
-      "Gross Weight": "15",
+      "Gross Weight": "5",
       "Packaging Type": "",
       "Pack Size": "12/14 oz",
       "Handling Requirements": "FROZEN",
@@ -159,10 +146,10 @@
     {
       "Item No.": "D03-884P",
       "Description": "Gatorade",
-      "Order Qty.": "21",
-      "Accepted Qty.": "21",
+      "Order Qty.": "10",
+      "Accepted Qty.": "10",
       "UOM": "CS",
-      "Gross Weight": "441",
+      "Gross Weight": "210",
       "Packaging Type": "",
       "Pack Size": "24/12 oz",
       "Handling Requirements": "DRY",
@@ -204,6 +191,58 @@
       "Gross Weight": "140",
       "Packaging Type": "",
       "Pack Size": "1/140 lbs",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D07-418P",
+      "Description": "Dip, Ranch",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "22",
+      "Packaging Type": "",
+      "Pack Size": "18/16 oz",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D15-1188P",
+      "Description": "Turkeys",
+      "Order Qty.": "6",
+      "Accepted Qty.": "6",
+      "UOM": "CS",
+      "Gross Weight": "264",
+      "Packaging Type": "",
+      "Pack Size": "2/20-24 lb",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "DS10-001P",
+      "Description": "Mixed Fruit, In Juice",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "55",
+      "Packaging Type": "",
+      "Pack Size": "24/15 oz cans",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D25-2090P",
+      "Description": "Flavored Popcorn",
+      "Order Qty.": "3",
+      "Accepted Qty.": "3",
+      "UOM": "CS",
+      "Gross Weight": "15",
+      "Packaging Type": "",
+      "Pack Size": "64/1 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"

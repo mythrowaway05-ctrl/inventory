@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 12, 2026 at 05:00 AM",
-  "updated_at_iso": "2026-11-12T05:00:57.341853-05:00",
-  "item_count": 131,
+  "updated_at": "November 12, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-12T06:00:59.903116-05:00",
+  "item_count": 133,
   "items": [
     {
       "Available Qty.": "314",
@@ -20,36 +20,6 @@
       "Pack Size": "96/4.5 oz cups",
       "Feature Type": "",
       "Gross Weight": "29"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-264P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lbs",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-261P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lbs",
-      "Feature Type": "",
-      "Gross Weight": "250",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-260P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/175 lbs",
-      "Feature Type": "",
-      "Gross Weight": "175",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
       "Available Qty.": "2",
@@ -82,6 +52,36 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D04-260P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/175 lbs",
+      "Feature Type": "",
+      "Gross Weight": "175",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-261P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/250 lbs",
+      "Feature Type": "",
+      "Gross Weight": "250",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D04-264P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/300 lbs",
+      "Feature Type": "",
+      "Gross Weight": "300",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D13-164P",
       "Description": "Assorted Cleaning Supplies - BULK TOTE",
@@ -102,7 +102,7 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "112",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -231,6 +231,16 @@
       "Gross Weight": "12"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D15-176P",
+      "Description": "Bologna",
+      "UOM": "CS",
+      "Pack Size": "12/14 oz",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-11-12T06:00:59.902218-05:00"
+    },
+    {
       "Available Qty.": "746",
       "Item No.": "P15-119P",
       "Description": "Bologna, Garlic",
@@ -276,7 +286,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "22",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -440,16 +450,6 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D07-418P",
-      "Description": "Dip, Ranch",
-      "UOM": "CS",
-      "Pack Size": "18/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "22",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
       "Available Qty.": "820",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -459,7 +459,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "896",
+      "Available Qty.": "891",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -476,6 +476,16 @@
       "Pack Size": "6/9 oz",
       "Feature Type": "",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "11",
+      "Item No.": "D03-884P",
+      "Description": "Gatorade",
+      "UOM": "CS",
+      "Pack Size": "24/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-11-12T06:00:59.902218-05:00"
     },
     {
       "Available Qty.": "390",
@@ -559,7 +569,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1466",
+      "Available Qty.": "1464",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -648,6 +658,16 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "",
       "Gross Weight": "36"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D15-295P",
+      "Description": "Lunchmeat, Turkey Breast",
+      "UOM": "CS",
+      "Pack Size": "8/6 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-11-12T06:00:59.902218-05:00"
     },
     {
       "Available Qty.": "575",
@@ -749,7 +769,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "27",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
