@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 12, 2026 at 12:00 PM",
-  "updated_at_iso": "2026-11-12T12:00:55.674400-05:00",
-  "item_count": 129,
+  "updated_at": "November 12, 2026 at 12:24 PM",
+  "updated_at_iso": "2026-11-12T12:24:14.792097-05:00",
+  "item_count": 126,
   "items": [
-    {
-      "Available Qty.": "314",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "6",
       "Item No.": "P10-003P",
@@ -22,13 +13,22 @@
       "Gross Weight": "29"
     },
     {
+      "Available Qty.": "314",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
       "Available Qty.": "2",
-      "Item No.": "D04-258P",
+      "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
+      "Pack Size": "1/225 lbs",
       "Feature Type": "",
-      "Gross Weight": "200",
+      "Gross Weight": "225",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -53,22 +53,12 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D04-259P",
+      "Item No.": "D04-258P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
+      "Pack Size": "1/200 lbs",
       "Feature Type": "",
-      "Gross Weight": "225",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-260P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/175 lbs",
-      "Feature Type": "",
-      "Gross Weight": "175",
+      "Gross Weight": "200",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -145,7 +135,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "604",
+      "Available Qty.": "600",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -172,7 +162,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "522",
+      "Available Qty.": "499",
       "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -181,7 +171,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "746",
+      "Available Qty.": "744",
       "Item No.": "P15-119P",
       "Description": "Bologna, Garlic",
       "UOM": "CS",
@@ -234,15 +224,6 @@
       "Feature Type": "",
       "Gross Weight": "24",
       "new_since": "2026-11-12T12:00:55.673707-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D28-015P",
-      "Description": "Cabbage",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "96",
@@ -363,7 +344,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "96",
+      "Available Qty.": "88",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -372,7 +353,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1284",
+      "Available Qty.": "1282",
       "Item No.": "P03-004P",
       "Description": "Coffee, Ground Westrock Coffee",
       "UOM": "CS",
@@ -409,7 +390,7 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "135",
+      "Available Qty.": "115",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -427,7 +408,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D25-836P",
       "Description": "Granola Bars",
       "UOM": "CS",
@@ -455,7 +436,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "116",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -509,7 +490,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1380",
+      "Available Qty.": "1355",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -600,7 +581,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D06-218P",
       "Description": "Lunchables",
       "UOM": "CS",
@@ -655,7 +636,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "426",
+      "Available Qty.": "419",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -754,7 +735,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "315",
+      "Available Qty.": "313",
       "Item No.": "P05-108P",
       "Description": "Oatmeal, Quick",
       "UOM": "CS",
@@ -844,7 +825,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1201",
+      "Available Qty.": "1189",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -871,7 +852,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "689",
+      "Available Qty.": "682",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -899,7 +880,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "696",
+      "Available Qty.": "691",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -971,7 +952,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1317",
+      "Available Qty.": "1315",
       "Item No.": "P15-108P",
       "Description": "Sausage, Ground Jimmy Dean",
       "UOM": "CS",
@@ -996,16 +977,6 @@
       "Pack Size": "24/5.6 oz",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-466P",
-      "Description": "Skillet Gnocchi",
-      "UOM": "CS",
-      "Pack Size": "6/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-11-12T12:00:55.673707-05:00"
     },
     {
       "Available Qty.": "3",
@@ -1090,7 +1061,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "207",
+      "Available Qty.": "195",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1126,7 +1097,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "9",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
