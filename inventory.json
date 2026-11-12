@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 12, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-11-12T10:01:01.462315-05:00",
-  "item_count": 127,
+  "updated_at": "November 12, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-11-12T11:01:04.024161-05:00",
+  "item_count": 125,
   "items": [
     {
       "Available Qty.": "314",
@@ -32,13 +32,13 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D04-264P",
+      "Available Qty.": "2",
+      "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/300 lbs",
+      "Pack Size": "1/225 lbs",
       "Feature Type": "",
-      "Gross Weight": "300",
+      "Gross Weight": "225",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -53,32 +53,22 @@
     },
     {
       "Available Qty.": "2",
-      "Item No.": "D04-261P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/250 lbs",
-      "Feature Type": "",
-      "Gross Weight": "250",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D04-259P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
-      "Feature Type": "",
-      "Gross Weight": "225",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
-    },
-    {
-      "Available Qty.": "2",
       "Item No.": "D04-260P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
       "Pack Size": "1/175 lbs",
       "Feature Type": "",
       "Gross Weight": "175",
+      "new_since": "2026-11-12T03:01:03.146020-05:00"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "D04-261P",
+      "Description": "Assorted Bread and Bakery - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/250 lbs",
+      "Feature Type": "",
+      "Gross Weight": "250",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -98,16 +88,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D22-096P",
-      "Description": "Assorted Pet Items - BULK 1/1000 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/1000 lb",
-      "Feature Type": "",
-      "Gross Weight": "1000",
-      "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
       "Available Qty.": "1",
@@ -509,7 +489,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1449",
+      "Available Qty.": "1396",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -871,7 +851,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "798",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1153,7 +1133,7 @@
       "new_since": "2026-11-11T16:01:12.660896-05:00"
     },
     {
-      "Available Qty.": "658",
+      "Available Qty.": "657",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
