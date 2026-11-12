@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 12, 2026 at 09:00 AM",
-  "updated_at_iso": "2026-11-12T09:00:55.576435-05:00",
-  "item_count": 126,
+  "updated_at": "November 12, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-12T10:01:01.462315-05:00",
+  "item_count": 127,
   "items": [
     {
       "Available Qty.": "314",
@@ -32,7 +32,7 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D04-264P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -255,7 +255,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "96",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -291,7 +291,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "P26-053P",
       "Description": "Chicken Broth, Low Sodium EZO",
       "UOM": "CS",
@@ -399,7 +399,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "885",
+      "Available Qty.": "880",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -418,7 +418,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "9",
       "Item No.": "D03-884P",
       "Description": "Gatorade",
       "UOM": "CS",
@@ -509,7 +509,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1459",
+      "Available Qty.": "1449",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -871,7 +871,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "377",
+      "Available Qty.": "118",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-12T10:01:01.461674-05:00"
+    },
+    {
+      "Available Qty.": "381",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
       "UOM": "CS",
@@ -1114,7 +1124,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "249",
+      "Available Qty.": "246",
       "Item No.": "P26-046P",
       "Description": "Vegetable Oil",
       "UOM": "CS",
@@ -1143,7 +1153,7 @@
       "new_since": "2026-11-11T16:01:12.660896-05:00"
     },
     {
-      "Available Qty.": "651",
+      "Available Qty.": "658",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
