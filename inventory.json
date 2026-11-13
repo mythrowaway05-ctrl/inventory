@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 13, 2026 at 09:00 AM",
-  "updated_at_iso": "2026-11-13T09:00:54.153366-05:00",
-  "item_count": 129,
+  "updated_at": "November 13, 2026 at 10:01 AM",
+  "updated_at_iso": "2026-11-13T10:01:07.071546-05:00",
+  "item_count": 127,
   "items": [
-    {
-      "Available Qty.": "6",
-      "Item No.": "P10-003P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "96/4.5 oz cups",
-      "Feature Type": "",
-      "Gross Weight": "29"
-    },
     {
       "Available Qty.": "314",
       "Item No.": "P10-090P",
@@ -20,6 +11,15 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "P10-003P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "96/4.5 oz cups",
+      "Feature Type": "",
+      "Gross Weight": "29"
     },
     {
       "Available Qty.": "2",
@@ -158,7 +158,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -231,14 +231,13 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D06-474P",
-      "Description": "Chicken Alfredo Lasagna",
+      "Available Qty.": "4",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
       "UOM": "CS",
-      "Pack Size": "6/12 oz",
+      "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
+      "Gross Weight": "40"
     },
     {
       "Available Qty.": "1546",
@@ -250,15 +249,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "113",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
@@ -268,7 +258,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "42",
+      "Available Qty.": "0",
       "Item No.": "D06-476P",
       "Description": "Chicken Mozzarella Tortelloni",
       "UOM": "CS",
@@ -350,7 +340,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "0",
       "Item No.": "D06-471P",
       "Description": "Fettucine and Beef Short Ribs",
       "UOM": "CS",
@@ -360,7 +350,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "462",
+      "Available Qty.": "460",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -379,7 +369,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "66",
       "Item No.": "D06-475P",
       "Description": "Four Cheese Ravioli",
       "UOM": "CS",
@@ -396,16 +386,6 @@
       "Pack Size": "6/9 oz",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D03-884P",
-      "Description": "Gatorade",
-      "UOM": "CS",
-      "Pack Size": "24/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-11-13T08:00:57.207251-05:00"
     },
     {
       "Available Qty.": "388",
@@ -453,7 +433,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "620",
+      "Available Qty.": "570",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -516,7 +496,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "48",
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
       "UOM": "CS",
@@ -571,16 +551,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D06-473P",
-      "Description": "Lasagna",
-      "UOM": "CS",
-      "Pack Size": "6/25 oz",
-      "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "58",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
@@ -608,6 +578,16 @@
       "Feature Type": "",
       "Gross Weight": "22",
       "new_since": "2026-11-12T17:59:42.610449-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D15-295P",
+      "Description": "Lunchmeat, Turkey Breast",
+      "UOM": "CS",
+      "Pack Size": "8/6 oz",
+      "Feature Type": "",
+      "Gross Weight": "4",
+      "new_since": "2026-11-13T10:01:07.055182-05:00"
     },
     {
       "Available Qty.": "566",
@@ -700,7 +680,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "154",
+      "Available Qty.": "104",
       "Item No.": "D26-378P",
       "Description": "Mole, Mexican Sauce 12/8.25 oz",
       "UOM": "CS",
@@ -736,7 +716,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "64",
       "Item No.": "D05-958P",
       "Description": "Oatmeal 24/16 oz",
       "UOM": "CS",
@@ -881,14 +861,13 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "333",
+      "Available Qty.": "323",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
       "Pack Size": "10/5 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-11-12T10:01:01.461674-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "366",
@@ -946,7 +925,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "17",
       "Item No.": "D06-349P",
       "Description": "Red Beans and Rice 40/11.8 oz",
       "UOM": "CS",
@@ -1136,7 +1115,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "215",
+      "Available Qty.": "218",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
       "UOM": "CS",
@@ -1163,7 +1142,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "67",
+      "Available Qty.": "0",
       "Item No.": "D07-037P",
       "Description": "Yogurt",
       "UOM": "CS",
