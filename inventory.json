@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 12, 2026 at 06:01 PM",
-  "updated_at_iso": "2026-11-12T18:01:00.923323-05:00",
-  "item_count": 121,
+  "updated_at": "November 12, 2026 at 07:00 PM",
+  "updated_at_iso": "2026-11-12T19:00:55.225625-05:00",
+  "item_count": 119,
   "items": [
-    {
-      "Available Qty.": "314",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "6",
       "Item No.": "P10-003P",
@@ -22,23 +13,22 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "5",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
+      "Available Qty.": "314",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
       "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-11-12T15:00:59.431016-05:00"
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D04-259P",
+      "Available Qty.": "1",
+      "Item No.": "D04-261P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
+      "Pack Size": "1/250 lbs",
       "Feature Type": "",
-      "Gross Weight": "225",
+      "Gross Weight": "250",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -52,13 +42,13 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D04-261P",
+      "Available Qty.": "2",
+      "Item No.": "D04-259P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
-      "Pack Size": "1/250 lbs",
+      "Pack Size": "1/225 lbs",
       "Feature Type": "",
-      "Gross Weight": "250",
+      "Gross Weight": "225",
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
@@ -71,7 +61,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "9",
       "Item No.": "D25-1689P",
       "Description": "Assorted Freezer Pops",
       "UOM": "CS",
@@ -253,22 +243,13 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "337",
+      "Available Qty.": "331",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
       "UOM": "CS",
       "Pack Size": "12/6.25 oz pouch",
       "Feature Type": "",
       "Gross Weight": "6"
-    },
-    {
-      "Available Qty.": "1556",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
     },
     {
       "Available Qty.": "4",
@@ -278,6 +259,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1551",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "116",
@@ -325,7 +315,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "425",
+      "Available Qty.": "415",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -361,7 +351,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "844",
+      "Available Qty.": "804",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -371,7 +361,7 @@
       "new_since": "2026-11-12T03:01:03.146020-05:00"
     },
     {
-      "Available Qty.": "113",
+      "Available Qty.": "103",
       "Item No.": "D25-2084P",
       "Description": "Fruit by the Foot 6/9 oz",
       "UOM": "CS",
@@ -452,7 +442,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1298",
+      "Available Qty.": "1278",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -489,7 +479,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "375",
+      "Available Qty.": "370",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -498,7 +488,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "419",
+      "Available Qty.": "414",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -571,16 +561,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "54",
-      "Item No.": "D07-1075P",
-      "Description": "Milk, Chocolate 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-11-12T17:59:42.610449-05:00"
-    },
-    {
       "Available Qty.": "870",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -635,7 +615,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1171",
+      "Available Qty.": "1161",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -716,7 +696,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "493",
+      "Available Qty.": "490",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -824,7 +804,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "502",
+      "Available Qty.": "504",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -879,7 +859,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "438",
+      "Available Qty.": "433",
       "Item No.": "P06-167P",
       "Description": "Rice, Chicken Flavored",
       "UOM": "CS",
@@ -888,7 +868,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "693",
+      "Available Qty.": "689",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -933,7 +913,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "181",
+      "Available Qty.": "178",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -942,7 +922,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "165",
+      "Available Qty.": "162",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
@@ -1041,7 +1021,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "45",
+      "Available Qty.": "25",
       "Item No.": "D25-1535P",
       "Description": "Teddy Grahams 6/10 oz",
       "UOM": "CS",
