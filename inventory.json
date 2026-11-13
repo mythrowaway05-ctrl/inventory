@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 13, 2026 at 07:00 AM",
-  "updated_at_iso": "2026-11-13T07:00:59.301468-05:00",
+  "updated_at": "November 13, 2026 at 08:00 AM",
+  "updated_at_iso": "2026-11-13T08:00:57.207883-05:00",
   "item_count": 143,
   "items": [
     {
@@ -69,7 +69,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -188,7 +188,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -261,7 +261,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "25",
       "Item No.": "D06-474P",
       "Description": "Chicken Alfredo Lasagna",
       "UOM": "CS",
@@ -298,7 +298,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "69",
       "Item No.": "D06-476P",
       "Description": "Chicken Mozzarella Tortelloni",
       "UOM": "CS",
@@ -354,7 +354,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "414",
+      "Available Qty.": "418",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -400,7 +400,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "78",
       "Item No.": "D06-471P",
       "Description": "Fettucine and Beef Short Ribs",
       "UOM": "CS",
@@ -420,7 +420,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "792",
+      "Available Qty.": "794",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -429,7 +429,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "91",
+      "Available Qty.": "87",
       "Item No.": "D06-475P",
       "Description": "Four Cheese Ravioli",
       "UOM": "CS",
@@ -446,6 +446,16 @@
       "Pack Size": "6/9 oz",
       "Feature Type": "",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "5",
+      "Item No.": "D03-884P",
+      "Description": "Gatorade",
+      "UOM": "CS",
+      "Pack Size": "24/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-11-13T08:00:57.207251-05:00"
     },
     {
       "Available Qty.": "388",
@@ -529,16 +539,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "D03-366P",
-      "Description": "Hot Chocolate 12/7.08 oz",
-      "UOM": "CS",
-      "Pack Size": "12/7.08 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "30",
       "Item No.": "D25-2046P",
       "Description": "Hydration Freezer Bars Popsicles",
@@ -566,7 +566,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "50",
+      "Available Qty.": "48",
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
       "UOM": "CS",
@@ -621,7 +621,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "20",
       "Item No.": "D06-473P",
       "Description": "Lasagna",
       "UOM": "CS",
@@ -981,7 +981,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "365",
+      "Available Qty.": "335",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1148,7 +1148,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1649",
+      "Available Qty.": "1651",
       "Item No.": "D03-083P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1303,7 +1303,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "83",
       "Item No.": "D07-037P",
       "Description": "Yogurt",
       "UOM": "CS",
