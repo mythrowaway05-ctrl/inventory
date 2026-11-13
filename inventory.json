@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 13, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-11-13T12:01:06.462548-05:00",
-  "item_count": 121,
+  "updated_at": "November 13, 2026 at 01:01 PM",
+  "updated_at_iso": "2026-11-13T13:01:00.735373-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "6",
@@ -85,7 +85,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "570",
+      "Available Qty.": "567",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -166,7 +166,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "34",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -421,7 +421,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1201",
+      "Available Qty.": "1176",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -613,7 +613,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "1149",
+      "Available Qty.": "1146",
       "Item No.": "P11-060P",
       "Description": "Mix, Pancake",
       "UOM": "CS",
@@ -667,7 +667,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "64",
+      "Available Qty.": "52",
       "Item No.": "D05-958P",
       "Description": "Oatmeal 24/16 oz",
       "UOM": "CS",
@@ -713,7 +713,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "432",
+      "Available Qty.": "429",
       "Item No.": "P26-003P",
       "Description": "Pancake Syrup",
       "UOM": "CS",
@@ -812,7 +812,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "255",
+      "Available Qty.": "252",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -876,7 +876,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "9",
       "Item No.": "D06-349P",
       "Description": "Red Beans and Rice 40/11.8 oz",
       "UOM": "CS",
@@ -895,7 +895,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "677",
+      "Available Qty.": "675",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -1030,7 +1030,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "190",
+      "Available Qty.": "188",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1046,6 +1046,16 @@
       "Pack Size": "12/13.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "437",
+      "Item No.": "D03-701P",
+      "Description": "Tea, Sweet",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "36",
+      "new_since": "2026-11-13T13:01:00.734742-05:00"
     },
     {
       "Available Qty.": "436",
