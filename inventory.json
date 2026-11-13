@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 13, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-11-13T04:01:03.609398-05:00",
-  "item_count": 151,
+  "updated_at": "November 13, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-11-13T05:01:04.883603-05:00",
+  "item_count": 144,
   "items": [
     {
       "Available Qty.": "6",
@@ -31,7 +31,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "3",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -41,7 +41,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "9",
       "Item No.": "D05-937P",
       "Description": "Assorted Cereal 1/17lb",
       "UOM": "CS",
@@ -67,16 +67,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D16-089P",
-      "Description": "Assorted Frozen Food - BULK Food Service",
-      "UOM": "BULK",
-      "Pack Size": "1/600 lb",
-      "Feature Type": "",
-      "Gross Weight": "600",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
       "Available Qty.": "4",
@@ -226,16 +216,6 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D28-270P",
-      "Description": "Broccoli Florets",
-      "UOM": "CS",
-      "Pack Size": "4/3 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "14",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "42",
       "Item No.": "P26-054P",
       "Description": "Broth, Chicken",
@@ -272,16 +252,6 @@
       "Gross Weight": "43"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D01-288P",
-      "Description": "Charcoal, Assorted Sizes -BULK 1/400 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/400 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "400",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "321",
       "Item No.": "P06-026P",
       "Description": "Cheddar Broccoli Flavored Rice Pouch",
@@ -291,7 +261,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "92",
+      "Available Qty.": "90",
       "Item No.": "D06-474P",
       "Description": "Chicken Alfredo Lasagna",
       "UOM": "CS",
@@ -328,7 +298,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "117",
+      "Available Qty.": "111",
       "Item No.": "D06-476P",
       "Description": "Chicken Mozzarella Tortelloni",
       "UOM": "CS",
@@ -338,7 +308,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "18",
       "Item No.": "D06-470P",
       "Description": "Chicken Teriyaki Noodles",
       "UOM": "CS",
@@ -402,7 +372,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "10",
       "Item No.": "D26-404P",
       "Description": "Cooking Spray 6/16 oz",
       "UOM": "CS",
@@ -523,7 +493,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "613",
+      "Available Qty.": "623",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -596,16 +566,6 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-1120P",
-      "Description": "Ice Cream - BULK 1/660 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/660 lb",
-      "Feature Type": "",
-      "Gross Weight": "660",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "50",
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
@@ -661,23 +621,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "43",
+      "Available Qty.": "40",
       "Item No.": "D06-473P",
       "Description": "Lasagna",
       "UOM": "CS",
       "Pack Size": "6/25 oz",
       "Feature Type": "",
       "Gross Weight": "12",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
-      "Available Qty.": "148",
-      "Item No.": "D03-830P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "6/52 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
@@ -690,7 +640,17 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "707",
+      "Available Qty.": "148",
+      "Item No.": "D03-830P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "6/52 oz",
+      "Feature Type": "",
+      "Gross Weight": "26",
+      "new_since": "2026-11-13T03:01:04.657585-05:00"
+    },
+    {
+      "Available Qty.": "687",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -710,27 +670,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "13",
-      "Item No.": "D06-964P",
-      "Description": "Lunchables",
-      "UOM": "CS",
-      "Pack Size": "8/4.7 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
-      "Available Qty.": "4",
-      "Item No.": "D06-977P",
-      "Description": "Lunchables",
-      "UOM": "CS",
-      "Pack Size": "18/2.44 oz",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
-      "Available Qty.": "72",
+      "Available Qty.": "48",
       "Item No.": "D15-445P",
       "Description": "Lunchmeat 8/12 oz",
       "UOM": "CS",
@@ -1022,16 +962,6 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "7",
-      "Item No.": "D25-526P",
-      "Description": "Popcorn",
-      "UOM": "CS",
-      "Pack Size": "48/1.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "D25-657P",
       "Description": "Popcorn",
@@ -1136,7 +1066,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "47",
+      "Available Qty.": "43",
       "Item No.": "D06-349P",
       "Description": "Red Beans and Rice 40/11.8 oz",
       "UOM": "CS",
@@ -1383,7 +1313,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "146",
+      "Available Qty.": "126",
       "Item No.": "D07-037P",
       "Description": "Yogurt",
       "UOM": "CS",
