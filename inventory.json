@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 13, 2026 at 05:00 PM",
-  "updated_at_iso": "2026-11-13T17:00:55.722369-05:00",
-  "item_count": 123,
+  "updated_at": "November 13, 2026 at 06:00 PM",
+  "updated_at_iso": "2026-11-13T18:00:57.418384-05:00",
+  "item_count": 120,
   "items": [
     {
       "Available Qty.": "5",
@@ -101,16 +101,6 @@
       "Pack Size": "6/96 oz bottles",
       "Feature Type": "",
       "Gross Weight": "40"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-176P",
-      "Description": "Bologna",
-      "UOM": "CS",
-      "Pack Size": "12/14 oz",
-      "Feature Type": "",
-      "Gross Weight": "5",
-      "new_since": "2026-11-13T17:00:55.721721-05:00"
     },
     {
       "Available Qty.": "477",
@@ -529,8 +519,7 @@
       "UOM": "CS",
       "Pack Size": "6/52 oz",
       "Feature Type": "",
-      "Gross Weight": "22",
-      "new_since": "2026-11-12T17:59:42.610449-05:00"
+      "Gross Weight": "22"
     },
     {
       "Available Qty.": "566",
@@ -542,7 +531,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "11",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -559,26 +548,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-11-13T13:59:06.944514-05:00"
-    },
-    {
-      "Available Qty.": "8",
-      "Item No.": "D07-323P",
-      "Description": "Milk, 2% 6/1 gal",
-      "UOM": "CS",
-      "Pack Size": "6/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-11-13T17:00:55.721721-05:00"
     },
     {
       "Available Qty.": "854",
@@ -689,7 +658,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "17",
+      "Available Qty.": "14",
       "Item No.": "D05-958P",
       "Description": "Oatmeal 24/16 oz",
       "UOM": "CS",
@@ -1060,7 +1029,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "383",
+      "Available Qty.": "343",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
