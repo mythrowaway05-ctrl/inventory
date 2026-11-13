@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-11-13T08:00:57.163668-05:00",
+  "scraped_at": "2026-11-13T09:00:54.107511-05:00",
   "po_number": "PO6439845",
   "appointment": {
     "reference_number": "PO6439845",
     "pickup_date": "11/25/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n14",
-    "Total Line Items": "Gross Weight\n989 lbs",
+    "Total Due": "Total Line Items\n8",
+    "Total Line Items": "Gross Weight\n283 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-471P\tFettucine and Beef Short Ribs\t12\t0\tCS\t72\t1.14\tCase\t4/24 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-465P\tFive Cheese Tortelloni 12-2/24 oz\t1\t0\tCS\t36\t6.84\tCase\t12-2/24 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-475P\tFour Cheese Ravioli\t4\t0\tCS\t16\t0.76\tCase\t1/4 lb\tFrozen Food\t0.00\tNot Yet Ranked\nD03-366P\tHot Chocolate 12/7.08 oz\t4\t0\tCS\t28\t1.37\tCase\t12/7.08 oz\tDry\t0.00\tNot Yet Ranked\nD15-455P\tSmoked Sausage 6/13.5 oz\t1\t0\tCS\t5\t0.95\tCase\t6/13.5 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD28-270P\tBroccoli Florets\t2\t0\tCS\t28\t0.00\tCase\t4/3 lb\tRefrigerated Food\t0.00\tNot Yet Ranked\nD06-474P\tChicken Alfredo Lasagna\t12\t0\tCS\t60\t0.86\tCase\t6/12 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-476P\tChicken Mozzarella Tortelloni\t6\t0\tCS\t42\t1.33\tCase\t6/18 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-470P\tChicken Teriyaki Noodles\t10\t0\tCS\t50\t0.95\tCase\t4/20 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD07-037P\tYogurt\t6\t0\tCS\t24\t0.00\tCase\t12/6 oz\tRefrigerated Food\t0.00\tNot Yet Ranked\nD20-000P\tPersonal Hygiene, Assorted - BULK TOTE\t1\t0\tBULK\t360\t64.80\tBulk Tote\t1/360 Lb BULK TOTE\tDry\t0.00\tNot Yet Ranked\nD06-350P\tItalian Pasta Salad 2/5 lb\t2\t0\tCS\t20\t1.90\tCase\t2/5 lb\tRefrigerated Food\t0.00\tNot Yet Ranked\nD19-014P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t0\tBULK\t200\t38.00\tBulk Tote\t1/200 Lb BULK TOTE\tDry\t0.00\tNot Yet Ranked\nD06-473P\tLasagna\t4\t0\tCS\t48\t2.28\tCase\t6/25 oz\tFrozen Food\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD06-471P\tFettucine and Beef Short Ribs\t12\t0\tCS\t72\t1.14\tCase\t4/24 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-465P\tFive Cheese Tortelloni 12-2/24 oz\t1\t0\tCS\t36\t6.84\tCase\t12-2/24 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-475P\tFour Cheese Ravioli\t4\t0\tCS\t16\t0.76\tCase\t1/4 lb\tFrozen Food\t0.00\tNot Yet Ranked\nD06-474P\tChicken Alfredo Lasagna\t5\t0\tCS\t25\t0.86\tCase\t6/12 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD06-476P\tChicken Mozzarella Tortelloni\t6\t0\tCS\t42\t1.33\tCase\t6/18 oz\tFrozen Food\t0.00\tNot Yet Ranked\nD07-037P\tYogurt\t6\t0\tCS\t24\t0.00\tCase\t12/6 oz\tRefrigerated Food\t0.00\tNot Yet Ranked\nD06-350P\tItalian Pasta Salad 2/5 lb\t2\t0\tCS\t20\t1.90\tCase\t2/5 lb\tRefrigerated Food\t0.00\tNot Yet Ranked\nD06-473P\tLasagna\t4\t0\tCS\t48\t2.28\tCase\t6/25 oz\tFrozen Food\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -53,51 +53,12 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D03-366P",
-      "Description": "Hot Chocolate 12/7.08 oz",
-      "Order Qty.": "4",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "28",
-      "Packaging Type": "Case",
-      "Pack Size": "12/7.08 oz",
-      "Handling Requirements": "Dry",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
-      "Item No.": "D15-455P",
-      "Description": "Smoked Sausage 6/13.5 oz",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "5",
-      "Packaging Type": "Case",
-      "Pack Size": "6/13.5 oz",
-      "Handling Requirements": "Frozen Food",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
-      "Item No.": "D28-270P",
-      "Description": "Broccoli Florets",
-      "Order Qty.": "2",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "28",
-      "Packaging Type": "Case",
-      "Pack Size": "4/3 lb",
-      "Handling Requirements": "Refrigerated Food",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D06-474P",
       "Description": "Chicken Alfredo Lasagna",
-      "Order Qty.": "12",
+      "Order Qty.": "5",
       "Accepted Qty.": "0",
       "UOM": "CS",
-      "Gross Weight": "60",
+      "Gross Weight": "25",
       "Packaging Type": "Case",
       "Pack Size": "6/12 oz",
       "Handling Requirements": "Frozen Food",
@@ -118,19 +79,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D06-470P",
-      "Description": "Chicken Teriyaki Noodles",
-      "Order Qty.": "10",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "50",
-      "Packaging Type": "Case",
-      "Pack Size": "4/20 oz",
-      "Handling Requirements": "Frozen Food",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D07-037P",
       "Description": "Yogurt",
       "Order Qty.": "6",
@@ -144,19 +92,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D20-000P",
-      "Description": "Personal Hygiene, Assorted - BULK TOTE",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "BULK",
-      "Gross Weight": "360",
-      "Packaging Type": "Bulk Tote",
-      "Pack Size": "1/360 Lb BULK TOTE",
-      "Handling Requirements": "Dry",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
       "Order Qty.": "2",
@@ -166,19 +101,6 @@
       "Packaging Type": "Case",
       "Pack Size": "2/5 lb",
       "Handling Requirements": "Refrigerated Food",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
-      "Item No.": "D19-014P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "Order Qty.": "1",
-      "Accepted Qty.": "0",
-      "UOM": "BULK",
-      "Gross Weight": "200",
-      "Packaging Type": "Bulk Tote",
-      "Pack Size": "1/200 Lb BULK TOTE",
-      "Handling Requirements": "Dry",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
