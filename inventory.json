@@ -1,17 +1,8 @@
 {
-  "updated_at": "November 13, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-11-13T10:01:07.071546-05:00",
-  "item_count": 127,
+  "updated_at": "November 13, 2026 at 11:00 AM",
+  "updated_at_iso": "2026-11-13T11:00:57.636059-05:00",
+  "item_count": 122,
   "items": [
-    {
-      "Available Qty.": "314",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
-      "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
-      "Feature Type": "",
-      "Gross Weight": "14"
-    },
     {
       "Available Qty.": "6",
       "Item No.": "P10-003P",
@@ -22,7 +13,16 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "314",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "0",
       "Item No.": "D04-258P",
       "Description": "Assorted Bread and Bakery - BULK",
       "UOM": "BULK",
@@ -47,16 +47,6 @@
       "Pack Size": "1/25 lb",
       "Feature Type": "",
       "Gross Weight": "25"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D22-078P",
-      "Description": "Assorted Pet Food - BULKTOTE 1/675 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/675 lb",
-      "Feature Type": "",
-      "Gross Weight": "675",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
       "Available Qty.": "816",
@@ -149,23 +139,13 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "236",
+      "Available Qty.": "234",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-11-12T13:01:09.556266-05:00"
     },
     {
       "Available Qty.": "241",
@@ -195,6 +175,16 @@
       "Gross Weight": "24"
     },
     {
+      "Available Qty.": "30",
+      "Item No.": "D28-015P",
+      "Description": "Cabbage",
+      "UOM": "CS",
+      "Pack Size": "1/50 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-13T11:00:57.635462-05:00"
+    },
+    {
       "Available Qty.": "93",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
@@ -213,7 +203,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "9",
       "Item No.": "D22-134P",
       "Description": "Cat Litter 6/7 lb",
       "UOM": "CS",
@@ -231,15 +221,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "4",
-      "Item No.": "P15-035P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "8/5 Lb bags",
-      "Feature Type": "",
-      "Gross Weight": "40"
-    },
-    {
       "Available Qty.": "1546",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -249,6 +230,15 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "4",
+      "Item No.": "P15-035P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "8/5 Lb bags",
+      "Feature Type": "",
+      "Gross Weight": "40"
+    },
+    {
       "Available Qty.": "113",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
@@ -256,16 +246,6 @@
       "Pack Size": "4/4.25 lb",
       "Feature Type": "",
       "Gross Weight": "17"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D06-476P",
-      "Description": "Chicken Mozzarella Tortelloni",
-      "UOM": "CS",
-      "Pack Size": "6/18 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
       "Available Qty.": "320",
@@ -340,17 +320,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D06-471P",
-      "Description": "Fettucine and Beef Short Ribs",
-      "UOM": "CS",
-      "Pack Size": "4/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
-    },
-    {
-      "Available Qty.": "460",
+      "Available Qty.": "455",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -369,7 +339,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "56",
       "Item No.": "D06-475P",
       "Description": "Four Cheese Ravioli",
       "UOM": "CS",
@@ -433,7 +403,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "570",
+      "Available Qty.": "560",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -460,7 +430,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1206",
+      "Available Qty.": "1201",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -560,7 +530,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "142",
+      "Available Qty.": "137",
       "Item No.": "D03-830P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -578,16 +548,6 @@
       "Feature Type": "",
       "Gross Weight": "22",
       "new_since": "2026-11-12T17:59:42.610449-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-295P",
-      "Description": "Lunchmeat, Turkey Breast",
-      "UOM": "CS",
-      "Pack Size": "8/6 oz",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-11-13T10:01:07.055182-05:00"
     },
     {
       "Available Qty.": "566",
@@ -861,7 +821,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "323",
+      "Available Qty.": "255",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1140,16 +1100,6 @@
       "Pack Size": "12/12 oz",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D07-037P",
-      "Description": "Yogurt",
-      "UOM": "CS",
-      "Pack Size": "12/6 oz",
-      "Feature Type": "Free Item",
-      "Gross Weight": "4",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
       "Available Qty.": "651",
