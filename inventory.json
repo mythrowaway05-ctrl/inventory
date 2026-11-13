@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 13, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-11-13T06:01:03.483433-05:00",
-  "item_count": 144,
+  "updated_at": "November 13, 2026 at 06:44 AM",
+  "updated_at_iso": "2026-11-13T06:44:11.595677-05:00",
+  "item_count": 143,
   "items": [
     {
       "Available Qty.": "6",
@@ -31,7 +31,7 @@
       "Gross Weight": "200"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D05-883P",
       "Description": "Assorted Breakfast",
       "UOM": "CS",
@@ -69,7 +69,7 @@
       "Gross Weight": "25"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "2",
       "Item No.": "D16-006P",
       "Description": "Assorted Mixed Foods",
       "UOM": "CS",
@@ -261,7 +261,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "48",
       "Item No.": "D06-474P",
       "Description": "Chicken Alfredo Lasagna",
       "UOM": "CS",
@@ -298,7 +298,7 @@
       "Gross Weight": "17"
     },
     {
-      "Available Qty.": "111",
+      "Available Qty.": "70",
       "Item No.": "D06-476P",
       "Description": "Chicken Mozzarella Tortelloni",
       "UOM": "CS",
@@ -308,7 +308,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "18",
+      "Available Qty.": "3",
       "Item No.": "D06-470P",
       "Description": "Chicken Teriyaki Noodles",
       "UOM": "CS",
@@ -372,7 +372,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D26-404P",
       "Description": "Cooking Spray 6/16 oz",
       "UOM": "CS",
@@ -400,7 +400,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "95",
+      "Available Qty.": "83",
       "Item No.": "D06-471P",
       "Description": "Fettucine and Beef Short Ribs",
       "UOM": "CS",
@@ -410,7 +410,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "476",
+      "Available Qty.": "472",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -475,7 +475,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "97",
+      "Available Qty.": "91",
       "Item No.": "D05-848P",
       "Description": "Grits",
       "UOM": "CS",
@@ -621,7 +621,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "22",
       "Item No.": "D06-473P",
       "Description": "Lasagna",
       "UOM": "CS",
@@ -670,7 +670,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "0",
       "Item No.": "D15-445P",
       "Description": "Lunchmeat 8/12 oz",
       "UOM": "CS",
@@ -962,7 +962,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D25-657P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -1028,7 +1028,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "4",
       "Item No.": "D08-046P",
       "Description": "Pudding",
       "UOM": "CS",
@@ -1038,7 +1038,7 @@
       "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D08-207P",
       "Description": "Pudding",
       "UOM": "CS",
@@ -1085,23 +1085,13 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "689",
+      "Available Qty.": "679",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "10",
-      "Item No.": "D06-467P",
-      "Description": "Ricotta and Spinach Ravioli 14-2/12 oz",
-      "UOM": "CS",
-      "Pack Size": "12-2/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-11-13T03:01:04.657585-05:00"
     },
     {
       "Available Qty.": "442",
@@ -1239,7 +1229,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "13",
+      "Available Qty.": "8",
       "Item No.": "D06-469P",
       "Description": "Spinach and Cheese Ravioli 10-2/22 oz",
       "UOM": "CS",
@@ -1313,7 +1303,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "120",
+      "Available Qty.": "80",
       "Item No.": "D07-037P",
       "Description": "Yogurt",
       "UOM": "CS",
