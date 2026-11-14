@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 14, 2026 at 11:00 AM",
-  "updated_at_iso": "2026-11-14T11:00:49.929637-05:00",
+  "updated_at": "November 14, 2026 at 12:00 PM",
+  "updated_at_iso": "2026-11-14T12:00:49.091337-05:00",
   "item_count": 131,
   "items": [
     {
@@ -22,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "24",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -173,8 +173,7 @@
       "UOM": "CS",
       "Pack Size": "1/50 lb",
       "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-11-13T11:00:57.635462-05:00"
+      "Gross Weight": "50"
     },
     {
       "Available Qty.": "93",
@@ -204,7 +203,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1512",
+      "Available Qty.": "1510",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -393,7 +392,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "39",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -512,7 +511,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "13",
       "Item No.": "D03-249P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -587,7 +586,7 @@
       "new_since": "2026-11-13T13:59:06.944514-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -637,7 +636,7 @@
       "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "5",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -1152,7 +1151,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "5",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
