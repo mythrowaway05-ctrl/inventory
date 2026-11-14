@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 14, 2026 at 05:00 PM",
-  "updated_at_iso": "2026-11-14T17:00:55.915232-05:00",
-  "item_count": 130,
+  "updated_at": "November 14, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-11-14T18:01:04.865152-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "301",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "22",
+      "Available Qty.": "0",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -167,7 +167,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "91",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -212,7 +212,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "68",
+      "Available Qty.": "67",
       "Item No.": "P15-106P",
       "Description": "Chicken Leg Quarters",
       "UOM": "CS",
@@ -248,7 +248,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "513",
+      "Available Qty.": "512",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -257,7 +257,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "393",
+      "Available Qty.": "392",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -293,7 +293,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "399",
+      "Available Qty.": "397",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -402,7 +402,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "1089",
+      "Available Qty.": "1083",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -420,7 +420,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "1066",
+      "Available Qty.": "1065",
       "Item No.": "D07-891P",
       "Description": "Ice Cream",
       "UOM": "CS",
@@ -565,15 +565,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38"
-    },
-    {
       "Available Qty.": "5",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
@@ -624,7 +615,7 @@
       "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
@@ -1111,7 +1102,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "225",
+      "Available Qty.": "125",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
@@ -1138,7 +1129,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D15-1188P",
       "Description": "Turkeys",
       "UOM": "CS",
