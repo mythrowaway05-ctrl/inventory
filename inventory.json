@@ -1,8 +1,17 @@
 {
-  "updated_at": "November 14, 2026 at 04:00 AM",
-  "updated_at_iso": "2026-11-14T04:00:59.813220-05:00",
-  "item_count": 139,
+  "updated_at": "November 14, 2026 at 05:01 AM",
+  "updated_at_iso": "2026-11-14T05:01:06.266327-05:00",
+  "item_count": 138,
   "items": [
+    {
+      "Available Qty.": "311",
+      "Item No.": "P10-090P",
+      "Description": "Applesauce, Unsweetened",
+      "UOM": "CS",
+      "Pack Size": "12/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
     {
       "Available Qty.": "5",
       "Item No.": "P10-003P",
@@ -13,13 +22,14 @@
       "Gross Weight": "29"
     },
     {
-      "Available Qty.": "311",
-      "Item No.": "P10-090P",
-      "Description": "Applesauce, Unsweetened",
+      "Available Qty.": "2",
+      "Item No.": "D05-883P",
+      "Description": "Assorted Breakfast",
       "UOM": "CS",
-      "Pack Size": "12/14.5 oz",
+      "Pack Size": "1/20 lb",
       "Feature Type": "",
-      "Gross Weight": "14"
+      "Gross Weight": "20",
+      "new_since": "2026-11-14T05:01:06.265949-05:00"
     },
     {
       "Available Qty.": "40",
@@ -42,16 +52,6 @@
     },
     {
       "Available Qty.": "1",
-      "Item No.": "D01-240P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/300 lbs",
-      "Feature Type": "",
-      "Gross Weight": "300",
-      "new_since": "2026-11-14T02:13:38.548274-05:00"
-    },
-    {
-      "Available Qty.": "2",
       "Item No.": "D19-016P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -187,7 +187,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "17",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -513,16 +513,6 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "12",
-      "Item No.": "D14-008P",
-      "Description": "Juice, Orange",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "",
-      "Gross Weight": "45",
-      "new_since": "2026-11-14T02:13:38.548274-05:00"
-    },
-    {
       "Available Qty.": "8",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
@@ -533,6 +523,16 @@
       "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
+      "Available Qty.": "12",
+      "Item No.": "D14-008P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "",
+      "Gross Weight": "45",
+      "new_since": "2026-11-14T02:13:38.548274-05:00"
+    },
+    {
       "Available Qty.": "425",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -540,6 +540,15 @@
       "Pack Size": "16/24 oz",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "12",
@@ -559,15 +568,6 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "662",
@@ -617,7 +617,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "6",
       "Item No.": "D07-608P",
       "Description": "Milk, 2% 9/.5 gal",
       "UOM": "CS",
@@ -1219,16 +1219,6 @@
       "Pack Size": "1/238 lb",
       "Feature Type": "",
       "Gross Weight": "238",
-      "new_since": "2026-11-14T02:13:38.548274-05:00"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-1012P",
-      "Description": "Turkeys 1/266 lb",
-      "UOM": "BULK",
-      "Pack Size": "1/266 lb",
-      "Feature Type": "",
-      "Gross Weight": "266",
       "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
