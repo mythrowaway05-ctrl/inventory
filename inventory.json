@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 15, 2026 at 01:00 AM",
-  "updated_at_iso": "2026-11-15T01:00:58.204708-05:00",
-  "item_count": 128,
+  "updated_at": "November 15, 2026 at 02:00 AM",
+  "updated_at_iso": "2026-11-15T02:00:58.385102-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "301",
@@ -512,6 +512,15 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
+    },
+    {
       "Available Qty.": "13",
       "Item No.": "D03-249P",
       "Description": "Lemonade",
@@ -528,15 +537,6 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "682",
@@ -573,6 +573,16 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
+    },
+    {
+      "Available Qty.": "25",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-11-15T02:00:58.384523-05:00"
     },
     {
       "Available Qty.": "32",
