@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 15, 2026 at 10:00 AM",
-  "updated_at_iso": "2026-11-15T10:00:49.129689-05:00",
-  "item_count": 129,
+  "updated_at": "November 15, 2026 at 11:00 AM",
+  "updated_at_iso": "2026-11-15T11:00:58.903419-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "301",
@@ -13,16 +13,6 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D04-259P",
-      "Description": "Assorted Bread and Bakery - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/225 lbs",
-      "Feature Type": "",
-      "Gross Weight": "225",
-      "new_since": "2026-11-14T18:31:21.345685-05:00"
-    },
-    {
       "Available Qty.": "0",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
@@ -32,7 +22,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "197",
+      "Available Qty.": "192",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -113,7 +103,7 @@
       "Gross Weight": "40"
     },
     {
-      "Available Qty.": "477",
+      "Available Qty.": "475",
       "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -167,7 +157,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "11",
       "Item No.": "D28-015P",
       "Description": "Cabbage",
       "UOM": "CS",
@@ -311,7 +301,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "719",
+      "Available Qty.": "714",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -509,16 +499,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
-    },
-    {
-      "Available Qty.": "13",
+      "Available Qty.": "10",
       "Item No.": "D03-249P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -534,6 +515,15 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "682",
@@ -879,7 +869,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "248",
+      "Available Qty.": "244",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -1014,7 +1004,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1721",
+      "Available Qty.": "1716",
       "Item No.": "D03-083P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1023,7 +1013,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1595",
+      "Available Qty.": "1590",
       "Item No.": "D03-1081P",
       "Description": "Soda, Prebiotic 12/12 oz",
       "UOM": "CS",
@@ -1104,7 +1094,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "125",
+      "Available Qty.": "120",
       "Item No.": "D03-701P",
       "Description": "Tea, Sweet",
       "UOM": "CS",
