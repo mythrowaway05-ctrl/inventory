@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 15, 2026 at 05:00 PM",
-  "updated_at_iso": "2026-11-15T17:00:54.396378-05:00",
-  "item_count": 123,
+  "updated_at": "November 15, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-11-15T18:01:16.917184-05:00",
+  "item_count": 124,
   "items": [
     {
       "Available Qty.": "301",
@@ -547,6 +547,16 @@
       "Gross Weight": "54"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D07-878P",
+      "Description": "Milk, 1% 9/.5 gal",
+      "UOM": "CS",
+      "Pack Size": "9/.5 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "44",
+      "new_since": "2026-11-15T18:01:16.916877-05:00"
+    },
+    {
       "Available Qty.": "467",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -817,7 +827,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "104",
+      "Available Qty.": "79",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
