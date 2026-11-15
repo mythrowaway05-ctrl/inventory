@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 14, 2026 at 08:01 PM",
-  "updated_at_iso": "2026-11-14T20:01:00.029321-05:00",
-  "item_count": 129,
+  "updated_at": "November 14, 2026 at 09:00 PM",
+  "updated_at_iso": "2026-11-14T21:00:53.550020-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "301",
@@ -393,7 +393,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "38",
+      "Available Qty.": "33",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -493,7 +493,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "0",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -512,15 +512,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
-    },
-    {
       "Available Qty.": "13",
       "Item No.": "D03-249P",
       "Description": "Lemonade",
@@ -537,6 +528,15 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "662",
@@ -573,16 +573,6 @@
       "Pack Size": "12/32 oz carton",
       "Feature Type": "",
       "Gross Weight": "28"
-    },
-    {
-      "Available Qty.": "5",
-      "Item No.": "D07-608P",
-      "Description": "Milk, 2% 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "44",
-      "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
       "Available Qty.": "32",
@@ -625,7 +615,7 @@
       "new_since": "2026-11-14T02:13:38.548274-05:00"
     },
     {
-      "Available Qty.": "5",
+      "Available Qty.": "0",
       "Item No.": "D07-1055P",
       "Description": "Milk, Whole 9/.5 gal",
       "UOM": "CS",
