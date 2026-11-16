@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 15, 2026 at 06:16 PM",
-  "updated_at_iso": "2026-11-15T18:16:29.853295-05:00",
-  "item_count": 124,
+  "updated_at": "November 15, 2026 at 07:00 PM",
+  "updated_at_iso": "2026-11-15T19:00:58.902138-05:00",
+  "item_count": 122,
   "items": [
     {
       "Available Qty.": "301",
@@ -193,15 +193,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1510",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -209,6 +200,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1510",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "362",
@@ -274,16 +274,6 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3",
-      "Item No.": "D13-195P",
-      "Description": "Fabric Softener 12/8 oz",
-      "UOM": "CS",
-      "Pack Size": "12/8 oz",
-      "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-15T17:00:54.380600-05:00"
-    },
-    {
       "Available Qty.": "397",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
@@ -293,7 +283,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "714",
+      "Available Qty.": "710",
       "Item No.": "D25-2090P",
       "Description": "Flavored Popcorn 64/1 oz",
       "UOM": "CS",
@@ -346,16 +336,6 @@
       "Pack Size": "12/14 oz cans",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D05-848P",
-      "Description": "Grits",
-      "UOM": "CS",
-      "Pack Size": "12/32 oz",
-      "Feature Type": "",
-      "Gross Weight": "25",
-      "new_since": "2026-11-15T17:00:54.380600-05:00"
     },
     {
       "Available Qty.": "291",
@@ -439,7 +419,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "353",
+      "Available Qty.": "349",
       "Item No.": "P26-044P",
       "Description": "Jelly, Grape, Squeeze",
       "UOM": "CS",
@@ -448,7 +428,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "406",
+      "Available Qty.": "402",
       "Item No.": "P26-045P",
       "Description": "Jelly, Strawberry, Squeeze",
       "UOM": "CS",
@@ -674,7 +654,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "D01-399P",
       "Description": "N95 Face Mask 6/50 ct",
       "UOM": "CS",
@@ -827,7 +807,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "79",
+      "Available Qty.": "77",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -845,7 +825,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D27-835P",
       "Description": "Potatoes, Sliced",
       "UOM": "CS",
