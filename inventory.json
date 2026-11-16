@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 16, 2026 at 12:01 PM",
-  "updated_at_iso": "2026-11-16T12:01:01.426348-05:00",
-  "item_count": 116,
+  "updated_at": "November 16, 2026 at 01:00 PM",
+  "updated_at_iso": "2026-11-16T13:00:49.350674-05:00",
+  "item_count": 118,
   "items": [
     {
       "Available Qty.": "301",
@@ -185,15 +185,6 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1426",
-      "Item No.": "P15-107P",
-      "Description": "Chicken Drumsticks",
-      "UOM": "CS",
-      "Pack Size": "6/3 lb",
-      "Feature Type": "",
-      "Gross Weight": "18"
-    },
-    {
       "Available Qty.": "4",
       "Item No.": "P15-035P",
       "Description": "Chicken Drumsticks",
@@ -201,6 +192,15 @@
       "Pack Size": "8/5 Lb bags",
       "Feature Type": "",
       "Gross Weight": "40"
+    },
+    {
+      "Available Qty.": "1426",
+      "Item No.": "P15-107P",
+      "Description": "Chicken Drumsticks",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
     },
     {
       "Available Qty.": "362",
@@ -456,13 +456,13 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "35",
-      "Item No.": "D03-830P",
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
       "Description": "Lemonade",
       "UOM": "CS",
-      "Pack Size": "6/52 oz",
+      "Pack Size": "4/1 gal",
       "Feature Type": "",
-      "Gross Weight": "26"
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "7",
@@ -474,13 +474,13 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
+      "Available Qty.": "35",
+      "Item No.": "D03-830P",
       "Description": "Lemonade",
       "UOM": "CS",
-      "Pack Size": "4/1 gal",
+      "Pack Size": "6/52 oz",
       "Feature Type": "",
-      "Gross Weight": "36"
+      "Gross Weight": "26"
     },
     {
       "Available Qty.": "312",
@@ -519,6 +519,16 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "13",
+      "Item No.": "D07-1053P",
+      "Description": "Milk, 2% 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "38",
+      "new_since": "2026-11-16T13:00:49.262661-05:00"
+    },
+    {
       "Available Qty.": "27",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
@@ -526,6 +536,16 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "Free Item",
       "Gross Weight": "38"
+    },
+    {
+      "Available Qty.": "19",
+      "Item No.": "D07-381P",
+      "Description": "Milk, Chocolate 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "40",
+      "new_since": "2026-11-16T13:00:49.262661-05:00"
     },
     {
       "Available Qty.": "121",
@@ -717,7 +737,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "501",
+      "Available Qty.": "500",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
       "UOM": "CS",
@@ -825,7 +845,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "832",
+      "Available Qty.": "900",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
