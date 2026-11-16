@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 16, 2026 at 05:39 PM",
-  "updated_at_iso": "2026-11-16T17:39:54.034222-05:00",
-  "item_count": 113,
+  "updated_at": "November 16, 2026 at 06:01 PM",
+  "updated_at_iso": "2026-11-16T18:01:04.601542-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "301",
@@ -20,16 +20,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-11-16T15:01:07.706760-05:00"
     },
     {
       "Available Qty.": "791",
@@ -438,6 +428,15 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "53",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
+    },
+    {
       "Available Qty.": "6",
       "Item No.": "D03-249P",
       "Description": "Lemonade",
@@ -454,15 +453,6 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
-    },
-    {
-      "Available Qty.": "53",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "302",
@@ -483,7 +473,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "0",
       "Item No.": "D07-870P",
       "Description": "Milk, 1% 6/1 gal",
       "UOM": "CS",
@@ -501,7 +491,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D07-1053P",
       "Description": "Milk, 2% 4/1 gal",
       "UOM": "CS",
