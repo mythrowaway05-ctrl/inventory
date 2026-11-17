@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 17, 2026 at 02:01 PM",
-  "updated_at_iso": "2026-11-17T14:01:04.561041-05:00",
+  "updated_at": "November 17, 2026 at 03:01 PM",
+  "updated_at_iso": "2026-11-17T15:01:05.102213-05:00",
   "item_count": 117,
   "items": [
     {
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "15",
+      "Available Qty.": "2",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-11-17T12:01:21.680693-05:00"
     },
     {
-      "Available Qty.": "167",
+      "Available Qty.": "165",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -42,17 +42,7 @@
       "new_since": "2026-11-16T15:01:07.706760-05:00"
     },
     {
-      "Available Qty.": "15",
-      "Item No.": "D25-1405P",
-      "Description": "Assorted Snacks",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-11-17T03:01:03.143190-05:00"
-    },
-    {
-      "Available Qty.": "32",
+      "Available Qty.": "0",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
       "UOM": "CS",
@@ -216,7 +206,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "1379",
+      "Available Qty.": "1376",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -295,8 +285,7 @@
       "UOM": "CS",
       "Pack Size": "24/7.25 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-16T14:01:26.414385-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "385",
@@ -425,7 +414,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "40",
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
       "UOM": "CS",
@@ -815,7 +804,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "48",
+      "Available Qty.": "45",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -927,6 +916,16 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-17T04:00:56.816555-05:00"
+    },
+    {
+      "Available Qty.": "9",
+      "Item No.": "D25-1424P",
+      "Description": "Skinny Popcorn 6/4.4 oz",
+      "UOM": "CS",
+      "Pack Size": "6/4.4 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-11-17T15:01:05.101520-05:00"
     },
     {
       "Available Qty.": "1278",
