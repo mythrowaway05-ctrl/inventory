@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 17, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-11-17T11:01:30.759294-05:00",
-  "item_count": 113,
+  "updated_at": "November 17, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-11-17T12:01:21.681076-05:00",
+  "item_count": 114,
   "items": [
     {
       "Available Qty.": "301",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-162P",
+      "Description": "Assorted Bread and Bakery",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "20",
+      "new_since": "2026-11-17T12:01:21.680693-05:00"
     },
     {
       "Available Qty.": "167",
@@ -110,6 +120,16 @@
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "15",
+      "Item No.": "D04-001P",
+      "Description": "Bread, Assorted",
+      "UOM": "CS",
+      "Pack Size": "1/30 lb box",
+      "Feature Type": "Free Item",
+      "Gross Weight": "30",
+      "new_since": "2026-11-17T12:01:21.680693-05:00"
     },
     {
       "Available Qty.": "161",
@@ -220,7 +240,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1617",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -375,7 +395,7 @@
       "Gross Weight": "1776"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "44",
       "Item No.": "D06-350P",
       "Description": "Italian Pasta Salad 2/5 lb",
       "UOM": "CS",
@@ -748,16 +768,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "P28-064P",
-      "Description": "Potatoes",
-      "UOM": "BULK",
-      "Pack Size": "100/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-16T16:01:05.082215-05:00"
-    },
-    {
       "Available Qty.": "362",
       "Item No.": "P27-123P",
       "Description": "Potatoes, Mashed, Instant",
@@ -900,7 +910,7 @@
       "new_since": "2026-11-17T04:00:56.816555-05:00"
     },
     {
-      "Available Qty.": "1220",
+      "Available Qty.": "1274",
       "Item No.": "D03-1081P",
       "Description": "Soda, Prebiotic 12/12 oz",
       "UOM": "CS",
