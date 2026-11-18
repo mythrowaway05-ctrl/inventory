@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 18, 2026 at 04:01 AM",
-  "updated_at_iso": "2026-11-18T04:01:05.820928-05:00",
-  "item_count": 131,
+  "updated_at": "November 18, 2026 at 05:00 AM",
+  "updated_at_iso": "2026-11-18T05:00:59.335272-05:00",
+  "item_count": 129,
   "items": [
     {
       "Available Qty.": "301",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "29",
+      "Available Qty.": "19",
       "Item No.": "D11-111P",
       "Description": "Assorted Baking Items",
       "UOM": "CS",
@@ -40,16 +40,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D01-140P",
-      "Description": "Assorted Non Food - BULK",
-      "UOM": "BULK",
-      "Pack Size": "1/200 lbs",
-      "Feature Type": "",
-      "Gross Weight": "200",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
       "Available Qty.": "1",
@@ -377,16 +367,6 @@
       "Pack Size": "6/30 oz",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-1190P",
-      "Description": "Ham 2/13 lb",
-      "UOM": "CS",
-      "Pack Size": "2/13 lb",
-      "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
       "Available Qty.": "220",
@@ -1012,6 +992,15 @@
       "Gross Weight": "10"
     },
     {
+      "Available Qty.": "1256",
+      "Item No.": "D03-083P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
+    },
+    {
       "Available Qty.": "20",
       "Item No.": "D03-1032P",
       "Description": "Soda",
@@ -1020,15 +1009,6 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-18T03:01:06.054719-05:00"
-    },
-    {
-      "Available Qty.": "1256",
-      "Item No.": "D03-083P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
     },
     {
       "Available Qty.": "16",
