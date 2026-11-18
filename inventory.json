@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 18, 2026 at 03:05 PM",
-  "updated_at_iso": "2026-11-18T15:05:18.201411-05:00",
-  "item_count": 101,
+  "updated_at": "November 18, 2026 at 04:00 PM",
+  "updated_at_iso": "2026-11-18T16:00:33.017825-05:00",
+  "item_count": 99,
   "items": [
     {
       "Available Qty.": "297",
@@ -11,16 +11,6 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "13",
-      "Item No.": "D05-883P",
-      "Description": "Assorted Breakfast",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "",
-      "Gross Weight": "20",
-      "new_since": "2026-11-18T13:03:07.306830-05:00"
     },
     {
       "Available Qty.": "1",
@@ -52,6 +42,16 @@
       "new_since": "2026-11-18T13:03:07.306830-05:00"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D19-016P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/130 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "130",
+      "new_since": "2026-11-18T16:00:33.017221-05:00"
+    },
+    {
       "Available Qty.": "8",
       "Item No.": "D26-598P",
       "Description": "Assorted Spices and Condiments",
@@ -71,7 +71,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "822",
+      "Available Qty.": "827",
       "Item No.": "P23-080P",
       "Description": "Beans, Black",
       "UOM": "CS",
@@ -279,6 +279,16 @@
       "Gross Weight": "26"
     },
     {
+      "Available Qty.": "960",
+      "Item No.": "D07-1084P",
+      "Description": "Cottage Cheese 4/3 lb",
+      "UOM": "CS",
+      "Pack Size": "4/3 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "12",
+      "new_since": "2026-11-18T16:00:33.017221-05:00"
+    },
+    {
       "Available Qty.": "803",
       "Item No.": "P10-006P",
       "Description": "Dried Fruit, Strawberry and Banana Crisps",
@@ -421,16 +431,6 @@
       "Pack Size": "1/1776 lbs",
       "Feature Type": "",
       "Gross Weight": "1776"
-    },
-    {
-      "Available Qty.": "54",
-      "Item No.": "D07-526P",
-      "Description": "Ice Cream Mix, Chocolate 4/1 GAL",
-      "UOM": "CS",
-      "Pack Size": "4/1 GAL",
-      "Feature Type": "",
-      "Gross Weight": "38",
-      "new_since": "2026-11-18T15:05:18.201024-05:00"
     },
     {
       "Available Qty.": "306",
@@ -732,7 +732,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1129",
+      "Available Qty.": "1134",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -769,7 +769,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "11",
       "Item No.": "P28-064P",
       "Description": "Potatoes",
       "UOM": "BULK",
@@ -826,7 +826,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "773",
+      "Available Qty.": "763",
       "Item No.": "P15-116P",
       "Description": "Pouch Chunk Chicken",
       "UOM": "CS",
@@ -836,7 +836,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "593",
+      "Available Qty.": "583",
       "Item No.": "P06-232P",
       "Description": "Pouch Pasta w/ Meat Sauce",
       "UOM": "CS",
@@ -846,7 +846,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "622",
+      "Available Qty.": "620",
       "Item No.": "P06-233P",
       "Description": "Pouch Southwestern Style Chicken w/ Beans and Rice",
       "UOM": "CS",
@@ -856,7 +856,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "622",
+      "Available Qty.": "620",
       "Item No.": "P06-231P",
       "Description": "Pouch White Chicken Chili",
       "UOM": "CS",
@@ -909,24 +909,6 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
-    },
-    {
-      "Available Qty.": "218",
-      "Item No.": "P26-046P",
-      "Description": "Vegetable Oil",
-      "UOM": "CS",
-      "Pack Size": "12/24 oz",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
-      "Available Qty.": "626",
-      "Item No.": "D15-818P",
-      "Description": "Young Chickens",
-      "UOM": "CS",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
     }
   ]
 }
