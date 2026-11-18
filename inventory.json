@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 18, 2026 at 05:00 AM",
-  "updated_at_iso": "2026-11-18T05:00:59.335272-05:00",
-  "item_count": 129,
+  "updated_at": "November 18, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-18T06:00:59.311095-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "301",
@@ -13,7 +13,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "0",
       "Item No.": "D11-111P",
       "Description": "Assorted Baking Items",
       "UOM": "CS",
@@ -23,7 +23,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "9",
+      "Available Qty.": "7",
       "Item No.": "D25-1406P",
       "Description": "Assorted Candy",
       "UOM": "CS",
@@ -40,16 +40,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D15-048P",
-      "Description": "Bacon",
-      "UOM": "CS",
-      "Pack Size": "1/15 lb",
-      "Feature Type": "",
-      "Gross Weight": "15",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
       "Available Qty.": "780",
@@ -115,7 +105,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "460",
+      "Available Qty.": "459",
       "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -124,7 +114,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "732",
+      "Available Qty.": "731",
       "Item No.": "P15-119P",
       "Description": "Bologna, Garlic",
       "UOM": "CS",
@@ -133,7 +123,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "204",
+      "Available Qty.": "203",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
@@ -288,7 +278,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "375",
+      "Available Qty.": "373",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -450,7 +440,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "2",
       "Item No.": "D03-034P",
       "Description": "K-Cups, Assorted",
       "UOM": "CS",
@@ -533,7 +523,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "1",
       "Item No.": "D07-607P",
       "Description": "Milk, 2% Lactose Free 4/1 gal",
       "UOM": "CS",
@@ -542,7 +532,7 @@
       "Gross Weight": "38"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "10",
       "Item No.": "D07-871P",
       "Description": "Milk, Skim 9/.5 gal",
       "UOM": "CS",
@@ -992,15 +982,6 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1256",
-      "Item No.": "D03-083P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "11"
-    },
-    {
       "Available Qty.": "20",
       "Item No.": "D03-1032P",
       "Description": "Soda",
@@ -1009,6 +990,15 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-18T03:01:06.054719-05:00"
+    },
+    {
+      "Available Qty.": "1256",
+      "Item No.": "D03-083P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "11"
     },
     {
       "Available Qty.": "16",
@@ -1131,7 +1121,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "41",
+      "Available Qty.": "37",
       "Item No.": "D03-1191P",
       "Description": "Tonic Water, Premium 3-8/5.07 oz",
       "UOM": "CS",
@@ -1168,7 +1158,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "167",
+      "Available Qty.": "165",
       "Item No.": "D03-356P",
       "Description": "Water Flavored Sparkling",
       "UOM": "CS",

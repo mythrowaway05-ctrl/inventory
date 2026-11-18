@@ -1,16 +1,16 @@
 {
-  "scraped_at": "2026-11-18T05:00:59.285353-05:00",
+  "scraped_at": "2026-11-18T06:00:59.129494-05:00",
   "po_number": "PO6439845",
   "appointment": {
     "reference_number": "PO6439845",
     "pickup_date": "11/24/2026 @ 09:00 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n15",
-    "Total Line Items": "Gross Weight\n817 lbs",
+    "Total Due": "Total Line Items\n16",
+    "Total Line Items": "Gross Weight\n867 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD04-162P\tAssorted Bread and Bakery\t2\t2\tCS\t40\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-877P\tTurkeys, Whole\t2\t2\tCS\t120\t10.80\t\u00a0\t4/14-16 lb\tFROZEN\t0.00\tNot Yet Ranked\nD06-471P\tFettucine and Beef Short Ribs\t12\t12\tCS\t72\t1.14\t\u00a0\t4/24 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-465P\tFive Cheese Tortelloni\t1\t1\tCS\t36\t6.84\t\u00a0\t12-2/24 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-475P\tFour Cheese Ravioli\t4\t4\tCS\t16\t0.76\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD06-474P\tChicken Alfredo Lasagna\t5\t5\tCS\t23\t0.86\t\u00a0\t6/12 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-476P\tChicken Mozzarella Tortelloni\t6\t6\tCS\t42\t1.33\t\u00a0\t6/18 oz\tFROZEN\t0.00\tNot Yet Ranked\nD07-037P\tYogurt\t6\t6\tCS\t24\t0.00\t\u00a0\t12/6 oz\tREF\t0.00\tNot Yet Ranked\nD06-350P\tItalian Pasta Salad\t4\t0\tCS\t0\t1.90\t\u00a0\t2/5 lb\tREF\t0.00\tNot Yet Ranked\nD06-473P\tLasagna\t4\t4\tCS\t48\t2.28\t\u00a0\t6/25 oz\tFROZEN\t0.00\tNot Yet Ranked\nD19-016P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t130\t24.70\t\u00a0\t1/130 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-1011P\tTurkeys\t1\t1\tCS\t46\t8.74\t\u00a0\t1/3 ct\tFROZEN\t0.00\tNot Yet Ranked\nD07-216P\tCoffee Creamer\t6\t6\tCS\t36\t1.14\t\u00a0\t6/24 ct\tDRY\t0.00\tNot Yet Ranked\nD03-830P\tLemonade\t2\t2\tCS\t52\t2.34\t\u00a0\t6/52 oz\tREF\t0.00\tNot Yet Ranked\nD14-086P\tJuice, Orange\t3\t3\tCS\t132\t2.64\t\u00a0\t12/.5 GAL\tREF\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD04-162P\tAssorted Bread and Bakery\t2\t2\tCS\t40\t0.00\t\u00a0\t1/20 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-877P\tTurkeys, Whole\t2\t2\tCS\t120\t10.80\t\u00a0\t4/14-16 lb\tFROZEN\t0.00\tNot Yet Ranked\nD06-471P\tFettucine and Beef Short Ribs\t12\t12\tCS\t72\t1.14\t\u00a0\t4/24 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-465P\tFive Cheese Tortelloni\t1\t1\tCS\t36\t6.84\t\u00a0\t12-2/24 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-475P\tFour Cheese Ravioli\t4\t4\tCS\t16\t0.76\t\u00a0\t1/4 lb\tFROZEN\t0.00\tNot Yet Ranked\nD06-474P\tChicken Alfredo Lasagna\t5\t5\tCS\t23\t0.86\t\u00a0\t6/12 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-476P\tChicken Mozzarella Tortelloni\t6\t6\tCS\t42\t1.33\t\u00a0\t6/18 oz\tFROZEN\t0.00\tNot Yet Ranked\nD07-037P\tYogurt\t6\t6\tCS\t24\t0.00\t\u00a0\t12/6 oz\tREF\t0.00\tNot Yet Ranked\nD06-473P\tLasagna\t4\t4\tCS\t48\t2.28\t\u00a0\t6/25 oz\tFROZEN\t0.00\tNot Yet Ranked\nD19-016P\tAssorted Paper Goods and Plasticware - BULK TOTE\t1\t1\tBULK\t130\t24.70\t\u00a0\t1/130 Lb BULK TOTE\tDRY\t0.00\tNot Yet Ranked\nD15-1011P\tTurkeys\t1\t1\tCS\t46\t8.74\t\u00a0\t1/3 ct\tFROZEN\t0.00\tNot Yet Ranked\nD07-216P\tCoffee Creamer\t6\t6\tCS\t36\t1.14\t\u00a0\t6/24 ct\tDRY\t0.00\tNot Yet Ranked\nD03-830P\tLemonade\t2\t2\tCS\t52\t2.34\t\u00a0\t6/52 oz\tREF\t0.00\tNot Yet Ranked\nD14-086P\tJuice, Orange\t3\t3\tCS\t132\t2.64\t\u00a0\t12/.5 GAL\tREF\t0.00\tNot Yet Ranked\nD15-048P\tBacon\t1\t1\tCS\t15\t2.70\t\u00a0\t1/15 lb\tFROZEN\t0.00\tNot Yet Ranked\nD03-1191P\tTonic Water, Premium\t4\t4\tCS\t35\t1.67\t\u00a0\t3-8/5.07 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
@@ -118,19 +118,6 @@
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D06-350P",
-      "Description": "Italian Pasta Salad",
-      "Order Qty.": "4",
-      "Accepted Qty.": "0",
-      "UOM": "CS",
-      "Gross Weight": "0",
-      "Packaging Type": "",
-      "Pack Size": "2/5 lb",
-      "Handling Requirements": "REF",
-      "VAP Fee": "0.00",
-      "Nutritional Information": "Not Yet Ranked"
-    },
-    {
       "Item No.": "D06-473P",
       "Description": "Lasagna",
       "Order Qty.": "4",
@@ -205,6 +192,32 @@
       "Packaging Type": "",
       "Pack Size": "12/.5 GAL",
       "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D15-048P",
+      "Description": "Bacon",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "15",
+      "Packaging Type": "",
+      "Pack Size": "1/15 lb",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D03-1191P",
+      "Description": "Tonic Water, Premium",
+      "Order Qty.": "4",
+      "Accepted Qty.": "4",
+      "UOM": "CS",
+      "Gross Weight": "35",
+      "Packaging Type": "",
+      "Pack Size": "3-8/5.07 oz",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
