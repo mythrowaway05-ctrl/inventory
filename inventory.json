@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 17, 2026 at 07:01 PM",
-  "updated_at_iso": "2026-11-17T19:01:03.366079-05:00",
-  "item_count": 110,
+  "updated_at": "November 17, 2026 at 08:00 PM",
+  "updated_at_iso": "2026-11-17T20:00:50.778429-05:00",
+  "item_count": 111,
   "items": [
     {
       "Available Qty.": "301",
@@ -311,6 +311,16 @@
       "Pack Size": "12/14 oz cans",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "10",
+      "Item No.": "D05-848P",
+      "Description": "Grits",
+      "UOM": "CS",
+      "Pack Size": "12/32 oz",
+      "Feature Type": "",
+      "Gross Weight": "25",
+      "new_since": "2026-11-16T21:01:00.902042-05:00"
     },
     {
       "Available Qty.": "266",
@@ -746,7 +756,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "44",
+      "Available Qty.": "40",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -860,7 +870,7 @@
       "new_since": "2026-11-17T04:00:56.816555-05:00"
     },
     {
-      "Available Qty.": "1278",
+      "Available Qty.": "1268",
       "Item No.": "D03-083P",
       "Description": "Soda",
       "UOM": "CS",
@@ -1010,7 +1020,7 @@
       "new_since": "2026-11-17T04:00:56.816555-05:00"
     },
     {
-      "Available Qty.": "631",
+      "Available Qty.": "626",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
