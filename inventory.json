@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 19, 2026 at 03:00 AM",
-  "updated_at_iso": "2026-11-19T03:00:53.880150-05:00",
+  "updated_at": "November 19, 2026 at 04:00 AM",
+  "updated_at_iso": "2026-11-19T04:00:51.902066-05:00",
   "item_count": 136,
   "items": [
     {
@@ -219,8 +219,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "13",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "13"
     },
     {
       "Available Qty.": "506",
@@ -269,7 +268,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "915",
+      "Available Qty.": "913",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -334,7 +333,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "209",
+      "Available Qty.": "207",
       "Item No.": "D26-1192P",
       "Description": "Grated Parmesan Cheese 200/3.5 gram",
       "UOM": "CS",
@@ -479,6 +478,16 @@
       "Gross Weight": "21"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D14-1000P",
+      "Description": "Juice, Orange",
+      "UOM": "CS",
+      "Pack Size": "6/1 gallon",
+      "Feature Type": "",
+      "Gross Weight": "54",
+      "new_since": "2026-11-19T04:00:51.826367-05:00"
+    },
+    {
       "Available Qty.": "424",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -503,11 +512,10 @@
       "UOM": "CS",
       "Pack Size": "6/52 oz",
       "Feature Type": "",
-      "Gross Weight": "26",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "26"
     },
     {
-      "Available Qty.": "73",
+      "Available Qty.": "72",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -525,7 +533,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "22",
       "Item No.": "D09-008P",
       "Description": "Mayonnaise 4/1 gal",
       "UOM": "CS",
@@ -680,7 +688,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D26-1191P",
       "Description": "Onion Powder 6/20 oz",
       "UOM": "CS",
@@ -723,8 +731,7 @@
       "UOM": "CS",
       "Pack Size": "20/16 oz",
       "Feature Type": "",
-      "Gross Weight": "21",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "21"
     },
     {
       "Available Qty.": "326",
@@ -816,8 +823,7 @@
       "UOM": "CS",
       "Pack Size": "72/2.75 oz",
       "Feature Type": "",
-      "Gross Weight": "16",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "16"
     },
     {
       "Available Qty.": "93",
@@ -865,8 +871,7 @@
       "UOM": "BAG",
       "Pack Size": "1/5 Lb Bag",
       "Feature Type": "Free Item",
-      "Gross Weight": "5",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "1",
@@ -887,7 +892,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "12",
+      "Available Qty.": "11",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -902,8 +907,7 @@
       "UOM": "CS",
       "Pack Size": "24/4.5 oz",
       "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "763",
@@ -912,8 +916,7 @@
       "UOM": "CS",
       "Pack Size": "24/4.5 oz",
       "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "583",
@@ -922,8 +925,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "620",
@@ -932,8 +934,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "620",
@@ -942,8 +943,7 @@
       "UOM": "CS",
       "Pack Size": "12/15 oz",
       "Feature Type": "",
-      "Gross Weight": "12",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "12"
     },
     {
       "Available Qty.": "14",
@@ -1181,7 +1181,7 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
-      "Available Qty.": "4760",
+      "Available Qty.": "4758",
       "Item No.": "D25-2091P",
       "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
       "UOM": "CS",
@@ -1191,7 +1191,7 @@
       "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
-      "Available Qty.": "140",
+      "Available Qty.": "139",
       "Item No.": "D26-1190P",
       "Description": "Sweetener, Zero Calorie 2000/1 gram",
       "UOM": "CS",
@@ -1217,8 +1217,7 @@
       "UOM": "CS",
       "Pack Size": "3-8/5.07 oz",
       "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-11-18T03:01:06.054719-05:00"
+      "Gross Weight": "9"
     },
     {
       "Available Qty.": "503",
@@ -1229,16 +1228,6 @@
       "Feature Type": "",
       "Gross Weight": "18",
       "new_since": "2026-11-18T09:01:34.744563-05:00"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D15-1191P",
-      "Description": "Turkey, Whole",
-      "UOM": "CS",
-      "Pack Size": "1/10-12 lb",
-      "Feature Type": "",
-      "Gross Weight": "11",
-      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "184",
