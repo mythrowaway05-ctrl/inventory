@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 19, 2026 at 01:01 PM",
-  "updated_at_iso": "2026-11-19T13:01:11.809662-05:00",
+  "updated_at": "November 19, 2026 at 02:01 PM",
+  "updated_at_iso": "2026-11-19T14:01:05.698830-05:00",
   "item_count": 100,
   "items": [
     {
@@ -132,7 +132,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "11",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -169,7 +169,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "94",
+      "Available Qty.": "91",
       "Item No.": "P27-008P",
       "Description": "Canned Pumpkin",
       "UOM": "CS",
@@ -260,7 +260,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1585",
+      "Available Qty.": "1582",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -269,7 +269,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "622",
+      "Available Qty.": "619",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -344,7 +344,7 @@
       "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
-      "Available Qty.": "2102",
+      "Available Qty.": "2099",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -398,7 +398,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "610",
+      "Available Qty.": "604",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -506,7 +506,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "20",
+      "Available Qty.": "17",
       "Item No.": "D09-008P",
       "Description": "Mayonnaise 4/1 gal",
       "UOM": "CS",
@@ -705,7 +705,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1126",
+      "Available Qty.": "1122",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -767,8 +767,7 @@
       "UOM": "BULK",
       "Pack Size": "100/5 lb",
       "Feature Type": "",
-      "Gross Weight": "500",
-      "new_since": "2026-11-18T13:03:07.306830-05:00"
+      "Gross Weight": "500"
     },
     {
       "Available Qty.": "5",
@@ -780,7 +779,7 @@
       "Gross Weight": "1000"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "51",
       "Item No.": "D28-218P",
       "Description": "Potatoes",
       "UOM": "CS",
@@ -799,7 +798,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "48",
       "Item No.": "P28-032P",
       "Description": "Potatoes, Sweet",
       "UOM": "CS",
@@ -889,7 +888,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "855",
+      "Available Qty.": "849",
       "Item No.": "P24-020P",
       "Description": "Rice, White",
       "UOM": "CS",
@@ -898,7 +897,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "28",
+      "Available Qty.": "26",
       "Item No.": "D04-367P",
       "Description": "Rolls",
       "UOM": "CS",
@@ -908,7 +907,7 @@
       "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
-      "Available Qty.": "626",
+      "Available Qty.": "624",
       "Item No.": "D15-818P",
       "Description": "Young Chickens",
       "UOM": "CS",
