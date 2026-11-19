@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 19, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-19T02:01:17.780792-05:00",
-  "item_count": 117,
+  "updated_at": "November 19, 2026 at 03:00 AM",
+  "updated_at_iso": "2026-11-19T03:00:53.880150-05:00",
+  "item_count": 136,
   "items": [
     {
       "Available Qty.": "297",
@@ -11,6 +11,16 @@
       "Pack Size": "12/14.5 oz",
       "Feature Type": "",
       "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "24",
+      "Item No.": "D10-105P",
+      "Description": "Applesauce, Unsweetened 6/10 cans",
+      "UOM": "CS",
+      "Pack Size": "6/10 cans",
+      "Feature Type": "",
+      "Gross Weight": "44",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "180",
@@ -77,7 +87,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "541",
+      "Available Qty.": "549",
       "Item No.": "P15-114P",
       "Description": "Beef, Ground, 85/15",
       "UOM": "CS",
@@ -222,6 +232,16 @@
       "Gross Weight": "18"
     },
     {
+      "Available Qty.": "2",
+      "Item No.": "D13-196P",
+      "Description": "Cleaner 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "164",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
@@ -257,6 +277,16 @@
       "Feature Type": "Free Item",
       "Gross Weight": "12",
       "new_since": "2026-11-18T16:00:33.017221-05:00"
+    },
+    {
+      "Available Qty.": "40",
+      "Item No.": "D10-120P",
+      "Description": "Diced, Pears 6/10 cans",
+      "UOM": "CS",
+      "Pack Size": "6/10 cans",
+      "Feature Type": "",
+      "Gross Weight": "44",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "803",
@@ -302,6 +332,16 @@
       "Pack Size": "150/3 ct",
       "Feature Type": "",
       "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "209",
+      "Item No.": "D26-1192P",
+      "Description": "Grated Parmesan Cheese 200/3.5 gram",
+      "UOM": "CS",
+      "Pack Size": "200/3.5 gram",
+      "Feature Type": "",
+      "Gross Weight": "2",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "2116",
@@ -448,6 +488,15 @@
       "Gross Weight": "28"
     },
     {
+      "Available Qty.": "47",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D03-830P",
       "Description": "Lemonade",
@@ -456,15 +505,6 @@
       "Feature Type": "",
       "Gross Weight": "26",
       "new_since": "2026-11-18T03:01:06.054719-05:00"
-    },
-    {
-      "Available Qty.": "47",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
     },
     {
       "Available Qty.": "73",
@@ -483,6 +523,26 @@
       "Pack Size": "12/7.5 oz",
       "Feature Type": "",
       "Gross Weight": "7"
+    },
+    {
+      "Available Qty.": "23",
+      "Item No.": "D09-008P",
+      "Description": "Mayonnaise 4/1 gal",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "31",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
+      "Available Qty.": "7",
+      "Item No.": "D07-870P",
+      "Description": "Milk, 1% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "446",
@@ -530,7 +590,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "334",
+      "Available Qty.": "339",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -620,6 +680,16 @@
       "Gross Weight": "13"
     },
     {
+      "Available Qty.": "11",
+      "Item No.": "D26-1191P",
+      "Description": "Onion Powder 6/20 oz",
+      "UOM": "CS",
+      "Pack Size": "6/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "462",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
@@ -693,6 +763,16 @@
       "Gross Weight": "15"
     },
     {
+      "Available Qty.": "1",
+      "Item No.": "D22-044P",
+      "Description": "Pet Items - BULK",
+      "UOM": "BULK",
+      "Pack Size": "1/600 lbs",
+      "Feature Type": "",
+      "Gross Weight": "600",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "490",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
@@ -720,6 +800,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "80",
+      "Item No.": "D25-1053P",
+      "Description": "Popcorn",
+      "UOM": "CS",
+      "Pack Size": "6/10 pk box",
+      "Feature Type": "",
+      "Gross Weight": "12",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "0",
       "Item No.": "D25-657P",
       "Description": "Popcorn",
@@ -728,6 +818,16 @@
       "Feature Type": "",
       "Gross Weight": "16",
       "new_since": "2026-11-18T03:01:06.054719-05:00"
+    },
+    {
+      "Available Qty.": "93",
+      "Item No.": "D25-2092P",
+      "Description": "Popcorn 4/10 ct",
+      "UOM": "CS",
+      "Pack Size": "4/10 ct",
+      "Feature Type": "",
+      "Gross Weight": "5",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "794",
@@ -739,7 +839,17 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "44",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
+      "Available Qty.": "12",
       "Item No.": "P28-064P",
       "Description": "Potatoes",
       "UOM": "BULK",
@@ -759,7 +869,7 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "P28-065P",
       "Description": "Potatoes",
       "UOM": "BULK",
@@ -836,6 +946,16 @@
       "new_since": "2026-11-18T03:01:06.054719-05:00"
     },
     {
+      "Available Qty.": "14",
+      "Item No.": "D23-055P",
+      "Description": "Protein PB and Bean",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb box",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "668",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
@@ -843,6 +963,16 @@
       "Pack Size": "8/8 ct",
       "Feature Type": "",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "8",
+      "Item No.": "D08-557P",
+      "Description": "Pudding, DISPLAY 72/4 ct",
+      "UOM": "CS",
+      "Pack Size": "72/4 ct",
+      "Feature Type": "",
+      "Gross Weight": "70",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "1604",
@@ -879,6 +1009,16 @@
       "Pack Size": "22/1 lb",
       "Feature Type": "",
       "Gross Weight": "22"
+    },
+    {
+      "Available Qty.": "63",
+      "Item No.": "D04-367P",
+      "Description": "Rolls",
+      "UOM": "CS",
+      "Pack Size": "26/12 ct",
+      "Feature Type": "",
+      "Gross Weight": "34",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "439",
@@ -939,6 +1079,16 @@
       "Feature Type": "",
       "Gross Weight": "10",
       "new_since": "2026-11-18T09:01:34.744563-05:00"
+    },
+    {
+      "Available Qty.": "6",
+      "Item No.": "D25-815P",
+      "Description": "Slim Jim",
+      "UOM": "CS",
+      "Pack Size": "6/24 Ct",
+      "Feature Type": "",
+      "Gross Weight": "18",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "195",
@@ -1031,6 +1181,26 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
+      "Available Qty.": "4760",
+      "Item No.": "D25-2091P",
+      "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
+      "UOM": "CS",
+      "Pack Size": "12/3.625 oz",
+      "Feature Type": "",
+      "Gross Weight": "3",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
+      "Available Qty.": "140",
+      "Item No.": "D26-1190P",
+      "Description": "Sweetener, Zero Calorie 2000/1 gram",
+      "UOM": "CS",
+      "Pack Size": "2000/1 gram",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "395",
       "Item No.": "P27-144P",
       "Description": "Tomatoes, Diced",
@@ -1061,6 +1231,16 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
+      "Available Qty.": "0",
+      "Item No.": "D15-1191P",
+      "Description": "Turkey, Whole",
+      "UOM": "CS",
+      "Pack Size": "1/10-12 lb",
+      "Feature Type": "",
+      "Gross Weight": "11",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
       "Available Qty.": "184",
       "Item No.": "P27-072P",
       "Description": "Veg, Mixed Vegetables",
@@ -1079,6 +1259,16 @@
       "Feature Type": "",
       "Gross Weight": "20",
       "new_since": "2026-11-18T17:00:54.540463-05:00"
+    },
+    {
+      "Available Qty.": "384",
+      "Item No.": "D03-010P",
+      "Description": "Water 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "51",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "626",
