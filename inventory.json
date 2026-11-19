@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 19, 2026 at 08:00 AM",
-  "updated_at_iso": "2026-11-19T08:00:51.491372-05:00",
-  "item_count": 136,
+  "updated_at": "November 19, 2026 at 09:00 AM",
+  "updated_at_iso": "2026-11-19T09:00:52.480020-05:00",
+  "item_count": 130,
   "items": [
     {
       "Available Qty.": "297",
@@ -30,16 +30,6 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D16-006P",
-      "Description": "Assorted Mixed Foods",
-      "UOM": "CS",
-      "Pack Size": "1/30 lbs",
-      "Feature Type": "",
-      "Gross Weight": "30",
-      "new_since": "2026-11-18T13:03:07.306830-05:00"
     },
     {
       "Available Qty.": "775",
@@ -195,15 +185,6 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "333",
-      "Item No.": "P15-104P",
-      "Description": "Chicken Wings",
-      "UOM": "CS",
-      "Pack Size": "4/5 lb bags",
-      "Feature Type": "",
-      "Gross Weight": "20"
-    },
-    {
       "Available Qty.": "257",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
@@ -212,6 +193,15 @@
       "Feature Type": "",
       "Gross Weight": "40",
       "new_since": "2026-11-19T08:00:51.490755-05:00"
+    },
+    {
+      "Available Qty.": "333",
+      "Item No.": "P15-104P",
+      "Description": "Chicken Wings",
+      "UOM": "CS",
+      "Pack Size": "4/5 lb bags",
+      "Feature Type": "",
+      "Gross Weight": "20"
     },
     {
       "Available Qty.": "717",
@@ -278,7 +268,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "913",
+      "Available Qty.": "721",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -369,15 +359,6 @@
       "Pack Size": "12/14 oz cans",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D05-848P",
-      "Description": "Grits",
-      "UOM": "CS",
-      "Pack Size": "12/32 oz",
-      "Feature Type": "",
-      "Gross Weight": "25"
     },
     {
       "Available Qty.": "260",
@@ -488,7 +469,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D14-1000P",
       "Description": "Juice, Orange",
       "UOM": "CS",
@@ -514,15 +495,6 @@
       "Pack Size": "4/1 gal",
       "Feature Type": "",
       "Gross Weight": "36"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-830P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "6/52 oz",
-      "Feature Type": "",
-      "Gross Weight": "26"
     },
     {
       "Available Qty.": "72",
@@ -572,15 +544,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D07-871P",
-      "Description": "Milk, Skim 9/.5 gal",
-      "UOM": "CS",
-      "Pack Size": "9/0.5 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "42"
-    },
-    {
       "Available Qty.": "765",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
@@ -588,15 +551,6 @@
       "Pack Size": "12/15 oz can",
       "Feature Type": "",
       "Gross Weight": "14"
-    },
-    {
-      "Available Qty.": "36",
-      "Item No.": "D11-119P",
-      "Description": "Mix, Cake",
-      "UOM": "BAG",
-      "Pack Size": "1/50 lb",
-      "Feature Type": "",
-      "Gross Weight": "50"
     },
     {
       "Available Qty.": "61",
@@ -827,15 +781,6 @@
       "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D25-657P",
-      "Description": "Popcorn",
-      "UOM": "CS",
-      "Pack Size": "72/2.75 oz",
-      "Feature Type": "",
-      "Gross Weight": "16"
-    },
-    {
       "Available Qty.": "83",
       "Item No.": "D25-2092P",
       "Description": "Popcorn 4/10 ct",
@@ -855,16 +800,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "44",
-      "Item No.": "D28-218P",
-      "Description": "Potatoes",
-      "UOM": "CS",
-      "Pack Size": "10/5 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "50",
-      "new_since": "2026-11-19T03:00:53.879545-05:00"
-    },
-    {
       "Available Qty.": "12",
       "Item No.": "P28-064P",
       "Description": "Potatoes",
@@ -882,6 +817,16 @@
       "Pack Size": "1/5 Lb Bag",
       "Feature Type": "Free Item",
       "Gross Weight": "5"
+    },
+    {
+      "Available Qty.": "44",
+      "Item No.": "D28-218P",
+      "Description": "Potatoes",
+      "UOM": "CS",
+      "Pack Size": "10/5 lb",
+      "Feature Type": "Free Item",
+      "Gross Weight": "50",
+      "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
       "Available Qty.": "1",
@@ -975,7 +920,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "D08-557P",
       "Description": "Pudding, DISPLAY 72/4 ct",
       "UOM": "CS",
@@ -1071,7 +1016,7 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "116",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -1081,7 +1026,7 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
-      "Available Qty.": "137",
+      "Available Qty.": "133",
       "Item No.": "P06-131P",
       "Description": "Skillet Dinner, Stroganoff",
       "UOM": "CS",
@@ -1191,7 +1136,7 @@
       "new_since": "2026-11-19T03:00:53.879545-05:00"
     },
     {
-      "Available Qty.": "139",
+      "Available Qty.": "138",
       "Item No.": "D26-1190P",
       "Description": "Sweetener, Zero Calorie 2000/1 gram",
       "UOM": "CS",
