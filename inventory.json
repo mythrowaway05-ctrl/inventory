@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 19, 2026 at 06:01 AM",
-  "updated_at_iso": "2026-11-19T06:01:01.576089-05:00",
-  "item_count": 136,
+  "updated_at": "November 19, 2026 at 07:00 AM",
+  "updated_at_iso": "2026-11-19T07:00:59.728300-05:00",
+  "item_count": 137,
   "items": [
     {
       "Available Qty.": "297",
@@ -21,6 +21,16 @@
       "Feature Type": "",
       "Gross Weight": "44",
       "new_since": "2026-11-19T03:00:53.879545-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D11-111P",
+      "Description": "Assorted Baking Items",
+      "UOM": "CS",
+      "Pack Size": "1/20 lb",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-11-19T07:00:59.727772-05:00"
     },
     {
       "Available Qty.": "180",
@@ -105,7 +115,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "457",
+      "Available Qty.": "456",
       "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
@@ -114,7 +124,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "731",
+      "Available Qty.": "730",
       "Item No.": "P15-119P",
       "Description": "Bologna, Garlic",
       "UOM": "CS",
@@ -123,7 +133,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "203",
+      "Available Qty.": "202",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
@@ -297,7 +307,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3324",
+      "Available Qty.": "3323",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -589,7 +599,7 @@
       "Gross Weight": "50"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "61",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -607,7 +617,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "576",
+      "Available Qty.": "575",
       "Item No.": "P11-061P",
       "Description": "Mix, Fudge Brownie",
       "UOM": "CS",
@@ -688,7 +698,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "3",
       "Item No.": "D26-1191P",
       "Description": "Onion Powder 6/20 oz",
       "UOM": "CS",
@@ -826,7 +836,7 @@
       "Gross Weight": "16"
     },
     {
-      "Available Qty.": "93",
+      "Available Qty.": "83",
       "Item No.": "D25-2092P",
       "Description": "Popcorn 4/10 ct",
       "UOM": "CS",
@@ -946,7 +956,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "14",
+      "Available Qty.": "6",
       "Item No.": "D23-055P",
       "Description": "Protein PB and Bean",
       "UOM": "CS",
@@ -965,7 +975,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "7",
       "Item No.": "D08-557P",
       "Description": "Pudding, DISPLAY 72/4 ct",
       "UOM": "CS",
@@ -1011,7 +1021,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "63",
+      "Available Qty.": "59",
       "Item No.": "D04-367P",
       "Description": "Rolls",
       "UOM": "CS",
@@ -1081,7 +1091,7 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
-      "Available Qty.": "6",
+      "Available Qty.": "0",
       "Item No.": "D25-815P",
       "Description": "Slim Jim",
       "UOM": "CS",
@@ -1181,7 +1191,7 @@
       "new_since": "2026-11-18T09:01:34.744563-05:00"
     },
     {
-      "Available Qty.": "4758",
+      "Available Qty.": "4748",
       "Item No.": "D25-2091P",
       "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
       "UOM": "CS",
