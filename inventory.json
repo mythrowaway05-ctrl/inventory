@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 20, 2026 at 10:01 AM",
-  "updated_at_iso": "2026-11-20T10:01:12.228011-05:00",
-  "item_count": 130,
+  "updated_at": "November 20, 2026 at 11:01 AM",
+  "updated_at_iso": "2026-11-20T11:01:23.489314-05:00",
+  "item_count": 128,
   "items": [
     {
       "Available Qty.": "293",
@@ -215,7 +215,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "10",
       "Item No.": "D15-1018P",
       "Description": "Chicken Breast, Split 1/28 lb",
       "UOM": "CS",
@@ -243,7 +243,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "208",
+      "Available Qty.": "205",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -270,7 +270,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "68",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -297,7 +297,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "570",
+      "Available Qty.": "560",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -333,7 +333,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "311",
+      "Available Qty.": "306",
       "Item No.": "D06-465P",
       "Description": "Five Cheese Tortelloni 12-2/24 oz",
       "UOM": "CS",
@@ -349,16 +349,6 @@
       "Pack Size": "64/1 oz",
       "Feature Type": "",
       "Gross Weight": "5"
-    },
-    {
-      "Available Qty.": "2",
-      "Item No.": "D06-475P",
-      "Description": "Four Cheese Ravioli",
-      "UOM": "CS",
-      "Pack Size": "1/4 lb",
-      "Feature Type": "",
-      "Gross Weight": "4",
-      "new_since": "2026-11-20T09:00:56.793241-05:00"
     },
     {
       "Available Qty.": "357",
@@ -397,7 +387,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "244",
+      "Available Qty.": "243",
       "Item No.": "P15-064P",
       "Description": "Ground Beef, 80/20",
       "UOM": "CS",
@@ -406,7 +396,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "259",
+      "Available Qty.": "254",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -526,7 +516,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "5",
       "Item No.": "D14-101P",
       "Description": "Juice, Fruit Punch 8/59 oz",
       "UOM": "CS",
@@ -555,7 +545,7 @@
       "new_since": "2026-11-19T18:00:54.914966-05:00"
     },
     {
-      "Available Qty.": "118",
+      "Available Qty.": "116",
       "Item No.": "D03-971P",
       "Description": "Lemonade",
       "UOM": "CS",
@@ -600,7 +590,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "61",
+      "Available Qty.": "58",
       "Item No.": "P11-046P",
       "Description": "Mix, Cake, Yellow",
       "UOM": "CS",
@@ -654,7 +644,7 @@
       "Gross Weight": "11"
     },
     {
-      "Available Qty.": "1060",
+      "Available Qty.": "1059",
       "Item No.": "P18-002P",
       "Description": "Nutrition Shake, Chocolate Similar to Ensure",
       "UOM": "CS",
@@ -688,16 +678,6 @@
       "Pack Size": "12/14 oz bag",
       "Feature Type": "",
       "Gross Weight": "13"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D26-1191P",
-      "Description": "Onion Powder 6/20 oz",
-      "UOM": "CS",
-      "Pack Size": "6/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "9",
-      "new_since": "2026-11-20T09:00:56.793241-05:00"
     },
     {
       "Available Qty.": "454",
@@ -790,7 +770,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "4",
+      "Available Qty.": "3",
       "Item No.": "D06-938P",
       "Description": "Pizza",
       "UOM": "CS",
@@ -809,7 +789,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "46",
       "Item No.": "D25-1053P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -818,7 +798,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "46",
       "Item No.": "D25-2092P",
       "Description": "Popcorn 4/10 ct",
       "UOM": "CS",
@@ -926,7 +906,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1566",
+      "Available Qty.": "1564",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -935,7 +915,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "710",
+      "Available Qty.": "708",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -982,7 +962,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "40",
+      "Available Qty.": "35",
       "Item No.": "D26-336P",
       "Description": "Sauce, Roasted Garlic Alfredo 6/15 oz",
       "UOM": "CS",
@@ -1131,7 +1111,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "136",
+      "Available Qty.": "134",
       "Item No.": "D26-1190P",
       "Description": "Sweetener, Zero Calorie 2000/1 gram",
       "UOM": "CS",

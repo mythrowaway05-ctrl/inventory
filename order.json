@@ -1,41 +1,54 @@
 {
-  "scraped_at": "2026-11-20T10:01:12.173318-05:00",
+  "scraped_at": "2026-11-20T11:01:23.439751-05:00",
   "po_number": "PO6447428",
   "appointment": {
     "reference_number": "PO6447428",
     "pickup_date": "12/02/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n7",
-    "Total Line Items": "Gross Weight\n864 lbs",
+    "Total Due": "Total Line Items\n9",
+    "Total Line Items": "Gross Weight\n870 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-1018P\tChicken Breast, Split 1/28 lb\t3\t0\tCS\t84\t5.32\tCase\t1/28 lb\tFrozen Food\t0.00\tNot Yet Ranked\nD25-2076P\tGushers 42/0.8 oz\t5\t0\tCS\t10\t0.38\tCase\t42/0.8 oz\tDry\t0.00\tNot Yet Ranked\nD15-494P\tBacon\t20\t20\tCS\t200\t1.80\t\u00a0\t12/12 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-193P\tHot Dogs\t2\t2\tCS\t24\t2.16\t\u00a0\t12/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-938P\tPizza\t2\t2\tCS\t48\t4.32\t\u00a0\t16/21.06 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1135P\tChicken Wings\t12\t12\tCS\t480\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\tNot Yet Ranked\nD03-1191P\tTonic Water, Premium\t2\t2\tCS\t18\t1.67\t\u00a0\t3-8/5.07 oz\tDRY\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD25-2076P\tGushers\t5\t5\tCS\t10\t0.38\t\u00a0\t42/0.8 oz\tDRY\t0.00\tNot Yet Ranked\nD14-101P\tJuice, Fruit Punch\t2\t2\tCS\t68\t3.06\t\u00a0\t8/59 oz\tREF\t0.00\tNot Yet Ranked\nP15-064P\tGround Beef, 80/20\t1\t1\tCS\t10\t35.39\t\u00a0\t10/1 lb\tFROZEN\t0.00\tNot Yet Ranked\nD15-494P\tBacon\t20\t20\tCS\t200\t1.80\t\u00a0\t12/12 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-193P\tHot Dogs\t2\t2\tCS\t24\t2.16\t\u00a0\t12/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-938P\tPizza\t2\t2\tCS\t48\t4.32\t\u00a0\t16/21.06 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1135P\tChicken Wings\t12\t12\tCS\t480\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\tNot Yet Ranked\nD03-1191P\tTonic Water, Premium\t2\t2\tCS\t18\t1.67\t\u00a0\t3-8/5.07 oz\tDRY\t0.00\tNot Yet Ranked\nP18-002P\tNutrition Shake, Chocolate\t1\t1\tCS\t12\t22.89\t\u00a0\t24/8 oz\tDRY\t0.00\tNot Yet Ranked"
   },
   "items": [
     {
-      "Item No.": "D15-1018P",
-      "Description": "Chicken Breast, Split 1/28 lb",
-      "Order Qty.": "3",
-      "Accepted Qty.": "0",
+      "Item No.": "D25-2076P",
+      "Description": "Gushers",
+      "Order Qty.": "5",
+      "Accepted Qty.": "5",
       "UOM": "CS",
-      "Gross Weight": "84",
-      "Packaging Type": "Case",
-      "Pack Size": "1/28 lb",
-      "Handling Requirements": "Frozen Food",
+      "Gross Weight": "10",
+      "Packaging Type": "",
+      "Pack Size": "42/0.8 oz",
+      "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
     {
-      "Item No.": "D25-2076P",
-      "Description": "Gushers 42/0.8 oz",
-      "Order Qty.": "5",
-      "Accepted Qty.": "0",
+      "Item No.": "D14-101P",
+      "Description": "Juice, Fruit Punch",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "68",
+      "Packaging Type": "",
+      "Pack Size": "8/59 oz",
+      "Handling Requirements": "REF",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "P15-064P",
+      "Description": "Ground Beef, 80/20",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
       "UOM": "CS",
       "Gross Weight": "10",
-      "Packaging Type": "Case",
-      "Pack Size": "42/0.8 oz",
-      "Handling Requirements": "Dry",
+      "Packaging Type": "",
+      "Pack Size": "10/1 lb",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     },
@@ -100,6 +113,19 @@
       "Gross Weight": "18",
       "Packaging Type": "",
       "Pack Size": "3-8/5.07 oz",
+      "Handling Requirements": "DRY",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "P18-002P",
+      "Description": "Nutrition Shake, Chocolate",
+      "Order Qty.": "1",
+      "Accepted Qty.": "1",
+      "UOM": "CS",
+      "Gross Weight": "12",
+      "Packaging Type": "",
+      "Pack Size": "24/8 oz",
       "Handling Requirements": "DRY",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
