@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 20, 2026 at 06:00 AM",
-  "updated_at_iso": "2026-11-20T06:00:55.261088-05:00",
+  "updated_at": "November 20, 2026 at 07:01 AM",
+  "updated_at_iso": "2026-11-20T07:01:05.278581-05:00",
   "item_count": 139,
   "items": [
     {
@@ -42,22 +42,22 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D19-015P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/180 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "180",
-      "new_since": "2026-11-20T03:00:46.793578-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D19-004P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/160 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "160",
+      "new_since": "2026-11-20T03:00:46.793578-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-015P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/180 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "180",
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
@@ -189,7 +189,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "82",
+      "Available Qty.": "70",
       "Item No.": "D27-803P",
       "Description": "Broccoli, Carrots and Cauliflower",
       "UOM": "CS",
@@ -255,7 +255,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "1291",
+      "Available Qty.": "1292",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
       "UOM": "CS",
@@ -272,6 +272,16 @@
       "Feature Type": "",
       "Gross Weight": "9",
       "new_since": "2026-11-20T03:00:46.793578-05:00"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D06-476P",
+      "Description": "Chicken Mozzarella Tortelloni",
+      "UOM": "CS",
+      "Pack Size": "6/18 oz",
+      "Feature Type": "",
+      "Gross Weight": "7",
+      "new_since": "2026-11-20T07:01:05.277883-05:00"
     },
     {
       "Available Qty.": "219",
@@ -311,7 +321,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "76",
+      "Available Qty.": "77",
       "Item No.": "D07-216P",
       "Description": "Coffee Creamer 6/24 ct",
       "UOM": "CS",
@@ -354,16 +364,6 @@
       "Pack Size": "6/10 cans",
       "Feature Type": "",
       "Gross Weight": "44"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D07-614P",
-      "Description": "Dip, French Onion",
-      "UOM": "CS",
-      "Pack Size": "6/16 oz",
-      "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
       "Available Qty.": "803",
@@ -690,7 +690,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "325",
+      "Available Qty.": "323",
       "Item No.": "P11-032P",
       "Description": "Mix, Corn Muffin",
       "UOM": "CS",
@@ -1071,7 +1071,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "83",
+      "Available Qty.": "71",
       "Item No.": "D26-336P",
       "Description": "Sauce, Roasted Garlic Alfredo 6/15 oz",
       "UOM": "CS",
@@ -1191,7 +1191,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "147",
+      "Available Qty.": "146",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
@@ -1239,7 +1239,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "39",
+      "Available Qty.": "40",
       "Item No.": "D03-1191P",
       "Description": "Tonic Water, Premium 3-8/5.07 oz",
       "UOM": "CS",
