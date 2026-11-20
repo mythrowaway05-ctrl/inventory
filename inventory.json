@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 20, 2026 at 11:01 AM",
-  "updated_at_iso": "2026-11-20T11:01:23.489314-05:00",
+  "updated_at": "November 20, 2026 at 12:01 PM",
+  "updated_at_iso": "2026-11-20T12:01:14.944175-05:00",
   "item_count": 128,
   "items": [
     {
@@ -32,17 +32,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "1",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-11-19T13:01:11.808756-05:00"
-    },
-    {
-      "Available Qty.": "165",
+      "Available Qty.": "164",
       "Item No.": "D03-941P",
       "Description": "Assorted Drinks",
       "UOM": "CS",
@@ -61,7 +51,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "772",
+      "Available Qty.": "752",
       "Item No.": "P06-188P",
       "Description": "Beans, Baked",
       "UOM": "CS",
@@ -142,7 +132,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "191",
+      "Available Qty.": "171",
       "Item No.": "P15-120P",
       "Description": "Bologna, Thick Cut",
       "UOM": "CS",
@@ -196,7 +186,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "84",
       "Item No.": "D01-402P",
       "Description": "Charcoal 1/8 lb",
       "UOM": "CS",
@@ -215,7 +205,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "9",
       "Item No.": "D15-1018P",
       "Description": "Chicken Breast, Split 1/28 lb",
       "UOM": "CS",
@@ -360,7 +350,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "182",
+      "Available Qty.": "172",
       "Item No.": "D26-1192P",
       "Description": "Grated Parmesan Cheese 200/3.5 gram",
       "UOM": "CS",
@@ -414,7 +404,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -554,7 +544,7 @@
       "Gross Weight": "36"
     },
     {
-      "Available Qty.": "56",
+      "Available Qty.": "55",
       "Item No.": "D03-914P",
       "Description": "Lemonade, Raspberry 6/52 oz",
       "UOM": "CS",
@@ -572,6 +562,16 @@
       "Gross Weight": "7"
     },
     {
+      "Available Qty.": "9",
+      "Item No.": "D07-870P",
+      "Description": "Milk, 1% 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1gal",
+      "Feature Type": "Free Item",
+      "Gross Weight": "54",
+      "new_since": "2026-11-20T12:01:14.943472-05:00"
+    },
+    {
       "Available Qty.": "443",
       "Item No.": "P07-008P",
       "Description": "Milk, 1%, Shelf Stable",
@@ -581,7 +581,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "760",
+      "Available Qty.": "740",
       "Item No.": "P06-183P",
       "Description": "Mini Ravioli W/Meat Sauce",
       "UOM": "CS",
@@ -770,7 +770,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D06-938P",
       "Description": "Pizza",
       "UOM": "CS",
@@ -789,7 +789,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "44",
       "Item No.": "D25-1053P",
       "Description": "Popcorn",
       "UOM": "CS",
@@ -798,7 +798,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "46",
+      "Available Qty.": "45",
       "Item No.": "D25-2092P",
       "Description": "Popcorn 4/10 ct",
       "UOM": "CS",
@@ -825,7 +825,7 @@
       "Gross Weight": "500"
     },
     {
-      "Available Qty.": "7",
+      "Available Qty.": "6",
       "Item No.": "P28-065P",
       "Description": "Potatoes",
       "UOM": "BULK",
@@ -834,7 +834,7 @@
       "Gross Weight": "1000"
     },
     {
-      "Available Qty.": "611",
+      "Available Qty.": "669",
       "Item No.": "P28-013P",
       "Description": "Potatoes",
       "UOM": "BAG",
@@ -972,7 +972,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "296",
+      "Available Qty.": "276",
       "Item No.": "P26-039P",
       "Description": "Sauce, Sloppy Joe",
       "UOM": "CS",
@@ -1012,7 +1012,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "195",
+      "Available Qty.": "194",
       "Item No.": "D03-1081P",
       "Description": "Soda, Prebiotic 12/12 oz",
       "UOM": "CS",
@@ -1111,7 +1111,7 @@
       "Gross Weight": "3"
     },
     {
-      "Available Qty.": "134",
+      "Available Qty.": "124",
       "Item No.": "D26-1190P",
       "Description": "Sweetener, Zero Calorie 2000/1 gram",
       "UOM": "CS",
@@ -1140,7 +1140,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "494",
+      "Available Qty.": "474",
       "Item No.": "P15-115P",
       "Description": "Turkey, Ground 6/3 lb",
       "UOM": "CS",
