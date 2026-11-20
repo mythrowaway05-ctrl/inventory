@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 20, 2026 at 05:01 AM",
-  "updated_at_iso": "2026-11-20T05:01:00.595580-05:00",
-  "item_count": 140,
+  "updated_at": "November 20, 2026 at 06:00 AM",
+  "updated_at_iso": "2026-11-20T06:00:55.261088-05:00",
+  "item_count": 139,
   "items": [
     {
       "Available Qty.": "291",
@@ -42,22 +42,22 @@
     },
     {
       "Available Qty.": "0",
-      "Item No.": "D19-004P",
-      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
-      "UOM": "BULK",
-      "Pack Size": "1/160 Lb BULK TOTE",
-      "Feature Type": "",
-      "Gross Weight": "160",
-      "new_since": "2026-11-20T03:00:46.793578-05:00"
-    },
-    {
-      "Available Qty.": "0",
       "Item No.": "D19-015P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
       "Pack Size": "1/180 Lb BULK TOTE",
       "Feature Type": "",
       "Gross Weight": "180",
+      "new_since": "2026-11-20T03:00:46.793578-05:00"
+    },
+    {
+      "Available Qty.": "0",
+      "Item No.": "D19-004P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/160 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "160",
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
@@ -79,16 +79,6 @@
       "Feature Type": "",
       "Gross Weight": "330",
       "new_since": "2026-11-19T18:00:54.914966-05:00"
-    },
-    {
-      "Available Qty.": "35",
-      "Item No.": "D15-494P",
-      "Description": "Bacon",
-      "UOM": "CS",
-      "Pack Size": "12/12 oz",
-      "Feature Type": "",
-      "Gross Weight": "10",
-      "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
       "Available Qty.": "771",
@@ -199,7 +189,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "86",
+      "Available Qty.": "82",
       "Item No.": "D27-803P",
       "Description": "Broccoli, Carrots and Cauliflower",
       "UOM": "CS",
@@ -284,7 +274,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "229",
+      "Available Qty.": "219",
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "UOM": "CS",
@@ -366,7 +356,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "7",
       "Item No.": "D07-614P",
       "Description": "Dip, French Onion",
       "UOM": "CS",
@@ -412,7 +402,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "3",
       "Item No.": "D08-466P",
       "Description": "Frosting 8/12 oz",
       "UOM": "CS",
@@ -485,7 +475,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "1",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -504,7 +494,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "602",
+      "Available Qty.": "599",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -634,7 +624,7 @@
       "Gross Weight": "22"
     },
     {
-      "Available Qty.": "10",
+      "Available Qty.": "4",
       "Item No.": "D06-976P",
       "Description": "Lunchables, Pizza",
       "UOM": "CS",
@@ -644,7 +634,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "27",
+      "Available Qty.": "24",
       "Item No.": "D15-975P",
       "Description": "Lunchmeat, Turkey",
       "UOM": "CS",
@@ -654,7 +644,7 @@
       "new_since": "2026-11-20T03:00:46.793578-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "16",
       "Item No.": "D15-295P",
       "Description": "Lunchmeat, Turkey Breast",
       "UOM": "CS",
@@ -1081,7 +1071,7 @@
       "new_since": "2026-11-19T16:00:51.100847-05:00"
     },
     {
-      "Available Qty.": "87",
+      "Available Qty.": "83",
       "Item No.": "D26-336P",
       "Description": "Sauce, Roasted Garlic Alfredo 6/15 oz",
       "UOM": "CS",

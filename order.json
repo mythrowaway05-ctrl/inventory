@@ -1,28 +1,67 @@
 {
-  "scraped_at": "2026-11-20T05:01:00.525849-05:00",
+  "scraped_at": "2026-11-20T06:00:55.206981-05:00",
   "po_number": "PO6447428",
   "appointment": {
     "reference_number": "PO6447428",
     "pickup_date": "12/02/2026 @ 08:30 AM"
   },
   "summary": {
-    "Total Due": "Total Line Items\n1",
-    "Total Line Items": "Gross Weight\n400 lbs",
+    "Total Due": "Total Line Items\n4",
+    "Total Line Items": "Gross Weight\n672 lbs",
     "Gross Weight": "Total Cube Size\n0 Cu. Ft.",
     "Total Cube Size": "",
-    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-1135P\tChicken Wings\t10\t0\tCS\t400\t7.60\tCase\t1/40lb\tFrozen Food\t0.00\tNot Yet Ranked"
+    "Estimated Delivery Fee": "Item No.\tDescription\tOrder Qty.\tAccepted Qty.\tUOM\tGross Weight\tUnit Price\tPackaging Type\tPack Size\tHandling Requirements\tVAP Fee\tNutritional Information\nD15-494P\tBacon\t20\t20\tCS\t200\t1.80\t\u00a0\t12/12 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-193P\tHot Dogs\t2\t2\tCS\t24\t2.16\t\u00a0\t12/16 oz\tFROZEN\t0.00\tNot Yet Ranked\nD06-938P\tPizza\t2\t2\tCS\t48\t4.32\t\u00a0\t16/21.06 oz\tFROZEN\t0.00\tNot Yet Ranked\nD15-1135P\tChicken Wings\t10\t10\tCS\t400\t7.60\t\u00a0\t1/40lb\tFROZEN\t0.00\tNot Yet Ranked"
   },
   "items": [
+    {
+      "Item No.": "D15-494P",
+      "Description": "Bacon",
+      "Order Qty.": "20",
+      "Accepted Qty.": "20",
+      "UOM": "CS",
+      "Gross Weight": "200",
+      "Packaging Type": "",
+      "Pack Size": "12/12 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D15-193P",
+      "Description": "Hot Dogs",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "24",
+      "Packaging Type": "",
+      "Pack Size": "12/16 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
+    {
+      "Item No.": "D06-938P",
+      "Description": "Pizza",
+      "Order Qty.": "2",
+      "Accepted Qty.": "2",
+      "UOM": "CS",
+      "Gross Weight": "48",
+      "Packaging Type": "",
+      "Pack Size": "16/21.06 oz",
+      "Handling Requirements": "FROZEN",
+      "VAP Fee": "0.00",
+      "Nutritional Information": "Not Yet Ranked"
+    },
     {
       "Item No.": "D15-1135P",
       "Description": "Chicken Wings",
       "Order Qty.": "10",
-      "Accepted Qty.": "0",
+      "Accepted Qty.": "10",
       "UOM": "CS",
       "Gross Weight": "400",
-      "Packaging Type": "Case",
+      "Packaging Type": "",
       "Pack Size": "1/40lb",
-      "Handling Requirements": "Frozen Food",
+      "Handling Requirements": "FROZEN",
       "VAP Fee": "0.00",
       "Nutritional Information": "Not Yet Ranked"
     }
