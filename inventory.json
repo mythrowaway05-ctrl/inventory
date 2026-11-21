@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 20, 2026 at 07:00 PM",
-  "updated_at_iso": "2026-11-20T19:00:57.050154-05:00",
-  "item_count": 124,
+  "updated_at": "November 20, 2026 at 07:31 PM",
+  "updated_at_iso": "2026-11-20T19:31:01.536255-05:00",
+  "item_count": 147,
   "items": [
     {
       "Available Qty.": "293",
@@ -1120,13 +1120,223 @@
       "Gross Weight": "51"
     },
     {
-      "Available Qty.": "623",
-      "Item No.": "D15-818P",
-      "Description": "Young Chickens",
+      "Available Qty.": "431",
+      "Item No.": "P15-087P",
+      "Description": "Salmon, Canned",
       "UOM": "CS",
-      "Pack Size": "1/50 lb",
+      "Pack Size": "24/5 oz",
       "Feature Type": "",
-      "Gross Weight": "50"
+      "Gross Weight": "8"
+    },
+    {
+      "Available Qty.": "643",
+      "Item No.": "P26-051P",
+      "Description": "Sauce, Pasta, Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "23"
+    },
+    {
+      "Available Qty.": "20",
+      "Item No.": "D26-336P",
+      "Description": "Sauce, Roasted Garlic Alfredo 6/15 oz",
+      "UOM": "CS",
+      "Pack Size": "6/15 oz",
+      "Feature Type": "",
+      "Gross Weight": "9",
+      "new_since": "2026-11-20T03:00:46.793578-05:00"
+    },
+    {
+      "Available Qty.": "296",
+      "Item No.": "P26-039P",
+      "Description": "Sauce, Sloppy Joe",
+      "UOM": "CS",
+      "Pack Size": "12/15 oz can",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "1190",
+      "Item No.": "P15-108P",
+      "Description": "Sausage, Ground Jimmy Dean",
+      "UOM": "CS",
+      "Pack Size": "6/2 lb",
+      "Feature Type": "",
+      "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "112",
+      "Item No.": "P06-130P",
+      "Description": "Skillet Dinner, Cheeseburger",
+      "UOM": "CS",
+      "Pack Size": "24/5.8 oz",
+      "Feature Type": "",
+      "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "128",
+      "Item No.": "P06-131P",
+      "Description": "Skillet Dinner, Stroganoff",
+      "UOM": "CS",
+      "Pack Size": "24/5.6 oz",
+      "Feature Type": "",
+      "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "372",
+      "Item No.": "D03-1081P",
+      "Description": "Soda, Prebiotic 12/12 oz",
+      "UOM": "CS",
+      "Pack Size": "12/12 oz",
+      "Feature Type": "",
+      "Gross Weight": "10"
+    },
+    {
+      "Available Qty.": "887",
+      "Item No.": "P06-007P",
+      "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "359",
+      "Item No.": "P06-115P",
+      "Description": "Soup, Chicken and Rice, EZO Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz can",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "333",
+      "Item No.": "P06-142P",
+      "Description": "Soup, Cream of Chicken",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "367",
+      "Item No.": "P06-009P",
+      "Description": "Soup, Cream of Mushroom, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "704",
+      "Item No.": "P06-028P",
+      "Description": "Soup, Tomato, RS Reduced Sodium",
+      "UOM": "CS",
+      "Pack Size": "24/10.7 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "585",
+      "Item No.": "P06-029P",
+      "Description": "Soup, Vegetable, RS Reduced Sodium, Easy Open",
+      "UOM": "CS",
+      "Pack Size": "24/10.6 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "21"
+    },
+    {
+      "Available Qty.": "148",
+      "Item No.": "P21-010P",
+      "Description": "Spaghetti Noodles, Gluten Free",
+      "UOM": "CS",
+      "Pack Size": "12/16 oz",
+      "Feature Type": "",
+      "Gross Weight": "12"
+    },
+    {
+      "Available Qty.": "111",
+      "Item No.": "P27-089P",
+      "Description": "Spinach, Chopped, LS Low Sodium",
+      "UOM": "CS",
+      "Pack Size": "12/13.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "14"
+    },
+    {
+      "Available Qty.": "4619",
+      "Item No.": "D25-2091P",
+      "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
+      "UOM": "CS",
+      "Pack Size": "12/3.625 oz",
+      "Feature Type": "",
+      "Gross Weight": "3"
+    },
+    {
+      "Available Qty.": "124",
+      "Item No.": "D26-1190P",
+      "Description": "Sweetener, Zero Calorie 2000/1 gram",
+      "UOM": "CS",
+      "Pack Size": "2000/1 gram",
+      "Feature Type": "",
+      "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "385",
+      "Item No.": "P27-144P",
+      "Description": "Tomatoes, Diced",
+      "UOM": "CS",
+      "Pack Size": "24/14.5 oz",
+      "Feature Type": "",
+      "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "38",
+      "Item No.": "D03-1191P",
+      "Description": "Tonic Water, Premium 3-8/5.07 oz",
+      "UOM": "CS",
+      "Pack Size": "3-8/5.07 oz",
+      "Feature Type": "",
+      "Gross Weight": "9"
+    },
+    {
+      "Available Qty.": "484",
+      "Item No.": "P15-115P",
+      "Description": "Turkey, Ground 6/3 lb",
+      "UOM": "CS",
+      "Pack Size": "6/3 lb",
+      "Feature Type": "",
+      "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "167",
+      "Item No.": "P27-072P",
+      "Description": "Veg, Mixed Vegetables",
+      "UOM": "CS",
+      "Pack Size": "24/15 oz cans",
+      "Feature Type": "",
+      "Gross Weight": "27",
+      "new_since": "2026-11-19T21:00:59.254921-05:00"
+    },
+    {
+      "Available Qty.": "200",
+      "Item No.": "P26-046P",
+      "Description": "Vegetable Oil",
+      "UOM": "CS",
+      "Pack Size": "12/24 oz",
+      "Feature Type": "",
+      "Gross Weight": "20",
+      "new_since": "2026-11-19T21:00:59.254921-05:00"
+    },
+    {
+      "Available Qty.": "383",
+      "Item No.": "D03-010P",
+      "Description": "Water 6/1 gal",
+      "UOM": "CS",
+      "Pack Size": "6/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "51"
     }
   ]
 }
