@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 22, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-11-22T08:01:13.116957-05:00",
-  "item_count": 132,
+  "updated_at": "November 22, 2026 at 09:00 AM",
+  "updated_at_iso": "2026-11-22T09:00:57.340221-05:00",
+  "item_count": 131,
   "items": [
     {
       "Available Qty.": "288",
@@ -805,15 +805,6 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "2",
-      "Item No.": "P28-065P",
-      "Description": "Potatoes",
-      "UOM": "BULK",
-      "Pack Size": "200/5 lb",
-      "Feature Type": "",
-      "Gross Weight": "1000"
-    },
-    {
       "Available Qty.": "9",
       "Item No.": "P28-064P",
       "Description": "Potatoes",
@@ -821,6 +812,15 @@
       "Pack Size": "100/5 lb",
       "Feature Type": "",
       "Gross Weight": "500"
+    },
+    {
+      "Available Qty.": "2",
+      "Item No.": "P28-065P",
+      "Description": "Potatoes",
+      "UOM": "BULK",
+      "Pack Size": "200/5 lb",
+      "Feature Type": "",
+      "Gross Weight": "1000"
     },
     {
       "Available Qty.": "349",
@@ -1145,16 +1145,6 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
-    },
-    {
-      "Available Qty.": "9",
-      "Item No.": "D15-1188P",
-      "Description": "Turkeys",
-      "UOM": "CS",
-      "Pack Size": "2/20-24 lb",
-      "Feature Type": "",
-      "Gross Weight": "44",
-      "new_since": "2026-11-22T03:01:05.693327-05:00"
     },
     {
       "Available Qty.": "162",
