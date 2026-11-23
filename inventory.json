@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 23, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-23T02:01:19.283693-05:00",
-  "item_count": 106,
+  "updated_at": "November 23, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-11-23T03:01:11.961575-05:00",
+  "item_count": 107,
   "items": [
     {
       "Available Qty.": "288",
@@ -526,15 +526,6 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "116",
-      "Item No.": "D03-971P",
-      "Description": "Lemonade",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "",
-      "Gross Weight": "36"
-    },
-    {
       "Available Qty.": "108",
       "Item No.": "D03-830P",
       "Description": "Lemonade",
@@ -542,6 +533,15 @@
       "Pack Size": "6/52 oz",
       "Feature Type": "",
       "Gross Weight": "26"
+    },
+    {
+      "Available Qty.": "116",
+      "Item No.": "D03-971P",
+      "Description": "Lemonade",
+      "UOM": "CS",
+      "Pack Size": "4/1 gal",
+      "Feature Type": "",
+      "Gross Weight": "36"
     },
     {
       "Available Qty.": "38",
@@ -787,15 +787,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "156",
-      "Item No.": "P28-013P",
-      "Description": "Potatoes",
-      "UOM": "BAG",
-      "Pack Size": "1/5 Lb Bag",
-      "Feature Type": "Free Item",
-      "Gross Weight": "5"
-    },
-    {
       "Available Qty.": "2",
       "Item No.": "P28-065P",
       "Description": "Potatoes",
@@ -803,6 +794,15 @@
       "Pack Size": "200/5 lb",
       "Feature Type": "",
       "Gross Weight": "1000"
+    },
+    {
+      "Available Qty.": "156",
+      "Item No.": "P28-013P",
+      "Description": "Potatoes",
+      "UOM": "BAG",
+      "Pack Size": "1/5 Lb Bag",
+      "Feature Type": "Free Item",
+      "Gross Weight": "5"
     },
     {
       "Available Qty.": "337",
@@ -920,6 +920,16 @@
       "Pack Size": "6/3 lb",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D15-1188P",
+      "Description": "Turkeys",
+      "UOM": "CS",
+      "Pack Size": "2/20-24 lb",
+      "Feature Type": "",
+      "Gross Weight": "44",
+      "new_since": "2026-11-23T03:01:11.961120-05:00"
     },
     {
       "Available Qty.": "156",
