@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 23, 2026 at 10:03 AM",
-  "updated_at_iso": "2026-11-23T10:03:30.726695-05:00",
-  "item_count": 123,
+  "updated_at": "November 23, 2026 at 11:03 AM",
+  "updated_at_iso": "2026-11-23T11:03:19.544854-05:00",
+  "item_count": 121,
   "items": [
     {
       "Available Qty.": "288",
@@ -103,8 +103,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "433",
-      "Item No.": "P15-063P",
+      "Available Qty.": "729",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -112,9 +112,9 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "729",
-      "Item No.": "P15-119P",
-      "Description": "Bologna, Garlic",
+      "Available Qty.": "433",
+      "Item No.": "P15-063P",
+      "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
       "Feature Type": "",
@@ -256,7 +256,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "430",
+      "Available Qty.": "334",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -383,7 +383,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "0",
+      "Available Qty.": "1",
       "Item No.": "D07-1072P",
       "Description": "Half and Half 12/1 pt",
       "UOM": "CS",
@@ -735,7 +735,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "304",
+      "Available Qty.": "250",
       "Item No.": "D29-161P",
       "Description": "Pizza Crust",
       "UOM": "CS",
@@ -942,33 +942,13 @@
       "new_since": "2026-11-23T07:01:06.849486-05:00"
     },
     {
-      "Available Qty.": "43",
-      "Item No.": "D03-816P",
-      "Description": "Soda, Diet",
-      "UOM": "CS",
-      "Pack Size": "15/1 L",
-      "Feature Type": "",
-      "Gross Weight": "38",
-      "new_since": "2026-11-23T07:01:06.849486-05:00"
-    },
-    {
-      "Available Qty.": "352",
+      "Available Qty.": "115",
       "Item No.": "D03-1081P",
       "Description": "Soda, Prebiotic 12/12 oz",
       "UOM": "CS",
       "Pack Size": "12/12 oz",
       "Feature Type": "",
       "Gross Weight": "10",
-      "new_since": "2026-11-23T07:01:06.849486-05:00"
-    },
-    {
-      "Available Qty.": "69",
-      "Item No.": "D03-681P",
-      "Description": "Soda, Zero Sugar 24/20 oz",
-      "UOM": "CS",
-      "Pack Size": "24/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "32",
       "new_since": "2026-11-23T07:01:06.849486-05:00"
     },
     {
@@ -1052,7 +1032,7 @@
       "new_since": "2026-11-23T07:01:06.849486-05:00"
     },
     {
-      "Available Qty.": "4599",
+      "Available Qty.": "4459",
       "Item No.": "D25-2091P",
       "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
       "UOM": "CS",
@@ -1118,7 +1098,7 @@
       "Gross Weight": "20"
     },
     {
-      "Available Qty.": "383",
+      "Available Qty.": "335",
       "Item No.": "D03-010P",
       "Description": "Water 6/1 gal",
       "UOM": "CS",
