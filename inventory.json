@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 25, 2026 at 09:01 AM",
-  "updated_at_iso": "2026-11-25T09:01:13.335466-05:00",
-  "item_count": 113,
+  "updated_at": "November 25, 2026 at 10:00 AM",
+  "updated_at_iso": "2026-11-25T10:00:59.447969-05:00",
+  "item_count": 112,
   "items": [
     {
       "Available Qty.": "245",
@@ -103,8 +103,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "415",
-      "Item No.": "P15-063P",
+      "Available Qty.": "711",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -112,8 +112,8 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "711",
-      "Item No.": "P15-119P",
+      "Available Qty.": "415",
+      "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -128,16 +128,6 @@
       "Pack Size": "12/1 lb",
       "Feature Type": "",
       "Gross Weight": "12"
-    },
-    {
-      "Available Qty.": "6",
-      "Item No.": "D04-001P",
-      "Description": "Bread, Assorted",
-      "UOM": "CS",
-      "Pack Size": "1/30 lb box",
-      "Feature Type": "Free Item",
-      "Gross Weight": "30",
-      "new_since": "2026-11-24T12:01:19.791706-05:00"
     },
     {
       "Available Qty.": "103",
