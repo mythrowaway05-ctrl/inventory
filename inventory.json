@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 25, 2026 at 08:01 AM",
-  "updated_at_iso": "2026-11-25T08:01:01.066398-05:00",
-  "item_count": 114,
+  "updated_at": "November 25, 2026 at 09:01 AM",
+  "updated_at_iso": "2026-11-25T09:01:13.335466-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "245",
@@ -20,16 +20,6 @@
       "Pack Size": "6/10 cans",
       "Feature Type": "",
       "Gross Weight": "44"
-    },
-    {
-      "Available Qty.": "1",
-      "Item No.": "D04-162P",
-      "Description": "Assorted Bread and Bakery",
-      "UOM": "CS",
-      "Pack Size": "1/20 lb",
-      "Feature Type": "Free Item",
-      "Gross Weight": "20",
-      "new_since": "2026-11-24T12:01:19.791706-05:00"
     },
     {
       "Available Qty.": "32",
@@ -113,8 +103,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "711",
-      "Item No.": "P15-119P",
+      "Available Qty.": "415",
+      "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -122,8 +112,8 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "415",
-      "Item No.": "P15-063P",
+      "Available Qty.": "711",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -140,7 +130,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "6",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -340,7 +330,7 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "70",
+      "Available Qty.": "60",
       "Item No.": "P27-116P",
       "Description": "Greens, Collard, Chopped, LOW SODIUM",
       "UOM": "CS",
