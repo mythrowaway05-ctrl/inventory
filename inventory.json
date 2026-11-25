@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 25, 2026 at 02:00 AM",
-  "updated_at_iso": "2026-11-25T02:00:58.651266-05:00",
-  "item_count": 115,
+  "updated_at": "November 25, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-11-25T03:01:08.581302-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "245",
@@ -22,7 +22,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "8",
+      "Available Qty.": "3",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -39,6 +39,16 @@
       "Pack Size": "1/30 lb",
       "Feature Type": "",
       "Gross Weight": "30"
+    },
+    {
+      "Available Qty.": "1",
+      "Item No.": "D19-016P",
+      "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
+      "UOM": "BULK",
+      "Pack Size": "1/130 Lb BULK TOTE",
+      "Feature Type": "",
+      "Gross Weight": "130",
+      "new_since": "2026-11-25T03:01:08.580614-05:00"
     },
     {
       "Available Qty.": "705",
@@ -101,8 +111,7 @@
       "UOM": "CS",
       "Pack Size": "40/4 ct",
       "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "266",
@@ -141,7 +150,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "24",
+      "Available Qty.": "19",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -214,6 +223,16 @@
       "Gross Weight": "6"
     },
     {
+      "Available Qty.": "15",
+      "Item No.": "D15-1019P",
+      "Description": "Chicken Breast Strips Pieces 1/35 lb",
+      "UOM": "CS",
+      "Pack Size": "1/35 lb",
+      "Feature Type": "",
+      "Gross Weight": "35",
+      "new_since": "2026-11-25T03:01:08.580614-05:00"
+    },
+    {
       "Available Qty.": "1115",
       "Item No.": "P15-107P",
       "Description": "Chicken Drumsticks",
@@ -268,7 +287,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "62",
+      "Available Qty.": "59",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -349,7 +368,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "185",
+      "Available Qty.": "175",
       "Item No.": "D25-2076P",
       "Description": "Gushers 42/0.8 oz",
       "UOM": "CS",
@@ -367,7 +386,7 @@
       "Gross Weight": "9"
     },
     {
-      "Available Qty.": "360",
+      "Available Qty.": "350",
       "Item No.": "D25-2089P",
       "Description": "Holiday Flavored Popcorn 12/5.25 oz",
       "UOM": "CS",
@@ -457,7 +476,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "185",
+      "Available Qty.": "183",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -467,17 +486,16 @@
       "new_since": "2026-11-24T11:01:20.783515-05:00"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "16",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
       "Pack Size": "6/1 gal",
       "Feature Type": "Free Item",
-      "Gross Weight": "54",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "54"
     },
     {
-      "Available Qty.": "80",
+      "Available Qty.": "77",
       "Item No.": "D07-1085P",
       "Description": "Milk, Strawberry 50/8 oz",
       "UOM": "CS",
@@ -556,8 +574,7 @@
       "UOM": "CS",
       "Pack Size": "24/16 ct",
       "Feature Type": "",
-      "Gross Weight": "8",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "8"
     },
     {
       "Available Qty.": "1691",
@@ -566,8 +583,7 @@
       "UOM": "CS",
       "Pack Size": "6-2/16 ct",
       "Feature Type": "",
-      "Gross Weight": "6",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "6"
     },
     {
       "Available Qty.": "477",
@@ -576,8 +592,7 @@
       "UOM": "CS",
       "Pack Size": "24/16 ct",
       "Feature Type": "",
-      "Gross Weight": "7",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "7"
     },
     {
       "Available Qty.": "1403",
@@ -586,8 +601,7 @@
       "UOM": "CS",
       "Pack Size": "24/16 ct",
       "Feature Type": "",
-      "Gross Weight": "3",
-      "new_since": "2026-11-24T03:01:08.502918-05:00"
+      "Gross Weight": "3"
     },
     {
       "Available Qty.": "1032",
@@ -653,7 +667,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "1909",
+      "Available Qty.": "1914",
       "Item No.": "P21-002P",
       "Description": "Pasta, Spaghetti DRY",
       "UOM": "CS",
@@ -698,7 +712,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "2",
+      "Available Qty.": "0",
       "Item No.": "D10-120P",
       "Description": "Pears, Diced 6/10 cans",
       "UOM": "CS",
@@ -797,7 +811,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "616",
+      "Available Qty.": "626",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -878,7 +892,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "66",
+      "Available Qty.": "71",
       "Item No.": "P06-130P",
       "Description": "Skillet Dinner, Cheeseburger",
       "UOM": "CS",
@@ -896,7 +910,7 @@
       "Gross Weight": "10"
     },
     {
-      "Available Qty.": "3",
+      "Available Qty.": "0",
       "Item No.": "D03-069P",
       "Description": "Soda",
       "UOM": "CS",
@@ -977,7 +991,7 @@
       "Gross Weight": "14"
     },
     {
-      "Available Qty.": "4284",
+      "Available Qty.": "4299",
       "Item No.": "D25-2091P",
       "Description": "Sunflower Seeds, Hot and Spicy 12/3.625 oz",
       "UOM": "CS",
