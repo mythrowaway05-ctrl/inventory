@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 25, 2026 at 03:01 AM",
-  "updated_at_iso": "2026-11-25T03:01:08.581302-05:00",
-  "item_count": 117,
+  "updated_at": "November 25, 2026 at 04:01 AM",
+  "updated_at_iso": "2026-11-25T04:01:22.629379-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "245",
@@ -41,7 +41,7 @@
       "Gross Weight": "30"
     },
     {
-      "Available Qty.": "1",
+      "Available Qty.": "0",
       "Item No.": "D19-016P",
       "Description": "Assorted Paper Goods and Plasticware - BULK TOTE",
       "UOM": "BULK",
@@ -123,8 +123,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "415",
-      "Item No.": "P15-063P",
+      "Available Qty.": "711",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -132,8 +132,8 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "711",
-      "Item No.": "P15-119P",
+      "Available Qty.": "415",
+      "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -150,7 +150,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "19",
+      "Available Qty.": "20",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -287,7 +287,7 @@
       "Gross Weight": "26"
     },
     {
-      "Available Qty.": "59",
+      "Available Qty.": "62",
       "Item No.": "D07-1084P",
       "Description": "Cottage Cheese 4/3 lb",
       "UOM": "CS",
@@ -476,7 +476,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "183",
+      "Available Qty.": "185",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -495,7 +495,7 @@
       "Gross Weight": "54"
     },
     {
-      "Available Qty.": "77",
+      "Available Qty.": "80",
       "Item No.": "D07-1085P",
       "Description": "Milk, Strawberry 50/8 oz",
       "UOM": "CS",
@@ -712,15 +712,6 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "0",
-      "Item No.": "D10-120P",
-      "Description": "Pears, Diced 6/10 cans",
-      "UOM": "CS",
-      "Pack Size": "6/10 cans",
-      "Feature Type": "",
-      "Gross Weight": "44"
-    },
-    {
       "Available Qty.": "474",
       "Item No.": "P10-084P",
       "Description": "Pineapple Chunks in Juice",
@@ -908,15 +899,6 @@
       "Pack Size": "24/5.6 oz",
       "Feature Type": "",
       "Gross Weight": "10"
-    },
-    {
-      "Available Qty.": "0",
-      "Item No.": "D03-069P",
-      "Description": "Soda",
-      "UOM": "CS",
-      "Pack Size": "24/20 oz",
-      "Feature Type": "",
-      "Gross Weight": "32"
     },
     {
       "Available Qty.": "851",
