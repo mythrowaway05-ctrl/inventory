@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 24, 2026 at 11:00 PM",
-  "updated_at_iso": "2026-11-24T23:00:57.893372-05:00",
-  "item_count": 117,
+  "updated_at": "November 24, 2026 at 11:42 PM",
+  "updated_at_iso": "2026-11-24T23:42:58.880788-05:00",
+  "item_count": 115,
   "items": [
     {
       "Available Qty.": "245",
@@ -22,7 +22,7 @@
       "Gross Weight": "44"
     },
     {
-      "Available Qty.": "11",
+      "Available Qty.": "8",
       "Item No.": "D04-162P",
       "Description": "Assorted Bread and Bakery",
       "UOM": "CS",
@@ -95,7 +95,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "174",
+      "Available Qty.": "173",
       "Item No.": "D12-389P",
       "Description": "Biofreeze Flex Patch",
       "UOM": "CS",
@@ -141,7 +141,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "25",
+      "Available Qty.": "24",
       "Item No.": "D04-001P",
       "Description": "Bread, Assorted",
       "UOM": "CS",
@@ -241,7 +241,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "460",
+      "Available Qty.": "465",
       "Item No.": "P15-026P",
       "Description": "Chuck Light Tuna Value Grade",
       "UOM": "CS",
@@ -259,7 +259,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1481",
+      "Available Qty.": "1476",
       "Item No.": "P27-093P",
       "Description": "Corn, Whole Kernel",
       "UOM": "CS",
@@ -286,7 +286,7 @@
       "Gross Weight": "1"
     },
     {
-      "Available Qty.": "3123",
+      "Available Qty.": "3133",
       "Item No.": "P06-003P",
       "Description": "Entree, Mac and Cheese",
       "UOM": "CS",
@@ -313,7 +313,7 @@
       "Gross Weight": "8"
     },
     {
-      "Available Qty.": "144",
+      "Available Qty.": "143",
       "Item No.": "D26-1192P",
       "Description": "Grated Parmesan Cheese 200/3.5 gram",
       "UOM": "CS",
@@ -322,7 +322,7 @@
       "Gross Weight": "2"
     },
     {
-      "Available Qty.": "2013",
+      "Available Qty.": "2003",
       "Item No.": "P23-053P",
       "Description": "Green Beans, Cut",
       "UOM": "CS",
@@ -356,15 +356,6 @@
       "Pack Size": "42/0.8 oz",
       "Feature Type": "",
       "Gross Weight": "2"
-    },
-    {
-      "Available Qty.": "7",
-      "Item No.": "D25-2083P",
-      "Description": "Gushers 6/30 oz",
-      "UOM": "CS",
-      "Pack Size": "6/30 oz",
-      "Feature Type": "",
-      "Gross Weight": "12"
     },
     {
       "Available Qty.": "200",
@@ -466,17 +457,7 @@
       "Gross Weight": "28"
     },
     {
-      "Available Qty.": "8",
-      "Item No.": "D07-1053P",
-      "Description": "Milk, 2% 4/1 gal",
-      "UOM": "CS",
-      "Pack Size": "4/1 gal",
-      "Feature Type": "Free Item",
-      "Gross Weight": "38",
-      "new_since": "2026-11-24T11:01:20.783515-05:00"
-    },
-    {
-      "Available Qty.": "195",
+      "Available Qty.": "185",
       "Item No.": "D07-1038P",
       "Description": "Milk, Chocolate 50/8 oz",
       "UOM": "CS",
@@ -486,7 +467,7 @@
       "new_since": "2026-11-24T11:01:20.783515-05:00"
     },
     {
-      "Available Qty.": "23",
+      "Available Qty.": "19",
       "Item No.": "D07-1024P",
       "Description": "Milk, Skim 6/1 gal",
       "UOM": "CS",
@@ -496,7 +477,7 @@
       "new_since": "2026-11-24T03:01:08.502918-05:00"
     },
     {
-      "Available Qty.": "90",
+      "Available Qty.": "80",
       "Item No.": "D07-1085P",
       "Description": "Milk, Strawberry 50/8 oz",
       "UOM": "CS",
@@ -599,7 +580,7 @@
       "new_since": "2026-11-24T03:01:08.502918-05:00"
     },
     {
-      "Available Qty.": "1406",
+      "Available Qty.": "1403",
       "Item No.": "D12-385P",
       "Description": "Mucinex, Liquid Gels",
       "UOM": "CS",
@@ -717,7 +698,7 @@
       "Gross Weight": "15"
     },
     {
-      "Available Qty.": "16",
+      "Available Qty.": "5",
       "Item No.": "D10-120P",
       "Description": "Pears, Diced 6/10 cans",
       "UOM": "CS",
@@ -735,7 +716,7 @@
       "Gross Weight": "18"
     },
     {
-      "Available Qty.": "1017",
+      "Available Qty.": "1010",
       "Item No.": "P23-101P",
       "Description": "Pinto Beans, Dry",
       "UOM": "CS",
@@ -816,7 +797,7 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "606",
+      "Available Qty.": "616",
       "Item No.": "P04-002P",
       "Description": "Protein Waffles, Chocolate Chip",
       "UOM": "CS",
@@ -825,7 +806,7 @@
       "Gross Weight": "5"
     },
     {
-      "Available Qty.": "1470",
+      "Available Qty.": "1480",
       "Item No.": "P06-084P",
       "Description": "Ramen Noodles, Beef",
       "UOM": "CS",
@@ -834,7 +815,7 @@
       "Gross Weight": "6"
     },
     {
-      "Available Qty.": "581",
+      "Available Qty.": "591",
       "Item No.": "P06-083P",
       "Description": "Ramen Noodles, Chicken",
       "UOM": "CS",
@@ -978,7 +959,7 @@
       "Gross Weight": "21"
     },
     {
-      "Available Qty.": "143",
+      "Available Qty.": "138",
       "Item No.": "P21-010P",
       "Description": "Spaghetti Noodles, Gluten Free",
       "UOM": "CS",
