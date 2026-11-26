@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 26, 2026 at 02:00 AM",
-  "updated_at_iso": "2026-11-26T02:00:56.463233-05:00",
-  "item_count": 113,
+  "updated_at": "November 26, 2026 at 03:01 AM",
+  "updated_at_iso": "2026-11-26T03:01:14.527149-05:00",
+  "item_count": 117,
   "items": [
     {
       "Available Qty.": "245",
@@ -67,7 +67,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "524",
+      "Available Qty.": "908",
       "Item No.": "P06-141P",
       "Description": "Beef Stew",
       "UOM": "CS",
@@ -103,8 +103,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "701",
-      "Item No.": "P15-119P",
+      "Available Qty.": "415",
+      "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -112,8 +112,8 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "415",
-      "Item No.": "P15-063P",
+      "Available Qty.": "701",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -199,8 +199,7 @@
       "UOM": "CS",
       "Pack Size": "1/35 lb",
       "Feature Type": "",
-      "Gross Weight": "35",
-      "new_since": "2026-11-25T03:01:08.580614-05:00"
+      "Gross Weight": "35"
     },
     {
       "Available Qty.": "1085",
@@ -420,6 +419,16 @@
       "Gross Weight": "20"
     },
     {
+      "Available Qty.": "190",
+      "Item No.": "P14-003P",
+      "Description": "Juice, Fruit Punch",
+      "UOM": "CS",
+      "Pack Size": "40/6.75 oz",
+      "Feature Type": "",
+      "Gross Weight": "21",
+      "new_since": "2026-11-26T03:01:14.526631-05:00"
+    },
+    {
       "Available Qty.": "411",
       "Item No.": "P26-023P",
       "Description": "Ketchup",
@@ -618,7 +627,7 @@
       "Gross Weight": "13"
     },
     {
-      "Available Qty.": "424",
+      "Available Qty.": "662",
       "Item No.": "P10-018P",
       "Description": "Oranges, Mandarin",
       "UOM": "CS",
@@ -634,6 +643,16 @@
       "Pack Size": "12/24 oz",
       "Feature Type": "",
       "Gross Weight": "24"
+    },
+    {
+      "Available Qty.": "72",
+      "Item No.": "P19-006P",
+      "Description": "Paper Towels",
+      "UOM": "CS",
+      "Pack Size": "30/1 roll",
+      "Feature Type": "",
+      "Gross Weight": "13",
+      "new_since": "2026-11-26T03:01:14.526631-05:00"
     },
     {
       "Available Qty.": "207",
@@ -879,6 +898,16 @@
       "Gross Weight": "10"
     },
     {
+      "Available Qty.": "3",
+      "Item No.": "D03-069P",
+      "Description": "Soda",
+      "UOM": "CS",
+      "Pack Size": "24/20 oz",
+      "Feature Type": "",
+      "Gross Weight": "32",
+      "new_since": "2026-11-26T03:01:14.526631-05:00"
+    },
+    {
       "Available Qty.": "851",
       "Item No.": "P06-007P",
       "Description": "Soup, Chicken Noodle, RS Reduced Sodium",
@@ -967,6 +996,16 @@
       "Pack Size": "2000/1 gram",
       "Feature Type": "",
       "Gross Weight": "6"
+    },
+    {
+      "Available Qty.": "90",
+      "Item No.": "P19-005P",
+      "Description": "Toilet Tissue",
+      "UOM": "CS",
+      "Pack Size": "24/4 roll",
+      "Feature Type": "",
+      "Gross Weight": "14",
+      "new_since": "2026-11-26T03:01:14.526631-05:00"
     },
     {
       "Available Qty.": "308",
