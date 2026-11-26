@@ -1,7 +1,7 @@
 {
-  "updated_at": "November 26, 2026 at 12:01 AM",
-  "updated_at_iso": "2026-11-26T00:01:02.631642-05:00",
-  "item_count": 112,
+  "updated_at": "November 26, 2026 at 01:02 AM",
+  "updated_at_iso": "2026-11-26T01:02:14.295088-05:00",
+  "item_count": 113,
   "items": [
     {
       "Available Qty.": "245",
@@ -237,6 +237,16 @@
       "Pack Size": "48/5 oz",
       "Feature Type": "",
       "Gross Weight": "18"
+    },
+    {
+      "Available Qty.": "18",
+      "Item No.": "D07-216P",
+      "Description": "Coffee Creamer 6/24 ct",
+      "UOM": "CS",
+      "Pack Size": "6/24 ct",
+      "Feature Type": "",
+      "Gross Weight": "6",
+      "new_since": "2026-11-26T01:02:14.294764-05:00"
     },
     {
       "Available Qty.": "1243",
@@ -734,7 +744,7 @@
       "Gross Weight": "7"
     },
     {
-      "Available Qty.": "677",
+      "Available Qty.": "676",
       "Item No.": "P15-116P",
       "Description": "Pouch Chunk Chicken",
       "UOM": "CS",
