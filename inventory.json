@@ -1,6 +1,6 @@
 {
-  "updated_at": "November 28, 2026 at 02:01 AM",
-  "updated_at_iso": "2026-11-28T02:01:04.979015-05:00",
+  "updated_at": "November 28, 2026 at 03:00 AM",
+  "updated_at_iso": "2026-11-28T03:00:51.892900-05:00",
   "item_count": 116,
   "items": [
     {
@@ -103,8 +103,8 @@
       "Gross Weight": "27"
     },
     {
-      "Available Qty.": "701",
-      "Item No.": "P15-119P",
+      "Available Qty.": "375",
+      "Item No.": "P15-063P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -112,8 +112,8 @@
       "Gross Weight": "12"
     },
     {
-      "Available Qty.": "375",
-      "Item No.": "P15-063P",
+      "Available Qty.": "701",
+      "Item No.": "P15-119P",
       "Description": "Bologna",
       "UOM": "CS",
       "Pack Size": "12/1 lb",
@@ -643,7 +643,7 @@
       "Gross Weight": "24"
     },
     {
-      "Available Qty.": "71",
+      "Available Qty.": "61",
       "Item No.": "P19-006P",
       "Description": "Paper Towels",
       "UOM": "CS",
